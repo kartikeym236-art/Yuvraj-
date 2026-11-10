@@ -294,34 +294,40 @@ def spoken_words(text: str) -> float:
     return n
 
 
-def build() -> str:
-    script = norm((HERE / "script.txt").read_text(encoding="utf-8"))
-    joined = norm(" ".join(t for t, _, _ in SCENES))
+def render(title, script_text, scenes, characters, style=None, avoid=None) -> str:
+    style = style or STYLE
+    avoid = avoid or AVOID
+    script = norm(script_text)
+    joined = norm(" ".join(t for t, _, _ in scenes))
     if joined != script:
         i = next((k for k, (a, b) in enumerate(zip(joined, script)) if a != b), min(len(joined), len(script)))
         raise SystemExit(f"Chunks don't match script near: ...{script[max(0, i-40):i+40]}...")
 
     total = 0.0
-    out = [f"# {TITLE}\n\n",
-           f"{len(SCENES)} scenes, each covering 0.5–2 s of narration (estimated at {WORDS_PER_SEC:g} words/sec).\n",
+    out = [f"# {title}\n\n",
+           f"{len(scenes)} scenes, each covering 0.5–2 s of narration (estimated at {WORDS_PER_SEC:g} words/sec).\n",
            "Each code block is a complete prompt. Copy it in one click and paste it into your image tool.\n\n",
            "Tip: generate Scene 1 first, then upload it as a reference in the same chat for the rest "
            "(\"keep this exact art style and characters\").\n"]
-    for i, (text, chars, scene) in enumerate(SCENES, 1):
+    for i, (text, chars, scene) in enumerate(scenes, 1):
         sec = spoken_words(text) / WORDS_PER_SEC
         if not MIN_SEC <= sec <= MAX_SEC:
             print(f"warning: scene {i} '{text}' is ~{sec:.1f}s")
         start = total
         total += sec
-        parts = [STYLE]
+        parts = [style]
         if chars:
-            parts.append("CHARACTERS:\n" + "\n".join(CHARACTERS[c] for c in chars))
+            parts.append("CHARACTERS:\n" + "\n".join(characters[c] for c in chars))
         parts.append("SCENE: " + scene)
-        parts.append(AVOID)
+        parts.append(avoid)
         out.append(f"\n## Scene {i}  ·  {start:.1f}s – {total:.1f}s  ({sec:.1f}s)\n\n> {text}\n\n```\n"
                    + "\n\n".join(parts) + "\n```\n")
     out.insert(1, f"Estimated total length: {total:.0f} s.\n\n")
     return "".join(out)
+
+
+def build() -> str:
+    return render(TITLE, (HERE / "script.txt").read_text(encoding="utf-8"), SCENES, CHARACTERS)
 
 
 if __name__ == "__main__":

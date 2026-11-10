@@ -292,12 +292,14 @@ def render(rows, clean_dir, voice, music, ass, speed, dur, out, name):
     inputs = ["-f", "concat", "-safe", "0", "-i", str(concat), "-i", str(voice)]
     fc = (f"[0:v]scale={IMG}:{IMG},setpts=PTS/{speed},fps=30,pad={W}:{H}:0:{IMG_Y}:black,"
           f"ass={ass},format=yuv420p[v];"
-          f"[1:a]atempo={speed},loudnorm=I=-15:TP=-1.5:LRA=11[vo];")
+          f"[1:a]atempo={speed},loudnorm=I=-15:TP=-1.5:LRA=11,aresample=48000[vo];")
     if music:
         inputs += ["-stream_loop", "-1", "-i", str(music)]   # loops if music is shorter than the video
         fc += (f"[2:a]atrim=0:{dur:.2f},asetpts=PTS-STARTPTS,loudnorm=I=-33:TP=-9,"
-               f"afade=t=in:d=1,afade=t=out:st={max(dur-2.5, 0):.2f}:d=2.5[bg];"
-               f"[vo][bg]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.89,aresample=48000[a]")
+               f"afade=t=in:d=1,afade=t=out:st={max(dur-2.5, 0):.2f}:d=2.5,"
+               # duration=longest: with "first", amix stops when the voice signals EOF and drops the
+               # ~3 s loudnorm still has buffered (the narration's last words). Music is trimmed to dur anyway.
+               f"aresample=48000[bg];[vo][bg]amix=inputs=2:duration=longest:normalize=0,alimiter=limit=0.89[a]")
     else:
         fc += "[vo]alimiter=limit=0.89,aresample=48000[a]"
     mp4 = out / f"{name}.mp4"

@@ -1,0 +1,69 @@
+# Short-video workflow (read this first)
+
+The user makes narrated explainer shorts from AI scene images. They commit the
+inputs to this repo; Claude builds the MP4 and **sends it to them directly**
+with SendUserFile (status `normal`, display `render`). Don't ask them to
+download anything from the repo.
+
+## Input: one folder per video
+
+```
+projects/<name>/
+  images/       scene images (Gemini, 1024x1024, any filenames, NOT in order)
+  voiceover.*   narration (mp3/wav/m4a)
+  music.*       background music (optional, any length)
+  title.txt     top caption, e.g.  BURIDAN ASS PARADOX *EXPLAINED*   (*word* = yellow)
+  script.txt    exact voiceover text (needed for word timing)
+```
+
+If the user commits files elsewhere (e.g. repo root, odd names like
+`buridans .mp3`), `git mv` them into this layout yourself. If `script.txt` is
+missing, ask for it. No speech-to-text model is downloadable here: Hugging Face,
+OpenAI and Vosk hosts are blocked; only PyPI and GitHub are reachable.
+
+## Steps
+
+1. `pip install -q pocketsphinx opencv-python-headless` (if not already installed).
+2. `python pipeline/make_video.py projects/<name> --align-only` checks that
+   the script matches the audio. Fix out-of-dictionary words by spelling them
+   phonetically in script.txt.
+3. **Match images to lines (Claude does this by looking).** Images are not in
+   order. Make labelled contact sheets (12 per sheet, square tiles), view
+   every image, split the script into short phrases (one per natural pause or
+   comma, roughly 1–2.5 s each), and assign the best-fitting image to each
+   phrase. Use every image exactly once. If there are more phrases than images,
+   merge adjacent phrases so one image covers both. Write
+   `projects/<name>/scenes.json`:
+   `[{"line": "Imagine a donkey", "image": "995238171_....jpg"}, ...]`.
+   The lines, concatenated in order, must cover every word of script.txt; the
+   script errors out if they don't.
+4. `python pipeline/make_video.py projects/<name>` writes
+   `projects/<name>/out/<name>.mp4`, plus `timeline.csv`, `words.srt` and
+   `clean/` (watermark-free images).
+5. Spot-check frames (ffmpeg `-ss T -frames:v 1`) to make sure captions sit
+   on the right images, then send the MP4 with SendUserFile, along with a short
+   table of line → image. Commit `pipeline` changes, `scenes.json` and the
+   MP4, and push to the session branch.
+
+## Approved style (defaults in pipeline/make_video.py)
+
+- 1080x1920 black frame, image 1080x1080 at y=420.
+- Speed 1.10x (video `setpts`, audio `atempo`, so pitch is kept).
+- Title: Inter Display Black 66px, white with soft shadow, highlighted word in
+  yellow #FFC816, centred just above the image, shown the whole video,
+  auto-shrinks to fit one line.
+- Captions: one word at a time, UPPERCASE, Inter Black about 49px, white with
+  black outline, centred on the image, small pop-in. A word stays up until the
+  next word and clears on pauses of 0.25 s or more.
+- Audio: voice loudnorm -15 LUFS, music -33 LUFS (about 18 dB under), music
+  from its start (looped if short), 1 s fade-in, 2.5 s fade-out, limiter;
+  final mix about -15 LUFS.
+- Watermark: the Gemini sparkle (white, ~35% opacity, centre 922,922) is
+  removed by inverting the blend with `pipeline/wm_alpha.npy`. No inpainting,
+  because inpainting breaks lines that cross the mark. It's applied only where
+  detected.
+
+## Reference project
+
+`buridan_alignment/` is the first video (Buridan's donkey): the original scene
+matching (`build_timeline.py`), the script and the approved renders.

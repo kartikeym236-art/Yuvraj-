@@ -46,27 +46,92 @@ def duration(path):
 
 
 # 1. forced alignment ---------------------------------------------------------
-def align(voice, script, out):
-    raw = out / "voice16k.raw"
-    subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", str(voice), "-ar", "16000", "-ac", "1",
-                    "-f", "s16le", str(raw)], check=True)
-    words = [norm(w) for w in script.split() if norm(w)]
+def _align_chunk(data, words, offset, pad=0.3):
+    data = bytes(int(pad * 16000) * 2) + data + bytes(int(pad * 16000) * 2)   # silence the decoder can rest in
+    offset -= pad
     d = Decoder(samprate=16000, loglevel="FATAL")
-    oov = sorted({w for w in words if d.lookup_word(w) is None})
-    if oov:
-        raise SystemExit(f"Words not in pronunciation dictionary: {oov}. "
-                         "Spell them phonetically in script.txt (e.g. 'Jensen' -> 'jen sen').")
-    data = raw.read_bytes()
     d.set_align_text(" ".join(words))
     d.start_utt(); d.process_raw(data, full_utt=True); d.end_utt()
     d.set_alignment()
     d.start_utt(); d.process_raw(data, full_utt=True); d.end_utt()
-    al = [(re.sub(r"\(\d+\)", "", w.name), w.start / 100, (w.start + w.duration) / 100)
+    al = [(re.sub(r"\(\d+\)", "", w.name), offset + w.start / 100, offset + (w.start + w.duration) / 100)
           for w in d.get_alignment() if w.name != "<sil>"]
     if [a[0] for a in al] != words:
-        raise SystemExit("Alignment failed: audio does not match script.txt.")
-    raw.unlink()
+        raise RuntimeError("word mismatch")
+    return al
+
+
+def _recognise(data):
+    d = Decoder(samprate=16000, loglevel="FATAL")
+    d.start_utt(); d.process_raw(data, full_utt=True); d.end_utt()
+    return [(re.sub(r"\(\d+\)", "", s.word), s.start_frame / 100, s.end_frame / 100)
+            for s in d.seg() if s.word[0] not in "<[" ]
+
+
+def align(voice, script, out):
+    """Word-level forced alignment of script.txt to the voiceover.
+
+    Tries the whole script at once; if pocketsphinx gives up (long or slightly
+    mismatched audio), aligns sentence by sentence, cutting the audio at the
+    pauses between sentences found by a rough recognition pass.
+    """
+    raw = out / "voice16k.raw"
+    subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", str(voice), "-ar", "16000", "-ac", "1",
+                    "-f", "s16le", str(raw)], check=True)
+    data = raw.read_bytes(); raw.unlink()
+    words = [norm(w) for w in script.split() if norm(w)]
+    lex = Decoder(samprate=16000, loglevel="FATAL")
+    oov = sorted({w for w in words if lex.lookup_word(w) is None})
+    if oov:
+        raise SystemExit(f"Words not in pronunciation dictionary: {oov}. "
+                         "Spell them phonetically in script.txt (e.g. 'Jensen' -> 'jen sen').")
+    try:
+        al = _align_chunk(data, words, 0.0)
+    except RuntimeError:
+        al = _align_by_sentence(data, script, words)
     (out / "word_alignment.json").write_text(json.dumps(al))
+    return al
+
+
+def _align_by_sentence(data, script, words):
+    import difflib
+    sents, cur = [], []
+    for tok in script.split():
+        if norm(tok):
+            cur.append(norm(tok))
+        if re.search(r"[.!?][\"')\]]*$", tok) and cur:
+            sents.append(cur); cur = []
+    if cur:
+        sents.append(cur)
+    rec = _recognise(data)
+    sm = difflib.SequenceMatcher(None, words, [r[0] for r in rec], autojunk=False)
+    t_of = {}
+    for b in sm.get_matching_blocks():
+        for k in range(b.size):
+            t_of[b.a + k] = rec[b.b + k]
+    total = len(data) / 32000
+    # boundary between sentences = middle of the gap between last matched word and next matched word
+    bounds, idx = [0.0], 0
+    for s in sents[:-1]:
+        idx += len(s)
+        prev = max((t_of[i][2] for i in range(idx) if i in t_of), default=bounds[-1])
+        nxt = min((t_of[i][1] for i in range(idx, len(words)) if i in t_of), default=total)
+        bounds.append(max((prev + nxt) / 2, bounds[-1]))
+    bounds.append(total)
+    al, bad = [], []
+    for k, s in enumerate(sents):
+        for pad in (0.0, 0.3, 0.6):
+            a, b = max(bounds[k] - pad, 0), min(bounds[k + 1] + pad, total)
+            chunk = data[int(a * 16000) * 2:int(b * 16000) * 2]
+            try:
+                al += _align_chunk(chunk, s, a); break
+            except RuntimeError:
+                continue
+        else:
+            bad.append(" ".join(s))
+    if bad:
+        raise SystemExit("These sentences don't match the audio; check script.txt against the voiceover:\n  "
+                         + "\n  ".join(bad))
     return al
 
 
@@ -122,6 +187,16 @@ def clean_images(img_dir, out):
         g = x.mean(2)
         return np.median(g[inner]) - np.median(g[outer])
 
+    gx_a = cv2.Sobel(alpha.astype(np.float32), cv2.CV_32F, 1, 0)
+    gy_a = cv2.Sobel(alpha.astype(np.float32), cv2.CV_32F, 0, 1)
+    band = np.hypot(gx_a, gy_a) > 0.02
+    ga = np.concatenate([gx_a[band], gy_a[band]])
+
+    def shape_corr(x):   # do the image's edges follow the sparkle outline? (~0 clean, >0.2 marked)
+        g = x.mean(2).astype(np.float32)
+        gi = np.concatenate([cv2.Sobel(g, cv2.CV_32F, 1, 0)[band], cv2.Sobel(g, cv2.CV_32F, 0, 1)[band]])
+        return float((ga * gi).sum() / np.sqrt((ga * ga).sum() * (gi * gi).sum() + 1e-9))
+
     dst = out / "clean"; dst.mkdir(exist_ok=True)
     report = {}
     for p in sorted(img_dir.iterdir()):
@@ -132,8 +207,8 @@ def clean_images(img_dir, out):
         f = img.astype(float)
         win = f[C-R:C+R, C-R:C+R]
         fixed = np.clip((win - 255 * a) / (1 - a), 0, 255)
-        # apply only if undoing the blend removes the brightness jump at the outline
-        has_mark = step(win) > 4 and abs(step(fixed)) < 0.5 * step(win)
+        # apply if the sparkle shows as a brightness jump at its outline, or its edges are in the image
+        has_mark = (step(win) > 4 and abs(step(fixed)) < 0.5 * step(win)) or shape_corr(win) > 0.2
         if has_mark:
             f[C-R:C+R, C-R:C+R] = fixed
         report[p.name] = bool(has_mark)
@@ -172,7 +247,7 @@ def srt_time(x):
 
 
 def build_ass(title, script, al, speed, dur, out):
-    display = [re.sub(r"[,.:;]", "", t) for t in script.split() if norm(t)]
+    display = [re.sub(r"[,.:;\"“”‘’]|^'|'$", "", t) for t in script.split() if norm(t)]
     cap_size = round(78 * 0.6 * IMG / 1024)
     ev, srt = [], []
     for i, ((_, s, e), w) in enumerate(zip(al, display)):

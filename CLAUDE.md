@@ -26,7 +26,12 @@ OpenAI and Vosk hosts are blocked; only PyPI and GitHub are reachable.
 1. `pip install -q pocketsphinx opencv-python-headless` (if not already installed).
 2. `python pipeline/make_video.py projects/<name> --align-only` checks that
    the script matches the audio. Fix out-of-dictionary words by spelling them
-   phonetically in script.txt.
+   phonetically in script.txt. If the whole-file alignment fails it automatically
+   retries sentence by sentence; if it still names sentences that don't match,
+   compare them with the audio (see `_recognise` for a rough transcript).
+   If a scene-making session left `prompts/<name>/scenes.py` on another branch
+   (`git log --all -- prompts/`), reuse its phrase split and scene
+   descriptions as the scene lines.
 3. **Match images to lines (Claude does this by looking).** Images are not in
    order. Make labelled contact sheets (12 per sheet, square tiles), view
    every image, split the script into short phrases (one per natural pause or
@@ -65,7 +70,9 @@ OpenAI and Vosk hosts are blocked; only PyPI and GitHub are reachable.
 - Watermark: the Gemini sparkle (white, ~35% opacity, centre 922,922) is
   removed by inverting the blend with `pipeline/wm_alpha.npy`. No inpainting,
   because inpainting breaks lines that cross the mark. It's applied only where
-  detected.
+  detected: a brightness step at the outline, or image edges that follow the
+  sparkle shape. This caught 101/101 marked images with 0 false positives.
+- Caption words drop , . : ; and quote marks; ! ? and apostrophes stay.
 
 ## Reference project
 

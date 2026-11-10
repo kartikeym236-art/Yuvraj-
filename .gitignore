@@ -1,0 +1,3 @@
+projects/*/out/clean/
+projects/*/out/*.raw
+__pycache__/

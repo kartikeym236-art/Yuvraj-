@@ -48,6 +48,10 @@ OpenAI and Vosk hosts are blocked; only PyPI and GitHub are reachable.
 ## Approved style (defaults in pipeline/make_video.py)
 
 - 1080x1920 black frame, image 1080x1080 at y=420.
+- Long pauses trimmed: every silence in the voiceover (between words, lead-in
+  and tail) is capped at 0.3 s before speed-up (`--max-gap`, 0 turns it off).
+  Word times are remapped, so captions and cuts stay in sync. A re-alignment
+  check agreed to within 30 ms.
 - Speed 1.10x (video `setpts`, audio `atempo`, so pitch is kept).
 - Title: Inter Display Black 66px, white with soft shadow, highlighted word in
   yellow #FFC816, centred just above the image, shown the whole video,

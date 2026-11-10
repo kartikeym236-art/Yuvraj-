@@ -12,7 +12,7 @@ Project folder layout (see CLAUDE.md):
     scenes.json    [{"line": "...", "image": "file.jpg"}, ...] in narration order;
                    written by Claude after matching each line to an image
 
-Steps: forced-align script to audio -> remove sparkle watermark -> scene
+Steps: forced-align script to audio -> cap long pauses -> remove sparkle watermark -> scene
 timeline -> 9:16 render with title, one-word captions and ducked music.
 Outputs go to <project>/out/.
 """
@@ -68,6 +68,42 @@ def align(voice, script, out):
     raw.unlink()
     (out / "word_alignment.json").write_text(json.dumps(al))
     return al
+
+
+# 1b. shorten long pauses ----------------------------------------------------
+def tighten(voice, al, out, max_gap):
+    """Cap every silence (incl. lead-in/tail) at max_gap seconds; return new audio + remapped words."""
+    total = duration(voice)
+    cuts = []                                   # (start, end) of removed audio
+    if al[0][1] > max_gap / 2:
+        cuts.append((0.0, al[0][1] - max_gap / 2))
+    for (_, _, e), (_, s, _) in zip(al, al[1:]):
+        if s - e > max_gap:
+            cuts.append((e + max_gap / 2, s - max_gap / 2))
+    if total - al[-1][2] > max_gap:
+        cuts.append((al[-1][2] + max_gap, total))
+    if not cuts:
+        return voice, al, 0.0
+    keep, t = [], 0.0
+    for a, b in cuts:
+        if a > t:
+            keep.append((t, a))
+        t = b
+    if t < total:
+        keep.append((t, total))
+
+    def remap(x):
+        return x - sum(min(b, x) - a for a, b in cuts if a < x)
+
+    fc = "".join(f"[0:a]atrim={a:.3f}:{b:.3f},asetpts=PTS-STARTPTS,afade=t=in:d=0.01,"
+                 f"afade=t=out:st={max(b - a - 0.01, 0):.3f}:d=0.01[s{i}];" for i, (a, b) in enumerate(keep))
+    fc += "".join(f"[s{i}]" for i in range(len(keep))) + f"concat=n={len(keep)}:v=0:a=1[a]"
+    tight = out / "voice_tight.wav"
+    subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", str(voice), "-filter_complex", fc,
+                    "-map", "[a]", str(tight)], check=True)
+    new = [(w, round(remap(s), 3), round(remap(e), 3)) for w, s, e in al]
+    (out / "word_alignment_tight.json").write_text(json.dumps(new))
+    return tight, new, sum(b - a for a, b in cuts)
 
 
 # 2. watermark removal --------------------------------------------------------
@@ -201,6 +237,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("project", type=Path)
     ap.add_argument("--speed", type=float, default=1.10)
+    ap.add_argument("--max-gap", type=float, default=0.3,
+                    help="longest pause kept in the voiceover, seconds (0 = keep pauses as recorded)")
     ap.add_argument("--align-only", action="store_true", help="stop after alignment (to write scenes.json)")
     a = ap.parse_args()
     proj = a.project.resolve()
@@ -215,6 +253,9 @@ def main():
     print(f"aligned {len(al)} words")
     if a.align_only:
         return
+    if a.max_gap > 0:
+        voice, al, cut = tighten(voice, al, out, a.max_gap)
+        print(f"trimmed {cut:.1f}s of pauses (max gap {a.max_gap}s)")
     clean_dir, wm = clean_images(proj / "images", out)
     print(f"watermark removed from {sum(wm.values())}/{len(wm)} images")
     scenes = json.loads((proj / "scenes.json").read_text())

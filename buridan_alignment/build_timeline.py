@@ -83,8 +83,8 @@ def main(align_path):
             fh.write(f"{r['scene']}\n{ts(r['start'])} --> {ts(r['end'])}\n{r['line']}\n\n")
     with open(out / "scenes.ffconcat", "w") as fh:
         fh.write("ffconcat version 1.0\n")
-        for r in rows: fh.write(f"file '../{r['image']}'\nduration {r['duration']}\n")
-        fh.write(f"file '../{rows[-1]['image']}'\n")
+        for r in rows: fh.write(f"file 'clean/{r['image']}'\nduration {r['duration']}\n")
+        fh.write(f"file 'clean/{rows[-1]['image']}'\n")
     md = ["# Buridan's Donkey: voiceover to image alignment\n",
           "Audio: `buridans .mp3` (70.27 s). Times come from forced alignment of the script to the audio.\n",
           "| # | Start | End | Dur | Voiceover line | Img # | Image file | What it shows |",

@@ -326,17 +326,13 @@ def render(title, script_text, scenes, characters, style=None, avoid=None, limit
         i = next((k for k, (a, b) in enumerate(zip(joined, script)) if a != b), min(len(joined), len(script)))
         raise SystemExit(f"Chunks don't match script near: ...{script[max(0, i-40):i+40]}...")
 
-    # the full sentence each chunk belongs to, so every image is tied to what is being said
-    sentences, cur = [], []
+    # what has been said so far in the current sentence (never what comes next)
+    so_far, cur = [], []
     for t, _, _ in scenes:
-        cur.append(len(sentences))
-        if re.search(r"[.?!…]['\"”]?$", t.strip()):
-            sentences.append(len(cur))
-    sent_text, start_i = [], 0
-    for end_i in sentences + ([len(scenes)] if not sentences or sentences[-1] != len(scenes) else []):
-        sent_text.append(norm(" ".join(t for t, _, _ in scenes[start_i:end_i])))
-        start_i = end_i
-    sentence_of = [sent_text[min(k, len(sent_text) - 1)] for k in cur]
+        cur.append(t)
+        so_far.append(norm(" ".join(cur)))
+        if re.search(r"[.?!\u2026]['\"\u201d]?$", t.strip()):
+            cur = []
 
     if limit:
         scenes = scenes[:limit]
@@ -356,11 +352,12 @@ def render(title, script_text, scenes, characters, style=None, avoid=None, limit
         if chars:
             parts.append("CHARACTERS:\n" + "\n".join(characters[c] for c in chars))
         parts.append("SCENE: " + scene)
-        whole = sentence_of[i - 1]
-        context = f' (from the sentence "{whole}")' if norm(whole) != norm(text) else ""
+        said = so_far[i - 1]
+        context = f' (the sentence so far: "{said}")' if said != norm(text) else ""
         parts.append(f'NARRATION FOR THIS IMAGE: "{text}"{context}. The picture must show literally and '
                      "clearly what these words say, so a viewer instantly connects the image to the line being "
-                     "spoken. Do not write these words or any text in the image.")
+                     "spoken. Show only what has been said up to this point; do not show or hint at anything "
+                     "that comes later in the story. Do not write these words or any text in the image.")
         parts.append(avoid)
         out.append(f"\n## Scene {i}  ·  {start:.1f}s – {total:.1f}s  ({sec:.1f}s)\n\n> {text}\n\n```\n"
                    + "\n\n".join(parts) + "\n```\n")

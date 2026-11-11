@@ -19,7 +19,7 @@ YOU (main character): Indian man in his early 20s, slim, big messy curly black h
 
 SCENE: YOU stand in front of a giant old family-tree painting in a museum, looking up at it curiously. Camera: medium shot from the side.
 
-NARRATION FOR THIS IMAGE: "You only exist" (from the sentence "You only exist because of incest."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "You only exist". The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -36,7 +36,7 @@ YOU (main character): Indian man in his early 20s, slim, big messy curly black h
 
 SCENE: YOU's mouth drops open in shock in front of the painting, a big sweat drop. Camera: medium close-up.
 
-NARRATION FOR THIS IMAGE: "because of incest." (from the sentence "You only exist because of incest."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "because of incest." (the sentence so far: "You only exist because of incest."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -53,7 +53,7 @@ YOU (main character): Indian man in his early 20s, slim, big messy curly black h
 
 SCENE: Close-up of YOU's horrified face, both hands on his cheeks. Camera: close-up, comedic.
 
-NARRATION FOR THIS IMAGE: "A lot" (from the sentence "A lot of incest."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "A lot". The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -67,7 +67,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: The family-tree painting's branches twist and loop into each other like a tangled ball of yarn. Camera: medium, comedic.
 
-NARRATION FOR THIS IMAGE: "of incest." (from the sentence "A lot of incest."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "of incest." (the sentence so far: "A lot of incest."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -81,7 +81,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: A long neat line of old portrait frames standing in order like dominoes, from ancient faces at the far end down to a modern baby photo at the front. Camera: low angle along the line.
 
-NARRATION FOR THIS IMAGE: "In order" (from the sentence "In order for you to have been born, you had to have had two parents, and each of those parents had to have had two parents, and so on."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "In order". The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -98,7 +98,7 @@ YOU (main character): Indian man in his early 20s, slim, big messy curly black h
 
 SCENE: YOU point at himself with both thumbs, eyebrows raised. Camera: medium close-up.
 
-NARRATION FOR THIS IMAGE: "for you" (from the sentence "In order for you to have been born, you had to have had two parents, and each of those parents had to have had two parents, and so on."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "for you" (the sentence so far: "In order for you"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -110,9 +110,12 @@ AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, wa
 ```
 STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still from an emotional animated short. Characters are drawn in a clean cartoon style: bold uniform black ink outlines (about 4px), large round head slightly wider than tall, flat peach-orange skin with a soft pink blush circle on the cheeks, tiny solid black oval dot eyes with no pupils or highlights, thick short curved eyebrows that carry all the emotion, small simple line mouth, almost no nose, small rounded hands with clear finger outlines, flat colours with only one soft shadow tone. Backgrounds are MORE detailed and semi-realistic than the characters: real locations painted with soft muted colours, light film grain / paper-noise texture over the whole image, gentle natural light, slightly desaturated palette (dusty blues, greys, beige, faded greens), mild depth of field so background figures are smaller and softer. Cinematic composition, quiet and dramatic storytelling mood.
 
-SCENE: A young pregnant Indian woman in a saree gently holding her belly, smiling, her husband beside her. Camera: medium shot, warm light.
+CHARACTERS:
+YOU (main character): Indian man in his early 20s, slim, big messy curly black hair, dot eyes, thick dark eyebrows, peach skin with pink blush. Wears a muted teal-green full-sleeve button shirt with sleeves rolled to the elbows, untucked, dark charcoal trousers, off-white sneakers.
 
-NARRATION FOR THIS IMAGE: "to have" (from the sentence "In order for you to have been born, you had to have had two parents, and each of those parents had to have had two parents, and so on."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+SCENE: YOU stand looking down at himself, both hands on his chest, as if thinking about his own existence. Camera: medium shot.
+
+NARRATION FOR THIS IMAGE: "to have" (the sentence so far: "In order for you to have"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -126,7 +129,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: A newborn baby wrapped in a white cloth in a hospital cradle, soft warm light. Camera: close-up, gentle.
 
-NARRATION FOR THIS IMAGE: "been born," (from the sentence "In order for you to have been born, you had to have had two parents, and each of those parents had to have had two parents, and so on."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "been born," (the sentence so far: "In order for you to have been born,"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -141,9 +144,9 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 CHARACTERS:
 YOU (main character): Indian man in his early 20s, slim, big messy curly black hair, dot eyes, thick dark eyebrows, peach skin with pink blush. Wears a muted teal-green full-sleeve button shirt with sleeves rolled to the elbows, untucked, dark charcoal trousers, off-white sneakers.
 
-SCENE: YOU stand under two empty golden portrait frames hanging above him, pointing up at them. Camera: medium shot, low angle.
+SCENE: YOU stand with hands on hips, looking thoughtfully upward. Camera: medium shot, low angle.
 
-NARRATION FOR THIS IMAGE: "you had" (from the sentence "In order for you to have been born, you had to have had two parents, and each of those parents had to have had two parents, and so on."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "you had" (the sentence so far: "In order for you to have been born, you had"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -158,9 +161,9 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 CHARACTERS:
 YOU (main character): Indian man in his early 20s, slim, big messy curly black hair, dot eyes, thick dark eyebrows, peach skin with pink blush. Wears a muted teal-green full-sleeve button shirt with sleeves rolled to the elbows, untucked, dark charcoal trousers, off-white sneakers.
 
-SCENE: The two empty frames above YOU begin to glow, waiting to be filled. Camera: medium, low angle.
+SCENE: Close-up of YOU tapping his chin, an empty thought bubble above his head. Camera: close-up.
 
-NARRATION FOR THIS IMAGE: "to have had" (from the sentence "In order for you to have been born, you had to have had two parents, and each of those parents had to have had two parents, and so on."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "to have had" (the sentence so far: "In order for you to have been born, you had to have had"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -174,7 +177,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: A young Indian couple from the 1990s in an old family photo style: a man with a moustache and a woman in a saree, smiling. Camera: medium shot, warm nostalgic tones.
 
-NARRATION FOR THIS IMAGE: "two parents," (from the sentence "In order for you to have been born, you had to have had two parents, and each of those parents had to have had two parents, and so on."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "two parents," (the sentence so far: "In order for you to have been born, you had to have had two parents,"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -188,7 +191,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: The 1990s couple standing apart, each one under their own spotlight. Camera: medium-wide.
 
-NARRATION FOR THIS IMAGE: "and each" (from the sentence "In order for you to have been born, you had to have had two parents, and each of those parents had to have had two parents, and so on."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "and each" (the sentence so far: "In order for you to have been born, you had to have had two parents, and each"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -200,9 +203,9 @@ AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, wa
 ```
 STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still from an emotional animated short. Characters are drawn in a clean cartoon style: bold uniform black ink outlines (about 4px), large round head slightly wider than tall, flat peach-orange skin with a soft pink blush circle on the cheeks, tiny solid black oval dot eyes with no pupils or highlights, thick short curved eyebrows that carry all the emotion, small simple line mouth, almost no nose, small rounded hands with clear finger outlines, flat colours with only one soft shadow tone. Backgrounds are MORE detailed and semi-realistic than the characters: real locations painted with soft muted colours, light film grain / paper-noise texture over the whole image, gentle natural light, slightly desaturated palette (dusty blues, greys, beige, faded greens), mild depth of field so background figures are smaller and softer. Cinematic composition, quiet and dramatic storytelling mood.
 
-SCENE: The same 1990s couple, each holding up a small framed photo of their own parents. Camera: medium shot.
+SCENE: Close-up of the 1990s couple's two faces side by side, smiling gently. Camera: close-up, warm nostalgic tones.
 
-NARRATION FOR THIS IMAGE: "of those parents" (from the sentence "In order for you to have been born, you had to have had two parents, and each of those parents had to have had two parents, and so on."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "of those parents" (the sentence so far: "In order for you to have been born, you had to have had two parents, and each of those parents"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -214,9 +217,9 @@ AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, wa
 ```
 STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still from an emotional animated short. Characters are drawn in a clean cartoon style: bold uniform black ink outlines (about 4px), large round head slightly wider than tall, flat peach-orange skin with a soft pink blush circle on the cheeks, tiny solid black oval dot eyes with no pupils or highlights, thick short curved eyebrows that carry all the emotion, small simple line mouth, almost no nose, small rounded hands with clear finger outlines, flat colours with only one soft shadow tone. Backgrounds are MORE detailed and semi-realistic than the characters: real locations painted with soft muted colours, light film grain / paper-noise texture over the whole image, gentle natural light, slightly desaturated palette (dusty blues, greys, beige, faded greens), mild depth of field so background figures are smaller and softer. Cinematic composition, quiet and dramatic storytelling mood.
 
-SCENE: Above each of the two parents hang two more empty portrait frames, four in total. Camera: medium-wide, low angle.
+SCENE: The 1990s couple both look upward thoughtfully. Camera: medium shot, low angle.
 
-NARRATION FOR THIS IMAGE: "had to" (from the sentence "In order for you to have been born, you had to have had two parents, and each of those parents had to have had two parents, and so on."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "had to" (the sentence so far: "In order for you to have been born, you had to have had two parents, and each of those parents had to"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -228,9 +231,9 @@ AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, wa
 ```
 STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still from an emotional animated short. Characters are drawn in a clean cartoon style: bold uniform black ink outlines (about 4px), large round head slightly wider than tall, flat peach-orange skin with a soft pink blush circle on the cheeks, tiny solid black oval dot eyes with no pupils or highlights, thick short curved eyebrows that carry all the emotion, small simple line mouth, almost no nose, small rounded hands with clear finger outlines, flat colours with only one soft shadow tone. Backgrounds are MORE detailed and semi-realistic than the characters: real locations painted with soft muted colours, light film grain / paper-noise texture over the whole image, gentle natural light, slightly desaturated palette (dusty blues, greys, beige, faded greens), mild depth of field so background figures are smaller and softer. Cinematic composition, quiet and dramatic storytelling mood.
 
-SCENE: The four empty frames above the parents light up one by one. Camera: medium-wide.
+SCENE: The 1990s couple standing under a dark sky above them, looking up. Camera: medium-wide, low angle.
 
-NARRATION FOR THIS IMAGE: "have had" (from the sentence "In order for you to have been born, you had to have had two parents, and each of those parents had to have had two parents, and so on."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "have had" (the sentence so far: "In order for you to have been born, you had to have had two parents, and each of those parents had to have had"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -244,7 +247,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: Four grandparents in old sepia portrait style standing in a row: two men with turbans and moustaches, two women in sarees. Camera: wide.
 
-NARRATION FOR THIS IMAGE: "two parents," (from the sentence "In order for you to have been born, you had to have had two parents, and each of those parents had to have had two parents, and so on."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "two parents," (the sentence so far: "In order for you to have been born, you had to have had two parents, and each of those parents had to have had two parents,"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -258,7 +261,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: a glowing family-tree diagram drawn as small round portrait circles connected by thin golden lines, on a dark navy background The tree keeps branching upward into the dark, eight, then sixteen circles. Camera: wide, low angle.
 
-NARRATION FOR THIS IMAGE: "and so on." (from the sentence "In order for you to have been born, you had to have had two parents, and each of those parents had to have had two parents, and so on."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "and so on." (the sentence so far: "In order for you to have been born, you had to have had two parents, and each of those parents had to have had two parents, and so on."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -275,7 +278,7 @@ YOU (main character): Indian man in his early 20s, slim, big messy curly black h
 
 SCENE: YOU at a chalkboard turning to the viewer to explain, chalk in hand, one finger raised. Camera: medium shot.
 
-NARRATION FOR THIS IMAGE: "That means" (from the sentence "That means after every generation your number of ancestors doubles."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "That means". The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -289,7 +292,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: A long staircase of old portrait frames rising into the clouds. Camera: low angle, surreal.
 
-NARRATION FOR THIS IMAGE: "after every generation" (from the sentence "That means after every generation your number of ancestors doubles."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "after every generation" (the sentence so far: "That means after every generation"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -306,7 +309,7 @@ YOU (main character): Indian man in his early 20s, slim, big messy curly black h
 
 SCENE: YOU holding a silver hand tally counter, clicking it, looking at the family tree. Camera: medium close-up.
 
-NARRATION FOR THIS IMAGE: "your number" (from the sentence "That means after every generation your number of ancestors doubles."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "your number" (the sentence so far: "That means after every generation your number"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -320,7 +323,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: Two portrait circles splitting into four, then eight, with glowing arrows showing the doubling. Camera: medium, clean infographic look.
 
-NARRATION FOR THIS IMAGE: "of ancestors doubles." (from the sentence "That means after every generation your number of ancestors doubles."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "of ancestors doubles." (the sentence so far: "That means after every generation your number of ancestors doubles."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -334,7 +337,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: a glowing family-tree diagram drawn as small round portrait circles connected by thin golden lines, on a dark navy background The tree now wide and dense, like a giant glowing fan. Camera: wide.
 
-NARRATION FOR THIS IMAGE: "After 10 generations," (from the sentence "After 10 generations, you have 1,000, and after 20, you have 1 million."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "After 10 generations,". The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -349,9 +352,9 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 CHARACTERS:
 YOU (main character): Indian man in his early 20s, slim, big messy curly black hair, dot eyes, thick dark eyebrows, peach skin with pink blush. Wears a muted teal-green full-sleeve button shirt with sleeves rolled to the elbows, untucked, dark charcoal trousers, off-white sneakers.
 
-SCENE: YOU stand on a stage as the curtain rises behind him, revealing rows of seated people. Camera: medium shot.
+SCENE: YOU walk onto a big stage in front of a closed red curtain, nervous. Camera: medium shot from the side.
 
-NARRATION FOR THIS IMAGE: "you have" (from the sentence "After 10 generations, you have 1,000, and after 20, you have 1 million."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "you have" (the sentence so far: "After 10 generations, you have"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -365,7 +368,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: The auditorium packed with a thousand people in 1700s clothes, all staring at the stage. Camera: wide from the stage.
 
-NARRATION FOR THIS IMAGE: "1,000," (from the sentence "After 10 generations, you have 1,000, and after 20, you have 1 million."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "1,000," (the sentence so far: "After 10 generations, you have 1,000,"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -379,7 +382,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: a glowing family-tree diagram drawn as small round portrait circles connected by thin golden lines, on a dark navy background The tree explodes outward, filling the whole frame with countless tiny lights. Camera: wide.
 
-NARRATION FOR THIS IMAGE: "and after 20," (from the sentence "After 10 generations, you have 1,000, and after 20, you have 1 million."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "and after 20," (the sentence so far: "After 10 generations, you have 1,000, and after 20,"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -396,7 +399,7 @@ YOU (main character): Indian man in his early 20s, slim, big messy curly black h
 
 SCENE: YOU climbing to the top of a grassy hill. Camera: medium, from behind.
 
-NARRATION FOR THIS IMAGE: "you have" (from the sentence "After 10 generations, you have 1,000, and after 20, you have 1 million."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "you have" (the sentence so far: "After 10 generations, you have 1,000, and after 20, you have"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -413,7 +416,7 @@ YOU (main character): Indian man in his early 20s, slim, big messy curly black h
 
 SCENE: From the hilltop, YOU look at an enormous crowd in medieval clothes stretching to the horizon. Camera: wide, epic.
 
-NARRATION FOR THIS IMAGE: "1 million." (from the sentence "After 10 generations, you have 1,000, and after 20, you have 1 million."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "1 million." (the sentence so far: "After 10 generations, you have 1,000, and after 20, you have 1 million."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -430,7 +433,7 @@ YOU (main character): Indian man in his early 20s, slim, big messy curly black h
 
 SCENE: YOU raise one finger with a sly idea face. Camera: close-up.
 
-NARRATION FOR THIS IMAGE: "But what if" (from the sentence "But what if we go back to the Roman Republic around the year zero?"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "But what if". The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -447,7 +450,7 @@ YOU (main character): Indian man in his early 20s, slim, big messy curly black h
 
 SCENE: YOU step into a glowing swirling time tunnel of old clocks and calendar pages. Camera: medium, from behind.
 
-NARRATION FOR THIS IMAGE: "we go back" (from the sentence "But what if we go back to the Roman Republic around the year zero?"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "we go back" (the sentence so far: "But what if we go back"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -461,7 +464,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: Ancient Rome: the Forum with white marble temples and columns, people in togas. Camera: wide, sunny.
 
-NARRATION FOR THIS IMAGE: "to the Roman" (from the sentence "But what if we go back to the Roman Republic around the year zero?"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "to the Roman" (the sentence so far: "But what if we go back to the Roman"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -475,7 +478,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: Roman senators in white togas debating in a stone hall. Camera: medium-wide.
 
-NARRATION FOR THIS IMAGE: "Republic around" (from the sentence "But what if we go back to the Roman Republic around the year zero?"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "Republic around" (the sentence so far: "But what if we go back to the Roman Republic around"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -489,7 +492,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: A Roman street market with merchants in tunics, amphoras and a passing chariot, warm golden light. Camera: medium-wide.
 
-NARRATION FOR THIS IMAGE: "the year zero?" (from the sentence "But what if we go back to the Roman Republic around the year zero?"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "the year zero?" (the sentence so far: "But what if we go back to the Roman Republic around the year zero?"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -506,7 +509,7 @@ YOU (main character): Indian man in his early 20s, slim, big messy curly black h
 
 SCENE: YOU in a simple Roman tunic scratching his head, holding a wax tablet. Camera: medium close-up, comedic.
 
-NARRATION FOR THIS IMAGE: "Well, with just" (from the sentence "Well, with just 67 generations of humans, if every ancestor were unique, you'd have over 100 quintillion direct ancestors."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "Well, with just". The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -520,7 +523,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: A long winding line of people from different eras walking in single file from ancient Rome to a modern city. Camera: wide, high angle.
 
-NARRATION FOR THIS IMAGE: "67 generations" (from the sentence "Well, with just 67 generations of humans, if every ancestor were unique, you'd have over 100 quintillion direct ancestors."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "67 generations" (the sentence so far: "Well, with just 67 generations"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -534,7 +537,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: Close-up of many hands of different ages and eras holding each other in a long chain. Camera: close-up.
 
-NARRATION FOR THIS IMAGE: "of humans," (from the sentence "Well, with just 67 generations of humans, if every ancestor were unique, you'd have over 100 quintillion direct ancestors."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "of humans," (the sentence so far: "Well, with just 67 generations of humans,"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -548,7 +551,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: An endless grid of distinct cartoon faces stretching out of frame. Camera: wide, top-down.
 
-NARRATION FOR THIS IMAGE: "if every ancestor" (from the sentence "Well, with just 67 generations of humans, if every ancestor were unique, you'd have over 100 quintillion direct ancestors."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "if every ancestor" (the sentence so far: "Well, with just 67 generations of humans, if every ancestor"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -562,7 +565,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: Close-up of a few of those faces, each clearly different: different noses, hair and skin tones. Camera: close-up.
 
-NARRATION FOR THIS IMAGE: "were unique," (from the sentence "Well, with just 67 generations of humans, if every ancestor were unique, you'd have over 100 quintillion direct ancestors."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "were unique," (the sentence so far: "Well, with just 67 generations of humans, if every ancestor were unique,"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -579,7 +582,7 @@ YOU (main character): Indian man in his early 20s, slim, big messy curly black h
 
 SCENE: YOU looking up at an impossibly huge glowing tree whose branches cover the sky. Camera: low angle.
 
-NARRATION FOR THIS IMAGE: "you'd have over" (from the sentence "Well, with just 67 generations of humans, if every ancestor were unique, you'd have over 100 quintillion direct ancestors."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "you'd have over" (the sentence so far: "Well, with just 67 generations of humans, if every ancestor were unique, you'd have over"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -593,7 +596,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: Planet Earth so overcrowded with tiny people that they spill off it into space like sand. Camera: wide from space, comedic.
 
-NARRATION FOR THIS IMAGE: "100 quintillion" (from the sentence "Well, with just 67 generations of humans, if every ancestor were unique, you'd have over 100 quintillion direct ancestors."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "100 quintillion" (the sentence so far: "Well, with just 67 generations of humans, if every ancestor were unique, you'd have over 100 quintillion"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -607,7 +610,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: a glowing family-tree diagram drawn as small round portrait circles connected by thin golden lines, on a dark navy background The tree so huge it fills the galaxy, stars between the branches. Camera: wide, cosmic.
 
-NARRATION FOR THIS IMAGE: "direct ancestors." (from the sentence "Well, with just 67 generations of humans, if every ancestor were unique, you'd have over 100 quintillion direct ancestors."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "direct ancestors." (the sentence so far: "Well, with just 67 generations of humans, if every ancestor were unique, you'd have over 100 quintillion direct ancestors."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -624,7 +627,7 @@ YOU (main character): Indian man in his early 20s, slim, big messy curly black h
 
 SCENE: YOU raise one finger to object, eyebrows lowered, 'but wait' expression. Camera: medium close-up.
 
-NARRATION FOR THIS IMAGE: "But since" (from the sentence "But since there have only been about 120 billion humans to exist, by the pigeonhole principle, this is clearly impossible."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "But since". The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -638,7 +641,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: A glass jar on a table holding a limited crowd of tiny human figures, only filled halfway. Camera: close-up.
 
-NARRATION FOR THIS IMAGE: "there have only" (from the sentence "But since there have only been about 120 billion humans to exist, by the pigeonhole principle, this is clearly impossible."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "there have only" (the sentence so far: "But since there have only"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -652,7 +655,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: A huge glass hourglass where tiny human figures fall like sand, representing everyone who ever lived. Camera: medium, centred.
 
-NARRATION FOR THIS IMAGE: "been about" (from the sentence "But since there have only been about 120 billion humans to exist, by the pigeonhole principle, this is clearly impossible."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "been about" (the sentence so far: "But since there have only been about"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -666,7 +669,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: Close-up of the hourglass's bottom bulb almost full of tiny people. Camera: close-up.
 
-NARRATION FOR THIS IMAGE: "120" (from the sentence "But since there have only been about 120 billion humans to exist, by the pigeonhole principle, this is clearly impossible."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "120" (the sentence so far: "But since there have only been about 120"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -680,7 +683,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: The full sweep of human history in one panorama: cave people, pyramids, castles, a modern skyline. Camera: wide panorama.
 
-NARRATION FOR THIS IMAGE: "billion humans" (from the sentence "But since there have only been about 120 billion humans to exist, by the pigeonhole principle, this is clearly impossible."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "billion humans" (the sentence so far: "But since there have only been about 120 billion humans"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -694,7 +697,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: A crowd of faint ghostly outlines of people from every era (cave people, Romans, medieval peasants, Victorians) standing behind a modern crowd. Camera: wide.
 
-NARRATION FOR THIS IMAGE: "to exist," (from the sentence "But since there have only been about 120 billion humans to exist, by the pigeonhole principle, this is clearly impossible."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "to exist," (the sentence so far: "But since there have only been about 120 billion humans to exist,"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -706,9 +709,12 @@ AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, wa
 ```
 STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still from an emotional animated short. Characters are drawn in a clean cartoon style: bold uniform black ink outlines (about 4px), large round head slightly wider than tall, flat peach-orange skin with a soft pink blush circle on the cheeks, tiny solid black oval dot eyes with no pupils or highlights, thick short curved eyebrows that carry all the emotion, small simple line mouth, almost no nose, small rounded hands with clear finger outlines, flat colours with only one soft shadow tone. Backgrounds are MORE detailed and semi-realistic than the characters: real locations painted with soft muted colours, light film grain / paper-noise texture over the whole image, gentle natural light, slightly desaturated palette (dusty blues, greys, beige, faded greens), mild depth of field so background figures are smaller and softer. Cinematic composition, quiet and dramatic storytelling mood.
 
-SCENE: A wooden wall of pigeonhole boxes in an old post office, ten empty holes, a flock of pigeons flying toward it. Camera: medium.
+CHARACTERS:
+YOU (main character): Indian man in his early 20s, slim, big messy curly black hair, dot eyes, thick dark eyebrows, peach skin with pink blush. Wears a muted teal-green full-sleeve button shirt with sleeves rolled to the elbows, untucked, dark charcoal trousers, off-white sneakers.
 
-NARRATION FOR THIS IMAGE: "by the" (from the sentence "But since there have only been about 120 billion humans to exist, by the pigeonhole principle, this is clearly impossible."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+SCENE: YOU at the chalkboard raising one finger like a teacher about to state a rule. Camera: medium shot.
+
+NARRATION FOR THIS IMAGE: "by the" (the sentence so far: "But since there have only been about 120 billion humans to exist, by the"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -722,7 +728,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: Far more pigeons than holes squeeze into the boxes, two or three per hole, feathers flying. Camera: medium, comedic.
 
-NARRATION FOR THIS IMAGE: "pigeonhole principle," (from the sentence "But since there have only been about 120 billion humans to exist, by the pigeonhole principle, this is clearly impossible."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "pigeonhole principle," (the sentence so far: "But since there have only been about 120 billion humans to exist, by the pigeonhole principle,"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -739,7 +745,7 @@ YOU (main character): Indian man in his early 20s, slim, big messy curly black h
 
 SCENE: YOU compare a tiny jar of humans with a giant overflowing family tree that bursts out of the frame. Camera: medium shot.
 
-NARRATION FOR THIS IMAGE: "this is" (from the sentence "But since there have only been about 120 billion humans to exist, by the pigeonhole principle, this is clearly impossible."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "this is" (the sentence so far: "But since there have only been about 120 billion humans to exist, by the pigeonhole principle, this is"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -756,7 +762,7 @@ YOU (main character): Indian man in his early 20s, slim, big messy curly black h
 
 SCENE: The board cracks down the middle; YOU jump back with raised eyebrows. Camera: medium shot, comedic.
 
-NARRATION FOR THIS IMAGE: "clearly impossible." (from the sentence "But since there have only been about 120 billion humans to exist, by the pigeonhole principle, this is clearly impossible."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "clearly impossible." (the sentence so far: "But since there have only been about 120 billion humans to exist, by the pigeonhole principle, this is clearly impossible."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -770,7 +776,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: A scientist in a white coat studies a tangled, collapsed family-tree diagram under a big magnifying glass. Camera: medium shot.
 
-NARRATION FOR THIS IMAGE: "This phenomenon" (from the sentence "This phenomenon is known as pedigree collapse."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "This phenomenon". The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -784,7 +790,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: The scientist pins a blank name card onto the tangled family-tree diagram. Camera: close-up.
 
-NARRATION FOR THIS IMAGE: "is known as" (from the sentence "This phenomenon is known as pedigree collapse."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "is known as" (the sentence so far: "This phenomenon is known as"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -798,7 +804,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: a glowing family-tree diagram drawn as small round portrait circles connected by thin golden lines, on a dark navy background The upper branches bend inward and fold together like a closing umbrella. Camera: wide, dramatic.
 
-NARRATION FOR THIS IMAGE: "pedigree collapse." (from the sentence "This phenomenon is known as pedigree collapse."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "pedigree collapse." (the sentence so far: "This phenomenon is known as pedigree collapse."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -813,9 +819,9 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 CHARACTERS:
 YOU (main character): Indian man in his early 20s, slim, big messy curly black hair, dot eyes, thick dark eyebrows, peach skin with pink blush. Wears a muted teal-green full-sleeve button shirt with sleeves rolled to the elbows, untucked, dark charcoal trousers, off-white sneakers.
 
-SCENE: YOU holding up a drawing of a perfectly neat family tree, then shaking his head. Camera: medium shot.
+SCENE: YOU step forward holding up one hand in a 'wait' gesture. Camera: medium shot.
 
-NARRATION FOR THIS IMAGE: "Instead of" (from the sentence "Instead of your family tree being a perfect binary tree, it actually collapses in on itself with the same people appearing over and over again."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "Instead of". The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -829,7 +835,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: The oak tree's branches hung with old portrait frames like fruit. Camera: medium-wide.
 
-NARRATION FOR THIS IMAGE: "your family tree" (from the sentence "Instead of your family tree being a perfect binary tree, it actually collapses in on itself with the same people appearing over and over again."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "your family tree" (the sentence so far: "Instead of your family tree"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -843,7 +849,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: A perfectly symmetrical glowing diagram, neat and orderly. Camera: centred, clean.
 
-NARRATION FOR THIS IMAGE: "being a perfect" (from the sentence "Instead of your family tree being a perfect binary tree, it actually collapses in on itself with the same people appearing over and over again."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "being a perfect" (the sentence so far: "Instead of your family tree being a perfect"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -857,7 +863,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: Close-up of the diagram's branches, each splitting into exactly two. Camera: close-up.
 
-NARRATION FOR THIS IMAGE: "binary tree," (from the sentence "Instead of your family tree being a perfect binary tree, it actually collapses in on itself with the same people appearing over and over again."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "binary tree," (the sentence so far: "Instead of your family tree being a perfect binary tree,"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -871,7 +877,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: The diagram's branches bend and cross back into each other. Camera: medium.
 
-NARRATION FOR THIS IMAGE: "it actually collapses" (from the sentence "Instead of your family tree being a perfect binary tree, it actually collapses in on itself with the same people appearing over and over again."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "it actually collapses" (the sentence so far: "Instead of your family tree being a perfect binary tree, it actually collapses"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -885,7 +891,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: The lines tangle into a tight knot in the middle. Camera: close-up.
 
-NARRATION FOR THIS IMAGE: "in on itself" (from the sentence "Instead of your family tree being a perfect binary tree, it actually collapses in on itself with the same people appearing over and over again."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "in on itself" (the sentence so far: "Instead of your family tree being a perfect binary tree, it actually collapses in on itself"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -899,7 +905,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: One old man's portrait circle glowing gold. Camera: close-up.
 
-NARRATION FOR THIS IMAGE: "with the same" (from the sentence "Instead of your family tree being a perfect binary tree, it actually collapses in on itself with the same people appearing over and over again."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "with the same" (the sentence so far: "Instead of your family tree being a perfect binary tree, it actually collapses in on itself with the same"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -913,7 +919,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: The same gold portrait circle appearing in several places on the family tree. Camera: medium.
 
-NARRATION FOR THIS IMAGE: "people appearing" (from the sentence "Instead of your family tree being a perfect binary tree, it actually collapses in on itself with the same people appearing over and over again."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "people appearing" (the sentence so far: "Instead of your family tree being a perfect binary tree, it actually collapses in on itself with the same people appearing"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -927,7 +933,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: A hall of mirrors with the same old couple's portrait reflected again and again. Camera: medium, surreal.
 
-NARRATION FOR THIS IMAGE: "over and" (from the sentence "Instead of your family tree being a perfect binary tree, it actually collapses in on itself with the same people appearing over and over again."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "over and" (the sentence so far: "Instead of your family tree being a perfect binary tree, it actually collapses in on itself with the same people appearing over and"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -941,7 +947,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: A row of identical old couple portraits shrinking into the distance like an endless corridor. Camera: wide, deep perspective.
 
-NARRATION FOR THIS IMAGE: "over again." (from the sentence "Instead of your family tree being a perfect binary tree, it actually collapses in on itself with the same people appearing over and over again."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "over again." (the sentence so far: "Instead of your family tree being a perfect binary tree, it actually collapses in on itself with the same people appearing over and over again."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -958,7 +964,7 @@ YOU (main character): Indian man in his early 20s, slim, big messy curly black h
 
 SCENE: YOU at the chalkboard freezing mid-line as he realises something. Camera: medium shot from behind.
 
-NARRATION FOR THIS IMAGE: "This means" (from the sentence "This means that mathematically distant or close relatives must have gone to town."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "This means". The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -975,7 +981,7 @@ YOU (main character): Indian man in his early 20s, slim, big messy curly black h
 
 SCENE: YOU writing branching arrows and circles on the chalkboard, the lines merging back together. Camera: medium shot from the side.
 
-NARRATION FOR THIS IMAGE: "that mathematically" (from the sentence "This means that mathematically distant or close relatives must have gone to town."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "that mathematically" (the sentence so far: "This means that mathematically"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -989,7 +995,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: A big village family gathering: cousins, uncles and aunts crowding together for a group photo. Camera: wide, warm.
 
-NARRATION FOR THIS IMAGE: "distant or" (from the sentence "This means that mathematically distant or close relatives must have gone to town."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "distant or" (the sentence so far: "This means that mathematically distant or"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -1003,7 +1009,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: Two cousins in old village clothes standing shyly near a well, smiling at each other. Camera: medium shot, wholesome.
 
-NARRATION FOR THIS IMAGE: "close relatives" (from the sentence "This means that mathematically distant or close relatives must have gone to town."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "close relatives" (the sentence so far: "This means that mathematically distant or close relatives"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -1015,9 +1021,9 @@ AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, wa
 ```
 STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still from an emotional animated short. Characters are drawn in a clean cartoon style: bold uniform black ink outlines (about 4px), large round head slightly wider than tall, flat peach-orange skin with a soft pink blush circle on the cheeks, tiny solid black oval dot eyes with no pupils or highlights, thick short curved eyebrows that carry all the emotion, small simple line mouth, almost no nose, small rounded hands with clear finger outlines, flat colours with only one soft shadow tone. Backgrounds are MORE detailed and semi-realistic than the characters: real locations painted with soft muted colours, light film grain / paper-noise texture over the whole image, gentle natural light, slightly desaturated palette (dusty blues, greys, beige, faded greens), mild depth of field so background figures are smaller and softer. Cinematic composition, quiet and dramatic storytelling mood.
 
-SCENE: A village wedding tent being decorated with marigold garlands. Camera: medium-wide.
+SCENE: The two cousins in old village clothes glance at each other and blush. Camera: medium close-up, wholesome.
 
-NARRATION FOR THIS IMAGE: "must have" (from the sentence "This means that mathematically distant or close relatives must have gone to town."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "must have" (the sentence so far: "This means that mathematically distant or close relatives must have"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -1031,7 +1037,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: An old-times village wedding: the couple on decorated seats while the whole extended family dances and plays drums. Camera: wide, festive, wholesome.
 
-NARRATION FOR THIS IMAGE: "gone to town." (from the sentence "This means that mathematically distant or close relatives must have gone to town."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "gone to town." (the sentence so far: "This means that mathematically distant or close relatives must have gone to town."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -1048,7 +1054,7 @@ YOU (main character): Indian man in his early 20s, slim, big messy curly black h
 
 SCENE: YOU shrugging with a small awkward smile. Camera: medium close-up.
 
-NARRATION FOR THIS IMAGE: "But that shouldn't" (from the sentence "But that shouldn't be too surprising."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "But that shouldn't". The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -1062,7 +1068,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: A small isolated medieval village in a valley surrounded by mountains, only a few houses. Camera: wide establishing.
 
-NARRATION FOR THIS IMAGE: "be too surprising." (from the sentence "But that shouldn't be too surprising."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "be too surprising." (the sentence so far: "But that shouldn't be too surprising."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -1076,7 +1082,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: A scroll unrolling with tiny scenes of kings, castles and villages through the ages. Camera: wide, storybook.
 
-NARRATION FOR THIS IMAGE: "Throughout history," (from the sentence "Throughout history, incest was very common, especially in royal families."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "Throughout history,". The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -1088,9 +1094,9 @@ AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, wa
 ```
 STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still from an emotional animated short. Characters are drawn in a clean cartoon style: bold uniform black ink outlines (about 4px), large round head slightly wider than tall, flat peach-orange skin with a soft pink blush circle on the cheeks, tiny solid black oval dot eyes with no pupils or highlights, thick short curved eyebrows that carry all the emotion, small simple line mouth, almost no nose, small rounded hands with clear finger outlines, flat colours with only one soft shadow tone. Backgrounds are MORE detailed and semi-realistic than the characters: real locations painted with soft muted colours, light film grain / paper-noise texture over the whole image, gentle natural light, slightly desaturated palette (dusty blues, greys, beige, faded greens), mild depth of field so background figures are smaller and softer. Cinematic composition, quiet and dramatic storytelling mood.
 
-SCENE: An old royal wedding portrait in a gilded frame: a young king and queen who look extremely alike, same nose and chin. Camera: medium, slightly comedic.
+SCENE: An old painted portrait of an ordinary village couple from centuries ago who look extremely alike, same nose and chin. Camera: medium, slightly comedic.
 
-NARRATION FOR THIS IMAGE: "incest was" (from the sentence "Throughout history, incest was very common, especially in royal families."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "incest was" (the sentence so far: "Throughout history, incest was"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -1102,9 +1108,9 @@ AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, wa
 ```
 STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still from an emotional animated short. Characters are drawn in a clean cartoon style: bold uniform black ink outlines (about 4px), large round head slightly wider than tall, flat peach-orange skin with a soft pink blush circle on the cheeks, tiny solid black oval dot eyes with no pupils or highlights, thick short curved eyebrows that carry all the emotion, small simple line mouth, almost no nose, small rounded hands with clear finger outlines, flat colours with only one soft shadow tone. Backgrounds are MORE detailed and semi-realistic than the characters: real locations painted with soft muted colours, light film grain / paper-noise texture over the whole image, gentle natural light, slightly desaturated palette (dusty blues, greys, beige, faded greens), mild depth of field so background figures are smaller and softer. Cinematic composition, quiet and dramatic storytelling mood.
 
-SCENE: Several gilded portraits of royal couples on a wall, every pair looking like twins. Camera: wide.
+SCENE: A wall of many old portraits of ordinary couples from different centuries, every pair looking like twins. Camera: wide.
 
-NARRATION FOR THIS IMAGE: "very common," (from the sentence "Throughout history, incest was very common, especially in royal families."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "very common," (the sentence so far: "Throughout history, incest was very common,"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -1116,9 +1122,9 @@ AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, wa
 ```
 STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still from an emotional animated short. Characters are drawn in a clean cartoon style: bold uniform black ink outlines (about 4px), large round head slightly wider than tall, flat peach-orange skin with a soft pink blush circle on the cheeks, tiny solid black oval dot eyes with no pupils or highlights, thick short curved eyebrows that carry all the emotion, small simple line mouth, almost no nose, small rounded hands with clear finger outlines, flat colours with only one soft shadow tone. Backgrounds are MORE detailed and semi-realistic than the characters: real locations painted with soft muted colours, light film grain / paper-noise texture over the whole image, gentle natural light, slightly desaturated palette (dusty blues, greys, beige, faded greens), mild depth of field so background figures are smaller and softer. Cinematic composition, quiet and dramatic storytelling mood.
 
-SCENE: A king and queen in crowns on golden thrones in a palace hall. Camera: wide.
+SCENE: A bright spotlight sweeping across the wall of old couple portraits, searching. Camera: wide.
 
-NARRATION FOR THIS IMAGE: "especially in" (from the sentence "Throughout history, incest was very common, especially in royal families."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "especially in" (the sentence so far: "Throughout history, incest was very common, especially in"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -1132,7 +1138,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: A grand palace hall with a long line of royal portraits, all with the same face. Camera: wide.
 
-NARRATION FOR THIS IMAGE: "royal families." (from the sentence "Throughout history, incest was very common, especially in royal families."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "royal families." (the sentence so far: "Throughout history, incest was very common, especially in royal families."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -1144,9 +1150,12 @@ AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, wa
 ```
 STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still from an emotional animated short. Characters are drawn in a clean cartoon style: bold uniform black ink outlines (about 4px), large round head slightly wider than tall, flat peach-orange skin with a soft pink blush circle on the cheeks, tiny solid black oval dot eyes with no pupils or highlights, thick short curved eyebrows that carry all the emotion, small simple line mouth, almost no nose, small rounded hands with clear finger outlines, flat colours with only one soft shadow tone. Backgrounds are MORE detailed and semi-realistic than the characters: real locations painted with soft muted colours, light film grain / paper-noise texture over the whole image, gentle natural light, slightly desaturated palette (dusty blues, greys, beige, faded greens), mild depth of field so background figures are smaller and softer. Cinematic composition, quiet and dramatic storytelling mood.
 
-SCENE: An old royal crest on a stone wall: a double-headed black eagle on gold. Camera: close-up.
+CHARACTERS:
+YOU (main character): Indian man in his early 20s, slim, big messy curly black hair, dot eyes, thick dark eyebrows, peach skin with pink blush. Wears a muted teal-green full-sleeve button shirt with sleeves rolled to the elbows, untucked, dark charcoal trousers, off-white sneakers.
 
-NARRATION FOR THIS IMAGE: "For example," (from the sentence "For example, the Habsburg family tree looks less like a tree and more like a line."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+SCENE: YOU hold up one finger with a teacher-like expression, about to give an example. Camera: medium close-up.
+
+NARRATION FOR THIS IMAGE: "For example,". The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -1160,7 +1169,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: A 1600s Spanish royal portrait of a pale young king with a very long jutting lower jaw, big lower lip, long hair, black clothes and a white lace collar. Camera: medium, painted-portrait feel in cartoon style.
 
-NARRATION FOR THIS IMAGE: "the Habsburg" (from the sentence "For example, the Habsburg family tree looks less like a tree and more like a line."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "the Habsburg" (the sentence so far: "For example, the Habsburg"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -1174,7 +1183,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: A family-tree diagram of that royal family with every portrait showing the same long jaw. Camera: medium.
 
-NARRATION FOR THIS IMAGE: "family tree" (from the sentence "For example, the Habsburg family tree looks less like a tree and more like a line."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "family tree" (the sentence so far: "For example, the Habsburg family tree"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -1188,7 +1197,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: The diagram's branches loop back into each other into a tangled knot. Camera: medium.
 
-NARRATION FOR THIS IMAGE: "looks less" (from the sentence "For example, the Habsburg family tree looks less like a tree and more like a line."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "looks less" (the sentence so far: "For example, the Habsburg family tree looks less"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -1202,7 +1211,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: A normal, wide, spreading family tree diagram for comparison, branches fanning out evenly. Camera: medium.
 
-NARRATION FOR THIS IMAGE: "like a tree" (from the sentence "For example, the Habsburg family tree looks less like a tree and more like a line."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "like a tree" (the sentence so far: "For example, the Habsburg family tree looks less like a tree"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -1216,7 +1225,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: The royal family tree diagram's branches squeezing together into a narrow column. Camera: medium.
 
-NARRATION FOR THIS IMAGE: "and more" (from the sentence "For example, the Habsburg family tree looks less like a tree and more like a line."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "and more" (the sentence so far: "For example, the Habsburg family tree looks less like a tree and more"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -1230,7 +1239,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: The family tree squeezed into one straight vertical line of royal faces, all with the same long jaw. Camera: centred, comedic.
 
-NARRATION FOR THIS IMAGE: "like a line." (from the sentence "For example, the Habsburg family tree looks less like a tree and more like a line."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "like a line." (the sentence so far: "For example, the Habsburg family tree looks less like a tree and more like a line."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -1244,7 +1253,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: A sepia-toned early 1900s street with old cars and gas lamps. Camera: wide, nostalgic.
 
-NARRATION FOR THIS IMAGE: "But even recently," (from the sentence "But even recently, Albert Einstein, Edgar Allan Poe, and Charles Darwin all married their first cousins."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "But even recently,". The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -1261,7 +1270,7 @@ THE PHYSICIST (1910s): man in his 40s with wild bushy greying dark hair, a thick
 
 SCENE: THE PHYSICIST at a chalkboard full of equation-like squiggles (no readable text), smiling. Camera: medium shot.
 
-NARRATION FOR THIS IMAGE: "Albert Einstein," (from the sentence "But even recently, Albert Einstein, Edgar Allan Poe, and Charles Darwin all married their first cousins."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "Albert Einstein," (the sentence so far: "But even recently, Albert Einstein,"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -1278,7 +1287,7 @@ THE POET (1830s): pale thin man in his 20s with wavy dark hair, a thin moustache
 
 SCENE: THE POET writing with a quill by candlelight, a black raven on a bookshelf. Camera: medium shot, gloomy.
 
-NARRATION FOR THIS IMAGE: "Edgar Allan Poe," (from the sentence "But even recently, Albert Einstein, Edgar Allan Poe, and Charles Darwin all married their first cousins."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "Edgar Allan Poe," (the sentence so far: "But even recently, Albert Einstein, Edgar Allan Poe,"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -1295,7 +1304,7 @@ THE NATURALIST (1830s): man around 30 with receding light-brown hair and long si
 
 SCENE: THE NATURALIST examining a finch through a magnifying glass on a ship's deck. Camera: medium shot.
 
-NARRATION FOR THIS IMAGE: "and Charles Darwin" (from the sentence "But even recently, Albert Einstein, Edgar Allan Poe, and Charles Darwin all married their first cousins."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "and Charles Darwin" (the sentence so far: "But even recently, Albert Einstein, Edgar Allan Poe, and Charles Darwin"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -1314,7 +1323,7 @@ THE NATURALIST (1830s): man around 30 with receding light-brown hair and long si
 
 SCENE: Three vintage oval-framed portraits side by side: THE PHYSICIST, THE POET and THE NATURALIST, each in wedding clothes. Camera: wide, vintage sepia tones.
 
-NARRATION FOR THIS IMAGE: "all married" (from the sentence "But even recently, Albert Einstein, Edgar Allan Poe, and Charles Darwin all married their first cousins."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "all married" (the sentence so far: "But even recently, Albert Einstein, Edgar Allan Poe, and Charles Darwin all married"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
@@ -1328,7 +1337,7 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 
 SCENE: Three vintage oval-framed wedding portraits of their adult wives in period clothes, each linked by a gold line to a small matching family-tree branch. Camera: wide, vintage sepia tones.
 
-NARRATION FOR THIS IMAGE: "their first cousins." (from the sentence "But even recently, Albert Einstein, Edgar Allan Poe, and Charles Darwin all married their first cousins."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "their first cousins." (the sentence so far: "But even recently, Albert Einstein, Edgar Allan Poe, and Charles Darwin all married their first cousins."). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```

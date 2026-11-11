@@ -14,8 +14,10 @@ Every prompt repeats the full style, character and avoid blocks so it can be
 copied in one click. Describe real people and film characters by look, not name.
 **Each image must literally show what its line says** (the noun or action in the
 words, or the next step of that sentence's idea), not a loose metaphor or a
-generic filler shot. The builder adds the line and its full sentence to every
-prompt ("NARRATION FOR THIS IMAGE") so the image tool knows what to depict.
+generic filler shot. **Never show anything from a later line**: a short line
+like "and each" continues the picture of what has been said so far, it doesn't
+preview what comes next. The builder adds the line and the sentence *so far*
+(never the rest) to every prompt ("NARRATION FOR THIS IMAGE").
 
 ## Input: one folder per video
 

@@ -25,6 +25,7 @@ from pocketsphinx import Decoder
 
 HERE = Path(__file__).parent
 W, H, IMG_Y, IMG = 1080, 1920, 420, 1080
+CAP_Y = IMG_Y + round(IMG * 0.82)   # captions in the lower part of the image, like the reference reels
 YELLOW = "&H0016C8FF"            # ASS BGR for #FFC816
 AUDIO_EXT = (".mp3", ".wav", ".m4a", ".aac", ".ogg", ".flac")
 
@@ -297,7 +298,7 @@ def srt_time(x):
 
 def build_ass(title, script, al, speed, dur, out):
     clean = lambda t: re.sub(r"[,.:;\"“”‘’—–]|^'|'$", "", t) or t
-    cap_size = round(78 * 0.6 * IMG / 1024)
+    cap_size = 120                      # Montserrat ExtraBold, matched to reference reels
     ev, srt, i = [], [], 0
     for disp, ws in tokens(script):
         s, e = al[i][1] / speed, al[i + len(ws) - 1][2] / speed
@@ -307,8 +308,8 @@ def build_ass(title, script, al, speed, dur, out):
         # numbers keep inner commas (1,400); other words lose , . : ; quotes and dashes
         w = re.sub(r"[,.:;\"“”—–]+$|^[\"“]", "", disp) if re.search(r"\d", disp) else clean(disp)
         ev.append(f"Dialogue: 1,{ass_time(s)},{ass_time(end)},Cap,,0,0,0,,"
-                  f"{{\\pos({W//2},{IMG_Y + IMG//2})\\fscx85\\fscy85\\t(0,80,\\fscx100\\fscy100)}}{w.upper()}")
-        srt.append(f"{len(srt)+1}\n{srt_time(s)} --> {srt_time(end)}\n{w.upper()}\n")
+                  f"{{\\pos({W//2},{CAP_Y})\\fscx85\\fscy85\\t(0,80,\\fscx100\\fscy100)}}{w.lower()}")
+        srt.append(f"{len(srt)+1}\n{srt_time(s)} --> {srt_time(end)}\n{w.lower()}\n")
     if title:
         t = re.sub(r"\*(.+?)\*", lambda m: f"{{\\c{YELLOW}}}{m.group(1)}{{\\c&H00FFFFFF}}", title.strip())
         plain = len(re.sub(r"\*", "", title.strip()))
@@ -325,7 +326,7 @@ WrapStyle: 2
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Cap,Inter Black,{cap_size},&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,1,0,1,4,2,5,0,0,0,1
+Style: Cap,Montserrat ExtraBold,{cap_size},&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,5,4,5,0,0,0,1
 Style: Title,Inter Display Black,66,&H00FFFFFF,&H00FFFFFF,&H00000000,&H99000000,-1,0,0,0,100,100,-1,0,1,0,4,2,0,0,0,1
 
 [Events]
@@ -343,7 +344,7 @@ def render(rows, clean_dir, voice, music, ass, speed, dur, out, name, music_from
     concat.write_text("\n".join(lines) + "\n")
     inputs = ["-f", "concat", "-safe", "0", "-i", str(concat), "-i", str(voice)]
     fc = (f"[0:v]scale={IMG}:{IMG},setpts=PTS/{speed},fps=30,pad={W}:{H}:0:{IMG_Y}:black,"
-          f"ass={ass},format=yuv420p[v];"
+          f"ass={ass}:fontsdir={HERE / 'fonts'},format=yuv420p[v];"
           f"[1:a]atempo={speed},loudnorm=I=-15:TP=-1.5:LRA=11,aresample=48000[vo];")
     if music:
         inputs += ["-stream_loop", "-1", "-i", str(music)]   # loops if music is shorter than the video

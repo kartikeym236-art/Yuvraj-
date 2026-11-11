@@ -82,9 +82,11 @@ OpenAI and Vosk hosts are blocked; only PyPI and GitHub are reachable.
 - Title: Inter Display Black 66px, white with soft shadow, highlighted word in
   yellow #FFC816, centred just above the image, shown the whole video,
   auto-shrinks to fit one line.
-- Captions: one word at a time, UPPERCASE, Inter Black about 49px, white with
-  black outline, centred on the image, small pop-in. A word stays up until the
-  next word and clears on pauses of 0.25 s or more.
+- Captions: one word at a time, lowercase, Montserrat ExtraBold (bundled in
+  `pipeline/fonts/`, size 120 = about 70 px letters), white with a thick black
+  outline and soft shadow, centred at y=1306 (82% down the image, about 68% of
+  the screen) to match the user's reference reels, small pop-in. A word stays
+  up until the next word and clears on pauses of 0.25 s or more.
 - Audio: voice loudnorm -15 LUFS, music -33 LUFS (about 18 dB under), music
   from its start (looped if short), 1 s fade-in, 2.5 s fade-out, limiter;
   final mix about -15 LUFS.

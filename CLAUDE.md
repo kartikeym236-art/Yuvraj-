@@ -42,6 +42,9 @@ OpenAI and Vosk hosts are blocked; only PyPI and GitHub are reachable.
    phonetically in script.txt. If the whole-file alignment fails it automatically
    retries sentence by sentence; if it still names sentences that don't match,
    compare them with the audio (see `_recognise` for a rough transcript).
+   If it reports "Speech found where script.txt has no words", the narrator
+   says something the script lacks (often the title read aloud at the start):
+   add it to script.txt and give it a scene.
    If a scene-making session left `prompts/<name>/scenes.py` on another branch
    (`git log --all -- prompts/`), reuse its phrase split and scene
    descriptions as the scene lines.

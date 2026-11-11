@@ -119,8 +119,28 @@ def align(voice, script, out):
         al = _align_chunk(data, words, 0.0)
     except RuntimeError:
         al = _align_by_sentence(data, script, words)
+    _check_unscripted_speech(data, al)
     (out / "word_alignment.json").write_text(json.dumps(al))
     return al
+
+
+def _check_unscripted_speech(data, al, min_gap=0.6):
+    """Stop if a 'pause' between aligned words is as loud as speech.
+
+    The aligner never fails on extra spoken words (e.g. a title read aloud that
+    is missing from script.txt); it squeezes them into a neighbouring gap, which
+    throws scene cuts and captions off. Speech-level energy in a long gap
+    catches that.
+    """
+    x = np.frombuffer(data, np.int16).astype(np.float32)
+    rms = lambda a, b: float(np.sqrt(np.mean(x[int(a * 16000):int(b * 16000)] ** 2) + 1e-9))
+    speech = np.median([rms(s, e) for _, s, e in al if e - s > 0.15])
+    edges = [(0.0, al[0][1])] + [(e, s) for (_, _, e), (_, s, _) in zip(al, al[1:])] \
+        + [(al[-1][2], len(x) / 16000)]
+    bad = [(a, b) for a, b in edges if b - a > min_gap and rms(a + 0.1, b - 0.1) > 0.4 * speech]
+    if bad:
+        raise SystemExit("Speech found where script.txt has no words (missing text in the script?) at: "
+                         + ", ".join(f"{a:.1f}-{b:.1f}s" for a, b in bad))
 
 
 def _align_by_sentence(data, script, words):

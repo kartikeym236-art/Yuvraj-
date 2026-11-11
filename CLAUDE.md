@@ -12,6 +12,10 @@ When the user sends a new script, write one-click image prompts with
 0.5–1 s of narration** (2–3 spoken words; the builder warns outside that range).
 Every prompt repeats the full style, character and avoid blocks so it can be
 copied in one click. Describe real people and film characters by look, not name.
+**Each image must literally show what its line says** (the noun or action in the
+words, or the next step of that sentence's idea), not a loose metaphor or a
+generic filler shot. The builder adds the line and its full sentence to every
+prompt ("NARRATION FOR THIS IMAGE") so the image tool knows what to depict.
 
 ## Input: one folder per video
 

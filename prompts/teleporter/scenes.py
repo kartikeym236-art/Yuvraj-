@@ -138,8 +138,11 @@ SCENES = [
     ("without a second thought.", ["YOU"], f"{EARTH_LAB} THE TRAVELLER jumps into the booth with both arms up, joyful, eyes closed, as the blue rings flare to life. Camera: medium shot, playful ending."),
 ]
 
+# Only the first 50 scenes (up to "I've arrived.") go into the output file.
+LIMIT = 50
+
 if __name__ == "__main__":
     dest = HERE / "teleporter-prompts.md"
-    dest.write_text(render(TITLE, (HERE / "script.txt").read_text(encoding="utf-8"), SCENES, CHARACTERS),
+    dest.write_text(render(TITLE, (HERE / "script.txt").read_text(encoding="utf-8"), SCENES, CHARACTERS, limit=LIMIT),
                     encoding="utf-8")
-    print(f"Wrote {len(SCENES)} prompts to {dest}")
+    print(f"Wrote {LIMIT} prompts to {dest}")

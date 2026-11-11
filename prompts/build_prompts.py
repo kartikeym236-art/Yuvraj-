@@ -294,7 +294,7 @@ def spoken_words(text: str) -> float:
     return n
 
 
-def render(title, script_text, scenes, characters, style=None, avoid=None) -> str:
+def render(title, script_text, scenes, characters, style=None, avoid=None, limit=None) -> str:
     style = style or STYLE
     avoid = avoid or AVOID
     script = norm(script_text)
@@ -303,6 +303,8 @@ def render(title, script_text, scenes, characters, style=None, avoid=None) -> st
         i = next((k for k, (a, b) in enumerate(zip(joined, script)) if a != b), min(len(joined), len(script)))
         raise SystemExit(f"Chunks don't match script near: ...{script[max(0, i-40):i+40]}...")
 
+    if limit:
+        scenes = scenes[:limit]
     total = 0.0
     out = [f"# {title}\n\n",
            f"{len(scenes)} scenes, each covering 0.5–2 s of narration (estimated at {WORDS_PER_SEC:g} words/sec).\n",

@@ -5,6 +5,14 @@ inputs to this repo; Claude builds the MP4 and **sends it to them directly**
 with SendUserFile (status `normal`, display `render`). Don't ask them to
 download anything from the repo.
 
+## Scene prompts (before images exist)
+
+When the user sends a new script, write one-click image prompts with
+`prompts/<name>/scenes.py` (see `prompts/build_prompts.py`). **Each scene covers
+0.5–1 s of narration** (2–3 spoken words; the builder warns outside that range).
+Every prompt repeats the full style, character and avoid blocks so it can be
+copied in one click. Describe real people and film characters by look, not name.
+
 ## Input: one folder per video
 
 ```

@@ -15,7 +15,7 @@ from pathlib import Path
 HERE = Path(__file__).parent
 TITLE = "Nvidia x Megaspeed Story: Scene Prompts"
 WORDS_PER_SEC = 3.0          # typical reel narration pace
-MIN_SEC, MAX_SEC = 0.5, 2.0
+MIN_SEC, MAX_SEC = 0.5, 1.0     # one image per 0.5-1 s of narration
 
 STYLE = (
     "STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still from an "
@@ -287,10 +287,33 @@ def norm(s: str) -> str:
     return re.sub(r"\s+", " ", s).strip()
 
 
+def _number_words(n: int) -> int:
+    """How many words it takes to say n in English ("120" -> one hundred twenty -> 3)."""
+    if n < 20:
+        return 1
+    if n < 100:
+        return 1 if n % 10 == 0 else 2
+    if n < 1000:
+        return 2 + (_number_words(n % 100) if n % 100 else 0)
+    for size in (10**12, 10**9, 10**6, 10**3):
+        if n >= size:
+            return _number_words(n // size) + 1 + (_number_words(n % size) if n % size else 0)
+    return 1
+
+
 def spoken_words(text: str) -> float:
     n = 0.0
     for tok in text.split():
-        n += 3 if re.search(r"\d", tok) else 1   # "1993" ~ "nineteen ninety-three"
+        num = re.sub(r"[^\d.]", "", tok).strip(".")
+        if not num:
+            n += 1
+        elif "," not in tok and re.fullmatch(r"(1[1-9]|20)\d\d", num):   # years: 1993 -> nineteen ninety-three
+            n += 3
+        elif "." in num:                                 # 4.8 -> four point eight
+            a, b = num.split(".", 1)
+            n += _number_words(int(a or 0)) + 1 + len(b)
+        else:
+            n += _number_words(int(num))
     return n
 
 

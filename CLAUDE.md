@@ -53,8 +53,8 @@ OpenAI and Vosk hosts are blocked; only PyPI and GitHub are reachable.
    descriptions as the scene lines.
 3. **Match images to lines (Claude does this by looking).** Images are not in
    order. Make labelled contact sheets (12 per sheet, square tiles), view
-   every image, split the script into short phrases (one per natural pause or
-   comma, roughly 1–2.5 s each), and assign the best-fitting image to each
+   every image, split the script into short phrases (one per image, roughly 0.5–1 s
+   each, matching the scenes.py split), and assign the best-fitting image to each
    phrase. Use every image exactly once. If there are more phrases than images,
    merge adjacent phrases so one image covers both. Write
    `projects/<name>/scenes.json`:

@@ -314,7 +314,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     return ass
 
 
-def render(rows, clean_dir, voice, music, ass, speed, dur, out, name):
+def render(rows, clean_dir, voice, music, ass, speed, dur, out, name, music_from="start"):
     concat = out / "scenes.ffconcat"
     lines = ["ffconcat version 1.0"]
     for r in rows:
@@ -327,8 +327,14 @@ def render(rows, clean_dir, voice, music, ass, speed, dur, out, name):
           f"[1:a]atempo={speed},loudnorm=I=-15:TP=-1.5:LRA=11,aresample=48000[vo];")
     if music:
         inputs += ["-stream_loop", "-1", "-i", str(music)]   # loops if music is shorter than the video
-        fc += (f"[2:a]atrim=0:{dur:.2f},asetpts=PTS-STARTPTS,loudnorm=I=-33:TP=-9,"
-               f"afade=t=in:d=1,afade=t=out:st={max(dur-2.5, 0):.2f}:d=2.5,"
+        mdur = duration(music)
+        if music_from == "end" and mdur > dur:
+            # last segment of the track: its own ending lands on the video's end
+            m0, fade_out = mdur - dur, 0.5
+        else:
+            m0, fade_out = 0.0, 2.5
+        fc += (f"[2:a]atrim={m0:.2f}:{m0 + dur:.2f},asetpts=PTS-STARTPTS,loudnorm=I=-33:TP=-9,"
+               f"afade=t=in:d=1,afade=t=out:st={max(dur-fade_out, 0):.2f}:d={fade_out},"
                # duration=longest: with "first", amix stops when the voice signals EOF and drops the
                # ~3 s loudnorm still has buffered (the narration's last words). Music is trimmed to dur anyway.
                f"aresample=48000[bg];[vo][bg]amix=inputs=2:duration=longest:normalize=0,alimiter=limit=0.89[a]")
@@ -346,6 +352,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("project", type=Path)
     ap.add_argument("--speed", type=float, default=1.10)
+    ap.add_argument("--music-from", choices=["start", "end"],
+                    help="use the start or the last segment of the music (default: settings.json, else start)")
     ap.add_argument("--max-gap", type=float, default=0.3,
                     help="longest pause kept in the voiceover, seconds (0 = keep pauses as recorded)")
     ap.add_argument("--align-only", action="store_true", help="stop after alignment (to write scenes.json)")
@@ -374,7 +382,9 @@ def main():
     dur = duration(voice) / a.speed
     rows = timeline(scenes, al, duration(voice), out)   # original-audio seconds; setpts speeds video
     ass = build_ass(title, script, al, a.speed, dur, out)
-    mp4 = render(rows, clean_dir, voice, music, ass, a.speed, dur, out, proj.name)
+    settings = json.loads((proj / "settings.json").read_text()) if (proj / "settings.json").exists() else {}
+    music_from = a.music_from or settings.get("music", "start")
+    mp4 = render(rows, clean_dir, voice, music, ass, a.speed, dur, out, proj.name, music_from)
     print(f"done: {mp4}  ({dur:.1f}s)")
 
 

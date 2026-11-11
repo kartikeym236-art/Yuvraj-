@@ -83,7 +83,7 @@ OpenAI and Vosk hosts are blocked; only PyPI and GitHub are reachable.
   yellow #FFC816, centred just above the image, shown the whole video,
   auto-shrinks to fit one line.
 - Captions: one word at a time, lowercase, Montserrat ExtraBold (bundled in
-  `pipeline/fonts/`, size 120 = about 70 px letters), white with a thick black
+  `pipeline/fonts/`, size 60 = half the reference reels, per the user), white with a thick black
   outline and soft shadow, centred at y=1306 (82% down the image, about 68% of
   the screen) to match the user's reference reels. No animation: each word
   appears and disappears instantly. A word stays

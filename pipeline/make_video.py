@@ -298,7 +298,7 @@ def srt_time(x):
 
 def build_ass(title, script, al, speed, dur, out):
     clean = lambda t: re.sub(r"[,.:;\"“”‘’—–]|^'|'$", "", t) or t
-    cap_size = 120                      # Montserrat ExtraBold, matched to reference reels
+    cap_size = 60                       # Montserrat ExtraBold; half the reference-reel size (user asked 50%)
     ev, srt, i = [], [], 0
     for disp, ws in tokens(script):
         s, e = al[i][1] / speed, al[i + len(ws) - 1][2] / speed

@@ -27,6 +27,7 @@ ANXIOUS = ("ANXIETY LOOK: the colours around YOU turn cold and slightly dim, fai
            "shake around him, small nervous motion lines.")
 
 SCENES = [
+    ("Social Anxiety Explained", ["YOU"], "Title-card style scene: YOU stand small in the centre of a dim room while a ring of many glowing eyes in the surrounding darkness watch him; he hugs his arms nervously. Camera: wide, symmetrical, moody blue light."),
     ("Imagine entering a room", ["YOU"], f"{PARTY} YOU stand in the open doorway holding the door handle, the bright noisy party in front of him. Camera: wide from behind YOU's shoulder."),
     ("full of people.", [], f"{PARTY} Camera: wide shot of the whole crowded room, everyone busy talking, warm lively light."),
     ("Suddenly, you don't know", ["YOU"], f"{PARTY} {ANXIOUS} YOU freeze just inside the door, eyes wide, small sweat drop, clutching the strap of his sling bag. Camera: medium shot."),

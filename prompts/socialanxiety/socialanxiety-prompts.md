@@ -1,13 +1,28 @@
 # Social Anxiety Explained: Scene Prompts
 
-Estimated total length: 57 s.
+Estimated total length: 58 s.
 
-48 scenes, each covering 0.5–2 s of narration (estimated at 3 words/sec).
+49 scenes, each covering 0.5–2 s of narration (estimated at 3 words/sec).
 Each code block is a complete prompt. Copy it in one click and paste it into your image tool.
 
 Tip: generate Scene 1 first, then upload it as a reference in the same chat for the rest ("keep this exact art style and characters").
 
-## Scene 1  ·  0.0s – 1.3s  (1.3s)
+## Scene 1  ·  0.0s – 1.0s  (1.0s)
+
+> Social Anxiety Explained
+
+```
+STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still from an emotional animated short. Characters are drawn in a clean cartoon style: bold uniform black ink outlines (about 4px), large round head slightly wider than tall, flat peach-orange skin with a soft pink blush circle on the cheeks, tiny solid black oval dot eyes with no pupils or highlights, thick short curved eyebrows that carry all the emotion, small simple line mouth, almost no nose, small rounded hands with clear finger outlines, flat colours with only one soft shadow tone. Backgrounds are MORE detailed and semi-realistic than the characters: real locations painted with soft muted colours, light film grain / paper-noise texture over the whole image, gentle natural light, slightly desaturated palette (dusty blues, greys, beige, faded greens), mild depth of field so background figures are smaller and softer. Cinematic composition, quiet and dramatic storytelling mood.
+
+CHARACTERS:
+YOU (main character): Indian man in his early 20s, slim, big messy curly black hair, dot eyes, thick dark eyebrows, peach skin with pink blush. Wears a muted teal-green full-sleeve button shirt with sleeves rolled to the elbows, untucked, dark charcoal trousers, off-white sneakers, a black analog wristwatch on his left wrist.
+
+SCENE: Title-card style scene: YOU stand small in the centre of a dim room while a ring of many glowing eyes in the surrounding darkness watch him; he hugs his arms nervously. Camera: wide, symmetrical, moody blue light.
+
+AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
+```
+
+## Scene 2  ·  1.0s – 2.3s  (1.3s)
 
 > Imagine entering a room
 
@@ -22,7 +37,7 @@ SCENE: Crowded Indian house party in a living room at evening: warm fairy lights
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 2  ·  1.3s – 2.3s  (1.0s)
+## Scene 3  ·  2.3s – 3.3s  (1.0s)
 
 > full of people.
 
@@ -34,7 +49,7 @@ SCENE: Crowded Indian house party in a living room at evening: warm fairy lights
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 3  ·  2.3s – 3.7s  (1.3s)
+## Scene 4  ·  3.3s – 4.7s  (1.3s)
 
 > Suddenly, you don't know
 
@@ -49,7 +64,7 @@ SCENE: Crowded Indian house party in a living room at evening: warm fairy lights
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 4  ·  3.7s – 4.7s  (1.0s)
+## Scene 5  ·  4.7s – 5.7s  (1.0s)
 
 > where to look,
 
@@ -64,7 +79,7 @@ SCENE: Crowded Indian house party in a living room at evening: warm fairy lights
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 5  ·  4.7s – 5.7s  (1.0s)
+## Scene 6  ·  5.7s – 6.7s  (1.0s)
 
 > what to say,
 
@@ -79,7 +94,7 @@ SCENE: Crowded Indian house party in a living room at evening: warm fairy lights
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 6  ·  5.7s – 7.0s  (1.3s)
+## Scene 7  ·  6.7s – 8.0s  (1.3s)
 
 > or how to act.
 
@@ -94,7 +109,7 @@ SCENE: Crowded Indian house party in a living room at evening: warm fairy lights
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 7  ·  7.0s – 8.0s  (1.0s)
+## Scene 8  ·  8.0s – 9.0s  (1.0s)
 
 > You start thinking…
 
@@ -109,7 +124,7 @@ SCENE: Crowded Indian house party in a living room at evening: warm fairy lights
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 8  ·  8.0s – 9.3s  (1.3s)
+## Scene 9  ·  9.0s – 10.3s  (1.3s)
 
 > "Are they judging me?
 
@@ -124,7 +139,7 @@ SCENE: Crowded Indian house party in a living room at evening: warm fairy lights
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 9  ·  9.3s – 10.7s  (1.3s)
+## Scene 10  ·  10.3s – 11.7s  (1.3s)
 
 > Do I look weird?
 
@@ -139,7 +154,7 @@ SCENE: ANXIETY LOOK: the colours around YOU turn cold and slightly dim, faint da
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 10  ·  10.7s – 12.7s  (2.0s)
+## Scene 11  ·  11.7s – 13.7s  (2.0s)
 
 > What if I say something stupid?"
 
@@ -154,7 +169,7 @@ SCENE: Crowded Indian house party in a living room at evening: warm fairy lights
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 11  ·  12.7s – 13.7s  (1.0s)
+## Scene 12  ·  13.7s – 14.7s  (1.0s)
 
 > This is called
 
@@ -169,7 +184,7 @@ SCENE: YOU sit hugging his knees in the middle of a plain dark space, a single s
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 12  ·  13.7s – 14.3s  (0.7s)
+## Scene 13  ·  14.7s – 15.3s  (0.7s)
 
 > Social Anxiety.
 
@@ -184,7 +199,7 @@ SCENE: YOU sit small on the floor while a huge soft dark shadow shaped like a st
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 13  ·  14.3s – 16.0s  (1.7s)
+## Scene 14  ·  15.3s – 17.0s  (1.7s)
 
 > It's not simply being shy.
 
@@ -199,7 +214,7 @@ SCENE: Split image with a thin vertical line: left, a shy boy blushing and smili
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 14  ·  16.0s – 17.3s  (1.3s)
+## Scene 15  ·  17.0s – 18.3s  (1.3s)
 
 > It's an intense fear
 
@@ -214,7 +229,7 @@ SCENE: ANXIETY LOOK: the colours around YOU turn cold and slightly dim, faint da
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 15  ·  17.3s – 18.3s  (1.0s)
+## Scene 16  ·  18.3s – 19.3s  (1.0s)
 
 > of being judged,
 
@@ -229,7 +244,7 @@ SCENE: YOU stand on a small wooden box while a row of stern judges with score ca
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 16  ·  18.3s – 19.3s  (1.0s)
+## Scene 17  ·  19.3s – 20.3s  (1.0s)
 
 > embarrassed, or rejected
 
@@ -244,7 +259,7 @@ SCENE: YOU stand alone outside a closed glass door while a group inside laughs t
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 17  ·  19.3s – 20.0s  (0.7s)
+## Scene 18  ·  20.3s – 21.0s  (0.7s)
 
 > by others.
 
@@ -256,7 +271,7 @@ SCENE: Crowded Indian house party in a living room at evening: warm fairy lights
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 18  ·  20.0s – 21.3s  (1.3s)
+## Scene 19  ·  21.0s – 22.3s  (1.3s)
 
 > Your brain starts treating
 
@@ -271,7 +286,7 @@ SCENE: Cutaway of YOU's head in profile: inside is a small control room where a 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 19  ·  21.3s – 22.3s  (1.0s)
+## Scene 20  ·  22.3s – 23.3s  (1.0s)
 
 > ordinary social situations
 
@@ -286,7 +301,7 @@ SCENE: YOU at a café counter with a smiling barista holding a coffee cup out to
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 20  ·  22.3s – 23.3s  (1.0s)
+## Scene 21  ·  23.3s – 24.3s  (1.0s)
 
 > like dangerous threats.
 
@@ -301,7 +316,7 @@ SCENE: ANXIETY LOOK: the colours around YOU turn cold and slightly dim, faint da
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 21  ·  23.3s – 24.3s  (1.0s)
+## Scene 22  ·  24.3s – 25.3s  (1.0s)
 
 > Your heart races,
 
@@ -316,7 +331,7 @@ SCENE: Close-up of YOU's chest with a glowing red heart beating fast inside, str
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 22  ·  24.3s – 25.3s  (1.0s)
+## Scene 23  ·  25.3s – 26.3s  (1.0s)
 
 > your hands sweat,
 
@@ -331,7 +346,7 @@ SCENE: Close-up of YOU's trembling hands, palms shiny with sweat, droplets falli
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 23  ·  25.3s – 26.7s  (1.3s)
+## Scene 24  ·  26.3s – 27.7s  (1.3s)
 
 > your mind goes blank,
 
@@ -346,7 +361,7 @@ SCENE: Cutaway of YOU's head: inside, an empty white room with a single flickeri
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 24  ·  26.7s – 27.3s  (0.7s)
+## Scene 25  ·  27.7s – 28.3s  (0.7s)
 
 > and sometimes,
 
@@ -361,7 +376,7 @@ SCENE: Crowded Indian house party in a living room at evening: warm fairy lights
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 25  ·  27.3s – 29.0s  (1.7s)
+## Scene 26  ·  28.3s – 30.0s  (1.7s)
 
 > you just want to disappear.
 
@@ -376,7 +391,7 @@ SCENE: Crowded Indian house party in a living room at evening: warm fairy lights
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 26  ·  29.0s – 30.7s  (1.7s)
+## Scene 27  ·  30.0s – 31.7s  (1.7s)
 
 > Even after a conversation ends,
 
@@ -391,7 +406,7 @@ SCENE: Night: YOU walk home alone on an empty street under orange streetlights, 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 27  ·  30.7s – 32.3s  (1.7s)
+## Scene 28  ·  31.7s – 33.3s  (1.7s)
 
 > you replay every little thing
 
@@ -406,7 +421,7 @@ SCENE: YOU lie in bed at night staring at the ceiling; on the ceiling, scenes fr
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 28  ·  32.3s – 33.0s  (0.7s)
+## Scene 29  ·  33.3s – 34.0s  (0.7s)
 
 > you said,
 
@@ -421,7 +436,7 @@ SCENE: Close-up of YOU in bed hiding half his face under the blanket, cringing, 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 29  ·  33.0s – 34.0s  (1.0s)
+## Scene 30  ·  34.0s – 35.0s  (1.0s)
 
 > searching for mistakes
 
@@ -436,7 +451,7 @@ SCENE: YOU sit at a desk at night examining small glowing memory bubbles with a 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 30  ·  34.0s – 35.7s  (1.7s)
+## Scene 31  ·  35.0s – 36.7s  (1.7s)
 
 > that nobody else even noticed.
 
@@ -448,7 +463,7 @@ SCENE: Crowded Indian house party in a living room at evening: warm fairy lights
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 31  ·  35.7s – 37.3s  (1.7s)
+## Scene 32  ·  36.7s – 38.3s  (1.7s)
 
 > And here's the cruelest part…
 
@@ -463,7 +478,7 @@ SCENE: YOU sit alone on the floor in a dim room, back against the wall, a single
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 32  ·  37.3s – 38.3s  (1.0s)
+## Scene 33  ·  38.3s – 39.3s  (1.0s)
 
 > You desperately want
 
@@ -478,7 +493,7 @@ SCENE: YOU looking through a window at night into a warm-lit house where friends
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 33  ·  38.3s – 39.0s  (0.7s)
+## Scene 34  ·  39.3s – 40.0s  (0.7s)
 
 > human connection,
 
@@ -493,7 +508,7 @@ SCENE: YOU's hand reaching toward another person's hand across a gap, fingers al
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 34  ·  39.0s – 40.0s  (1.0s)
+## Scene 35  ·  40.0s – 41.0s  (1.0s)
 
 > but you're terrified
 
@@ -508,7 +523,7 @@ SCENE: ANXIETY LOOK: the colours around YOU turn cold and slightly dim, faint da
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 35  ·  40.0s – 41.0s  (1.0s)
+## Scene 36  ·  41.0s – 42.0s  (1.0s)
 
 > of being seen.
 
@@ -523,7 +538,7 @@ SCENE: YOU caught in a bright spotlight in a dark room, shielding his eyes with 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 36  ·  41.0s – 41.7s  (0.7s)
+## Scene 37  ·  42.0s – 42.7s  (0.7s)
 
 > But remember,
 
@@ -538,7 +553,7 @@ SCENE: The dark storm-cloud shadow above YOU starts to break apart, a ray of war
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 37  ·  41.7s – 43.3s  (1.7s)
+## Scene 38  ·  42.7s – 44.3s  (1.7s)
 
 > people are usually too busy
 
@@ -550,7 +565,7 @@ SCENE: Crowded Indian house party in a living room at evening: warm fairy lights
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 38  ·  43.3s – 44.3s  (1.0s)
+## Scene 39  ·  44.3s – 45.3s  (1.0s)
 
 > worrying about themselves
 
@@ -562,7 +577,7 @@ SCENE: Close-up of a young woman at the party anxiously checking her own hair in
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 39  ·  44.3s – 45.3s  (1.0s)
+## Scene 40  ·  45.3s – 46.3s  (1.0s)
 
 > to judge you
 
@@ -577,7 +592,7 @@ SCENE: Crowded Indian house party in a living room at evening: warm fairy lights
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 40  ·  45.3s – 47.0s  (1.7s)
+## Scene 41  ·  46.3s – 48.0s  (1.7s)
 
 > as much as you think.
 
@@ -592,7 +607,7 @@ SCENE: YOU blink in surprise, the dark cloud above him now just a tiny harmless 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 41  ·  47.0s – 48.0s  (1.0s)
+## Scene 42  ·  48.0s – 49.0s  (1.0s)
 
 > You don't need
 
@@ -607,7 +622,7 @@ SCENE: YOU stand in front of a long row of empty chairs with score cards lying f
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 42  ·  48.0s – 49.0s  (1.0s)
+## Scene 43  ·  49.0s – 50.0s  (1.0s)
 
 > to impress everyone.
 
@@ -622,7 +637,7 @@ SCENE: YOU drop a heavy bag labelled only with a drawn trophy icon to the floor,
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 43  ·  49.0s – 50.7s  (1.7s)
+## Scene 44  ·  50.0s – 51.7s  (1.7s)
 
 > You just need to stop
 
@@ -637,7 +652,7 @@ SCENE: YOU sit at an exam desk in an empty hall, then calmly push the answer she
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 44  ·  50.7s – 51.7s  (1.0s)
+## Scene 45  ·  51.7s – 52.7s  (1.0s)
 
 > treating every interaction
 
@@ -652,7 +667,7 @@ SCENE: A friendly chat at a tea stall: YOU and a stranger talking, but YOU is sh
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 45  ·  51.7s – 52.7s  (1.0s)
+## Scene 46  ·  52.7s – 53.7s  (1.0s)
 
 > like an examination.
 
@@ -667,7 +682,7 @@ SCENE: Comedic image: an invigilator with a clipboard stands behind YOU as he or
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 46  ·  52.7s – 54.0s  (1.3s)
+## Scene 47  ·  53.7s – 55.0s  (1.3s)
 
 > Because you're not performing
 
@@ -682,7 +697,7 @@ SCENE: YOU stand on a big theatre stage under harsh spotlights in front of a hug
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 47  ·  54.0s – 55.0s  (1.0s)
+## Scene 48  ·  55.0s – 56.0s  (1.0s)
 
 > on a stage.
 
@@ -697,7 +712,7 @@ SCENE: The stage lights switch off and the theatre fades away like mist around Y
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 48  ·  55.0s – 56.7s  (1.7s)
+## Scene 49  ·  56.0s – 57.7s  (1.7s)
 
 > You're simply living your life.
 

@@ -85,7 +85,8 @@ OpenAI and Vosk hosts are blocked; only PyPI and GitHub are reachable.
 - Captions: one word at a time, lowercase, Montserrat ExtraBold (bundled in
   `pipeline/fonts/`, size 120 = about 70 px letters), white with a thick black
   outline and soft shadow, centred at y=1306 (82% down the image, about 68% of
-  the screen) to match the user's reference reels, small pop-in. A word stays
+  the screen) to match the user's reference reels. No animation: each word
+  appears and disappears instantly. A word stays
   up until the next word and clears on pauses of 0.25 s or more.
 - Audio: voice loudnorm -15 LUFS, music -33 LUFS (about 18 dB under), music
   from its start (looped if short), 1 s fade-in, 2.5 s fade-out, limiter;

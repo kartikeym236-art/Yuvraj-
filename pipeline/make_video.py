@@ -308,7 +308,7 @@ def build_ass(title, script, al, speed, dur, out):
         # numbers keep inner commas (1,400); other words lose , . : ; quotes and dashes
         w = re.sub(r"[,.:;\"“”—–]+$|^[\"“]", "", disp) if re.search(r"\d", disp) else clean(disp)
         ev.append(f"Dialogue: 1,{ass_time(s)},{ass_time(end)},Cap,,0,0,0,,"
-                  f"{{\\pos({W//2},{CAP_Y})\\fscx85\\fscy85\\t(0,80,\\fscx100\\fscy100)}}{w.lower()}")
+                  f"{{\\pos({W//2},{CAP_Y})}}{w.lower()}")
         srt.append(f"{len(srt)+1}\n{srt_time(s)} --> {srt_time(end)}\n{w.lower()}\n")
     if title:
         t = re.sub(r"\*(.+?)\*", lambda m: f"{{\\c{YELLOW}}}{m.group(1)}{{\\c&H00FFFFFF}}", title.strip())

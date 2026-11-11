@@ -9,14 +9,17 @@ download anything from the repo.
 
 When the user sends a new script, write one-click image prompts with
 `prompts/<name>/scenes.py` (see `prompts/build_prompts.py`). **Each scene covers
-0.5–1 s of narration** (2–3 spoken words; the builder warns outside that range).
+0.5–1 s of narration** (2–3 spoken words) where possible. **Connector-only
+fragments** ("and each", "had to", "But what if", "This means") never get their
+own scene: merge them into the neighbouring line that has something to show,
+even if that scene then runs 1.3–2 s (the builder warns outside 0.5–2 s).
 Every prompt repeats the full style, character and avoid blocks so it can be
 copied in one click. Describe real people and film characters by look, not name.
 **Each image must literally show what its line says** (the noun or action in the
 words, or the next step of that sentence's idea), not a loose metaphor or a
 generic filler shot. **Never show anything from a later line**: a short line
 like "and each" continues the picture of what has been said so far, it doesn't
-preview what comes next. The builder adds the line and the sentence *so far*
+preview what comes next (and connector-only lines are merged, see above). The builder adds the line and the sentence *so far*
 (never the rest) to every prompt ("NARRATION FOR THIS IMAGE").
 
 ## Input: one folder per video

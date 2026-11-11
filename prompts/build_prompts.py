@@ -15,7 +15,7 @@ from pathlib import Path
 HERE = Path(__file__).parent
 TITLE = "Nvidia x Megaspeed Story: Scene Prompts"
 WORDS_PER_SEC = 3.0          # typical reel narration pace
-MIN_SEC, MAX_SEC = 0.5, 1.0     # one image per 0.5-1 s of narration
+MIN_SEC, MAX_SEC = 0.5, 2.0     # aim for 0.5-1 s; lines with connector words merged in may run to 2 s
 
 STYLE = (
     "STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still from an "

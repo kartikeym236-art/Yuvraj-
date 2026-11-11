@@ -23,6 +23,10 @@ narrator actually says it with `_recognise`. A bare number raises an error.
 Add any word missing from the pronunciation dictionary to
 `pipeline/extra_dict.txt` (CMU phones).
 
+New uploads land on `main`. Bring them in with `git fetch origin main && git
+merge origin/main`, not a rebase: rebasing rewrites the branch, and the
+force-push it needs is blocked.
+
 If the user commits files elsewhere (e.g. repo root, odd names like
 `buridans .mp3`), `git mv` them into this layout yourself. If `script.txt` is
 missing, ask for it. No speech-to-text model is downloadable here: Hugging Face,

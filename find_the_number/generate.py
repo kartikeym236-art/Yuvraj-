@@ -5,6 +5,9 @@ Each video: a 4:5 puzzle card (random target + look-alike distractor)
 centered on a 9:16 black background, 15 s long, with the voiceover.
 
 Usage: python3 generate.py VOICEOVER.mp3 OUT_DIR [COUNT] [SEED]
+       python3 generate.py --images-only OUT_DIR [COUNT] [SEED]
+
+The 4:5 card used in each video is also saved as OUT_DIR/images/find_the_NN_T.png.
 """
 import os, random, subprocess, sys, zipfile
 from PIL import Image, ImageDraw, ImageFont
@@ -75,6 +78,8 @@ def make_card(target, distractor, rng):
 
 def main():
     audio, out = sys.argv[1], sys.argv[2]
+    images_only = audio == "--images-only"
+    os.makedirs(os.path.join(out, "images"), exist_ok=True)
     count = int(sys.argv[3]) if len(sys.argv) > 3 else 50
     rng = random.Random(int(sys.argv[4]) if len(sys.argv) > 4 else None)
     os.makedirs(out, exist_ok=True)
@@ -82,6 +87,12 @@ def main():
     for n in range(1, count + 1):
         target, distractor = make_pair(rng, used)
         card, pos = make_card(target, distractor, rng)
+        card.save(os.path.join(out, "images", f"find_the_{n:02d}_{target}.png"), optimize=True)
+        answers.append(f"{n:02d}  Find the {target}  (distractor {distractor})  "
+                       f"answer: row {pos[0]}, column {pos[1]}")
+        print(answers[-1], flush=True)
+        if images_only:
+            continue
         frame = Image.new("RGB", (W, H), (0, 0, 0))
         frame.paste(card, ((W - CW) // 2, (H - CH) // 2))
         png = os.path.join(out, f"frame_{n:02d}.png")
@@ -94,11 +105,16 @@ def main():
             "-r", "30", "-af", f"afade=t=out:st={DURATION - 0.3}:d=0.3",
             "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", mp4], check=True)
         os.remove(png)
-        answers.append(f"{n:02d}  Find the {target}  (distractor {distractor})  "
-                       f"answer: row {pos[0]}, column {pos[1]}")
-        print(answers[-1], flush=True)
     with open(os.path.join(out, "answers.txt"), "w") as f:
         f.write("\n".join(answers) + "\n")
+    ipath = os.path.join(out, "find_the_number_images.zip")
+    with zipfile.ZipFile(ipath, "w", zipfile.ZIP_DEFLATED) as z:
+        for name in sorted(os.listdir(os.path.join(out, "images"))):
+            z.write(os.path.join(out, "images", name), name)
+        z.write(os.path.join(out, "answers.txt"), "answers.txt")
+    print("images zip:", ipath)
+    if images_only:
+        return
     zpath = os.path.join(out, "find_the_number_videos.zip")
     with zipfile.ZipFile(zpath, "w", zipfile.ZIP_STORED) as z:
         for name in sorted(os.listdir(out)):

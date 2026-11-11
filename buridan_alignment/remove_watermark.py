@@ -9,7 +9,7 @@ from pathlib import Path
 import cv2, numpy as np
 
 HERE = Path(__file__).parent
-SRC, OUT = HERE.parent, HERE / "clean"
+SRC, OUT = HERE / "source", HERE / "clean"
 C, R = 922, 40
 alpha = np.load(HERE / "wm_alpha.npy")
 alpha = np.where(alpha > 0.04, alpha, 0)[..., None]

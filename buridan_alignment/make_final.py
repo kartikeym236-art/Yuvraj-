@@ -9,7 +9,7 @@ from pathlib import Path
 
 SPEED = 1.10
 HERE = Path(__file__).parent
-AUDIO = HERE.parent / "buridans .mp3"
+AUDIO = HERE / "source" / "buridans .mp3"
 AUDIO_END = 70.27 / SPEED
 GAP_HOLD = 0.15   # how long a word stays up before a pause
 

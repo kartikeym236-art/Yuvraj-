@@ -10,7 +10,7 @@ from pathlib import Path
 SPEED = 1.10
 W, H, IMG_Y = 1080, 1920, 420
 HERE = Path(__file__).parent
-VOICE = HERE.parent / "buridans .mp3"
+VOICE = HERE / "source" / "buridans .mp3"
 MUSIC = HERE / "bg_music.mp3"
 DUR = 70.27 / SPEED
 TITLE_WHITE, TITLE_YELLOW = "BURIDAN ASS PARADOX", "EXPLAINED"

@@ -6,7 +6,7 @@ Start time = first word of the line in the audio; end = start of the next scene.
 import csv, json, re, sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parent / "source"   # original uploads (moved out of the repo root)
 AUDIO_END = 70.27
 
 SCENES = [

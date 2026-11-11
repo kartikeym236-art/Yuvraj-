@@ -221,7 +221,7 @@ def tighten(voice, al, out, max_gap):
 
 
 # 2. watermark removal --------------------------------------------------------
-def clean_images(img_dir, out):
+def clean_images(img_dir, out, enabled=True):
     """Invert the Gemini sparkle (white, ~35% opacity, centre 922,922 on 1024px) when present."""
     alpha = np.load(HERE / "wm_alpha.npy")
     alpha = np.where(alpha > 0.04, alpha, 0)
@@ -257,7 +257,7 @@ def clean_images(img_dir, out):
         win = f[C-R:C+R, C-R:C+R]
         fixed = np.clip((win - 255 * a) / (1 - a), 0, 255)
         # apply if the sparkle shows as a brightness jump at its outline, or its edges are in the image
-        has_mark = (step(win) > 4 and abs(step(fixed)) < 0.5 * step(win)) or shape_corr(win) > 0.2
+        has_mark = enabled and ((step(win) > 4 and abs(step(fixed)) < 0.5 * step(win)) or shape_corr(win) > 0.2)
         if has_mark:
             f[C-R:C+R, C-R:C+R] = fixed
         report[p.name] = bool(has_mark)
@@ -393,7 +393,8 @@ def main():
     if a.max_gap > 0:
         voice, al, cut = tighten(voice, al, out, a.max_gap)
         print(f"trimmed {cut:.1f}s of pauses (max gap {a.max_gap}s)")
-    clean_dir, wm = clean_images(proj / "images", out)
+    settings = json.loads((proj / "settings.json").read_text()) if (proj / "settings.json").exists() else {}
+    clean_dir, wm = clean_images(proj / "images", out, settings.get("watermark", True))
     print(f"watermark removed from {sum(wm.values())}/{len(wm)} images")
     scenes = json.loads((proj / "scenes.json").read_text())
     missing = [s["image"] for s in scenes if not (proj / "images" / s["image"]).exists()]
@@ -402,7 +403,6 @@ def main():
     dur = duration(voice) / a.speed
     rows = timeline(scenes, al, duration(voice), out)   # original-audio seconds; setpts speeds video
     ass = build_ass(title, script, al, a.speed, dur, out)
-    settings = json.loads((proj / "settings.json").read_text()) if (proj / "settings.json").exists() else {}
     music_from = a.music_from or settings.get("music", "start")
     mp4 = render(rows, clean_dir, voice, music, ass, a.speed, dur, out, proj.name, music_from)
     print(f"done: {mp4}  ({dur:.1f}s)")

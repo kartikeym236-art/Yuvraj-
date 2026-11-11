@@ -1,0 +1,4 @@
+# extra pronunciations for pocketsphinx (CMU phone set): word  PHONES
+teleportation T EH L AH P AO R T EY SH AH N
+quadrillion K W AA D R IH L Y AH N
+mallove M AH L AH V

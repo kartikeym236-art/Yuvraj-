@@ -16,6 +16,13 @@ projects/<name>/
   script.txt    exact voiceover text (needed for word timing)
 ```
 
+In script.txt (and scenes.json lines), write numbers as `{display|spoken}`, e.g.
+`{2017|twenty seventeen}` or `{1,400|one thousand four hundred}`. The caption
+shows the display form and the alignment uses the spoken words; check how the
+narrator actually says it with `_recognise`. A bare number raises an error.
+Add any word missing from the pronunciation dictionary to
+`pipeline/extra_dict.txt` (CMU phones).
+
 If the user commits files elsewhere (e.g. repo root, odd names like
 `buridans .mp3`), `git mv` them into this layout yourself. If `script.txt` is
 missing, ask for it. No speech-to-text model is downloadable here: Hugging Face,

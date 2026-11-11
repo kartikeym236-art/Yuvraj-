@@ -36,6 +36,36 @@ def find(proj, stem):
     return None
 
 
+def decoder():
+    d = Decoder(samprate=16000, loglevel="FATAL")
+    for line in (HERE / "extra_dict.txt").read_text().splitlines():
+        if line.strip() and not line.startswith("#"):
+            word, phones = line.split(None, 1)
+            if d.lookup_word(word) is None:
+                d.add_word(word, phones.strip(), True)
+    return d
+
+
+def tokens(text):
+    """Split script text into (display, [spoken words]).
+
+    {2017|twenty seventeen} shows "2017" as one caption but aligns the spoken words.
+    """
+    out = []
+    for m in re.finditer(r"\{([^|{}]+)\|([^{}]+)\}(\S*)|\S+", text):
+        if m.group(1):
+            out.append((m.group(1) + m.group(3), [norm(x) for x in m.group(2).split() if norm(x)]))
+        elif norm(m.group(0)):
+            out.append((m.group(0), [norm(m.group(0))]))
+        elif re.search(r"\d", m.group(0)):
+            raise SystemExit(f"Number {m.group(0)!r} needs its spoken form, e.g. {{2017|twenty seventeen}}")
+    return out
+
+
+def spoken(text):
+    return [w for _, ws in tokens(text) for w in ws]
+
+
 def norm(w):
     return re.sub(r"[^a-z']", "", w.lower())
 
@@ -49,7 +79,7 @@ def duration(path):
 def _align_chunk(data, words, offset, pad=0.3):
     data = bytes(int(pad * 16000) * 2) + data + bytes(int(pad * 16000) * 2)   # silence the decoder can rest in
     offset -= pad
-    d = Decoder(samprate=16000, loglevel="FATAL")
+    d = decoder()
     d.set_align_text(" ".join(words))
     d.start_utt(); d.process_raw(data, full_utt=True); d.end_utt()
     d.set_alignment()
@@ -62,7 +92,7 @@ def _align_chunk(data, words, offset, pad=0.3):
 
 
 def _recognise(data):
-    d = Decoder(samprate=16000, loglevel="FATAL")
+    d = decoder()
     d.start_utt(); d.process_raw(data, full_utt=True); d.end_utt()
     return [(re.sub(r"\(\d+\)", "", s.word), s.start_frame / 100, s.end_frame / 100)
             for s in d.seg() if s.word[0] not in "<[" ]
@@ -79,12 +109,12 @@ def align(voice, script, out):
     subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", str(voice), "-ar", "16000", "-ac", "1",
                     "-f", "s16le", str(raw)], check=True)
     data = raw.read_bytes(); raw.unlink()
-    words = [norm(w) for w in script.split() if norm(w)]
-    lex = Decoder(samprate=16000, loglevel="FATAL")
+    words = spoken(script)
+    lex = decoder()
     oov = sorted({w for w in words if lex.lookup_word(w) is None})
     if oov:
         raise SystemExit(f"Words not in pronunciation dictionary: {oov}. "
-                         "Spell them phonetically in script.txt (e.g. 'Jensen' -> 'jen sen').")
+                         "Add them to pipeline/extra_dict.txt, or write {Jensen|jen sen} in script.txt.")
     try:
         al = _align_chunk(data, words, 0.0)
     except RuntimeError:
@@ -96,10 +126,9 @@ def align(voice, script, out):
 def _align_by_sentence(data, script, words):
     import difflib
     sents, cur = [], []
-    for tok in script.split():
-        if norm(tok):
-            cur.append(norm(tok))
-        if re.search(r"[.!?][\"')\]]*$", tok) and cur:
+    for disp, ws in tokens(script):
+        cur += ws
+        if re.search(r"[.!?][\"'”’)\]]*$", disp) and cur:
             sents.append(cur); cur = []
     if cur:
         sents.append(cur)
@@ -220,7 +249,7 @@ def clean_images(img_dir, out):
 def timeline(scenes, al, total, out):
     i, rows = 0, []
     for k, sc in enumerate(scenes):
-        ws = [norm(w) for w in sc["line"].split() if norm(w)]
+        ws = spoken(sc["line"])
         got = [a[0] for a in al[i:i + len(ws)]]
         if got != ws:
             raise SystemExit(f"scenes.json line {k+1} {sc['line']!r} does not match narration at that point: {got}")
@@ -247,16 +276,19 @@ def srt_time(x):
 
 
 def build_ass(title, script, al, speed, dur, out):
-    display = [re.sub(r"[,.:;\"“”‘’]|^'|'$", "", t) for t in script.split() if norm(t)]
+    clean = lambda t: re.sub(r"[,.:;\"“”‘’—–]|^'|'$", "", t) or t
     cap_size = round(78 * 0.6 * IMG / 1024)
-    ev, srt = [], []
-    for i, ((_, s, e), w) in enumerate(zip(al, display)):
-        s, e = s / speed, e / speed
-        nxt = al[i + 1][1] / speed if i + 1 < len(al) else dur
+    ev, srt, i = [], [], 0
+    for disp, ws in tokens(script):
+        s, e = al[i][1] / speed, al[i + len(ws) - 1][2] / speed
+        i += len(ws)
+        nxt = al[i][1] / speed if i < len(al) else dur
         end = min(nxt if nxt - e < 0.25 else e + 0.15, nxt)
+        # numbers keep inner commas (1,400); other words lose , . : ; quotes and dashes
+        w = re.sub(r"[,.:;\"“”—–]+$|^[\"“]", "", disp) if re.search(r"\d", disp) else clean(disp)
         ev.append(f"Dialogue: 1,{ass_time(s)},{ass_time(end)},Cap,,0,0,0,,"
                   f"{{\\pos({W//2},{IMG_Y + IMG//2})\\fscx85\\fscy85\\t(0,80,\\fscx100\\fscy100)}}{w.upper()}")
-        srt.append(f"{i+1}\n{srt_time(s)} --> {srt_time(end)}\n{w.upper()}\n")
+        srt.append(f"{len(srt)+1}\n{srt_time(s)} --> {srt_time(end)}\n{w.upper()}\n")
     if title:
         t = re.sub(r"\*(.+?)\*", lambda m: f"{{\\c{YELLOW}}}{m.group(1)}{{\\c&H00FFFFFF}}", title.strip())
         plain = len(re.sub(r"\*", "", title.strip()))

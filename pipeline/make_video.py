@@ -349,7 +349,9 @@ def render(rows, clean_dir, voice, music, ass, speed, dur, out, name, music_from
     if music:
         inputs += ["-stream_loop", "-1", "-i", str(music)]   # loops if music is shorter than the video
         mdur = duration(music)
-        if music_from == "end" and mdur > dur:
+        if music_from == "middle" and mdur > dur:
+            m0, fade_out = (mdur - dur) / 2, 2.5        # centred segment of the track
+        elif music_from == "end" and mdur > dur:
             # last segment of the track: its own ending lands on the video's end
             m0, fade_out = mdur - dur, 0.5
         else:
@@ -373,7 +375,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("project", type=Path)
     ap.add_argument("--speed", type=float, default=1.10)
-    ap.add_argument("--music-from", choices=["start", "end"],
+    ap.add_argument("--music-from", choices=["start", "middle", "end"],
                     help="use the start or the last segment of the music (default: settings.json, else start)")
     ap.add_argument("--max-gap", type=float, default=0.3,
                     help="longest pause kept in the voiceover, seconds (0 = keep pauses as recorded)")

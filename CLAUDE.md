@@ -12,7 +12,7 @@ projects/<name>/
   images/       scene images (Gemini, 1024x1024, any filenames, NOT in order)
   voiceover.*   narration (mp3/wav/m4a)
   music.*       background music (optional, any length)
-  settings.json optional per-video options, e.g. {"music": "end"} to use the
+  settings.json optional per-video options, e.g. {"music": "end"} (or "middle") to use the
                 track's last segment so its ending lands on the video's end,
                 {"watermark": false} for images with no Gemini sparkle
                 (e.g. screenshots sent in chat), avoiding false detections

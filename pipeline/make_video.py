@@ -485,7 +485,9 @@ def render(rows, clean_dir, voice, music, ass, speed, dur, out, name, music_from
     if music:
         inputs += ["-stream_loop", "-1", "-i", str(music)]   # loops if music is shorter than the video
         mdur = duration(music)
-        if music_from == "middle" and mdur > dur:
+        if isinstance(music_from, (int, float)):        # explicit start time in seconds
+            m0, fade_out = float(music_from), 2.5
+        elif music_from == "middle" and mdur > dur:
             m0, fade_out = (mdur - dur) / 2, 2.5        # centred segment of the track
         elif music_from == "end" and mdur > dur:
             # last segment of the track: its own ending lands on the video's end

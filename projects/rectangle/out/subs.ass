@@ -1,0 +1,95 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter Black,49,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,1,0,1,4,2,5,0,0,0,1
+Style: Title,Inter Display Black,66,&H00FFFFFF,&H00FFFFFF,&H00000000,&H99000000,-1,0,0,0,100,100,-1,0,1,0,4,2,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.03,0:00:00.42,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}HUMANS
+Dialogue: 1,0:00:00.42,0:00:00.57,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}ARE
+Dialogue: 1,0:00:00.57,0:00:01.10,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}OBSESSED
+Dialogue: 1,0:00:01.10,0:00:01.23,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}WITH
+Dialogue: 1,0:00:01.23,0:00:02.06,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}RECTANGLES
+Dialogue: 1,0:00:02.18,0:00:02.35,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}AND
+Dialogue: 1,0:00:02.35,0:00:02.72,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}EVERYTHING
+Dialogue: 1,0:00:02.72,0:00:02.84,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}WE
+Dialogue: 1,0:00:02.84,0:00:03.15,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}BUILD
+Dialogue: 1,0:00:03.15,0:00:03.24,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}AND
+Dialogue: 1,0:00:03.24,0:00:03.44,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}LIVE
+Dialogue: 1,0:00:03.44,0:00:03.55,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}IN
+Dialogue: 1,0:00:03.55,0:00:03.75,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}FROM
+Dialogue: 1,0:00:03.75,0:00:04.03,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}BIRTH
+Dialogue: 1,0:00:04.03,0:00:04.30,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}UNTIL
+Dialogue: 1,0:00:04.30,0:00:04.59,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}DEATH
+Dialogue: 1,0:00:04.59,0:00:04.70,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}IS
+Dialogue: 1,0:00:04.70,0:00:04.74,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}A
+Dialogue: 1,0:00:04.74,0:00:05.48,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}RECTANGLE
+Dialogue: 1,0:00:05.60,0:00:05.86,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}AND
+Dialogue: 1,0:00:05.86,0:00:06.09,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}TURNS
+Dialogue: 1,0:00:06.09,0:00:06.23,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}OUT
+Dialogue: 1,0:00:06.23,0:00:06.37,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}THERE'S
+Dialogue: 1,0:00:06.37,0:00:06.41,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}A
+Dialogue: 1,0:00:06.41,0:00:06.73,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}PRETTY
+Dialogue: 1,0:00:06.73,0:00:06.94,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}COOL
+Dialogue: 1,0:00:06.94,0:00:07.17,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}REASON
+Dialogue: 1,0:00:07.17,0:00:07.69,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}WHY
+Dialogue: 1,0:00:07.81,0:00:08.20,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}YEP
+Dialogue: 1,0:00:08.20,0:00:08.37,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}NOT
+Dialogue: 1,0:00:08.37,0:00:08.57,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}ONLY
+Dialogue: 1,0:00:08.57,0:00:08.65,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}ARE
+Dialogue: 1,0:00:08.65,0:00:09.18,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}RECTANGLES
+Dialogue: 1,0:00:09.18,0:00:09.45,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}JUST
+Dialogue: 1,0:00:09.45,0:00:09.80,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}STRAIGHT
+Dialogue: 1,0:00:09.80,0:00:10.17,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}LINES
+Dialogue: 1,0:00:10.17,0:00:10.26,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}AND
+Dialogue: 1,0:00:10.26,0:00:10.48,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}RIGHT
+Dialogue: 1,0:00:10.48,0:00:10.88,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}ANGLES
+Dialogue: 1,0:00:10.88,0:00:11.04,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}WHICH
+Dialogue: 1,0:00:11.04,0:00:11.25,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}MAKES
+Dialogue: 1,0:00:11.25,0:00:11.38,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}THEM
+Dialogue: 1,0:00:11.38,0:00:11.83,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}EASIER
+Dialogue: 1,0:00:11.83,0:00:11.88,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}TO
+Dialogue: 1,0:00:11.88,0:00:12.28,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}MEASURE
+Dialogue: 1,0:00:12.28,0:00:12.61,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}CUT
+Dialogue: 1,0:00:12.61,0:00:13.48,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}DESIGN
+Dialogue: 1,0:00:13.48,0:00:13.91,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}PACKAGE
+Dialogue: 1,0:00:13.91,0:00:14.08,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}AND
+Dialogue: 1,0:00:14.08,0:00:14.28,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}BUILD
+Dialogue: 1,0:00:14.28,0:00:14.68,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}WITH
+Dialogue: 1,0:00:14.80,0:00:14.96,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}BUT
+Dialogue: 1,0:00:14.96,0:00:15.05,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}IT
+Dialogue: 1,0:00:15.05,0:00:15.36,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}ALSO
+Dialogue: 1,0:00:15.36,0:00:15.63,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}MEANS
+Dialogue: 1,0:00:15.63,0:00:15.72,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}THEY
+Dialogue: 1,0:00:15.72,0:00:15.95,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}FIT
+Dialogue: 1,0:00:15.95,0:00:16.44,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}FLUSHLY
+Dialogue: 1,0:00:16.44,0:00:16.75,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}TOGETHER
+Dialogue: 1,0:00:16.75,0:00:16.95,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}WITH
+Dialogue: 1,0:00:16.95,0:00:17.22,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}NO
+Dialogue: 1,0:00:17.22,0:00:17.60,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}WASTED
+Dialogue: 1,0:00:17.60,0:00:18.00,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}SPACE
+Dialogue: 1,0:00:18.00,0:00:18.48,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}AND
+Dialogue: 1,0:00:18.48,0:00:18.72,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}ALSO
+Dialogue: 1,0:00:18.72,0:00:19.04,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}CREATES
+Dialogue: 1,0:00:19.04,0:00:19.06,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}A
+Dialogue: 1,0:00:19.06,0:00:19.37,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}SECOND
+Dialogue: 1,0:00:19.37,0:00:19.62,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}FLAT
+Dialogue: 1,0:00:19.62,0:00:19.95,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}SURFACE
+Dialogue: 1,0:00:19.95,0:00:20.04,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}TO
+Dialogue: 1,0:00:20.04,0:00:20.40,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}CONTINUE
+Dialogue: 1,0:00:20.40,0:00:20.68,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}BUILDING
+Dialogue: 1,0:00:20.68,0:00:21.04,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}ON
+Dialogue: 1,0:00:21.16,0:00:21.51,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}SO
+Dialogue: 1,0:00:21.51,0:00:21.74,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}BIG
+Dialogue: 1,0:00:21.74,0:00:22.21,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}RECTANGLE
+Dialogue: 1,0:00:22.21,0:00:22.38,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}KIND
+Dialogue: 1,0:00:22.38,0:00:22.45,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}OF
+Dialogue: 1,0:00:22.45,0:00:23.05,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}MONOPOLIZED
+Dialogue: 1,0:00:23.05,0:00:23.45,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}US
+Dialogue: 0,0:00:00.00,0:00:24.57,Title,,0,0,0,,{\pos(540,392)\fs66}HUMANS ARE OBSESSED\NWITH {\c&H0016C8FF}RECTANGLES{\c&H00FFFFFF}

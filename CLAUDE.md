@@ -40,6 +40,18 @@ If the user commits files elsewhere (e.g. repo root, odd names like
 missing, ask for it. No speech-to-text model is downloadable here: Hugging Face,
 OpenAI and Vosk hosts are blocked; only PyPI and GitHub are reachable.
 
+## Generating images with Composio (when asked)
+
+Composio's `GEMINI_GENERATE_IMAGE` works (prompt max 1000 chars; a long
+system_instruction gets blocked). Run it in `COMPOSIO_REMOTE_WORKBENCH` with a
+ThreadPool (16 images take ~30 s; a direct 20-image multi-execute times out),
+zip the results to /home/user (not /mnt/files), `upload_local_file`, then
+`curl -L` the link here. Use a short style line, plus "NO people, NO faces"
+for scenes without characters (otherwise it adds random cartoon faces). Then
+run `python pipeline/crop_borders.py projects/<name>/images` to strip the
+cream frames it often draws, view every image, and regenerate bad ones. These
+images have no sparkle: set {"watermark": false}.
+
 ## Steps
 
 1. `pip install -q pocketsphinx opencv-python-headless` (if not already installed).

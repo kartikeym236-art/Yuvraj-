@@ -75,6 +75,11 @@ plain `#`: the tool docs say `%23`, but that posts literally "%23" and captions
 can't be edited afterwards. Stories must be 60 s or shorter: cut at a sentence end
 and add a "FULL VIDEO ON OUR PAGE" end card (warm/out/warm_story.mp4).
 
+After every things__explained reel is published, comment on the reel (not the
+story) with INSTAGRAM_POST_IG_MEDIA_COMMENTS: "These reels are made using AI.
+Learn to make your own (Link in Bio)". The API has no pin endpoint: remind the
+user to pin it in the app.
+
 ## Hindi videos
 
 Put the user's Hindi transcript in projects/<name>/transcript.txt and run

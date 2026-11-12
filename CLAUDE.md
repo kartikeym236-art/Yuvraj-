@@ -1,5 +1,14 @@
 # Short-video workflow (read this first)
 
+**Two separate pipelines** (per the user):
+- 9:16 reels (1:1 image on a black 1080x1920 frame, title, captions):
+  `python pipeline/make_short.py projects/<name>`
+- 16:9 long videos (full-screen 1920x1080, no title, no captions):
+  `python pipeline/make_long.py projects/<name>`
+Both share pipeline/make_video.py; the entry point fixes the mode, so a reel
+never picks up long-form behaviour and vice versa. Wherever this file says
+`make_video.py`, use the matching entry point.
+
 The user makes narrated explainer shorts from AI scene images. They commit the
 inputs to this repo; Claude builds the MP4 and **sends it to them directly**
 with SendUserFile (status `normal`, display `render`). Don't ask them to

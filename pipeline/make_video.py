@@ -458,6 +458,8 @@ def main():
                     help="use the start or the last segment of the music (default: settings.json, else start)")
     ap.add_argument("--max-gap", type=float, default=None,
                     help="longest pause kept in the voiceover, seconds (0 = keep pauses as recorded)")
+    ap.add_argument("--mode", choices=["short", "long"],
+                    help="short = 9:16 reel with the 1:1 image (make_short.py); long = 16:9 full screen (make_long.py)")
     ap.add_argument("--align-only", action="store_true", help="stop after alignment (to write scenes.json)")
     a = ap.parse_args()
     proj = a.project.resolve()
@@ -469,6 +471,8 @@ def main():
         raise SystemExit("No voiceover.* audio file in project folder.")
 
     settings = json.loads((proj / "settings.json").read_text()) if (proj / "settings.json").exists() else {}
+    if a.mode:   # the two pipelines are separate: the mode decides, not settings.json
+        settings["layout"] = "landscape" if a.mode == "long" else "short"
     global LONGFORM
     LONGFORM = settings.get("layout") == "landscape"
     al = align(voice, script, out, settings.get("speech_check", True))

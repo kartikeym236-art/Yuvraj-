@@ -37,6 +37,9 @@ def find(proj, stem):
     return None
 
 
+LONGFORM = False   # set for {"layout": "landscape"} projects; 9:16 shorts keep the original behaviour
+
+
 def decoder():
     d = Decoder(samprate=16000, loglevel="FATAL")
     new = []
@@ -59,8 +62,9 @@ def tokens(text):
     for m in re.finditer(r"\{([^|{}]+)\|([^{}]+)\}(\S*)|\S+", text):
         if m.group(1):
             out.append((m.group(1) + m.group(3), [norm(x) for x in m.group(2).split() if norm(x)]))
-        elif norm(m.group(0)):   # hyphenated words are spoken as separate words
-            out.append((m.group(0), [norm(x) for x in re.split(r"[-\u2013]", m.group(0)) if norm(x)]))
+        elif norm(m.group(0)):   # long-form: hyphenated words are spoken as separate words
+            parts = re.split(r"[-\u2013]", m.group(0)) if LONGFORM else [m.group(0)]
+            out.append((m.group(0), [norm(x) for x in parts if norm(x)]))
         elif re.search(r"\d", m.group(0)):
             raise SystemExit(f"Number {m.group(0)!r} needs its spoken form, e.g. {{2017|twenty seventeen}}")
     return out
@@ -71,7 +75,8 @@ def spoken(text):
 
 
 def norm(w):
-    return re.sub(r"[^a-z']", "", w.lower()).strip("'")
+    w = re.sub(r"[^a-z']", "", w.lower())
+    return w.strip("'") if LONGFORM else w
 
 
 def duration(path):
@@ -119,7 +124,7 @@ def _split_points(data, target=45.0):
 
 
 def _recognise(data):
-    if len(data) / 32000 <= 90:
+    if not LONGFORM or len(data) / 32000 <= 90:
         return _recognise_one((data, 0.0))
     from multiprocessing import Pool
     cuts = _split_points(data)
@@ -157,7 +162,7 @@ def align(voice, script, out, check_speech=True):
         raise SystemExit(f"Words not in pronunciation dictionary: {oov}. "
                          "Add them to pipeline/extra_dict.txt, or write {Jensen|jen sen} in script.txt.")
     try:
-        if len(data) / 32000 > 240:      # long audio: whole-file alignment is far too slow
+        if LONGFORM and len(data) / 32000 > 240:   # long audio: whole-file alignment is far too slow
             raise RuntimeError("long")
         al = _align_chunk(data, words, 0.0)
     except RuntimeError:
@@ -220,7 +225,7 @@ def _align_by_sentence(data, script, words):
     with Pool() as pool:
         res = pool.map(_align_sent, jobs)
     # retry failures together with their neighbours (cut points can land inside a short sentence)
-    for k in [k for k, r in enumerate(res) if r is None]:
+    for k in [k for k, r in enumerate(res) if r is None and LONGFORM]:
         if res[k] is not None:
             continue
         for lo, hi in ((k - 1, k + 1), (k, k + 2), (k - 1, k + 2), (k - 2, k + 3)):
@@ -464,6 +469,8 @@ def main():
         raise SystemExit("No voiceover.* audio file in project folder.")
 
     settings = json.loads((proj / "settings.json").read_text()) if (proj / "settings.json").exists() else {}
+    global LONGFORM
+    LONGFORM = settings.get("layout") == "landscape"
     al = align(voice, script, out, settings.get("speech_check", True))
     print(f"aligned {len(al)} words")
     if a.align_only:

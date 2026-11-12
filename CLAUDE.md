@@ -80,6 +80,11 @@ narrator drags words and the check flags a gap with no missing text.
 
 ## Long-form 16:9 videos (e.g. projects/depression)
 
+Everything in this section applies ONLY to {"layout": "landscape"} projects
+(make_video.py's LONGFORM flag). 9:16 shorts with the 1:1 image keep their
+settings and alignment unchanged; re-aligning all 10 shorts after this change
+gave identical word times.
+
 settings.json {"layout": "landscape", "watermark": false}: full-screen
 1920x1080, no title, no captions. Voiceovers in parts are joined with ffmpeg
 concat. Audio over 4 min skips whole-file alignment and goes sentence by

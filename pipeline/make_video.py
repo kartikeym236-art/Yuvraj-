@@ -296,8 +296,9 @@ def srt_time(x):
     return f"{int(x//3600):02}:{int(x%3600//60):02}:{int(x%60):02},{int(round(x%1*1000)):03}"
 
 
-def build_ass(title, script, al, speed, dur, out):
+def build_ass(title, script, al, speed, dur, out, captions="reel"):
     clean = lambda t: re.sub(r"[,.:;\"“”‘’—–]|^'|'$", "", t) or t
+    classic = captions == "classic"     # older style: UPPERCASE Inter Black centred on the image, pop-in
     cap_size = 60                       # Montserrat ExtraBold; half the reference-reel size (user asked 50%)
     ev, srt, i = [], [], 0
     for disp, ws in tokens(script):
@@ -308,8 +309,9 @@ def build_ass(title, script, al, speed, dur, out):
         # numbers keep inner commas (1,400); other words lose , . : ; quotes and dashes
         w = re.sub(r"[,.:;\"“”—–]+$|^[\"“]", "", disp) if re.search(r"\d", disp) else clean(disp)
         ev.append(f"Dialogue: 1,{ass_time(s)},{ass_time(end)},Cap,,0,0,0,,"
-                  f"{{\\pos({W//2},{CAP_Y})}}{w.lower()}")
-        srt.append(f"{len(srt)+1}\n{srt_time(s)} --> {srt_time(end)}\n{w.lower()}\n")
+                  + (f"{{\\pos({W//2},{IMG_Y + IMG//2})\\fscx85\\fscy85\\t(0,80,\\fscx100\\fscy100)}}{w.upper()}"
+                     if classic else f"{{\\pos({W//2},{CAP_Y})}}{w.lower()}"))
+        srt.append(f"{len(srt)+1}\n{srt_time(s)} --> {srt_time(end)}\n{w.upper() if classic else w.lower()}\n")
     if title:
         t = re.sub(r"\*(.+?)\*", lambda m: f"{{\\c{YELLOW}}}{m.group(1)}{{\\c&H00FFFFFF}}", title.strip())
         plain = len(re.sub(r"\*", "", title.strip()))
@@ -326,7 +328,8 @@ WrapStyle: 2
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Cap,Montserrat ExtraBold,{cap_size},&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,5,4,5,0,0,0,1
+{"Style: Cap,Inter Black,49,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,1,0,1,4,2,5,0,0,0,1" if classic else
+  f"Style: Cap,Montserrat ExtraBold,{cap_size},&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,5,4,5,0,0,0,1"}
 Style: Title,Inter Display Black,66,&H00FFFFFF,&H00FFFFFF,&H00000000,&H99000000,-1,0,0,0,100,100,-1,0,1,0,4,2,0,0,0,1
 
 [Events]
@@ -377,7 +380,7 @@ def main():
     ap.add_argument("--speed", type=float, default=1.10)
     ap.add_argument("--music-from", choices=["start", "middle", "end"],
                     help="use the start or the last segment of the music (default: settings.json, else start)")
-    ap.add_argument("--max-gap", type=float, default=0.3,
+    ap.add_argument("--max-gap", type=float, default=None,
                     help="longest pause kept in the voiceover, seconds (0 = keep pauses as recorded)")
     ap.add_argument("--align-only", action="store_true", help="stop after alignment (to write scenes.json)")
     a = ap.parse_args()
@@ -389,14 +392,15 @@ def main():
     if not voice:
         raise SystemExit("No voiceover.* audio file in project folder.")
 
+    settings = json.loads((proj / "settings.json").read_text()) if (proj / "settings.json").exists() else {}
     al = align(voice, script, out)
     print(f"aligned {len(al)} words")
     if a.align_only:
         return
-    if a.max_gap > 0:
-        voice, al, cut = tighten(voice, al, out, a.max_gap)
-        print(f"trimmed {cut:.1f}s of pauses (max gap {a.max_gap}s)")
-    settings = json.loads((proj / "settings.json").read_text()) if (proj / "settings.json").exists() else {}
+    max_gap = a.max_gap if a.max_gap is not None else settings.get("max_gap", 0.3)
+    if max_gap > 0:
+        voice, al, cut = tighten(voice, al, out, max_gap)
+        print(f"trimmed {cut:.1f}s of pauses (max gap {max_gap}s)")
     clean_dir, wm = clean_images(proj / "images", out, settings.get("watermark", True))
     print(f"watermark removed from {sum(wm.values())}/{len(wm)} images")
     scenes = json.loads((proj / "scenes.json").read_text())
@@ -405,7 +409,7 @@ def main():
         raise SystemExit(f"scenes.json references missing images: {missing}")
     dur = duration(voice) / a.speed
     rows = timeline(scenes, al, duration(voice), out)   # original-audio seconds; setpts speeds video
-    ass = build_ass(title, script, al, a.speed, dur, out)
+    ass = build_ass(title, script, al, a.speed, dur, out, settings.get("captions", "reel"))
     music_from = a.music_from or settings.get("music", "start")
     mp4 = render(rows, clean_dir, voice, music, ass, a.speed, dur, out, proj.name, music_from)
     print(f"done: {mp4}  ({dur:.1f}s)")

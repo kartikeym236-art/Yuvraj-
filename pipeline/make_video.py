@@ -394,7 +394,16 @@ def main():
         raise SystemExit("No voiceover.* audio file in project folder.")
 
     settings = json.loads((proj / "settings.json").read_text()) if (proj / "settings.json").exists() else {}
-    al = align(voice, script, out, settings.get("speech_check", True))
+    if (proj / "alignment.json").exists():
+        # word times from an outside aligner (e.g. Whisper, for Hindi or voice over music):
+        # [[spoken_word, start, end], ...] in script order
+        al = [tuple(w) for w in json.loads((proj / "alignment.json").read_text(encoding="utf-8"))]
+        words = spoken(script)
+        if [w for w, _, _ in al] != words:
+            raise SystemExit(f"alignment.json has {len(al)} words, script.txt has {len(words)}; they must match")
+        (out / "word_alignment.json").write_text(json.dumps(al))
+    else:
+        al = align(voice, script, out, settings.get("speech_check", True))
     print(f"aligned {len(al)} words")
     if a.align_only:
         return

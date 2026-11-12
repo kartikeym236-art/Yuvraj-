@@ -316,9 +316,9 @@ def build_ass(title, script, al, speed, dur, out, captions="classic", font=None,
     if title:
         t = re.sub(r"\*(.+?)\*", lambda m: f"{{\\c{YELLOW}}}{m.group(1)}{{\\c&H00FFFFFF}}", title.strip())
         plain = len(re.sub(r"\*", "", title.strip()))
-        size = min(66, int(66 * 29 / max(plain, 1))) if not font else 92   # Devanagari runs narrower; user asked bigger   # 66px fits ~29 chars on one line
+        size = min(66, int(66 * 29 / max(plain, 1))) if not font else 146   # Hindi title ~70% of frame width (user)   # 66px fits ~29 chars on one line
         ev.append(f"Dialogue: 0,{ass_time(0)},{ass_time(dur + 1)},Title,,0,0,0,,"
-                  f"{{\\pos({W//2},{IMG_Y - 28})\\fs{size}}}{t}")
+                  f"{{\\pos({W//2},{IMG_Y + 8 if font else IMG_Y - 28})\\fs{size}}}{t}")
     (out / "words.srt").write_text("\n".join(srt))
     ass = out / "subs.ass"
     ass.write_text(f"""[Script Info]

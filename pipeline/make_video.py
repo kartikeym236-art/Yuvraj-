@@ -99,7 +99,7 @@ def _recognise(data):
             for s in d.seg() if s.word[0] not in "<[" ]
 
 
-def align(voice, script, out):
+def align(voice, script, out, check_speech=True):
     """Word-level forced alignment of script.txt to the voiceover.
 
     Tries the whole script at once; if pocketsphinx gives up (long or slightly
@@ -120,7 +120,8 @@ def align(voice, script, out):
         al = _align_chunk(data, words, 0.0)
     except RuntimeError:
         al = _align_by_sentence(data, script, words)
-    _check_unscripted_speech(data, al)
+    if check_speech:
+        _check_unscripted_speech(data, al)
     (out / "word_alignment.json").write_text(json.dumps(al))
     return al
 
@@ -149,7 +150,7 @@ def _align_by_sentence(data, script, words):
     sents, cur = [], []
     for disp, ws in tokens(script):
         cur += ws
-        if re.search(r"[.!?][\"'”’)\]]*$", disp) and cur:
+        if re.search(r"[.!?\u0964][\"'”’)\]]*$", disp) and cur:
             sents.append(cur); cur = []
     if cur:
         sents.append(cur)
@@ -296,8 +297,8 @@ def srt_time(x):
     return f"{int(x//3600):02}:{int(x%3600//60):02}:{int(x%60):02},{int(round(x%1*1000)):03}"
 
 
-def build_ass(title, script, al, speed, dur, out, captions="classic"):
-    clean = lambda t: re.sub(r"[,.:;\"“”‘’—–]|^'|'$", "", t) or t
+def build_ass(title, script, al, speed, dur, out, captions="classic", font=None):
+    clean = lambda t: re.sub(r"[,.:;\"“”‘’—–\u0964]|^'|'$", "", t) or t
     classic = captions == "classic"     # older style: UPPERCASE Inter Black centred on the image, pop-in
     cap_size = 60                       # Montserrat ExtraBold; half the reference-reel size (user asked 50%)
     ev, srt, i = [], [], 0
@@ -328,9 +329,9 @@ WrapStyle: 2
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-{"Style: Cap,Inter Black,49,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,1,0,1,4,2,5,0,0,0,1" if classic else
+{f"Style: Cap,{font or 'Inter Black'},{56 if font else 49},&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,1,0,1,4,2,5,0,0,0,1" if classic else
   f"Style: Cap,Montserrat ExtraBold,{cap_size},&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,5,4,5,0,0,0,1"}
-Style: Title,Inter Display Black,66,&H00FFFFFF,&H00FFFFFF,&H00000000,&H99000000,-1,0,0,0,100,100,-1,0,1,0,4,2,0,0,0,1
+Style: Title,{font or "Inter Display Black"},66,&H00FFFFFF,&H00FFFFFF,&H00000000,&H99000000,-1,0,0,0,100,100,-1,0,1,0,4,2,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -393,7 +394,7 @@ def main():
         raise SystemExit("No voiceover.* audio file in project folder.")
 
     settings = json.loads((proj / "settings.json").read_text()) if (proj / "settings.json").exists() else {}
-    al = align(voice, script, out)
+    al = align(voice, script, out, settings.get("speech_check", True))
     print(f"aligned {len(al)} words")
     if a.align_only:
         return
@@ -410,7 +411,7 @@ def main():
     speed = a.speed or settings.get("speed", 1.10)
     dur = duration(voice) / speed
     rows = timeline(scenes, al, duration(voice), out)   # original-audio seconds; setpts speeds video
-    ass = build_ass(title, script, al, speed, dur, out, settings.get("captions", "classic"))
+    ass = build_ass(title, script, al, speed, dur, out, settings.get("captions", "classic"), settings.get("font"))
     music_from = a.music_from or settings.get("music", "start")
     mp4 = render(rows, clean_dir, voice, music, ass, speed, dur, out, proj.name, music_from)
     print(f"done: {mp4}  ({dur:.1f}s)")

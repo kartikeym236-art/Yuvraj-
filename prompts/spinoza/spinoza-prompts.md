@@ -2,7 +2,7 @@
 
 Estimated total length: 66 s.
 
-49 scenes, each covering 0.5–2 s of narration (estimated at 3 words/sec).
+50 scenes, each covering 0.5–2 s of narration (estimated at 3 words/sec).
 Each code block is a complete prompt. Copy it in one click and paste it into your image tool.
 
 Tip: generate Scene 1 first, then upload it as a reference in the same chat for the rest ("keep this exact art style and characters").
@@ -706,9 +706,9 @@ NARRATION FOR THIS IMAGE: "to experience itself." (the sentence so far: "You are
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 46  ·  60.3s – 62.7s  (2.3s)
+## Scene 46  ·  60.3s – 61.7s  (1.3s)
 
-> So the next time you look up
+> So the next time
 
 ```
 STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still from an emotional animated short. Characters are drawn in a clean cartoon style: bold uniform black ink outlines (about 4px), large round head slightly wider than tall, flat peach-orange skin with a soft pink blush circle on the cheeks, tiny solid black oval dot eyes with no pupils or highlights, thick short curved eyebrows that carry all the emotion, small simple line mouth, almost no nose, small rounded hands with clear finger outlines, flat colours with only one soft shadow tone. Backgrounds are MORE detailed and semi-realistic than the characters: real locations painted with soft muted colours, light film grain / paper-noise texture over the whole image, gentle natural light, slightly desaturated palette (dusty blues, greys, beige, faded greens), mild depth of field so background figures are smaller and softer. Cinematic composition, quiet and dramatic storytelling mood.
@@ -716,14 +716,31 @@ STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still
 CHARACTERS:
 YOU (main character): Indian man in his early 20s, slim, big messy curly black hair, dot eyes, thick dark eyebrows, peach skin with pink blush. Wears a muted teal-green full-sleeve button shirt with sleeves rolled to the elbows, untucked, dark charcoal trousers, off-white sneakers.
 
-SCENE: YOU lie on a rooftop at night, looking up at the sky. Camera: medium shot from the side.
+SCENE: Another night: YOU climb the stairs onto an Indian rooftop with water tanks, a cup of chai in hand. Camera: medium shot.
 
-NARRATION FOR THIS IMAGE: "So the next time you look up". The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
+NARRATION FOR THIS IMAGE: "So the next time". The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 47  ·  62.7s – 63.7s  (1.0s)
+## Scene 47  ·  61.7s – 62.7s  (1.0s)
+
+> you look up
+
+```
+STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still from an emotional animated short. Characters are drawn in a clean cartoon style: bold uniform black ink outlines (about 4px), large round head slightly wider than tall, flat peach-orange skin with a soft pink blush circle on the cheeks, tiny solid black oval dot eyes with no pupils or highlights, thick short curved eyebrows that carry all the emotion, small simple line mouth, almost no nose, small rounded hands with clear finger outlines, flat colours with only one soft shadow tone. Backgrounds are MORE detailed and semi-realistic than the characters: real locations painted with soft muted colours, light film grain / paper-noise texture over the whole image, gentle natural light, slightly desaturated palette (dusty blues, greys, beige, faded greens), mild depth of field so background figures are smaller and softer. Cinematic composition, quiet and dramatic storytelling mood.
+
+CHARACTERS:
+YOU (main character): Indian man in his early 20s, slim, big messy curly black hair, dot eyes, thick dark eyebrows, peach skin with pink blush. Wears a muted teal-green full-sleeve button shirt with sleeves rolled to the elbows, untucked, dark charcoal trousers, off-white sneakers.
+
+SCENE: YOU lie on the rooftop mat and tilt his head up toward the sky. Camera: medium shot from the side.
+
+NARRATION FOR THIS IMAGE: "you look up" (the sentence so far: "So the next time you look up"). The picture must show literally and clearly what these words say, so a viewer instantly connects the image to the line being spoken. Show only what has been said up to this point; do not show or hint at anything that comes later in the story. Do not write these words or any text in the image.
+
+AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
+```
+
+## Scene 48  ·  62.7s – 63.7s  (1.0s)
 
 > at the stars,
 
@@ -737,7 +754,7 @@ NARRATION FOR THIS IMAGE: "at the stars," (the sentence so far: "So the next tim
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 48  ·  63.7s – 65.0s  (1.3s)
+## Scene 49  ·  63.7s – 65.0s  (1.3s)
 
 > remember you are just
 
@@ -754,7 +771,7 @@ NARRATION FOR THIS IMAGE: "remember you are just" (the sentence so far: "So the 
 AVOID: any readable text, letters, numbers, captions, subtitles, brand logos, watermarks, signatures or speech bubbles (screens, signs, papers and newspapers show only blank blocks, lines and simple shapes); realistic or 3D human faces; photorealism; anime big eyes; Pixar/3D render look; extra fingers or deformed hands; glossy plastic skin; neon or oversaturated colours; borders or frames around the image.
 ```
 
-## Scene 49  ·  65.0s – 66.3s  (1.3s)
+## Scene 50  ·  65.0s – 66.3s  (1.3s)
 
 > looking in a mirror.
 

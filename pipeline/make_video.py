@@ -296,7 +296,7 @@ def srt_time(x):
     return f"{int(x//3600):02}:{int(x%3600//60):02}:{int(x%60):02},{int(round(x%1*1000)):03}"
 
 
-def build_ass(title, script, al, speed, dur, out, captions="reel"):
+def build_ass(title, script, al, speed, dur, out, captions="classic"):
     clean = lambda t: re.sub(r"[,.:;\"“”‘’—–]|^'|'$", "", t) or t
     classic = captions == "classic"     # older style: UPPERCASE Inter Black centred on the image, pop-in
     cap_size = 60                       # Montserrat ExtraBold; half the reference-reel size (user asked 50%)
@@ -377,7 +377,7 @@ def render(rows, clean_dir, voice, music, ass, speed, dur, out, name, music_from
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("project", type=Path)
-    ap.add_argument("--speed", type=float, default=1.10)
+    ap.add_argument("--speed", type=float, default=None)
     ap.add_argument("--music-from", choices=["start", "middle", "end"],
                     help="use the start or the last segment of the music (default: settings.json, else start)")
     ap.add_argument("--max-gap", type=float, default=None,
@@ -407,11 +407,12 @@ def main():
     missing = [s["image"] for s in scenes if not (proj / "images" / s["image"]).exists()]
     if missing:
         raise SystemExit(f"scenes.json references missing images: {missing}")
-    dur = duration(voice) / a.speed
+    speed = a.speed or settings.get("speed", 1.10)
+    dur = duration(voice) / speed
     rows = timeline(scenes, al, duration(voice), out)   # original-audio seconds; setpts speeds video
-    ass = build_ass(title, script, al, a.speed, dur, out, settings.get("captions", "reel"))
+    ass = build_ass(title, script, al, speed, dur, out, settings.get("captions", "classic"))
     music_from = a.music_from or settings.get("music", "start")
-    mp4 = render(rows, clean_dir, voice, music, ass, a.speed, dur, out, proj.name, music_from)
+    mp4 = render(rows, clean_dir, voice, music, ass, speed, dur, out, proj.name, music_from)
     print(f"done: {mp4}  ({dur:.1f}s)")
 
 

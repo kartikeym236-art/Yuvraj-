@@ -15,6 +15,8 @@ own scene: merge them into the neighbouring line that has something to show,
 even if that scene then runs 1.3–2 s (the builder warns outside 0.5–2 s).
 Every prompt repeats the full style, character and avoid blocks so it can be
 copied in one click. Describe real people and film characters by look, not name.
+**When the user sends a transcript, use it as-is for the prompts**: don't check it
+against the audio or transcribe the audio yourself unless they ask.
 **Each image must literally show what its line says** (the noun or action in the
 words, or the next step of that sentence's idea), not a loose metaphor or a
 generic filler shot. **Never show anything from a later line**: a short line

@@ -52,7 +52,10 @@ run `python pipeline/crop_borders.py projects/<name>/images` to strip the
 cream frames it often draws, view every image, and regenerate bad ones. These
 images have no sparkle: set {"watermark": false}.
 
-## Posting to Instagram (things__explained, via Composio, when asked)
+## Posting to Instagram (via Composio, when asked)
+
+Accounts: things__explained (English, account id instagram_teet-agama) and
+chize_samjho (Hindi, instagram_bar-inca); pass `account=` to pick one.
 
 Stage the MP4 in the Composio workbench (download the raw GitHub URL of the
 pushed file, `upload_local_file`), then INSTAGRAM_POST_IG_USER_MEDIA with

@@ -553,7 +553,7 @@ def main():
     missing = [s["image"] for s in scenes if not (proj / "images" / s["image"]).exists()]
     if missing:
         raise SystemExit(f"scenes.json references missing images: {missing}")
-    speed = a.speed or settings.get("speed", 1.10)
+    speed = a.speed or settings.get("speed", 1.0)
     dur = duration(voice) / speed
     rows = timeline(scenes, al, duration(voice), out)   # original-audio seconds; setpts speeds video
     ass = build_ass(title, script, al, speed, dur, out, settings.get("captions", "classic"), settings.get("font"), settings.get("caption_position"))

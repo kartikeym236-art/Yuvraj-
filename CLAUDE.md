@@ -146,7 +146,7 @@ shots were mapped onto it word by word. MP4s over 100 MB can't be pushed
   and tail) is capped at 0.3 s before speed-up (`--max-gap`, 0 turns it off).
   Word times are remapped, so captions and cuts stay in sync. A re-alignment
   check agreed to within 30 ms.
-- Speed 1.10x (video `setpts`, audio `atempo`, so pitch is kept).
+- Speed 1.0x: NO speed-up (user, Nov 2026). {"speed": x} in settings.json still overrides per video.
 - Title: Inter Display Black 66px, white with soft shadow, highlighted word in
   yellow #FFC816, centred just above the image, shown the whole video,
   auto-shrinks to fit one line.

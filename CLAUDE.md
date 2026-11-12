@@ -52,6 +52,17 @@ run `python pipeline/crop_borders.py projects/<name>/images` to strip the
 cream frames it often draws, view every image, and regenerate bad ones. These
 images have no sparkle: set {"watermark": false}.
 
+## Posting to Instagram (things__explained, via Composio, when asked)
+
+Stage the MP4 in the Composio workbench (download the raw GitHub URL of the
+pushed file, `upload_local_file`), then INSTAGRAM_POST_IG_USER_MEDIA with
+`video_file` {s3key} + media_type REELS + share_to_feed, then
+INSTAGRAM_POST_IG_USER_MEDIA_PUBLISH (processing takes ~90 s; run long steps in
+a background thread, since the client times out at 60 s). Write hashtags with a
+plain `#`: the tool docs say `%23`, but that posts literally "%23" and captions
+can't be edited afterwards. Stories must be 60 s or shorter: cut at a sentence end
+and add a "FULL VIDEO ON OUR PAGE" end card (warm/out/warm_story.mp4).
+
 ## Steps
 
 1. `pip install -q pocketsphinx opencv-python-headless` (if not already installed).

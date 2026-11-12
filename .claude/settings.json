@@ -1,0 +1,1 @@
+{"permissions":{"allow":["mcp__Composio","Bash(git add:*)","Bash(git commit:*)","Bash(git push -q origin ccr-*)","Bash(git push -u origin ccr-*)","Bash(git fetch:*)","Bash(git merge:*)","Bash(git mv:*)","Bash(python3:*)","Bash(ffmpeg:*)","Bash(ffprobe:*)","Bash(curl:*)","Bash(pip install:*)","SendUserFile"]}}

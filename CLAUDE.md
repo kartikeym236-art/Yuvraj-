@@ -16,6 +16,10 @@ projects/<name>/
                 track's last segment so its ending lands on the video's end,
                 {"watermark": false} for images with no Gemini sparkle
                 (e.g. screenshots sent in chat), avoiding false detections
+                (mixed sets are fine with detection on: it only touches marked
+                images), {"captions": "classic"} for the older uppercase Inter
+                Black centred captions with pop-in, {"max_gap": 0.15} to change
+                the pause cap for one video
   title.txt     top caption, e.g.  BURIDAN ASS PARADOX *EXPLAINED*   (*word* = yellow)
   script.txt    exact voiceover text (needed for word timing)
 ```

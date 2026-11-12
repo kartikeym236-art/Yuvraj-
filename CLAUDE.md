@@ -80,6 +80,16 @@ story) with INSTAGRAM_POST_IG_MEDIA_COMMENTS: "These reels are made using AI.
 Learn to make your own (Link in Bio)". The API has no pin endpoint: remind the
 user to pin it in the app.
 
+## First image = the hook (user, Nov 2026)
+
+Instagram's skip rate counts swipes in the first 3 s (Brain storage: 59.7%
+with a calm narrator-at-desk opener; Nov 13: 39.4% with a blood-red city and
+a scared crowd). Scene 1 (and the first ~3 s) must be the most dramatic,
+eye-catching image of the reel: high stakes, strong colour/contrast, motion
+or danger, a striking close-up, never a calm narrator shot or plain setup.
+Generate it with extra care (regenerate until it pops). The user writes a
+strong first line; Claude makes the first image match it.
+
 ## Hindi videos
 
 Put the user's Hindi transcript in projects/<name>/transcript.txt and run

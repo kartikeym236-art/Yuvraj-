@@ -72,7 +72,7 @@ phones to extra_dict.txt, so the English aligner times Hindi speech (238/238
 words on the swarg video). Write numbers as {1,72,000|एक लाख बहत्तर हज़ार}.
 settings.json: {"font": "Noto Sans Devanagari Black"} (bundled). Hindi needs
 letter spacing 0: any spacing breaks Devanagari shaping into dotted circles,
-so the font override turns it off. Use {"speech_check": false} if the
+so the font override turns it off. Hindi videos: {"caption_position": "below"} puts captions just under the image (per the user). Use {"speech_check": false} if the
 narrator drags words and the check flags a gap with no missing text.
 
 ## Steps

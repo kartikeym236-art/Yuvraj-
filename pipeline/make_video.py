@@ -297,7 +297,7 @@ def srt_time(x):
     return f"{int(x//3600):02}:{int(x%3600//60):02}:{int(x%60):02},{int(round(x%1*1000)):03}"
 
 
-def build_ass(title, script, al, speed, dur, out, captions="classic", font=None):
+def build_ass(title, script, al, speed, dur, out, captions="classic", font=None, cap_pos=None):
     clean = lambda t: re.sub(r"[,.:;\"“”‘’—–\u0964]|^'|'$", "", t) or t
     classic = captions == "classic"     # older style: UPPERCASE Inter Black centred on the image, pop-in
     cap_size = 60                       # Montserrat ExtraBold; half the reference-reel size (user asked 50%)
@@ -310,7 +310,7 @@ def build_ass(title, script, al, speed, dur, out, captions="classic", font=None)
         # numbers keep inner commas (1,400); other words lose , . : ; quotes and dashes
         w = re.sub(r"[,.:;\"“”—–]+$|^[\"“]", "", disp) if re.search(r"\d", disp) else clean(disp)
         ev.append(f"Dialogue: 1,{ass_time(s)},{ass_time(end)},Cap,,0,0,0,,"
-                  + (f"{{\\pos({W//2},{IMG_Y + IMG//2})\\fscx85\\fscy85\\t(0,80,\\fscx100\\fscy100)}}{w.upper()}"
+                  + (f"{{\\pos({W//2},{IMG_Y + IMG + 75 if cap_pos == 'below' else IMG_Y + IMG//2})\\fscx85\\fscy85\\t(0,80,\\fscx100\\fscy100)}}{w.upper()}"
                      if classic else f"{{\\pos({W//2},{CAP_Y})}}{w.lower()}"))
         srt.append(f"{len(srt)+1}\n{srt_time(s)} --> {srt_time(end)}\n{w.upper() if classic else w.lower()}\n")
     if title:
@@ -411,7 +411,7 @@ def main():
     speed = a.speed or settings.get("speed", 1.10)
     dur = duration(voice) / speed
     rows = timeline(scenes, al, duration(voice), out)   # original-audio seconds; setpts speeds video
-    ass = build_ass(title, script, al, speed, dur, out, settings.get("captions", "classic"), settings.get("font"))
+    ass = build_ass(title, script, al, speed, dur, out, settings.get("captions", "classic"), settings.get("font"), settings.get("caption_position"))
     music_from = a.music_from or settings.get("music", "start")
     mp4 = render(rows, clean_dir, voice, music, ass, speed, dur, out, proj.name, music_from)
     print(f"done: {mp4}  ({dur:.1f}s)")

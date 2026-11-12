@@ -78,6 +78,17 @@ letter spacing 0: any spacing breaks Devanagari shaping into dotted circles,
 so the font override turns it off. Use {"speech_check": false} if the
 narrator drags words and the check flags a gap with no missing text.
 
+## Long-form 16:9 videos (e.g. projects/depression)
+
+settings.json {"layout": "landscape", "watermark": false}: full-screen
+1920x1080, no title, no captions. Voiceovers in parts are joined with ffmpeg
+concat. Audio over 4 min skips whole-file alignment and goes sentence by
+sentence, with recognition and alignment run in parallel (16 min audio: ~2
+min). Check the audio really says the script: the part-1 voiceover here used
+the rewritten script on branch ccr-51f21acf, not the pasted text; storyboard
+shots were mapped onto it word by word. MP4s over 100 MB can't be pushed
+(GitHub limit), so they're git-ignored and just sent.
+
 ## Steps
 
 1. `pip install -q pocketsphinx opencv-python-headless` (if not already installed).

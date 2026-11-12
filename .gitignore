@@ -2,3 +2,4 @@ projects/*/out/clean/
 projects/*/out/*.raw
 projects/*/out/*.wav
 __pycache__/
+projects/depression/out/depression.mp4

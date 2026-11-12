@@ -39,11 +39,14 @@ def find(proj, stem):
 
 def decoder():
     d = Decoder(samprate=16000, loglevel="FATAL")
+    new = []
     for line in (HERE / "extra_dict.txt").read_text().splitlines():
         if line.strip() and not line.startswith("#"):
             word, phones = line.split(None, 1)
-            if d.lookup_word(word) is None:
-                d.add_word(word, phones.strip(), True)
+            if d.lookup_word(word) is None and word not in {w for w, _ in new}:
+                new.append((word, phones.strip()))
+    for i, (word, phones) in enumerate(new):   # rebuild the search graph once, not per word
+        d.add_word(word, phones, i == len(new) - 1)
     return d
 
 
@@ -56,8 +59,8 @@ def tokens(text):
     for m in re.finditer(r"\{([^|{}]+)\|([^{}]+)\}(\S*)|\S+", text):
         if m.group(1):
             out.append((m.group(1) + m.group(3), [norm(x) for x in m.group(2).split() if norm(x)]))
-        elif norm(m.group(0)):
-            out.append((m.group(0), [norm(m.group(0))]))
+        elif norm(m.group(0)):   # hyphenated words are spoken as separate words
+            out.append((m.group(0), [norm(x) for x in re.split(r"[-\u2013]", m.group(0)) if norm(x)]))
         elif re.search(r"\d", m.group(0)):
             raise SystemExit(f"Number {m.group(0)!r} needs its spoken form, e.g. {{2017|twenty seventeen}}")
     return out
@@ -68,7 +71,7 @@ def spoken(text):
 
 
 def norm(w):
-    return re.sub(r"[^a-z']", "", w.lower())
+    return re.sub(r"[^a-z']", "", w.lower()).strip("'")
 
 
 def duration(path):
@@ -92,11 +95,48 @@ def _align_chunk(data, words, offset, pad=0.3):
     return al
 
 
-def _recognise(data):
+def _recognise_one(args):
+    data, offset = args
     d = decoder()
     d.start_utt(); d.process_raw(data, full_utt=True); d.end_utt()
-    return [(re.sub(r"\(\d+\)", "", s.word), s.start_frame / 100, s.end_frame / 100)
+    return [(re.sub(r"\(\d+\)", "", s.word), offset + s.start_frame / 100, offset + s.end_frame / 100)
             for s in d.seg() if s.word[0] not in "<[" ]
+
+
+def _split_points(data, target=45.0):
+    """Cut long audio near every `target` seconds, at the quietest 50 ms inside a 6 s window."""
+    x = np.frombuffer(data, np.int16).astype(np.float32)
+    total = len(x) / 16000
+    cuts, t = [0.0], target
+    while t < total - 10:
+        a, b = int((t - 3) * 16000), int((t + 3) * 16000)
+        win = x[a:b]
+        e = [float(np.abs(win[i:i + 800]).mean()) for i in range(0, len(win) - 800, 400)]
+        cuts.append((a + 400 * int(np.argmin(e)) + 400) / 16000)
+        t = cuts[-1] + target
+    cuts.append(total)
+    return cuts
+
+
+def _recognise(data):
+    if len(data) / 32000 <= 90:
+        return _recognise_one((data, 0.0))
+    from multiprocessing import Pool
+    cuts = _split_points(data)
+    parts = [(data[int(a * 16000) * 2:int(b * 16000) * 2], a) for a, b in zip(cuts, cuts[1:])]
+    with Pool() as pool:
+        return [w for chunk in pool.map(_recognise_one, parts) for w in chunk]
+
+
+def _align_sent(args):
+    piece, s, base, a0, b0, total = args       # piece = audio from base, with 0.6 s margin each side
+    for pad in (0.0, 0.3, 0.6):
+        a, b = max(a0 - pad, 0), min(b0 + pad, total)
+        try:
+            return _align_chunk(piece[int((a - base) * 16000) * 2:int((b - base) * 16000) * 2], s, a)
+        except RuntimeError:
+            continue
+    return None
 
 
 def align(voice, script, out, check_speech=True):
@@ -117,6 +157,8 @@ def align(voice, script, out, check_speech=True):
         raise SystemExit(f"Words not in pronunciation dictionary: {oov}. "
                          "Add them to pipeline/extra_dict.txt, or write {Jensen|jen sen} in script.txt.")
     try:
+        if len(data) / 32000 > 240:      # long audio: whole-file alignment is far too slow
+            raise RuntimeError("long")
         al = _align_chunk(data, words, 0.0)
     except RuntimeError:
         al = _align_by_sentence(data, script, words)
@@ -169,17 +211,35 @@ def _align_by_sentence(data, script, words):
         nxt = min((t_of[i][1] for i in range(idx, len(words)) if i in t_of), default=total)
         bounds.append(max((prev + nxt) / 2, bounds[-1]))
     bounds.append(total)
+    from multiprocessing import Pool
+    jobs = []
+    for k, s in enumerate(sents):          # send each worker only its slice of audio
+        base = max(bounds[k] - 0.6, 0)
+        piece = data[int(base * 16000) * 2:int(min(bounds[k + 1] + 0.6, total) * 16000) * 2]
+        jobs.append((piece, s, base, bounds[k], bounds[k + 1], total))
+    with Pool() as pool:
+        res = pool.map(_align_sent, jobs)
+    # retry failures together with their neighbours (cut points can land inside a short sentence)
+    for k in [k for k, r in enumerate(res) if r is None]:
+        if res[k] is not None:
+            continue
+        for lo, hi in ((k - 1, k + 1), (k, k + 2), (k - 1, k + 2), (k - 2, k + 3)):
+            lo, hi = max(lo, 0), min(hi, len(sents))
+            ws = [w for s in sents[lo:hi] for w in s]
+            a, b = bounds[lo], bounds[hi]
+            r = _align_sent((data[int(max(a - 0.6, 0) * 16000) * 2:int(min(b + 0.6, total) * 16000) * 2],
+                             ws, max(a - 0.6, 0), a, b, total))
+            if r is not None:
+                res[lo] = r
+                for j in range(lo + 1, hi):
+                    res[j] = []
+                break
     al, bad = [], []
-    for k, s in enumerate(sents):
-        for pad in (0.0, 0.3, 0.6):
-            a, b = max(bounds[k] - pad, 0), min(bounds[k + 1] + pad, total)
-            chunk = data[int(a * 16000) * 2:int(b * 16000) * 2]
-            try:
-                al += _align_chunk(chunk, s, a); break
-            except RuntimeError:
-                continue
-        else:
+    for s, r in zip(sents, res):
+        if r is None:
             bad.append(" ".join(s))
+        else:
+            al += r
     if bad:
         raise SystemExit("These sentences don't match the audio; check script.txt against the voiceover:\n  "
                          + "\n  ".join(bad))
@@ -254,6 +314,9 @@ def clean_images(img_dir, out, enabled=True):
         if p.suffix.lower() not in (".jpg", ".jpeg", ".png", ".webp"):
             continue
         img = cv2.imread(str(p), cv2.IMREAD_COLOR)
+        if not enabled:   # keep original size/aspect (e.g. 16:9 landscape scenes)
+            cv2.imwrite(str(dst / (p.stem + ".jpg")), img, [cv2.IMWRITE_JPEG_QUALITY, 95]); report[p.name] = False
+            continue
         img = cv2.resize(img, (1024, 1024), interpolation=cv2.INTER_AREA) if img.shape[:2] != (1024, 1024) else img
         f = img.astype(float)
         win = f[C-R:C+R, C-R:C+R]
@@ -339,7 +402,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     return ass
 
 
-def render(rows, clean_dir, voice, music, ass, speed, dur, out, name, music_from="start"):
+def render(rows, clean_dir, voice, music, ass, speed, dur, out, name, music_from="start", layout="short"):
     concat = out / "scenes.ffconcat"
     lines = ["ffconcat version 1.0"]
     for r in rows:
@@ -347,8 +410,15 @@ def render(rows, clean_dir, voice, music, ass, speed, dur, out, name, music_from
     lines.append(f"file '{(clean_dir / (Path(rows[-1]['image']).stem + '.jpg')).resolve()}'")
     concat.write_text("\n".join(lines) + "\n")
     inputs = ["-f", "concat", "-safe", "0", "-i", str(concat), "-i", str(voice)]
-    fc = (f"[0:v]scale={IMG}:{IMG},setpts=PTS/{speed},fps=30,pad={W}:{H}:0:{IMG_Y}:black,"
-          f"ass={ass}:fontsdir={HERE / 'fonts'},format=yuv420p[v];"
+    if layout == "landscape":   # full-screen 16:9, no title or captions
+        vf = (f"[0:v]scale=1920:1080:force_original_aspect_ratio=increase,crop=1920:1080,setsar=1,"
+              f"setpts=PTS/{speed},fps=30,format=yuv420p[v];")
+    else:
+        vf = None
+    if vf is None:
+        vf = (f"[0:v]scale={IMG}:{IMG},setpts=PTS/{speed},fps=30,pad={W}:{H}:0:{IMG_Y}:black,"
+              f"ass={ass}:fontsdir={HERE / 'fonts'},format=yuv420p[v];")
+    fc = (vf +
           f"[1:a]atempo={speed},loudnorm=I=-15:TP=-1.5:LRA=11,aresample=48000[vo];")
     if music:
         inputs += ["-stream_loop", "-1", "-i", str(music)]   # loops if music is shorter than the video
@@ -413,7 +483,7 @@ def main():
     rows = timeline(scenes, al, duration(voice), out)   # original-audio seconds; setpts speeds video
     ass = build_ass(title, script, al, speed, dur, out, settings.get("captions", "classic"), settings.get("font"), settings.get("caption_position"))
     music_from = a.music_from or settings.get("music", "start")
-    mp4 = render(rows, clean_dir, voice, music, ass, speed, dur, out, proj.name, music_from)
+    mp4 = render(rows, clean_dir, voice, music, ass, speed, dur, out, proj.name, music_from, settings.get("layout", "short"))
     print(f"done: {mp4}  ({dur:.1f}s)")
 
 

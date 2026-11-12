@@ -22,7 +22,7 @@ SCENES = [
     S("Humans are obsessed with rectangles.", "A busy city street where every building, window, door, sign and phone in people's hands is a rectangle, highlighted with a soft glowing outline. Camera: wide."),
     S("And everything we build and live in", "A tall apartment block made of stacked rectangular flats with rectangular windows. Camera: low angle."),
     S("from birth", "A newborn baby sleeping in a rectangular crib in a hospital nursery. Camera: medium, soft light."),
-    S("until death", "A quiet old cemetery with rectangular headstones under a tree, autumn leaves, peaceful not sad. Camera: wide."),
+    S("until death", "A simple closed rectangular wooden coffin in a quiet chapel, white lilies on its lid, soft window light. Peaceful. Camera: medium."),
     S("is a rectangle.", "NARRATOR BOY holding up a rectangular picture frame in front of his face, framing himself, amused. Camera: medium close-up.", ["BOY"]),
     S("And turns out there's", "NARRATOR BOY raising one finger with a knowing smile. Camera: medium.", ["BOY"]),
     S("a pretty cool reason why.", "A glowing rectangle shape floating above an open book like a revealed secret, sparkles around it. Camera: close-up, magical."),

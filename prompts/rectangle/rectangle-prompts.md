@@ -49,7 +49,7 @@ AVOID: any readable text, letters, numbers, captions, logos, watermarks or speec
 ```
 STYLE: Hand-drawn 2D webcomic illustration, square 1:1 frame, looks like a still from an emotional animated short. Characters: bold black ink outlines, large round heads, flat peach skin, pink blush cheeks, tiny dot eyes, thick expressive eyebrows. Backgrounds more detailed and semi-realistic, soft muted colours, light paper grain, gentle natural light, slightly desaturated palette. Cinematic composition.
 
-SCENE: A quiet old cemetery with rectangular headstones under a tree, autumn leaves, peaceful not sad. Camera: wide.
+SCENE: A simple closed rectangular wooden coffin in a quiet chapel, white lilies on its lid, soft window light. Peaceful. Camera: medium.
 
 NARRATION FOR THIS IMAGE: "until death".
 

@@ -307,7 +307,7 @@ def spoken_words(text: str) -> float:
         num = re.sub(r"[^\d.]", "", tok).strip(".")
         if not num:
             n += 1
-        elif "," not in tok and re.fullmatch(r"(1[1-9]|20)\d\d", num):   # years: 1993 -> nineteen ninety-three
+        elif not re.search(r"\d,\d", tok) and re.fullmatch(r"(1[1-9]|20)\d\d", num):   # years: 1993 -> nineteen ninety-three
             n += 3
         elif "." in num:                                 # 4.8 -> four point eight
             a, b = num.split(".", 1)

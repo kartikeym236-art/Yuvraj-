@@ -37,6 +37,8 @@ def find(proj, stem):
     return None
 
 
+EMOJI = re.compile("[\U0001F300-\U0001FAFF\u2600-\u27BF\U0001F000-\U0001F2FF]+\uFE0F?")
+
 LONGFORM = False   # set for {"layout": "landscape"} projects; 9:16 shorts keep the original behaviour
 
 
@@ -381,6 +383,8 @@ def build_ass(title, script, al, speed, dur, out, captions="classic", font=None,
                   + (f"{{\\pos({W//2},{IMG_Y + IMG + 75 if cap_pos == 'below' else IMG_Y + IMG//2})\\fscx85\\fscy85\\t(0,80,\\fscx100\\fscy100)}}{w.upper()}"
                      if classic else f"{{\\pos({W//2},{CAP_Y})}}{w.lower()}"))
         srt.append(f"{len(srt)+1}\n{srt_time(s)} --> {srt_time(end)}\n{w.upper() if classic else w.lower()}\n")
+    for f in ("title_probe.ass", "title_emoji.txt"):   # don't reuse an emoji from an earlier title
+        (out / f).unlink(missing_ok=True)
     if title:
         raw = title.strip()
         plain = len(re.sub(r"\*", "", raw))
@@ -394,6 +398,12 @@ def build_ass(title, script, al, speed, dur, out, captions="classic", font=None,
         else:
             size = min(66, int(66 * 29 / max(plain, 1))) if not font else 146   # Hindi title ~70% of frame width (user)
         t = re.sub(r"\*(.+?)\*", lambda m: f"{{\\c{YELLOW}}}{m.group(1)}{{\\c&H00FFFFFF}}", raw)
+        if EMOJI.search(t):   # libass can't draw colour emoji: keep the space, hide the glyph, overlay a PNG later
+            probe = re.sub(r"\{\\c[^}]*\}", "", t)
+            probe = "{\\alpha&HFF&}" + EMOJI.sub(lambda m: "{\\1a&H00&\\c&H00FF00&}" + m.group(0) + "{\\1a&HFF&}", probe)
+            (out / "title_probe.ass").write_text("TITLE_PROBE:" + probe, encoding="utf-8")
+            t = EMOJI.sub(lambda m: "{\\alpha&HFF&}" + m.group(0) + "{\\alpha&H00&}", t)
+            (out / "title_emoji.txt").write_text("".join(EMOJI.findall(raw)), encoding="utf-8")
         ev.append(f"Dialogue: 0,{ass_time(0)},{ass_time(dur + 1)},Title,,0,0,0,,"
                   f"{{\\pos({W//2},{IMG_Y + 8 if font else IMG_Y - 28})\\fs{size}}}{t}")
     (out / "words.srt").write_text("\n".join(srt))
@@ -416,6 +426,42 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     return ass
 
 
+
+def _emoji_overlay(ass, out):
+    """Find where the hidden title emoji sits (probe frame) and draw it as a colour PNG there."""
+    probe_f, emo_f = out / "title_probe.ass", out / "title_emoji.txt"
+    if not probe_f.exists() or not emo_f.exists():
+        return None
+    from PIL import Image, ImageFont, ImageDraw
+    body = ass.read_text(encoding="utf-8")
+    title_line = [l for l in body.splitlines() if ",Title,," in l][0]
+    head = title_line[:title_line.index(",Title,,") + len(",Title,,0,0,0,,")]
+    probe_txt = probe_f.read_text(encoding="utf-8")[len("TITLE_PROBE:"):]
+    pos = re.match(r"\{\\pos\([^)]*\)\\fs\d+\}", title_line[len(head):]).group(0)
+    ev = [l for l in body.splitlines() if not l.startswith("Dialogue:")]
+    probe_ass = out / "title_probe_run.ass"
+    probe_ass.write_text("\n".join(ev) + "\n" + head.replace("0:00:00.00", "0:00:00.00") + pos + probe_txt.replace(pos, "", 1) + "\n",
+                         encoding="utf-8")
+    frame = out / "title_probe.png"
+    subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-f", "lavfi", "-i", f"color=black:s={W}x{H}:d=1",
+                    "-vf", f"ass={probe_ass}:fontsdir={HERE / 'fonts'}", "-frames:v", "1", str(frame)], check=True)
+    a = np.asarray(Image.open(frame).convert("RGB")).astype(int)
+    mask = (a[:, :, 1] > 120) & (a[:, :, 0] < 100) & (a[:, :, 2] < 100)
+    ys, xs = np.where(mask)
+    if len(xs) == 0:
+        return None
+    x0, x1, y0, y1 = xs.min(), xs.max(), ys.min(), ys.max()
+    size = int(max(x1 - x0, y1 - y0) * 1.05)
+    font = ImageFont.truetype("/usr/share/fonts/truetype/noto/NotoColorEmoji.ttf", 109)
+    emo = emo_f.read_text(encoding="utf-8")
+    img = Image.new("RGBA", (136 * len(emo), 128), (0, 0, 0, 0))
+    ImageDraw.Draw(img).text((0, 0), emo, font=font, embedded_color=True)
+    img = img.crop(img.getbbox()).resize((size, size), Image.LANCZOS)
+    png = out / "title_emoji.png"
+    img.save(png)
+    cx, cy = (x0 + x1) // 2, (y0 + y1) // 2
+    return png, cx - size // 2, cy - size // 2
+
 def render(rows, clean_dir, voice, music, ass, speed, dur, out, name, music_from="start", layout="short"):
     concat = out / "scenes.ffconcat"
     lines = ["ffconcat version 1.0"]
@@ -429,9 +475,11 @@ def render(rows, clean_dir, voice, music, ass, speed, dur, out, name, music_from
               f"setpts=PTS/{speed},fps=30,format=yuv420p[v];")
     else:
         vf = None
+    emoji_png = None
     if vf is None:
+        emoji_png = _emoji_overlay(ass, out)
         vf = (f"[0:v]scale={IMG}:{IMG},setpts=PTS/{speed},fps=30,pad={W}:{H}:0:{IMG_Y}:black,"
-              f"ass={ass}:fontsdir={HERE / 'fonts'},format=yuv420p[v];")
+              f"ass={ass}:fontsdir={HERE / 'fonts'}" + ("[t];" if emoji_png else ",format=yuv420p[v];"))
     fc = (vf +
           f"[1:a]atempo={speed},loudnorm=I=-15:TP=-1.5:LRA=11,aresample=48000[vo];")
     if music:
@@ -451,6 +499,11 @@ def render(rows, clean_dir, voice, music, ass, speed, dur, out, name, music_from
                f"aresample=48000[bg];[vo][bg]amix=inputs=2:duration=longest:normalize=0,alimiter=limit=0.89[a]")
     else:
         fc += "[vo]alimiter=limit=0.89,aresample=48000[a]"
+    if emoji_png:
+        png, x, y = emoji_png
+        idx = inputs.count("-i")
+        inputs += ["-loop", "1", "-i", str(png)]
+        fc += f";[t][{idx}:v]overlay={x}:{y}:shortest=1,format=yuv420p[v]"
     mp4 = out / f"{name}.mp4"
     subprocess.run(["ffmpeg", "-loglevel", "error", "-y", *inputs, "-filter_complex", fc,
                     "-map", "[v]", "-map", "[a]", "-c:v", "libx264", "-crf", "20", "-preset", "medium",

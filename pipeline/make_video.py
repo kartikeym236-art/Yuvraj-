@@ -382,9 +382,18 @@ def build_ass(title, script, al, speed, dur, out, captions="classic", font=None,
                      if classic else f"{{\\pos({W//2},{CAP_Y})}}{w.lower()}"))
         srt.append(f"{len(srt)+1}\n{srt_time(s)} --> {srt_time(end)}\n{w.upper() if classic else w.lower()}\n")
     if title:
-        t = re.sub(r"\*(.+?)\*", lambda m: f"{{\\c{YELLOW}}}{m.group(1)}{{\\c&H00FFFFFF}}", title.strip())
-        plain = len(re.sub(r"\*", "", title.strip()))
-        size = min(66, int(66 * 29 / max(plain, 1))) if not font else 146   # Hindi title ~70% of frame width (user)   # 66px fits ~29 chars on one line
+        raw = title.strip()
+        plain = len(re.sub(r"\*", "", raw))
+        if not font and plain > 29:
+            # too long for one line at full size: break at the space nearest the middle (2 lines, per the user)
+            spaces = [i for i, ch in enumerate(raw) if ch == " "]
+            cut = min(spaces, key=lambda i: abs(len(re.sub(r"\*", "", raw[:i])) - plain / 2))
+            raw = raw[:cut] + "\\N" + raw[cut + 1:]
+            longest = max(len(re.sub(r"\*", "", x)) for x in raw.split("\\N"))
+            size = min(66, int(66 * 29 / max(longest, 1)))
+        else:
+            size = min(66, int(66 * 29 / max(plain, 1))) if not font else 146   # Hindi title ~70% of frame width (user)
+        t = re.sub(r"\*(.+?)\*", lambda m: f"{{\\c{YELLOW}}}{m.group(1)}{{\\c&H00FFFFFF}}", raw)
         ev.append(f"Dialogue: 0,{ass_time(0)},{ass_time(dur + 1)},Title,,0,0,0,,"
                   f"{{\\pos({W//2},{IMG_Y + 8 if font else IMG_Y - 28})\\fs{size}}}{t}")
     (out / "words.srt").write_text("\n".join(srt))

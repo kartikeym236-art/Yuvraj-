@@ -63,6 +63,18 @@ plain `#`: the tool docs say `%23`, but that posts literally "%23" and captions
 can't be edited afterwards. Stories must be 60 s or shorter: cut at a sentence end
 and add a "FULL VIDEO ON OUR PAGE" end card (warm/out/warm_story.mp4).
 
+## Hindi videos
+
+Put the user's Hindi transcript in projects/<name>/transcript.txt and run
+`python pipeline/hindi.py projects/<name>/transcript.txt`: it writes
+script.txt with every Devanagari word as {हिंदी|key} and adds approximate
+phones to extra_dict.txt, so the English aligner times Hindi speech (238/238
+words on the swarg video). Write numbers as {1,72,000|एक लाख बहत्तर हज़ार}.
+settings.json: {"font": "Noto Sans Devanagari Black"} (bundled). Hindi needs
+letter spacing 0: any spacing breaks Devanagari shaping into dotted circles,
+so the font override turns it off. Use {"speech_check": false} if the
+narrator drags words and the check flags a gap with no missing text.
+
 ## Steps
 
 1. `pip install -q pocketsphinx opencv-python-headless` (if not already installed).

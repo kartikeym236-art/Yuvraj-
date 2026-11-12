@@ -120,7 +120,8 @@ shots were mapped onto it word by word. MP4s over 100 MB can't be pushed
 3. **Match images to lines (Claude does this by looking).** Images are not in
    order. Make labelled contact sheets (12 per sheet, square tiles), view
    every image, split the script into short phrases (one per natural pause or
-   comma, roughly 1–2.5 s each), and assign the best-fitting image to each
+   comma). From now on (user, Nov 2026) each scene must last 0.5-1 s on screen
+   (after pause trimming and speed-up), so plan about 2-3 words per scene, and assign the best-fitting image to each
    phrase. Use every image exactly once. If there are more phrases than images,
    merge adjacent phrases so one image covers both; if there are more images,
    split a phrase so both images get screen time. Exact duplicate uploads

@@ -1,0 +1,15 @@
+scene,start,end,duration,line,image
+1,0.0,1.44,1.44,{मनुष्य|hxmanushy} {उन्हीं|hxunhiin} {चीजों|hxchiijon} {का|hxkaa},scene_01.jpg
+2,1.44,2.78,1.34,{विरोध|hxvirod} {करता|hxkarataa} {है|hxhai},scene_02.jpg
+3,2.78,5.7,2.92,{जिन्हें|hxjinhen} {उसने|hxusane} {स्वयं|hxsvayan} {कभी|hxkabii} {जिया|hxjiyaa} {ही|hxhii} {नहीं|hxnahiin}।,scene_03.jpg
+4,5.7,7.657,1.957,"{जिसने|hxjisane} {दुनिया|hxduniyaa} {की|hxkii} {सैर|hxsair} {की|hxkii} {हो|hxho},",scene_04.jpg
+5,7.657,10.27,2.613,{वो|hxvo} {घूमने|hxguumane} {को|hxko} {आवारगी|hxaavaaragii} {नहीं|hxnahiin} {कहेगा|hxkahegaa}।,scene_05.jpg
+6,10.27,12.098,1.828,"{जिसने|hxjisane} {प्रेम|hxprem} {को|hxko} {जिया|hxjiyaa} {हो|hxho},",scene_06.jpg
+7,12.098,15.38,3.282,{वो|hxvo} {प्रेम|hxprem} {करने|hxkarane} {से|hxse} {किसी|hxkisii} {को|hxko} {नहीं|hxnahiin} {रोकेगा|hxrokegaa}।,scene_07.jpg
+8,15.38,17.762,2.382,"{समस्या|hxsamasyaa} {कर्मों|hxkarmon} {में|hxmen} {नहीं|hxnahiin} {होती|hxhotii},",scene_08.jpg
+9,17.762,20.729,2.967,{समस्या|hxsamasyaa} {उन|hxun} {अधूरे|hxaduure} {जीवनों|hxjiivanon} {में|hxmen} {होती|hxhotii} {है|hxhai},scene_09.jpg
+10,20.729,22.745,2.016,{जो|hxjo} {अनुभवों|hxanubavon} {से|hxse} {पहले|hxpahale} {ही|hxhii},scene_10.jpg
+11,22.745,24.63,1.885,{निर्णय|hxnirnay} {सुना|hxsunaa} {देते|hxdete} {हैं|hxhain}।,scene_11.jpg
+12,24.63,26.301,1.671,{मनुष्य|hxmanushy} {अक्सर|hxaksar} {उसी|hxusii} {को|hxko},scene_12.jpg
+13,26.301,27.65,1.349,{गलत|hxgalat} {कहता|hxkahataa} {है|hxhai},scene_13.jpg
+14,27.65,29.95,2.3,{जिसे|hxjise} {वो|hxvo} {स्वयं|hxsvayan} {कभी|hxkabii} {जी|hxjii} {नहीं|hxnahiin} {पाया|hxpaayaa}।,scene_14.jpg

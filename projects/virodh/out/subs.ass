@@ -1,0 +1,88 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Noto Sans Devanagari Black,56,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,2,5,0,0,0,1
+Style: Title,Noto Sans Devanagari Black,66,&H00FFFFFF,&H00FFFFFF,&H00000000,&H99000000,-1,0,0,0,100,100,-1,0,1,0,4,2,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.02,0:00:00.36,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}मनुष्य
+Dialogue: 1,0:00:00.36,0:00:00.85,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}उन्हीं
+Dialogue: 1,0:00:00.85,0:00:01.20,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}चीजों
+Dialogue: 1,0:00:01.20,0:00:01.31,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}का
+Dialogue: 1,0:00:01.31,0:00:01.71,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}विरोध
+Dialogue: 1,0:00:01.71,0:00:02.06,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}करता
+Dialogue: 1,0:00:02.06,0:00:02.40,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}है
+Dialogue: 1,0:00:02.53,0:00:02.82,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}जिन्हें
+Dialogue: 1,0:00:02.82,0:00:03.05,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}उसने
+Dialogue: 1,0:00:03.05,0:00:03.46,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}स्वयं
+Dialogue: 1,0:00:03.46,0:00:03.75,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}कभी
+Dialogue: 1,0:00:03.75,0:00:04.00,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}जिया
+Dialogue: 1,0:00:04.00,0:00:04.15,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}ही
+Dialogue: 1,0:00:04.15,0:00:05.18,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}नहीं
+Dialogue: 1,0:00:05.18,0:00:05.63,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}जिसने
+Dialogue: 1,0:00:05.63,0:00:06.07,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}दुनिया
+Dialogue: 1,0:00:06.07,0:00:06.28,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}की
+Dialogue: 1,0:00:06.28,0:00:06.55,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}सैर
+Dialogue: 1,0:00:06.55,0:00:06.75,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}की
+Dialogue: 1,0:00:06.75,0:00:06.96,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}हो
+Dialogue: 1,0:00:06.96,0:00:07.17,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}वो
+Dialogue: 1,0:00:07.17,0:00:07.61,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}घूमने
+Dialogue: 1,0:00:07.61,0:00:07.82,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}को
+Dialogue: 1,0:00:07.82,0:00:08.32,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}आवारगी
+Dialogue: 1,0:00:08.32,0:00:08.71,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}नहीं
+Dialogue: 1,0:00:08.71,0:00:09.34,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}कहेगा
+Dialogue: 1,0:00:09.34,0:00:09.83,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}जिसने
+Dialogue: 1,0:00:09.83,0:00:10.18,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}प्रेम
+Dialogue: 1,0:00:10.18,0:00:10.41,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}को
+Dialogue: 1,0:00:10.41,0:00:10.77,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}जिया
+Dialogue: 1,0:00:10.77,0:00:11.00,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}हो
+Dialogue: 1,0:00:11.00,0:00:11.23,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}वो
+Dialogue: 1,0:00:11.23,0:00:11.58,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}प्रेम
+Dialogue: 1,0:00:11.58,0:00:12.07,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}करने
+Dialogue: 1,0:00:12.07,0:00:12.30,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}से
+Dialogue: 1,0:00:12.30,0:00:12.66,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}किसी
+Dialogue: 1,0:00:12.66,0:00:12.89,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}को
+Dialogue: 1,0:00:12.89,0:00:13.31,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}नहीं
+Dialogue: 1,0:00:13.31,0:00:13.98,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}रोकेगा
+Dialogue: 1,0:00:13.98,0:00:14.55,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}समस्या
+Dialogue: 1,0:00:14.55,0:00:15.05,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}कर्मों
+Dialogue: 1,0:00:15.05,0:00:15.35,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}में
+Dialogue: 1,0:00:15.35,0:00:15.78,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}नहीं
+Dialogue: 1,0:00:15.78,0:00:16.15,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}होती
+Dialogue: 1,0:00:16.15,0:00:16.71,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}समस्या
+Dialogue: 1,0:00:16.71,0:00:16.95,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}उन
+Dialogue: 1,0:00:16.95,0:00:17.38,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}अधूरे
+Dialogue: 1,0:00:17.38,0:00:17.95,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}जीवनों
+Dialogue: 1,0:00:17.95,0:00:18.25,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}में
+Dialogue: 1,0:00:18.25,0:00:18.61,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}होती
+Dialogue: 1,0:00:18.61,0:00:18.84,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}है
+Dialogue: 1,0:00:18.84,0:00:19.08,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}जो
+Dialogue: 1,0:00:19.08,0:00:19.71,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}अनुभवों
+Dialogue: 1,0:00:19.71,0:00:19.94,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}से
+Dialogue: 1,0:00:19.94,0:00:20.44,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}पहले
+Dialogue: 1,0:00:20.44,0:00:20.68,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}ही
+Dialogue: 1,0:00:20.68,0:00:21.18,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}निर्णय
+Dialogue: 1,0:00:21.18,0:00:21.54,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}सुना
+Dialogue: 1,0:00:21.54,0:00:21.91,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}देते
+Dialogue: 1,0:00:21.91,0:00:22.39,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}हैं
+Dialogue: 1,0:00:22.39,0:00:22.91,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}मनुष्य
+Dialogue: 1,0:00:22.91,0:00:23.36,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}अक्सर
+Dialogue: 1,0:00:23.36,0:00:23.67,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}उसी
+Dialogue: 1,0:00:23.67,0:00:23.91,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}को
+Dialogue: 1,0:00:23.91,0:00:24.36,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}गलत
+Dialogue: 1,0:00:24.36,0:00:24.88,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}कहता
+Dialogue: 1,0:00:24.88,0:00:25.14,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}है
+Dialogue: 1,0:00:25.14,0:00:25.32,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}जिसे
+Dialogue: 1,0:00:25.32,0:00:25.59,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}वो
+Dialogue: 1,0:00:25.59,0:00:25.90,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}स्वयं
+Dialogue: 1,0:00:25.90,0:00:26.23,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}कभी
+Dialogue: 1,0:00:26.23,0:00:26.48,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}जी
+Dialogue: 1,0:00:26.48,0:00:26.72,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}नहीं
+Dialogue: 1,0:00:26.72,0:00:27.10,Cap,,0,0,0,,{\pos(540,960)\fscx85\fscy85\t(0,80,\fscx100\fscy100)}पाया
+Dialogue: 0,0:00:00.00,0:00:28.23,Title,,0,0,0,,{\pos(540,392)\fs66}जिसे जिया नहीं, उसी का {\c&H0016C8FF}विरोध{\c&H00FFFFFF}

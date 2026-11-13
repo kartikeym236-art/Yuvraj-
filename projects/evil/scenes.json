@@ -1,14 +1,18 @@
 [
  {
-  "line": "Here's how to tell",
+  "line": "Here's how to tell if",
   "image": "scene_01.jpg"
  },
  {
-  "line": "if someone",
+  "line": "someone is",
   "image": "scene_02.jpg"
  },
  {
-  "line": "is truly evil.",
+  "line": "truly",
+  "image": "scene_02b.jpg"
+ },
+ {
+  "line": "evil.",
   "image": "scene_03.jpg"
  },
  {
@@ -32,43 +36,47 @@
   "image": "scene_08.jpg"
  },
  {
-  "line": "They noticed",
+  "line": "They noticed that the",
   "image": "scene_09.jpg"
  },
  {
-  "line": "that the most evil people",
+  "line": "most",
   "image": "scene_10.jpg"
  },
  {
-  "line": "also are the most liked.",
+  "line": "evil people",
+  "image": "scene_10b.jpg"
+ },
+ {
+  "line": "also are the most",
   "image": "scene_11.jpg"
  },
  {
-  "line": "They're often",
+  "line": "liked. They're",
   "image": "scene_12.jpg"
  },
  {
-  "line": "very charismatic",
+  "line": "often very",
   "image": "scene_13.jpg"
  },
  {
-  "line": "and can manipulate",
+  "line": "charismatic and can",
   "image": "scene_14.jpg"
  },
  {
-  "line": "the crowd",
+  "line": "manipulate the crowd",
   "image": "scene_15.jpg"
  },
  {
-  "line": "to win public favor",
+  "line": "to win public",
   "image": "scene_16.jpg"
  },
  {
-  "line": "by telling them lies",
+  "line": "favor by telling",
   "image": "scene_17.jpg"
  },
  {
-  "line": "that make them",
+  "line": "them lies that make them",
   "image": "scene_18.jpg"
  },
  {
@@ -80,71 +88,95 @@
   "image": "scene_20.jpg"
  },
  {
-  "line": "in The Republic as well.",
+  "line": "in The Republic",
   "image": "scene_21.jpg"
+ },
+ {
+  "line": "as well.",
+  "image": "scene_21b.jpg"
  },
  {
   "line": "They will tell the audience",
   "image": "scene_22.jpg"
  },
  {
-  "line": "whatever they want to hear",
+  "line": "whatever they",
   "image": "scene_23.jpg"
  },
  {
-  "line": "with a smile on their face,",
+  "line": "want to hear",
+  "image": "scene_23b.jpg"
+ },
+ {
+  "line": "with a smile on their",
   "image": "scene_24.jpg"
  },
  {
-  "line": "acting like a good person,",
+  "line": "face, acting",
   "image": "scene_25.jpg"
  },
  {
-  "line": "just so that they",
+  "line": "like a good",
+  "image": "scene_25b.jpg"
+ },
+ {
+  "line": "person,",
   "image": "scene_26.jpg"
  },
  {
-  "line": "can get in power,",
+  "line": "just so that",
+  "image": "scene_26b.jpg"
+ },
+ {
+  "line": "they can get in",
   "image": "scene_27.jpg"
  },
  {
-  "line": "and then once they're there,",
+  "line": "power,",
+  "image": "scene_27b.jpg"
+ },
+ {
+  "line": "and then once they're",
   "image": "scene_28.jpg"
  },
  {
-  "line": "they can use it",
+  "line": "there, they",
   "image": "scene_29.jpg"
  },
  {
-  "line": "to create",
+  "line": "can use it",
+  "image": "scene_29b.jpg"
+ },
+ {
+  "line": "to create systemic",
   "image": "scene_30.jpg"
  },
  {
-  "line": "systemic oppression.",
+  "line": "oppression.",
   "image": "scene_31.jpg"
  },
  {
-  "line": "This is why",
+  "line": "This is why the",
   "image": "scene_32.jpg"
  },
  {
-  "line": "the fakest people",
+  "line": "fakest people",
   "image": "scene_33.jpg"
  },
  {
-  "line": "tend to have",
+  "line": "tend to have the most",
   "image": "scene_34.jpg"
  },
  {
-  "line": "the most amount of friends.",
+  "line": "amount of friends.",
   "image": "scene_35.jpg"
  },
  {
-  "line": "I call them",
+  "line": "I call them social",
   "image": "scene_36.jpg"
  },
  {
-  "line": "social chameleons\u2014",
+  "line": "chameleons—",
   "image": "scene_37.jpg"
  },
  {
@@ -152,15 +184,15 @@
   "image": "scene_38.jpg"
  },
  {
-  "line": "whatever opinion",
+  "line": "whatever opinion is",
   "image": "scene_39.jpg"
  },
  {
-  "line": "is going to get them",
+  "line": "going to get them the most",
   "image": "scene_40.jpg"
  },
  {
-  "line": "the most liked.",
+  "line": "liked.",
   "image": "scene_41.jpg"
  },
  {
@@ -168,39 +200,47 @@
   "image": "scene_42.jpg"
  },
  {
-  "line": "through their mask",
+  "line": "through their mask and",
   "image": "scene_43.jpg"
  },
  {
-  "line": "and recognize",
+  "line": "recognize their evil",
   "image": "scene_44.jpg"
  },
  {
-  "line": "their evil tendencies,",
+  "line": "tendencies,",
   "image": "scene_45.jpg"
  },
  {
-  "line": "you become their enemy,",
+  "line": "you become",
   "image": "scene_46.jpg"
  },
  {
-  "line": "and they will do everything",
+  "line": "their enemy,",
+  "image": "scene_46b.jpg"
+ },
+ {
+  "line": "and they will",
   "image": "scene_47.jpg"
+ },
+ {
+  "line": "do everything",
+  "image": "scene_47b.jpg"
  },
  {
   "line": "to turn everyone else",
   "image": "scene_48.jpg"
  },
  {
-  "line": "against you",
+  "line": "against you and make",
   "image": "scene_49.jpg"
  },
  {
-  "line": "and make it seem",
+  "line": "it seem like you",
   "image": "scene_50.jpg"
  },
  {
-  "line": "like you are the bad guy.",
+  "line": "are the bad guy.",
   "image": "scene_51.jpg"
  }
 ]

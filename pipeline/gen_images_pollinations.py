@@ -1,34 +1,59 @@
 """Generate missing scene images for a project with the free Pollinations FLUX endpoint.
 
-Run on a GitHub Actions runner (this container's network blocks the host):
+Runs on a GitHub Actions runner (this container's network blocks the host):
     python pipeline/gen_images_pollinations.py projects/<name>
-Reads projects/<name>/gen_prompts.json ([[id, prompt], ...]) and writes images/scene_<id>.jpg.
+Reads projects/<name>/gen_prompts.json ([[id, prompt], ...]), writes images/scene_<id>.jpg,
+commits and pushes every 10 new images so progress is visible, and writes images/_genlog.txt.
 """
-import json, sys, time, urllib.parse, urllib.request
+import json, subprocess, sys, time, urllib.parse, urllib.request
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
-proj = Path(sys.argv[1])
-out = proj / "images"; out.mkdir(exist_ok=True)
+proj = Path(sys.argv[1]); out = proj / "images"; out.mkdir(exist_ok=True)
+log = out / "_genlog.txt"
 prompts = json.loads((proj / "gen_prompts.json").read_text())
-failed = []
-for n, p in prompts:
+
+def note(msg):
+    print(msg, flush=True)
+    with log.open("a") as f: f.write(msg + "\n")
+
+def push(msg):
+    subprocess.run(["git", "add", str(out)], check=False)
+    if subprocess.run(["git", "commit", "-qm", msg]).returncode == 0:
+        for _ in range(3):
+            if subprocess.run(["git", "pull", "--rebase", "-q"]).returncode == 0 and subprocess.run(["git", "push", "-q"]).returncode == 0:
+                break
+            time.sleep(5)
+
+def one(item):
+    n, p = item
     name = f"scene_{n:03d}.jpg" if isinstance(n, int) else f"scene_{n}.jpg"
     path = out / name
     if path.exists() and path.stat().st_size > 10000:
-        continue
+        return None
     url = ("https://image.pollinations.ai/prompt/" + urllib.parse.quote(p[:900])
-           + f"?width=1024&height=1024&nologo=true&model=flux&seed={1000 + hash(str(n)) % 9000}")
-    for attempt in range(5):
+           + f"?width=1024&height=1024&nologo=true&model=flux&seed={len(p) * 7 + 11}")
+    err = ""
+    for attempt in range(3):
+        t = time.time()
         try:
             req = urllib.request.Request(url, headers={"User-Agent": "reel-pipeline"})
-            data = urllib.request.urlopen(req, timeout=180).read()
-            if len(data) > 10000 and data[:3] == b"\xff\xd8\xff" or data[:4] == b"\x89PNG":
-                path.write_bytes(data); print("ok", name, len(data), flush=True); break
-            print("bad response", name, data[:120], flush=True)
+            data = urllib.request.urlopen(req, timeout=120).read()
+            if len(data) > 10000 and data[:2] in (b"\xff\xd8", b"\x89P"):
+                path.write_bytes(data); note(f"ok {name} {len(data)}B {time.time()-t:.0f}s"); return name
+            err = f"bad {data[:80]!r}"
         except Exception as e:
-            print("retry", name, attempt, e, flush=True)
-        time.sleep(10 * (attempt + 1))
-    else:
-        failed.append(name)
-    time.sleep(3)
-print("failed:", failed)
+            err = f"{type(e).__name__}: {str(e)[:100]}"
+        note(f"retry {name} #{attempt} {err} ({time.time()-t:.0f}s)")
+        time.sleep(8)
+    note(f"FAILED {name} {err}")
+    return None
+
+todo = list(prompts)
+done = 0
+for i in range(0, len(todo), 10):
+    with ThreadPoolExecutor(3) as ex:
+        done += sum(1 for r in ex.map(one, todo[i:i + 10]) if r)
+    push(f"images {proj.name}: batch {i // 10 + 1} ({done} new)")
+note(f"FINISHED {done} new images")
+push(f"images {proj.name}: finished")

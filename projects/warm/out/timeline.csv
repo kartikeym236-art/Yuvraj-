@@ -1,0 +1,63 @@
+scene,start,end,duration,line,image
+1,0.0,2.28,2.28,Why warm countries are poorer.,scene_01.jpg
+2,2.28,4.42,2.14,"And honestly, it completely changes",scene_02.jpg
+3,4.42,4.94,0.52,how you look,scene_03.jpg
+4,4.94,6.12,1.18,at the world map.,scene_04.jpg
+5,6.12,6.47,0.35,If you look,scene_05.jpg
+6,6.47,7.46,0.99,"at the global wealth,",scene_06.jpg
+7,7.46,8.96,1.5,almost all rich countries,scene_07.jpg
+8,8.96,11.13,2.17,"are in cold, temperate climates,",scene_08.jpg
+9,11.13,12.61,1.48,and almost all poor countries,scene_09.jpg
+10,12.61,13.96,1.35,are in the hot tropics.,scene_10.jpg
+11,13.96,16.1,2.14,First is the biological heat tax.,scene_11.jpg
+12,16.1,16.95,0.85,Science shows that,scene_12.jpg
+13,16.95,17.96,1.01,the optimal temperature,scene_13.jpg
+14,17.96,20.02,2.06,for human economic productivity,scene_14.jpg
+15,20.02,23.04,3.02,"is actually around {13|thirteen} to {14°C|fourteen degrees celsius},",scene_15.jpg
+16,23.04,25.06,2.02,"but in intense heat,",scene_16.jpg
+17,25.06,26.53,1.47,your cardiovascular system,scene_17.jpg
+18,26.53,28.37,1.84,diverts massive amounts of energy,scene_18.jpg
+19,28.37,30.33,1.96,just to cool your internal organs.,scene_19.jpg
+20,30.33,32.0,1.67,"Cognitive function drops,",scene_20.jpg
+21,32.0,34.04,2.04,"physical labor becomes exhausting,",scene_21.jpg
+22,34.04,35.46,1.42,and societal productivity,scene_22.jpg
+23,35.46,37.0,1.54,naturally slows down.,scene_23.jpg
+24,37.0,39.58,2.58,"Second, the agricultural trap.",scene_24.jpg
+25,39.58,41.25,1.67,"Tropical regions get heavy,",scene_25.jpg
+26,41.25,42.25,1.0,"constant rainfall,",scene_26.jpg
+27,42.25,44.78,2.53,"which creates a process called leaching,",scene_27.jpg
+28,44.78,46.16,1.38,washing all the nutrients,scene_28.jpg
+29,46.16,47.15,0.99,out of the soil.,scene_29.jpg
+30,47.15,48.45,1.3,"Meanwhile, in cold climates,",scene_30.jpg
+31,48.45,50.33,1.88,"winter freezes dead plants,",scene_31.jpg
+32,50.33,51.79,1.46,trapping nutrients under the snow,scene_32.jpg
+33,51.79,53.38,1.59,to decompose slowly.,scene_33.jpg
+34,53.38,54.5,1.12,"This creates deep,",scene_34.jpg
+35,54.5,56.43,1.93,"incredibly rich topsoil,",scene_35.jpg
+36,56.43,58.2,1.77,perfect for mass agriculture.,scene_36.jpg
+37,58.2,59.75,1.55,"Third, cold climates have",scene_37.jpg
+38,59.75,62.14,2.39,a magical reset button: winter.,scene_38.jpg
+39,62.14,63.85,1.71,"Frost naturally kills pests,",scene_39.jpg
+40,63.85,65.47,1.62,"parasites, and diseases",scene_40.jpg
+41,65.47,66.58,1.11,every single year.,scene_41.jpg
+42,66.58,68.33,1.75,The tropics never get a break.,scene_42.jpg
+43,68.33,71.41,3.08,"Finally, this all perfectly explains colonization.",scene_43.jpg
+44,71.41,73.16,1.75,Europeans arrived in cold climates,scene_44.jpg
+45,73.16,74.82,1.66,like the US or the Canada;,scene_45.jpg
+46,74.82,76.36,1.54,"they survived the familiar weather,",scene_46.jpg
+47,76.36,77.27,0.91,so they settled down,scene_47.jpg
+48,77.27,79.63,2.36,and built inclusive institutions:,scene_48.jpg
+49,79.63,80.93,1.3,"schools, hospitals,",scene_49.jpg
+50,80.93,82.13,1.2,and property rights.,scene_50.jpg
+51,82.13,83.15,1.02,"But in the hot tropics,",scene_51.jpg
+52,83.15,84.59,1.44,malaria and yellow fever,scene_52.jpg
+53,84.59,86.01,1.42,killed them in droves.,scene_53.jpg
+54,86.01,87.29,1.28,"Because they couldn't settle safely,",scene_54.jpg
+55,87.29,89.48,2.19,they built extractive institutions —,scene_55.jpg
+56,89.48,90.37,0.89,brutal systems,scene_56.jpg
+57,90.37,92.98,2.61,"designed purely to extract resources,",scene_57.jpg
+58,92.98,94.06,1.08,"enslave locals,",scene_58.jpg
+59,94.06,95.81,1.75,and ship wealth back to Europe.,scene_59.jpg
+60,95.81,96.78,0.97,What do you think?,scene_60.jpg
+61,96.78,98.29,1.51,Is geography destiny?,scene_61.jpg
+62,98.29,99.85,1.56,Drop your thoughts in the comment.,scene_62.jpg

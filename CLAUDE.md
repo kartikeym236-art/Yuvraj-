@@ -89,6 +89,9 @@ eye-catching image of the reel: high stakes, strong colour/contrast, motion
 or danger, a striking close-up, never a calm narrator shot or plain setup.
 Generate it with extra care (regenerate until it pops). The user writes a
 strong first line; Claude makes the first image match it.
+This applies only when Claude writes the scenes. When the user supplies their
+own storyboard or image prompts, generate them as written: no dramatic
+replacement of the first scene (user, Nov 2026).
 
 ## Hindi videos
 

@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Image Generator</title>
+  <script src="https://js.puter.com/v2/"></script>
+  <style>
+    :root {
+      --bg: #f6f5f2; --surface: #ffffff; --text: #1c1b19; --muted: #6b6862;
+      --border: #e2dfd8; --accent: #4b46d6; --accent-text: #ffffff; --error: #b3261e;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #141413; --surface: #1f1e1c; --text: #ecebe7; --muted: #9c9890;
+        --border: #34322e; --accent: #8b87ff; --accent-text: #141413; --error: #ff8a80;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; background: var(--bg); color: var(--text);
+      font: 16px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+    }
+    main { max-width: 960px; margin: 0 auto; padding: 32px 16px 64px; }
+    h1 { font-size: 1.6rem; margin: 0 0 4px; }
+    .sub { color: var(--muted); margin: 0 0 24px; }
+    form {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 12px; padding: 16px; display: grid; gap: 12px;
+    }
+    textarea, select {
+      width: 100%; font: inherit; color: var(--text); background: var(--bg);
+      border: 1px solid var(--border); border-radius: 8px; padding: 10px 12px;
+    }
+    textarea { min-height: 96px; resize: vertical; }
+    .row { display: flex; flex-wrap: wrap; gap: 12px; align-items: end; }
+    .row label { flex: 1 1 180px; display: grid; gap: 4px; font-size: .875rem; color: var(--muted); }
+    .check { flex: 0 0 auto !important; display: flex !important; align-items: center; gap: 8px; padding-bottom: 10px; }
+    button {
+      font: inherit; font-weight: 600; border: 0; border-radius: 8px; cursor: pointer;
+      background: var(--accent); color: var(--accent-text); padding: 10px 20px;
+    }
+    button:disabled { opacity: .6; cursor: progress; }
+    .status { min-height: 1.5em; margin: 16px 0; color: var(--muted); }
+    .status.error { color: var(--error); }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; }
+    figure {
+      margin: 0; background: var(--surface); border: 1px solid var(--border);
+      border-radius: 12px; overflow: hidden;
+    }
+    figure img { display: block; width: 100%; height: auto; background: var(--border); }
+    figcaption { padding: 10px 12px; font-size: .875rem; display: grid; gap: 8px; }
+    figcaption a { color: var(--accent); font-weight: 600; text-decoration: none; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Image Generator</h1>
+  <p class="sub">Text-to-image with Puter.js. The first run asks you to sign in to a free Puter account.</p>
+
+  <form id="form">
+    <textarea id="prompt" placeholder="Describe the image, e.g. a donkey standing exactly between two haystacks, cinematic lighting" required></textarea>
+    <div class="row">
+      <label>Model
+        <select id="model">
+          <option value="">Default</option>
+          <option value="gpt-image-1">GPT Image 1</option>
+          <option value="dall-e-3">DALL·E 3</option>
+          <option value="gemini-2.5-flash-image-preview">Gemini 2.5 Flash Image</option>
+          <option value="black-forest-labs/FLUX.1-schnell">FLUX.1 schnell</option>
+        </select>
+      </label>
+      <label class="check"><input type="checkbox" id="test"> Test mode (free placeholder)</label>
+      <button id="go" type="submit">Generate</button>
+    </div>
+  </form>
+
+  <div id="status" class="status" role="status"></div>
+  <div id="gallery" class="grid"></div>
+</main>
+
+<script>
+  const form = document.getElementById('form');
+  const promptEl = document.getElementById('prompt');
+  const modelEl = document.getElementById('model');
+  const testEl = document.getElementById('test');
+  const btn = document.getElementById('go');
+  const statusEl = document.getElementById('status');
+  const gallery = document.getElementById('gallery');
+
+  function setStatus(msg, isError = false) {
+    statusEl.textContent = msg;
+    statusEl.classList.toggle('error', isError);
+  }
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const prompt = promptEl.value.trim();
+    if (!prompt) return;
+
+    btn.disabled = true;
+    const started = Date.now();
+    setStatus('Generating…');
+
+    try {
+      let img;
+      if (testEl.checked) {
+        img = await puter.ai.txt2img(prompt, true);
+      } else {
+        const opts = {};
+        if (modelEl.value) opts.model = modelEl.value;
+        img = await puter.ai.txt2img(prompt, opts);
+      }
+      addToGallery(img, prompt);
+      setStatus(`Done in ${((Date.now() - started) / 1000).toFixed(1)}s.`);
+    } catch (err) {
+      console.error(err);
+      const msg = err?.error?.message || err?.message || String(err);
+      setStatus('Failed: ' + msg, true);
+    } finally {
+      btn.disabled = false;
+    }
+  });
+
+  function addToGallery(img, prompt) {
+    img.alt = prompt;
+    const fig = document.createElement('figure');
+    const cap = document.createElement('figcaption');
+    const text = document.createElement('span');
+    text.textContent = prompt;
+    const dl = document.createElement('a');
+    dl.href = img.src;
+    dl.download = prompt.slice(0, 40).replace(/[^a-z0-9]+/gi, '-').toLowerCase() + '.png';
+    dl.textContent = 'Download';
+    cap.append(text, dl);
+    fig.append(img, cap);
+    gallery.prepend(fig);
+  }
+</script>
+</body>
+</html>

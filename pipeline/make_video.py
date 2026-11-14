@@ -370,7 +370,8 @@ def srt_time(x):
 def build_ass(title, script, al, speed, dur, out, captions="classic", font=None, cap_pos=None):
     clean = lambda t: re.sub(r"[,.:;\"“”‘’—–\u0964]|^'|'$", "", t) or t
     classic = captions == "classic"     # older style: UPPERCASE Inter Black centred on the image, pop-in
-    cap_size = 60                       # Montserrat ExtraBold; half the reference-reel size (user asked 50%)
+    centre = captions == "centre"       # School=Prison reel style: small lowercase word in the middle of the image
+    cap_size = 44 if centre else 60     # Montserrat ExtraBold; reel style is half the reference-reel size (user asked 50%)
     ev, srt, i = [], [], 0
     for disp, ws in tokens(script):
         s, e = al[i][1] / speed, al[i + len(ws) - 1][2] / speed
@@ -381,7 +382,7 @@ def build_ass(title, script, al, speed, dur, out, captions="classic", font=None,
         w = re.sub(r"[,.:;\"“”—–]+$|^[\"“]", "", disp) if re.search(r"\d", disp) else clean(disp)
         ev.append(f"Dialogue: 1,{ass_time(s)},{ass_time(end)},Cap,,0,0,0,,"
                   + (f"{{\\pos({W//2},{IMG_Y + IMG + 75 if cap_pos == 'below' else IMG_Y + IMG//2})\\fscx85\\fscy85\\t(0,80,\\fscx100\\fscy100)}}{w.upper()}"
-                     if classic else f"{{\\pos({W//2},{CAP_Y})}}{w.lower()}"))
+                     if classic else f"{{\\pos({W//2},{IMG_Y + IMG//2 if centre else CAP_Y})}}{w.lower()}"))
         srt.append(f"{len(srt)+1}\n{srt_time(s)} --> {srt_time(end)}\n{w.upper() if classic else w.lower()}\n")
     for f in ("title_probe.ass", "title_emoji.txt"):   # don't reuse an emoji from an earlier title
         (out / f).unlink(missing_ok=True)
@@ -417,7 +418,7 @@ WrapStyle: 2
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 {f"Style: Cap,{font or 'Inter Black'},{64 if font else 49},&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,{0 if font else 1},0,1,4,2,5,0,0,0,1" if classic else
-  f"Style: Cap,Montserrat ExtraBold,{cap_size},&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,5,4,5,0,0,0,1"}
+  f"Style: Cap,Montserrat ExtraBold,{cap_size},&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,{'3,2' if centre else '5,4'},5,0,0,0,1"}
 Style: Title,{font or "Inter Display Black"},66,&H00FFFFFF,&H00FFFFFF,&H00000000,&H99000000,-1,0,0,0,100,100,{0 if font else -1},0,1,0,4,2,0,0,0,1
 
 [Events]

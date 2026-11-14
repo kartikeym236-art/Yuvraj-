@@ -27,7 +27,8 @@ projects/<name>/
                 (e.g. screenshots sent in chat), avoiding false detections
                 (mixed sets are fine with detection on: it only touches marked
                 images), {"captions": "reel"} for the lowercase Montserrat
-                style, {"speed": 1.15} for a different speed-up, {"max_gap": 0.15} to change
+                style, {"captions": "centre"} for small lowercase words in the
+                middle of the image (School = Prison reel look), {"speed": 1.15} for a different speed-up, {"max_gap": 0.15} to change
                 the pause cap for one video
   title.txt     top caption, e.g.  BURIDAN ASS PARADOX *EXPLAINED*   (*word* = yellow)
   script.txt    exact voiceover text (needed for word timing)

@@ -50,6 +50,16 @@ If the user commits files elsewhere (e.g. repo root, odd names like
 missing, ask for it. No speech-to-text model is downloadable here: Hugging Face,
 OpenAI and Vosk hosts are blocked; only PyPI and GitHub are reachable.
 
+## Bulk image uploads via Google Drive
+
+For big image sets (long videos), the user drops images in a Google Drive
+folder and sends its link. Google Drive is connected in the Composio MCP
+(account googledrive_punish-juke): list the folder with GOOGLEDRIVE_FIND_FILE
+(folder_id = the id in the link, pageSize 1000, follow nextPageToken), then
+GOOGLEDRIVE_DOWNLOAD_FILE each file in the workbench (ThreadPool), zip to
+/home/user, `upload_local_file`, and `curl -L` the link here. Direct Drive
+links return 401 here (folders are private).
+
 ## Generating images with Composio (when asked)
 
 Composio's `GEMINI_GENERATE_IMAGE` works (prompt max 1000 chars; a long

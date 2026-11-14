@@ -1,19 +1,10 @@
-# 5 Signs Someone Is Manipulating You: image prompts (111)
+# 5 Signs Someone Is Manipulating You: image prompts (65)
 
-Generate each prompt as a square (1:1) image. Save each image with its number, e.g. `001.png`, `002.png`, ..., `111.png`, so I can put them in order.
+Generate each prompt as a square (1:1) image. Save each with its number: `001.png`, `002.png`, ... so I can put them in order.
 
-Style reference: your School = Prison / Overthinkers reels (pencil-sketch stick figures, round yellow heads, beige and sage scenery with a lake).
+Style: pencil-sketch stick figures, round yellow heads, beige and sage scenery with a lake (like your School = Prison / Overthinkers reels).
 
-## 001  ·  "Here are five"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the scarf man standing tall in a park by a lake, holding many thin strings attached to small stick figures walking below him like puppets.
-The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
-```
-
-## 002  ·  "signs that someone"
+## 001  ·  "Here are five signs that someone"  (1.6s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -22,7 +13,7 @@ Scene: the young man on a path looking over his shoulder, a long shadow of the s
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 003  ·  "might be manipulating"
+## 002  ·  "might be manipulating you:"  (1.5s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -31,16 +22,7 @@ Scene: Close-up of the scarf man's hand holding puppet strings, the young man da
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 004  ·  "you:"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the young man looking straight at the viewer, uneasy, by a lake.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
-```
-
-## 005  ·  "#1"
+## 003  ·  "#1"  (1.1s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -49,7 +31,7 @@ Scene: A single tall signpost on an empty dirt path by the lake, the young man s
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 006  ·  "Guilt"
+## 004  ·  "Guilt Tripping."  (1.6s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -58,16 +40,7 @@ Scene: the young man carrying a huge heavy sack on his back up a hill, bent over
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 007  ·  "Tripping."
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the young man tripping over a rope stretched across the path, held by the scarf man hiding behind a tree.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
-```
-
-## 008  ·  "Every time you say"
+## 005  ·  "Every time you say"  (0.7s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -76,7 +49,7 @@ Scene: the young man with a raised hand saying no, standing in a living room.
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 009  ·  "no to something,"
+## 006  ·  "no to something, they make you feel"  (1.5s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -85,16 +58,7 @@ Scene: the young man shaking his head and stepping back from the scarf man's out
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 010  ·  "they make you feel"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the scarf man frowning dramatically, hand on chest, looking hurt.
-The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
-```
-
-## 011  ·  "terrible about"
+## 007  ·  "terrible about it."  (1.1s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -103,25 +67,7 @@ Scene: the young man sitting alone on a bench, head down, a small dark rain clou
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 012  ·  "it."
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: Close-up of the young man's sad face with a single tear.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
-```
-
-## 013  ·  ""I did so"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the scarf man pointing at a big stack of gift boxes beside him, accusing look.
-The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
-```
-
-## 014  ·  "much for you,"
+## 008  ·  ""I did so much for you,"  (1.4s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -130,16 +76,7 @@ Scene: the scarf man counting on his fingers with a long list scroll rolling to 
 The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 015  ·  "and you can't"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the scarf man crossing his arms, turning his back with a sulky face.
-The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
-```
-
-## 016  ·  "even do this"
+## 009  ·  "and you can't even do this much?""  (1.7s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -148,16 +85,7 @@ Scene: the scarf man holding up a tiny pinch with his fingers toward the young m
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 017  ·  "much?""
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the young man shrinking small as the scarf man looms over him with a guilt-tripping face.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
-```
-
-## 018  ·  "Gradually,"
+## 010  ·  "Gradually, you start prioritizing"  (1.9s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere. NO people unless described.
@@ -165,34 +93,7 @@ Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple
 Scene: A path of footprints slowly bending away from a bright sunny field toward the scarf man's house.
 ```
 
-## 019  ·  "you start"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the young man slowly walking behind the scarf man, head down.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
-```
-
-## 020  ·  "prioritizing"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the young man carrying the scarf man's bags and umbrella while the scarf man walks freely.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
-```
-
-## 021  ·  "their feelings"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the young man holding a big heart balloon up for the scarf man, who smiles smugly.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
-```
-
-## 022  ·  "over your own"
+## 011  ·  "their feelings over your own"  (1.2s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -201,7 +102,7 @@ Scene: the young man letting his own small balloon float away, looking at it sad
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 023  ·  "happiness."
+## 012  ·  "happiness."  (0.9s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere. NO people unless described.
@@ -209,7 +110,7 @@ Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple
 Scene: A single small balloon floating away over the lake into a grey sky.
 ```
 
-## 024  ·  "#2"
+## 013  ·  "#2"  (0.9s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere. NO people unless described.
@@ -217,7 +118,7 @@ Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple
 Scene: Two tall signposts on a dirt path by the lake under a cloudy sky.
 ```
 
-## 025  ·  "Gaslighting."
+## 014  ·  "Gaslighting."  (1.1s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -226,16 +127,7 @@ Scene: the scarf man slowly dimming an old gas lamp in a room while the young ma
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 026  ·  "Imagine you saw"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: Close-up of the young man's wide eyes.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
-```
-
-## 027  ·  "something happen with"
+## 015  ·  "Imagine you saw something happen with"  (1.5s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -244,7 +136,7 @@ Scene: the young man watching the scarf man knock a vase off a table, the vase m
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 028  ·  "your own eyes,"
+## 016  ·  "your own eyes, but they insist"  (1.4s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -253,16 +145,7 @@ Scene: the young man pointing at the broken vase on the floor.
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 029  ·  "but they insist"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the scarf man shaking his head calmly, palms up, innocent face.
-The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
-```
-
-## 030  ·  "it never took place"
+## 017  ·  "it never took place"  (0.9s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -271,7 +154,7 @@ Scene: the scarf man standing in front of the broken vase, hiding it behind his 
 The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 031  ·  "at all and"
+## 018  ·  "at all and that you are just"  (1.8s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -280,16 +163,7 @@ Scene: An empty clean floor where the vase was, the young man staring at it puzz
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 032  ·  "that you are just"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the scarf man patting the young man's head condescendingly.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
-```
-
-## 033  ·  "overreacting."
+## 019  ·  "overreacting."  (1.2s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -298,15 +172,7 @@ Scene: the scarf man laughing and pointing at the young man, who looks embarrass
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 034  ·  "Over time,"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere. NO people unless described.
-
-Scene: A clock on a wall with long shadows, the room slowly darker.
-```
-
-## 035  ·  "instead of doubting"
+## 020  ·  "Over time, instead of doubting"  (1.3s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -315,16 +181,7 @@ Scene: the young man looking at the scarf man with a raised eyebrow.
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 036  ·  "their words,"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the scarf man talking smoothly, swirls of grey air coming from his mouth.
-The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
-```
-
-## 037  ·  "you begin to doubt"
+## 021  ·  "their words, you begin to doubt"  (1.5s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -333,16 +190,7 @@ Scene: the young man looking at his own reflection in the lake, which looks blur
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 038  ·  "your own"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the young man holding his head with both hands, confused.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
-```
-
-## 039  ·  "memory."
+## 022  ·  "your own memory."  (1.3s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -351,7 +199,7 @@ Scene: the young man's head with puzzle pieces floating out of it, some missing.
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 040  ·  "#3"
+## 023  ·  "#3"  (1.2s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere. NO people unless described.
@@ -359,7 +207,7 @@ Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple
 Scene: Three tall signposts on a dirt path by the lake.
 ```
 
-## 041  ·  "Love Bombing."
+## 024  ·  "Love Bombing."  (1.1s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -368,16 +216,7 @@ Scene: the scarf man throwing an explosion of pink hearts at the young man in a 
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 042  ·  "In the beginning,"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: A bright sunny morning by the lake, the scarf man walking toward the young man with a bouquet.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
-```
-
-## 043  ·  "they shower you with"
+## 025  ·  "In the beginning, they shower you with"  (1.6s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -386,16 +225,7 @@ Scene: Hearts raining down from the sky onto the young man, who smiles shyly.
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 044  ·  "an overwhelming"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the young man buried up to his chest in flowers and gift boxes.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
-```
-
-## 045  ·  "amount of love"
+## 026  ·  "an overwhelming amount of love"  (1.8s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -404,7 +234,7 @@ Scene: the scarf man holding a giant heart, smiling warmly at the young man.
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 046  ·  "and attention,"
+## 027  ·  "and attention,"  (1.1s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -413,16 +243,7 @@ Scene: the scarf man leaning in and listening intently to the young man on a ben
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 047  ·  "making you feel"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the young man floating slightly off the ground, dreamy smile, hearts around his head.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
-```
-
-## 048  ·  "like you could never"
+## 028  ·  "making you feel like you could never"  (1.5s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -431,7 +252,7 @@ Scene: the young man looking at a crowd of plain grey figures, uninterested.
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 049  ·  "find anyone"
+## 029  ·  "find anyone better."  (1.7s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -440,24 +261,7 @@ Scene: the young man walking past many other stick figures without noticing them
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 050  ·  "better."
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the young man hugging the scarf man, who smirks over his shoulder.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
-```
-
-## 051  ·  "But as soon"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere. NO people unless described.
-
-Scene: The sky above the lake turning cloudy and grey.
-```
-
-## 052  ·  "as you become"
+## 030  ·  "But as soon as you become"  (1.1s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -466,16 +270,7 @@ Scene: the young man tied to the scarf man by a rope around his waist.
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 053  ·  "emotionally"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: A heart-shaped padlock locking a chain around the young man's wrist.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
-```
-
-## 054  ·  "attached, they start"
+## 031  ·  "emotionally attached, they start"  (1.6s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -484,7 +279,7 @@ Scene: the scarf man's smile slowly turning cold, half his face in shadow.
 The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 055  ·  "to change,"
+## 032  ·  "to change,"  (1.0s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -493,7 +288,7 @@ Scene: the scarf man walking away, ignoring the young man who reaches out.
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 056  ·  "leaving you constantly"
+## 033  ·  "leaving you constantly"  (1.0s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -502,7 +297,7 @@ Scene: the young man sitting alone on the bench by the lake at dusk.
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 057  ·  "trying to bring back"
+## 034  ·  "trying to bring back"  (0.9s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -511,7 +306,7 @@ Scene: the young man holding up the old bouquet, now wilted, toward the scarf ma
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 058  ·  "that earlier version"
+## 035  ·  "that earlier version of them."  (1.7s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -520,16 +315,7 @@ Scene: the young man looking at an old photo of himself and a smiling MANIPULATO
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 059  ·  "of them."
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: A faded ghostly smiling MANIPULATOR in the mist over the lake.
-The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
-```
-
-## 060  ·  "#4"
+## 036  ·  "#4 The Silent"  (1.3s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere. NO people unless described.
@@ -537,16 +323,7 @@ Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple
 Scene: Four tall signposts on a dirt path by the lake.
 ```
 
-## 061  ·  "The Silent"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the scarf man with a zipper across his mouth, arms crossed.
-The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
-```
-
-## 062  ·  "Treatment."
+## 037  ·  "Treatment."  (0.8s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -555,7 +332,7 @@ Scene: the scarf man sitting with his back turned to the young man at opposite e
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 063  ·  "Instead of addressing"
+## 038  ·  "Instead of addressing"  (0.9s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -564,7 +341,7 @@ Scene: the young man reaching out to talk, the scarf man raising a palm without 
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 064  ·  "what's wrong,"
+## 039  ·  "what's wrong, they suddenly"  (1.5s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -573,16 +350,7 @@ Scene: the young man with a question mark above his head.
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 065  ·  "they suddenly"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the scarf man slamming a door shut.
-The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
-```
-
-## 066  ·  "cut off all"
+## 040  ·  "cut off all"  (0.8s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere. NO people unless described.
@@ -590,7 +358,7 @@ Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple
 Scene: Scissors cutting a telephone cord between two houses on the hills.
 ```
 
-## 067  ·  "communication."
+## 041  ·  "communication."  (1.1s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -599,16 +367,7 @@ Scene: A tall brick wall between the young man and the scarf man.
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 068  ·  "No texts,"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the young man staring at a blank phone screen in the dark.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
-```
-
-## 069  ·  "no phone calls,"
+## 042  ·  "No texts, no phone calls,"  (1.6s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere. NO people unless described.
@@ -616,15 +375,7 @@ Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple
 Scene: An old telephone sitting silent on a table, cobwebs on it.
 ```
 
-## 070  ·  "and zero"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere. NO people unless described.
-
-Scene: An empty mailbox by a path.
-```
-
-## 071  ·  "explanation."
+## 043  ·  "and zero explanation."  (1.7s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -633,16 +384,7 @@ Scene: the young man scratching his head beside the closed door.
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 072  ·  "You end up"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the young man walking up to the scarf man's door with a bunch of flowers.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
-```
-
-## 073  ·  "being the one"
+## 044  ·  "You end up being the one"  (1.1s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -651,16 +393,7 @@ Scene: the young man kneeling at the door with folded hands.
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 074  ·  "who constantly"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the young man bowing again and again, several sketch motion lines.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
-```
-
-## 075  ·  "apologizes"
+## 045  ·  "who constantly apologizes"  (1.6s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -669,7 +402,7 @@ Scene: the young man holding up a white flag toward the scarf man.
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 076  ·  "just to return things"
+## 046  ·  "just to return things to normal."  (1.8s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -678,16 +411,7 @@ Scene: the scarf man finally opening the door with a smug smile.
 The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 077  ·  "to normal."
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the young man and the scarf man walking along the lake path, the young man looking relieved but tired.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
-```
-
-## 078  ·  "#5"
+## 047  ·  "#5 Moving the"  (1.6s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere. NO people unless described.
@@ -695,16 +419,7 @@ Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple
 Scene: Five tall signposts on a dirt path by the lake.
 ```
 
-## 079  ·  "Moving the"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the scarf man carrying a football goalpost away across a field.
-The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
-```
-
-## 080  ·  "Goalposts."
+## 048  ·  "Goalposts."  (1.2s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -713,16 +428,7 @@ Scene: the young man kicking a ball at a goalpost that the scarf man is dragging
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 081  ·  "You meet"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the young man climbing to the top of a small hill, arms raised.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
-```
-
-## 082  ·  "every single"
+## 049  ·  "You meet every single expectation"  (1.9s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -731,16 +437,7 @@ Scene: the young man ticking boxes on a long blank checklist.
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 083  ·  "expectation"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the young man jumping over a hurdle set by the scarf man.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
-```
-
-## 084  ·  "they set,"
+## 050  ·  "they set, but as soon"  (1.3s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -749,16 +446,7 @@ Scene: the scarf man placing the hurdle with a smirk.
 The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 085  ·  "but as soon"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the young man reaching the finish line of a race track by the lake.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
-```
-
-## 086  ·  "as you achieve it,"
+## 051  ·  "as you achieve it, a new demand"  (1.6s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -767,16 +455,7 @@ Scene: the young man holding up a small trophy, smiling.
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 087  ·  "a new demand"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the scarf man pointing at a much taller hill in the distance.
-The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
-```
-
-## 088  ·  "appears."
+## 052  ·  "appears."  (0.9s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere. NO people unless described.
@@ -784,7 +463,7 @@ Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple
 Scene: A giant mountain suddenly appearing behind the small hill.
 ```
 
-## 089  ·  "No matter how much"
+## 053  ·  "No matter how much"  (0.8s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -793,7 +472,7 @@ Scene: the young man running on an endless winding path that loops back on itsel
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 090  ·  "effort you put"
+## 054  ·  "effort you put in,"  (1.2s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -802,16 +481,7 @@ Scene: the young man sweating, pushing a huge boulder uphill.
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 091  ·  "in,"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the young man collapsed on the ground, exhausted.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
-```
-
-## 092  ·  "it is never enough"
+## 055  ·  "it is never enough for them."  (1.6s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -820,16 +490,7 @@ Scene: the scarf man shaking his head, thumbs down.
 The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 093  ·  "for them."
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the young man looking up at the scarf man from below, defeated.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
-```
-
-## 094  ·  "The most dangerous"
+## 056  ·  "The most dangerous part is that"  (1.5s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -838,16 +499,7 @@ Scene: the scarf man's huge shadow covering the whole lake landscape.
 The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 095  ·  "part is that"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the young man looking over the lake, thoughtful.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
-```
-
-## 096  ·  "manipulation"
+## 057  ·  "manipulation doesn't happen"  (1.6s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -856,15 +508,7 @@ Scene: Puppet strings from the sky attached to the young man's arms and legs.
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 097  ·  "doesn't happen"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere. NO people unless described.
-
-Scene: A single small sapling by the lake.
-```
-
-## 098  ·  "overnight."
+## 058  ·  "overnight."  (0.9s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere. NO people unless described.
@@ -872,15 +516,7 @@ Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple
 Scene: A crescent moon over the lake at night, still and quiet.
 ```
 
-## 099  ·  "It happens"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere. NO people unless described.
-
-Scene: The sapling grown into a thorny vine wrapping around a fence.
-```
-
-## 100  ·  "gradually,"
+## 059  ·  "It happens gradually,"  (1.1s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -889,25 +525,7 @@ Scene: the young man slowly sinking ankle-deep, then knee-deep, into a muddy pat
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 101  ·  "and by the time"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the young man suddenly noticing the strings attached to him, shocked.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
-```
-
-## 102  ·  "you realize"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: Close-up of the young man's shocked face, eyes wide.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
-```
-
-## 103  ·  "what is going"
+## 060  ·  "and by the time you realize what is going"  (1.5s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -916,7 +534,7 @@ Scene: the young man looking up and seeing the scarf man holding his strings.
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes. The scarf man: taller stick figure, round pale-yellow head with a curl of hair, sly smirking grin, narrow scheming eyes, long beige scarf.
 ```
 
-## 104  ·  "on, you often"
+## 061  ·  "on, you often"  (0.9s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -925,16 +543,7 @@ Scene: the young man pointing at himself in a mirror.
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 105  ·  "end up blaming"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the young man sitting in a dark corner hugging his knees.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
-```
-
-## 106  ·  "yourself."
+## 062  ·  "end up blaming yourself."  (1.4s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -943,7 +552,7 @@ Scene: the young man alone on the bench by the grey lake, head in hands.
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 107  ·  "Don't forget to follow"
+## 063  ·  "Don't forget to follow if you appreciate"  (1.6s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
@@ -952,25 +561,7 @@ Scene: the young man cutting the puppet strings with scissors, standing tall by 
 The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
 ```
 
-## 108  ·  "if you appreciate"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the young man walking free along the lake path toward the rising sun.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
-```
-
-## 109  ·  "content on"
-
-```
-Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.
-
-Scene: the young man reading a book under a tree by the lake.
-The young man: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.
-```
-
-## 110  ·  "psychology"
+## 064  ·  "content on psychology"  (1.3s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere. NO people unless described.
@@ -978,7 +569,7 @@ Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple
 Scene: A drawing of a brain with soft light glowing around it, on a desk.
 ```
 
-## 111  ·  "and life truths."
+## 065  ·  "and life truths."  (0.8s)
 
 ```
 Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil hatching and shading. Simple calm scenery: a lake, rolling hills, sparse trees, dirt paths, or plain interiors. No text, letters or numbers anywhere.

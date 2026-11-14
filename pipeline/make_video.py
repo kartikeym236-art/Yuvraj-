@@ -324,14 +324,18 @@ def clean_images(img_dir, out, enabled=True):
         if not enabled:   # keep original size/aspect (e.g. 16:9 landscape scenes)
             cv2.imwrite(str(dst / (p.stem + ".jpg")), img, [cv2.IMWRITE_JPEG_QUALITY, 95]); report[p.name] = False
             continue
-        img = cv2.resize(img, (1024, 1024), interpolation=cv2.INTER_AREA) if img.shape[:2] != (1024, 1024) else img
+        if img.shape[:2] == (768, 1376):   # Gemini 16:9: same-size sparkle, centred at (1279, 671)
+            cx, cy = 1279, 671
+        else:
+            img = cv2.resize(img, (1024, 1024), interpolation=cv2.INTER_AREA) if img.shape[:2] != (1024, 1024) else img
+            cx = cy = C
         f = img.astype(float)
-        win = f[C-R:C+R, C-R:C+R]
+        win = f[cy-R:cy+R, cx-R:cx+R]
         fixed = np.clip((win - 255 * a) / (1 - a), 0, 255)
         # apply if the sparkle shows as a brightness jump at its outline, or its edges are in the image
         has_mark = enabled and ((step(win) > 4 and abs(step(fixed)) < 0.5 * step(win)) or shape_corr(win) > 0.2)
         if has_mark:
-            f[C-R:C+R, C-R:C+R] = fixed
+            f[cy-R:cy+R, cx-R:cx+R] = fixed
         report[p.name] = bool(has_mark)
         cv2.imwrite(str(dst / (p.stem + ".jpg")), f.astype(np.uint8), [cv2.IMWRITE_JPEG_QUALITY, 95])
     return dst, report

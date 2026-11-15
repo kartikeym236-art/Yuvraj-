@@ -63,6 +63,17 @@ GOOGLEDRIVE_DOWNLOAD_FILE each file in the workbench (ThreadPool), zip to
 /home/user, `upload_local_file`, and `curl -L` the link here. Direct Drive
 links return 401 here (folders are private).
 
+## Free voiceover: Kokoro (local, no key)
+
+`pip install -q kokoro-onnx soundfile`, then
+`python pipeline/kokoro_tts.py projects/<name> --voice am_michael` writes
+voiceover.mp3 from script_tts.txt (or script.txt). Model files (~350 MB) come
+from the kokoro-onnx GitHub release into ~/kokoro, since Hugging Face is
+blocked. Male voices: am_michael, am_adam, am_onyx, am_fenrir, am_eric, bm_george,
+bm_daniel; samples in projects/_kokoro_samples. Runs about 2x real time on CPU.
+ElevenLabs through Composio only allows its curated voices (e.g. Brian
+nPczCjzI2devNBz1zQrb); the user's own ElevenLabs key was disabled.
+
 ## Generating images with Composio (when asked)
 
 Composio's `GEMINI_GENERATE_IMAGE` works (prompt max 1000 chars; a long

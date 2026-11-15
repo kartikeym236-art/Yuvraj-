@@ -137,8 +137,10 @@ Everything in this section applies ONLY to {"layout": "landscape"} projects
 settings and alignment unchanged; re-aligning all 10 shorts after this change
 gave identical word times.
 
-settings.json {"layout": "landscape", "watermark": false}: full-screen
-1920x1080, no title, no captions. Voiceovers in parts are joined with ffmpeg
+settings.json {"layout": "landscape"}: full-screen 1920x1080, no title, no
+captions and NO music track (user: long videos never get a track; don't put a
+music.* in the folder). Gemini 16:9 images (1376x768) carry the sparkle at
+(1279, 671); clean_images removes it, so leave watermark detection on. Voiceovers in parts are joined with ffmpeg
 concat. Audio over 4 min skips whole-file alignment and goes sentence by
 sentence, with recognition and alignment run in parallel (16 min audio: ~2
 min). Check the audio really says the script: the part-1 voiceover here used

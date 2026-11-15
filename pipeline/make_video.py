@@ -544,7 +544,12 @@ def main():
         settings["layout"] = "landscape" if a.mode == "long" else "short"
     global LONGFORM
     LONGFORM = settings.get("layout") == "landscape"
-    al = align(voice, script, out, settings.get("speech_check", True))
+    cached = out / "word_alignment.json"
+    if settings.get("alignment") == "cached" and cached.exists() and \
+            [w for w, _, _ in json.loads(cached.read_text())] == spoken(script):
+        al = [tuple(x) for x in json.loads(cached.read_text())]   # hand-fixed alignment (see CLAUDE.md)
+    else:
+        al = align(voice, script, out, settings.get("speech_check", True))
     print(f"aligned {len(al)} words")
     if a.align_only:
         return

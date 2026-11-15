@@ -28,7 +28,8 @@ projects/<name>/
                 (mixed sets are fine with detection on: it only touches marked
                 images), {"captions": "reel"} for the lowercase Montserrat
                 style, {"captions": "centre"} for small lowercase words in the
-                middle of the image (School = Prison reel look), {"speed": 1.15} for a different speed-up, {"max_gap": 0.15} to change
+                middle of the image (School = Prison reel look), {"captions": "yellow"} for bold yellow
+                words with a black outline in the centre, original casing (Jensen reel look), {"speed": 1.15} for a different speed-up, {"max_gap": 0.15} to change
                 the pause cap for one video, {"alignment": "cached"} to reuse
                 out/word_alignment.json when automatic alignment fails on
                 a word or two (fix it by hand first; its words must match script.txt)

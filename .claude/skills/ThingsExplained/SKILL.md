@@ -1,9 +1,9 @@
 ---
-name: reel-from-script
+name: ThingsExplained
 description: Turn a pasted reel script into a finished 9:16 Instagram reel in the Jensen/Elon reel style. Makes the ElevenLabs Brian voiceover, writes ~0.8 s scene image prompts, then, once the user sends the images, matches them, renders with yellow centred captions and sends the MP4. Use when the user sends a script for a reel (not a 16:9 long video).
 ---
 
-# Reel from script (Jensen/Elon reel style)
+# ThingsExplained: reel from script (Jensen/Elon reel style)
 
 The user sends **only a script** (plus optionally a title, track and style reference images).
 You produce: voiceover → image prompt file → (user sends images) → MP4.

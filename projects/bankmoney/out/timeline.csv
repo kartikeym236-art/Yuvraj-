@@ -1,0 +1,40 @@
+scene,start,end,duration,line,image
+1,0.0,0.88,0.88,If you deposit,001.png
+2,0.88,2.05,1.17,"{$10,000|ten thousand dollars}",002.png
+3,2.05,2.83,0.78,"into the bank,",003.png
+4,2.83,5.16,2.33,"the bank sets aside {10%,|ten percent}",004.png
+5,5.16,6.86,1.7,"or {$1,000,|one thousand dollars}",005.png
+6,6.86,7.8,0.94,and then loans out,006.png
+7,7.8,8.91,1.11,the rest of your money.,007.png
+8,8.91,10.16,1.25,"The way it works is,",008.png
+9,10.16,11.26,1.1,say another person,009.png
+10,11.26,12.21,0.95,comes into the bank,010.png
+11,12.21,13.74,1.53,and asks for a car loan,011.png
+12,13.74,15.48,1.74,"of {$9,000.|nine thousand dollars}",012.png
+13,15.48,16.47,0.99,"At this moment,",013.png
+14,16.47,17.54,1.07,the bank loans out,014.png
+15,17.54,19.07,1.53,"the {$9,000|nine thousand dollars}",015.png
+16,19.07,20.71,1.64,from your original deposit.,016.png
+17,20.71,21.98,1.27,It isn't there anymore.,017.png
+18,21.98,23.17,1.19,The borrower then pays,018.png
+19,23.17,24.75,1.58,"the person selling the car,",019.png
+20,24.75,25.8,1.05,and they go deposit,020.png
+21,25.8,27.32,1.52,"the money into another bank,",021.png
+22,27.32,27.99,0.67,which is part of,022.png
+23,27.99,28.97,0.98,the same central,023.png
+24,28.97,29.97,1.0,banking system.,024.png
+25,29.97,31.5,1.53,"This {$9,000|nine thousand dollars}",025.png
+26,31.5,32.24,0.74,is treated as,026.png
+27,32.24,33.25,1.01,"a new deposit,",027.png
+28,33.25,34.92,1.67,and the process continues.,028.png
+29,34.92,36.43,1.51,The money gets redeposited,029.png
+30,36.43,37.38,0.95,and reloaned,030.png
+31,37.38,38.89,1.51,until the initial deposit,031.png
+32,38.89,40.38,1.49,"of {$10,000|ten thousand dollars}",032.png
+33,40.38,40.8,0.42,becomes,033.png
+34,40.8,42.72,1.92,"{$100,000.|one hundred thousand dollars}",034.png
+35,42.72,43.71,0.99,The banking system,035.png
+36,43.71,44.45,0.74,just created,036.png
+37,44.45,45.96,1.51,"{$90,000|ninety thousand dollars}",037.png
+38,45.96,46.77,0.81,by loaning out,038.png
+39,46.77,47.41,0.64,your money.,039.png

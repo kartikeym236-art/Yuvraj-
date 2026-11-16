@@ -1,0 +1,554 @@
+scene,start,end,duration,line,image
+1,0.0,7.53,7.53,"In {1993|nineteen ninety three}, three engineers sat down in a booth at a Denny's restaurant in San Jose, California.",001.jpg
+2,7.53,8.99,1.46,They ordered coffee.,002.jpg
+3,8.99,10.45,1.46,They ordered food.,003.jpg
+4,10.45,12.0,1.55,"And over the next few hours,",004.jpg
+5,12.0,14.56,2.56,they sketched out an idea for a company.,005.jpg
+6,14.56,17.64,3.08,They had about forty thousand dollars between them.,006.jpg
+7,17.64,18.79,1.15,No product.,007.jpg
+8,18.79,19.765,0.975,No customers.,008.jpg
+9,19.765,21.035,1.27,Not even a name.,009.jpg
+10,21.035,22.445,1.41,"About thirty years later,",010.jpg
+11,22.445,24.095,1.65,that company became the first in,011.jpg
+12,24.095,27.185,3.09,history to be worth five trillion dollars.,012.jpg
+13,27.185,29.145,1.96,More than entire countries' economies.,013.jpg
+14,29.145,30.635,1.49,More than Apple.,014.jpg
+15,30.635,32.335,1.7,More than Microsoft.,015.jpg
+16,32.335,33.365,1.03,"At one point,",016.jpg
+17,33.365,36.695,3.33,it was the most valuable company on planet Earth.,017.jpg
+18,36.695,38.495,1.8,That company is Nvidia.,018.jpg
+19,38.495,40.645,2.15,But here's what most people don't know.,019.jpg
+20,40.645,42.555,1.91,Nvidia almost died.,020.jpg
+21,42.555,43.635,1.08,Not once.,021.jpg
+22,43.635,44.825,1.19,Not twice.,022.jpg
+23,44.825,46.065,1.24,Again and again.,023.jpg
+24,46.065,48.705,2.64,It bet everything on the wrong technology.,024.jpg
+25,48.705,50.115,1.41,It ran out of money.,025.jpg
+26,50.115,52.355,2.24,It was laughed at by Wall Street.,026.jpg
+27,52.355,55.055,2.7,Its stock crashed more than eighty percent.,027.jpg
+28,55.055,57.715,2.66,"And for years, it spent billions on an idea",028.jpg
+29,57.715,60.215,2.5,that almost nobody believed in.,029.jpg
+30,60.215,61.725,1.51,"And then, one day,",030.jpg
+31,61.725,63.655,1.93,that crazy idea turned out to,031.jpg
+32,63.655,66.675,3.02,be the engine behind artificial intelligence.,032.jpg
+33,66.675,69.485,2.81,This is the entire history of Nvidia.,033.jpg
+34,69.485,71.065,1.58,"From a booth at Denny's,",034.jpg
+35,71.065,73.755,2.69,to the center of the AI revolution.,035.jpg
+36,73.755,74.895,1.14,"And trust me,",036.jpg
+37,74.895,78.115,3.22,the real story is way wilder than you think.,037.jpg
+38,78.115,79.225,1.11,Let's go.,038.jpg
+39,79.225,82.29,3.065,Chapter one. The boy who cleaned bathrooms.,039.jpg
+40,82.29,86.27,3.98,"To understand Nvidia, you have to understand the man who built it.",040.jpg
+41,86.27,87.37,1.1,Jensen Huang.,041.jpg
+42,87.37,91.42,4.05,Jensen was born in Taiwan in {1963|nineteen sixty three}.,042.jpg
+43,91.42,93.61,2.19,"When he was around nine years old,",043.jpg
+44,93.61,96.0,2.39,his parents sent him and his older brother,044.jpg
+45,96.0,98.76,2.76,to live with an uncle in the United States.,045.jpg
+46,98.76,101.89,3.13,The family wanted the boys to get a good education.,046.jpg
+47,101.89,104.3,2.41,But the uncle made a slight mistake.,047.jpg
+48,104.3,106.12,1.82,He enrolled them at a school in,048.jpg
+49,106.12,109.84,3.72,rural Kentucky called the Oneida Baptist Institute.,049.jpg
+50,109.84,112.38,2.54,He thought it was a prestigious boarding school.,050.jpg
+51,112.38,115.23,2.85,It was actually a school for troubled kids.,051.jpg
+52,115.23,117.86,2.63,Jensen was one of the youngest students there.,052.jpg
+53,117.86,119.85,1.99,His roommate was much older.,053.jpg
+54,119.85,122.495,2.645,"And every day, young Jensen had a chore.",054.jpg
+55,122.495,124.155,1.66,Cleaning the bathrooms.,055.jpg
+56,124.155,127.045,2.89,"Later, his family reunited in Oregon.",056.jpg
+57,127.045,129.555,2.51,"As a teenager, Jensen got a job at,",057.jpg
+58,129.555,130.995,1.44,"you guessed it, Denny's.",058.jpg
+59,130.995,132.375,1.38,Washing dishes.,059.jpg
+60,132.375,133.685,1.31,Busing tables.,060.jpg
+61,133.685,135.395,1.71,Waiting on customers.,061.jpg
+62,135.395,137.915,2.52,"He's said many times that it taught him humility,",062.jpg
+63,137.915,140.195,2.28,and how to work hard under pressure.,063.jpg
+64,140.195,141.955,1.76,He was brilliant at school.,064.jpg
+65,141.955,146.345,4.39,"He went on to study electrical engineering at Oregon State University,",065.jpg
+66,146.345,148.815,2.47,"where he met his future wife, Lori.",066.jpg
+67,148.815,151.635,2.82,Then he earned a master's degree from Stanford.,067.jpg
+68,151.635,154.765,3.13,"He worked as a chip designer at AMD,",068.jpg
+69,154.765,158.145,3.38,and later at a company called LSI Logic.,069.jpg
+70,158.145,160.975,2.83,"By his late twenties, Jensen had a good career.",070.jpg
+71,160.975,162.22,1.245,A stable job.,071.jpg
+72,162.22,163.48,1.26,A young family.,072.jpg
+73,163.48,164.76,1.28,And then two friends came,073.jpg
+74,164.76,166.39,1.63,to him with an idea.,074.jpg
+75,166.39,168.655,2.265,Chapter two. The Denny's meeting.,075.jpg
+76,168.655,172.335,3.68,The two friends were Chris Malachowsky and Curtis Priem.,076.jpg
+77,172.335,175.635,3.3,"Both were engineers at Sun Microsystems,",077.jpg
+78,175.635,178.555,2.92,one of the biggest computer companies of the time.,078.jpg
+79,178.555,180.865,2.31,"Their idea was simple, but bold.",079.jpg
+80,180.865,182.745,1.88,"Computers were getting more powerful,",080.jpg
+81,182.745,184.955,2.21,but they were terrible at one thing.,081.jpg
+82,184.955,185.965,1.01,Graphics.,082.jpg
+83,185.965,188.445,2.48,Drawing realistic {3D|three d} images on a,083.jpg
+84,188.445,191.435,2.99,screen takes an insane amount of math.,084.jpg
+85,191.435,194.945,3.51,"Millions of calculations, every single second.",085.jpg
+86,194.945,198.555,3.61,"A regular computer processor, called a CPU,",086.jpg
+87,198.555,200.505,1.95,is like a genius professor.,087.jpg
+88,200.505,202.475,1.97,"It can solve almost any problem,",088.jpg
+89,202.475,203.345,0.87,but it does them one,089.jpg
+90,203.345,205.485,2.14,"at a time, really fast.",090.jpg
+91,205.485,207.835,2.35,But graphics don't need one genius.,091.jpg
+92,207.835,209.765,1.93,They need thousands of workers doing,092.jpg
+93,209.765,211.685,1.92,simple math all at once.,093.jpg
+94,211.685,214.195,2.51,Imagine painting a giant wall.,094.jpg
+95,214.195,216.815,2.62,One brilliant painter will take forever.,095.jpg
+96,216.815,219.235,2.42,"But a thousand ordinary painters,",096.jpg
+97,219.235,222.945,3.71,"each painting one small square, will finish in minutes.",097.jpg
+98,222.945,224.265,1.32,That's the idea.,098.jpg
+99,224.265,227.025,2.76,"A special chip, built just for graphics.",099.jpg
+100,227.025,230.645,3.62,"Thousands of tiny workers, doing math in parallel.",100.jpg
+101,230.645,232.42,1.775,And the biggest market for it?,101.jpg
+102,232.42,233.65,1.23,Video games.,102.jpg
+103,233.65,236.29,2.64,"So on April fifth, {1993|nineteen ninety three},",103.jpg
+104,236.29,239.0,2.71,the three of them officially started the company.,104.jpg
+105,239.0,241.69,2.69,"For the name, they used the letters N V,",105.jpg
+106,241.69,243.88,2.19,"short for ""next version,"" because they",106.jpg
+107,243.88,246.48,2.6,were saving all their files that way.,107.jpg
+108,246.48,247.74,1.26,Then they found the Latin,108.jpg
+109,247.74,250.56,2.82,"word ""invidia,"" which means envy.",109.jpg
+110,250.56,251.84,1.28,They put it together.,110.jpg
+111,251.84,255.88,4.04,Nvidia. A company designed to make everyone else jealous.,111.jpg
+112,255.88,258.02,2.14,They soon raised around twenty million,112.jpg
+113,258.02,260.42,2.4,"dollars from venture capital firms,",113.jpg
+114,260.42,262.49,2.07,"including Sequoia Capital,",114.jpg
+115,262.49,265.71,3.22,one of the most famous investors in Silicon Valley.,115.jpg
+116,265.71,269.89,4.18,The famous investor Don Valentine reportedly agreed partly,116.jpg
+117,269.89,273.94,4.05,"because Jensen's former boss at LSI Logic told him,",117.jpg
+118,273.94,276.34,2.4,"basically, give this kid money.",118.jpg
+119,276.34,277.72,1.38,Now they had funding.,119.jpg
+120,277.72,278.41,0.69,Now they had a plan.,120.jpg
+121,278.41,281.96,3.55,And their very first product was a disaster.,121.jpg
+122,281.96,285.29,3.33,Chapter three. The chip that almost killed Nvidia.,122.jpg
+123,285.29,289.25,3.96,"In {1995|nineteen ninety five}, Nvidia released its first chip.",123.jpg
+124,289.25,290.46,1.21,The {NV1|n v one}.,124.jpg
+125,290.46,291.9,1.44,It was ambitious.,125.jpg
+126,291.9,293.68,1.78,Maybe too ambitious.,126.jpg
+127,293.68,295.69,2.01,"It tried to do graphics, sound,",127.jpg
+128,295.69,299.34,3.65,"and even game controller support, all on one card.",128.jpg
+129,299.34,302.27,2.93,"And it drew {3D|three d} shapes in an unusual way,",129.jpg
+130,302.27,305.27,3.0,using curved squares instead of triangles.,130.jpg
+131,305.27,306.85,1.58,The problem? The rest of,131.jpg
+132,306.85,309.29,2.44,the industry went with triangles.,132.jpg
+133,309.29,311.84,2.55,"Especially Microsoft, which was building a",133.jpg
+134,311.84,314.77,2.93,new graphics system for Windows called DirectX.,134.jpg
+135,314.77,318.46,3.69,And DirectX was built around triangles.,135.jpg
+136,318.46,320.95,2.49,"Nvidia had built a beautiful chip,",136.jpg
+137,320.95,322.88,1.93,for a world that didn't exist.,137.jpg
+138,322.88,324.47,1.59,Sales were terrible.,138.jpg
+139,324.47,326.48,2.01,Stores returned the cards.,139.jpg
+140,326.48,329.18,2.7,And the company was quickly running out of money.,140.jpg
+141,329.18,330.81,1.63,But there was still one hope.,141.jpg
+142,330.81,333.84,3.03,The video game company Sega had hired Nvidia to,142.jpg
+143,333.84,336.8,2.96,make a graphics chip for its next game console.,143.jpg
+144,336.8,338.11,1.31,A huge deal.,144.jpg
+145,338.11,340.62,2.51,But Jensen realized something painful.,145.jpg
+146,340.62,344.22,3.6,Nvidia's technology was heading in the wrong direction.,146.jpg
+147,344.22,346.81,2.59,"If they kept building Sega's chip their way,",147.jpg
+148,346.81,347.93,1.12,it would fail.,148.jpg
+149,347.93,350.47,2.54,And it would drag Nvidia down with it.,149.jpg
+150,350.47,353.3,2.83,So Jensen did something almost unthinkable.,150.jpg
+151,353.3,354.38,1.08,"He went to Sega,",151.jpg
+152,354.38,357.31,2.93,"and essentially told them, we're doing this wrong.",152.jpg
+153,357.31,359.26,1.95,You should find another partner.,153.jpg
+154,359.26,361.18,1.92,"But, please, pay us anyway,",154.jpg
+155,361.18,363.15,1.97,"because if you don't, we're dead.",155.jpg
+156,363.15,366.23,3.08,"And incredibly, Sega's leadership agreed.",156.jpg
+157,366.23,370.27,4.04,Sega invested about five million dollars into Nvidia.,157.jpg
+158,370.27,373.28,3.01,Money Jensen has said kept the company alive.,158.jpg
+159,373.28,376.23,2.95,But five million dollars doesn't last long.,159.jpg
+160,376.23,377.76,1.53,Nvidia had to lay off,160.jpg
+161,377.76,379.51,1.75,more than half its staff.,161.jpg
+162,379.51,380.75,1.24,The company was down to,162.jpg
+163,380.75,382.98,2.23,roughly thirty days of cash.,163.jpg
+164,382.98,384.45,1.47,And that phrase stuck.,164.jpg
+165,384.45,387.21,2.76,"For years, Jensen would remind his team,",165.jpg
+166,387.21,388.91,1.7,"""Our company is thirty days",166.jpg
+167,388.91,390.53,1.62,"from going out of business.""",167.jpg
+168,390.53,393.285,2.755,Not as a joke. As a mindset.,168.jpg
+169,393.285,396.325,3.04,Chapter four. The bet on a virtual machine.,169.jpg
+170,396.325,397.825,1.5,"With one last shot,",170.jpg
+171,397.825,400.655,2.83,Nvidia started building a brand new chip.,171.jpg
+172,400.655,403.125,2.47,"This time, using triangles.",172.jpg
+173,403.125,406.275,3.15,"This time, built for Microsoft's DirectX.",173.jpg
+174,406.275,409.135,2.86,It was called the RIVA {128|one twenty eight}.,174.jpg
+175,409.135,411.035,1.9,But there was a huge problem.,175.jpg
+176,411.035,414.385,3.35,"Normally, a chip company builds a physical test chip,",176.jpg
+177,414.385,417.665,3.28,"finds the bugs, fixes them, and builds it again.",177.jpg
+178,417.665,419.555,1.89,That process takes months.,178.jpg
+179,419.555,421.605,2.05,And Nvidia didn't have months.,179.jpg
+180,421.605,422.805,1.2,It had weeks.,180.jpg
+181,422.805,424.755,1.95,So Jensen made a gamble.,181.jpg
+182,424.755,426.625,1.87,He spent a big chunk of the company's,182.jpg
+183,426.625,429.825,3.2,remaining money on a machine called an emulator.,183.jpg
+184,429.825,431.255,1.43,It let the engineers run,184.jpg
+185,431.255,432.835,1.58,"their chip in a simulation,",185.jpg
+186,432.835,434.895,2.06,before it was ever physically built.,186.jpg
+187,434.895,437.73,2.835,Test it. Fix it. All virtually.,187.jpg
+188,437.73,439.37,1.64,Then they sent the design straight,188.jpg
+189,439.37,441.62,2.25,to the factory for mass production.,189.jpg
+190,441.62,443.39,1.77,No physical test run.,190.jpg
+191,443.39,445.18,1.79,"If there was a serious flaw,",191.jpg
+192,445.18,446.93,1.75,the company would be finished.,192.jpg
+193,446.93,447.82,0.89,It worked.,193.jpg
+194,447.82,451.8,3.98,"The RIVA {128|one twenty eight} launched in {1997|nineteen ninety seven},",194.jpg
+195,451.8,452.93,1.13,and it was a hit.,195.jpg
+196,452.93,456.41,3.48,Roughly a million units sold in about four months.,196.jpg
+197,456.41,458.06,1.65,Nvidia was saved.,197.jpg
+198,458.06,461.81,3.75,"Two years later, in January {1999|nineteen ninety nine},",198.jpg
+199,461.81,463.68,1.87,Nvidia went public on the stock,199.jpg
+200,463.68,465.94,2.26,market at twelve dollars a share.,200.jpg
+201,465.94,467.36,1.42,"And later that year,",201.jpg
+202,467.36,470.33,2.97,it released the product that would define the company.,202.jpg
+203,470.33,473.285,2.955,Chapter five. The GPU is born.,203.jpg
+204,473.285,478.765,5.48,"In {1999|nineteen ninety nine}, Nvidia launched the GeForce {256|two fifty six}.",204.jpg
+205,478.765,481.575,2.81,"And with it, they made up a brand new word.",205.jpg
+206,481.575,482.877,1.302,The GPU.,206.jpg
+207,482.877,484.797,1.92,The graphics processing unit.,207.jpg
+208,484.797,488.327,3.53,Nvidia marketed it as the world's first GPU.,208.jpg
+209,488.327,490.227,1.9,It could handle complex {3D|three d},209.jpg
+210,490.227,492.427,2.2,"lighting and movement by itself,",210.jpg
+211,492.427,495.107,2.68,freeing up the computer's main processor.,211.jpg
+212,495.107,497.657,2.55,"For gamers, it was a revolution.",212.jpg
+213,497.657,500.337,2.68,Smoother games. Better graphics.,213.jpg
+214,500.337,502.907,2.57,Worlds that looked more real than ever.,214.jpg
+215,502.907,503.817,0.91,The name stuck.,215.jpg
+216,503.817,507.177,3.36,"Today, the whole world uses the word GPU.",216.jpg
+217,507.177,508.967,1.79,Nvidia was on fire.,217.jpg
+218,508.967,512.177,3.21,"In {2000|two thousand}, Microsoft picked Nvidia to make the",218.jpg
+219,512.177,515.227,3.05,graphics chip for its very first Xbox.,219.jpg
+220,515.227,516.547,1.32,"And that same year,",220.jpg
+221,516.547,521.297,4.75,"Nvidia's biggest early rival, a company called {3dfx|three d f x},",221.jpg
+222,521.297,525.567,4.27,"the maker of the famous Voodoo graphics cards, ran into trouble.",222.jpg
+223,525.567,528.017,2.45,Nvidia bought up its key technology,223.jpg
+224,528.017,530.337,2.32,and hired many of its engineers.,224.jpg
+225,530.337,533.307,2.97,The kid who washed dishes at Denny's now ran,225.jpg
+226,533.307,535.957,2.65,one of the hottest tech companies in the world.,226.jpg
+227,535.957,538.727,2.77,There's even a famous story that Jensen promised,227.jpg
+228,538.727,542.157,3.43,"that if Nvidia's stock ever hit a hundred dollars,",228.jpg
+229,542.157,545.057,2.9,he'd get the company logo tattooed on his arm.,229.jpg
+230,545.057,546.957,1.9,It did. And he did.,230.jpg
+231,546.957,549.367,2.41,"Though he later admitted it hurt so much,",231.jpg
+232,549.367,550.947,1.58,he'd never do it again.,232.jpg
+233,550.947,553.477,2.53,But Nvidia's rivals weren't going away.,233.jpg
+234,553.477,559.197,5.72,"A Canadian company called ATI fought back hard, and in the early {2000s|two thousands},",234.jpg
+235,559.197,562.737,3.54,ATI's Radeon cards often beat Nvidia's.,235.jpg
+236,562.737,566.057,3.32,"One Nvidia card, the GeForce FX,",236.jpg
+237,566.057,568.987,2.93,"was so loud and hot that gamers mocked it,",237.jpg
+238,568.987,571.297,2.31,comparing it to a vacuum cleaner.,238.jpg
+239,571.297,575.647,4.35,"In {2006|two thousand six}, chipmaker AMD bought ATI.",239.jpg
+240,575.647,578.037,2.39,Now Nvidia was facing a giant.,240.jpg
+241,578.037,579.627,1.59,"And right at that moment,",241.jpg
+242,579.627,581.427,1.8,Jensen made the most important,242.jpg
+243,581.427,583.667,2.24,decision in the company's history.,243.jpg
+244,583.667,587.087,3.42,A decision almost everyone thought was a mistake.,244.jpg
+245,587.087,589.727,2.64,Chapter six. CUDA. The crazy bet.,245.jpg
+246,589.727,592.527,2.8,Here's something researchers had started to notice.,246.jpg
+247,592.527,594.457,1.93,Remember the painting analogy?,247.jpg
+248,594.457,599.957,5.5,A GPU is basically thousands of small workers doing math at the same time.,248.jpg
+249,599.957,601.647,1.69,"Well, it turns out it's not only",249.jpg
+250,601.647,604.037,2.39,graphics that need that kind of math.,250.jpg
+251,604.037,605.447,1.41,So does science.,251.jpg
+252,605.447,607.027,1.58,Weather simulations.,252.jpg
+253,607.027,608.482,1.455,Medical research.,253.jpg
+254,608.482,609.337,0.855,Physics.,254.jpg
+255,609.337,611.017,1.68,Financial modeling.,255.jpg
+256,611.017,612.477,1.46,Any problem that can be split,256.jpg
+257,612.477,614.777,2.3,into thousands of small pieces.,257.jpg
+258,614.777,616.987,2.21,A few researchers were already hacking,258.jpg
+259,616.987,619.617,2.63,GPUs to do scientific work.,259.jpg
+260,619.617,621.757,2.14,But it was incredibly hard.,260.jpg
+261,621.757,623.447,1.69,They had to trick the chip into thinking,261.jpg
+262,623.447,626.387,2.94,their math problems were video game graphics.,262.jpg
+263,626.387,627.837,1.45,One of those researchers was a,263.jpg
+264,627.837,630.427,2.59,Stanford student named Ian Buck.,264.jpg
+265,630.427,632.027,1.6,Nvidia hired him.,265.jpg
+266,632.027,634.987,2.96,"And together, they built something called CUDA.",266.jpg
+267,634.987,637.757,2.77,"CUDA, released in {2007|two thousand seven},",267.jpg
+268,637.757,640.397,2.64,was a way for programmers to use Nvidia's,268.jpg
+269,640.397,643.567,3.17,GPUs for almost any kind of heavy math.,269.jpg
+270,643.567,644.967,1.4,Not just games.,270.jpg
+271,644.967,647.597,2.63,"Basically, it turned a gaming chip into a",271.jpg
+272,647.597,650.077,2.48,supercomputer you could buy at a store.,272.jpg
+273,650.077,651.467,1.39,But here's the catch.,273.jpg
+274,651.467,654.207,2.74,"To make CUDA work, Nvidia had to build it into",274.jpg
+275,654.207,655.257,1.05,every single chip it made.,275.jpg
+276,655.257,658.357,3.1,That made the chips more expensive.,276.jpg
+277,658.357,659.857,1.5,It cut into profits.,277.jpg
+278,659.857,662.557,2.7,"And for years, almost nobody used it.",278.jpg
+279,662.557,664.187,1.63,Gamers didn't care.,279.jpg
+280,664.187,666.227,2.04,Investors were confused.,280.jpg
+281,666.227,669.107,2.88,Why is a video game company spending billions,281.jpg
+282,669.107,672.317,3.21,on science tools that nobody is buying?,282.jpg
+283,672.317,674.457,2.14,"And then, things got even worse.",283.jpg
+284,674.457,678.537,4.08,"In {2008|two thousand eight}, the global financial crisis hit.",284.jpg
+285,678.537,679.867,1.33,"On top of that,",285.jpg
+286,679.867,682.637,2.77,Nvidia discovered that some of its laptop chips,286.jpg
+287,682.637,686.127,3.49,were failing because of a manufacturing defect.,287.jpg
+288,686.127,687.867,1.74,It had to set aside around two,288.jpg
+289,687.867,690.067,2.2,hundred million dollars to deal with it.,289.jpg
+290,690.067,692.097,2.03,Nvidia's stock collapsed.,290.jpg
+291,692.097,694.517,2.42,From its peak in {2007|two thousand seven} to,291.jpg
+292,694.517,696.917,2.4,"the bottom in late {2008|two thousand eight},",292.jpg
+293,696.917,699.907,2.99,it lost more than eighty percent of its value.,293.jpg
+294,699.907,702.377,2.47,Wall Street wanted Jensen to cut CUDA.,294.jpg
+295,702.377,705.527,3.15,Focus on games. Stop wasting money.,295.jpg
+296,705.527,707.057,1.53,Jensen refused.,296.jpg
+297,707.057,708.837,1.78,"He believed that someday,",297.jpg
+298,708.837,711.797,2.96,the world would need what Nvidia was building.,298.jpg
+299,711.797,714.687,2.89,"He just didn't know exactly when, or why.",299.jpg
+300,714.687,716.497,1.81,He was about to find out.,300.jpg
+301,716.497,718.882,2.385,Chapter seven. The phone failure.,301.jpg
+302,718.882,720.812,1.93,"But first, one more failure.",302.jpg
+303,720.812,724.272,3.46,"In the late {2000s|two thousands}, smartphones were exploding.",303.jpg
+304,724.272,725.942,1.67,Nvidia wanted in.,304.jpg
+305,725.942,728.562,2.62,"So it built a mobile chip called Tegra,",305.jpg
+306,728.562,730.962,2.4,designed for phones and tablets.,306.jpg
+307,730.962,732.232,1.27,It didn't go well.,307.jpg
+308,732.232,733.802,1.57,"Companies like Qualcomm,",308.jpg
+309,733.802,735.842,2.04,"and later Apple with its own chips,",309.jpg
+310,735.842,737.972,2.13,dominated the phone world.,310.jpg
+311,737.972,739.872,1.9,Nvidia was squeezed out.,311.jpg
+312,739.872,741.642,1.77,"By the mid-{2010s|twenty tens},",312.jpg
+313,741.642,743.702,2.06,it had mostly given up on phones.,313.jpg
+314,743.702,747.432,3.73,But nothing in Nvidia's story is ever really wasted.,314.jpg
+315,747.432,748.872,1.44,A Tegra chip ended up in,315.jpg
+316,748.872,751.652,2.78,the early Tesla Model S dashboard.,316.jpg
+317,751.652,754.442,2.79,"And later, a Tegra chip became the brain of",317.jpg
+318,754.442,757.882,3.44,one of the best-selling game consoles of all time.,318.jpg
+319,757.882,759.672,1.79,The Nintendo Switch.,319.jpg
+320,759.672,761.252,1.58,"Still, by the early {2010s|twenty tens},",320.jpg
+321,761.252,764.022,2.77,Nvidia was seen as a gaming graphics,321.jpg
+322,764.022,766.452,2.43,company that had missed the mobile wave.,322.jpg
+323,766.452,769.712,3.26,A solid business. Not an exciting one.,323.jpg
+324,769.712,773.512,3.8,"And then, in a bedroom in Toronto, everything changed.",324.jpg
+325,773.512,776.192,2.68,Chapter eight. The big bang of AI.,325.jpg
+326,776.192,777.302,1.11,It's {2012|twenty twelve}.,326.jpg
+327,777.302,782.522,5.22,"A university student named Alex Krizhevsky, working with Ilya Sutskever,",327.jpg
+328,782.522,787.792,5.27,"and their professor, Geoffrey Hinton, are building something called a neural network.",328.jpg
+329,787.792,789.182,1.39,A neural network is a kind,329.jpg
+330,789.182,792.092,2.91,of computer program that learns by example.,330.jpg
+331,792.092,794.622,2.53,"Show it a million pictures of cats,",331.jpg
+332,794.622,797.392,2.77,and it slowly learns what a cat looks like.,332.jpg
+333,797.392,801.952,4.56,"The idea had been around for decades, but it never worked very well.",333.jpg
+334,801.952,806.262,4.31,Training these networks required an impossible amount of math.,334.jpg
+335,806.262,807.272,1.01,But remember.,335.jpg
+336,807.272,811.032,3.76,"Impossible amounts of math, split into tiny pieces,",336.jpg
+337,811.032,813.792,2.76,is exactly what GPUs are good at.,337.jpg
+338,813.792,817.582,3.79,So Alex used two Nvidia gaming graphics cards.,338.jpg
+339,817.582,820.252,2.67,The kind you'd buy to play video games.,339.jpg
+340,820.252,821.532,1.28,"And using CUDA,",340.jpg
+341,821.532,826.842,5.31,"he trained his neural network on them, reportedly from his bedroom at his parents' house.",341.jpg
+342,826.842,828.452,1.61,They called it AlexNet.,342.jpg
+343,828.452,829.462,1.01,And they entered it into a,343.jpg
+344,829.462,833.192,3.73,famous image recognition contest called ImageNet.,344.jpg
+345,833.192,834.532,1.34,It didn't just win.,345.jpg
+346,834.532,836.262,1.73,It crushed the competition.,346.jpg
+347,836.262,840.202,3.94,Its error rate was dramatically lower than the next best entry.,347.jpg
+348,840.202,842.142,1.94,The AI world was stunned.,348.jpg
+349,842.142,845.012,2.87,"Suddenly, everyone realized two things.",349.jpg
+350,845.012,847.227,2.215,Neural networks actually work.,350.jpg
+351,847.227,849.167,1.94,And the key to making them work...,351.jpg
+352,849.167,851.337,2.17,is Nvidia GPUs.,352.jpg
+353,851.337,854.507,3.17,Remember CUDA? The project Wall Street hated?,353.jpg
+354,854.507,857.267,2.76,"The thing Jensen spent years and billions on,",354.jpg
+355,857.267,859.437,2.17,while everyone told him to stop?,355.jpg
+356,859.437,863.167,3.73,It was now the only real toolset for building AI.,356.jpg
+357,863.167,864.797,1.63,Every researcher learned it.,357.jpg
+358,864.797,867.197,2.4,Every AI lab built on it.,358.jpg
+359,867.197,871.517,4.32,"Nvidia had spent years laying railroad tracks, and suddenly,",359.jpg
+360,871.517,874.027,2.51,the whole world wanted to ride the train.,360.jpg
+361,874.027,876.307,2.28,Jensen saw it immediately.,361.jpg
+362,876.307,879.327,3.02,He pushed the entire company toward AI.,362.jpg
+363,879.327,882.537,3.21,"He started calling Nvidia an AI company,",363.jpg
+364,882.537,885.777,3.24,years before most people even knew what that meant.,364.jpg
+365,885.777,892.217,6.44,"And in {2016|twenty sixteen}, he personally delivered Nvidia's first AI supercomputer box,",365.jpg
+366,892.217,894.307,2.09,"called the {DGX-1|d g x one},",366.jpg
+367,894.307,897.527,3.22,to a tiny research lab in San Francisco.,367.jpg
+368,897.527,900.827,3.3,"A little-known nonprofit, that had just been founded.",368.jpg
+369,900.827,902.867,2.04,It was called OpenAI.,369.jpg
+370,902.867,906.022,3.155,Chapter nine. Gold rushes and hangovers.,370.jpg
+371,906.022,909.282,3.26,"Over the next few years, Nvidia grew fast.",371.jpg
+372,909.282,910.982,1.7,Gaming kept booming.,372.jpg
+373,910.982,914.892,3.91,"Its RTX cards introduced real-time ray tracing,",373.jpg
+374,914.892,918.212,3.32,making light in games look stunningly realistic.,374.jpg
+375,918.212,921.812,3.6,And data centers started buying GPUs for AI.,375.jpg
+376,921.812,924.157,2.345,"But there was another, stranger customer.",376.jpg
+377,924.157,925.587,1.43,Crypto miners.,377.jpg
+378,925.587,930.337,4.75,"Cryptocurrencies like Ethereum could be ""mined"" using GPUs.",378.jpg
+379,930.337,932.167,1.83,"When crypto prices soared,",379.jpg
+380,932.167,935.347,3.18,miners bought every graphics card they could find.,380.jpg
+381,935.347,937.337,1.99,Gamers couldn't get cards anywhere.,381.jpg
+382,937.337,938.957,1.62,Prices went crazy.,382.jpg
+383,938.957,941.927,2.97,"And then crypto crashed, in {2018|twenty eighteen}.",383.jpg
+384,941.927,944.287,2.36,"Suddenly, demand vanished.",384.jpg
+385,944.287,947.707,3.42,Stores were stuck with piles of unsold cards.,385.jpg
+386,947.707,950.127,2.42,Nvidia's stock dropped roughly in half,386.jpg
+387,950.127,951.537,1.41,in a matter of months.,387.jpg
+388,951.537,953.697,2.16,"Later, the US government even",388.jpg
+389,953.697,955.727,2.03,fined Nvidia for not clearly,389.jpg
+390,955.727,957.617,1.89,telling investors how much of its,390.jpg
+391,957.617,959.637,2.02,sales had come from crypto.,391.jpg
+392,959.637,961.567,1.93,"Then, in {2020|twenty twenty},",392.jpg
+393,961.567,964.327,2.76,Nvidia made its biggest power move yet.,393.jpg
+394,964.327,966.497,2.17,"It announced a deal to buy Arm,",394.jpg
+395,966.497,968.567,2.07,the British company whose chip designs,395.jpg
+396,968.567,971.597,3.03,power nearly every smartphone on the planet.,396.jpg
+397,971.597,975.007,3.41,"Price tag, about forty billion dollars.",397.jpg
+398,975.007,977.687,2.68,But governments around the world were alarmed.,398.jpg
+399,977.687,980.397,2.71,Nvidia owning Arm would give one company,399.jpg
+400,980.397,983.797,3.4,enormous control over the entire chip industry.,400.jpg
+401,983.797,985.947,2.15,Regulators pushed back hard.,401.jpg
+402,985.947,989.177,3.23,"In {2022|twenty twenty two}, the deal collapsed.",402.jpg
+403,989.177,992.127,2.95,"That same year, the crypto boom crashed again.",403.jpg
+404,992.127,993.737,1.61,Tech stocks crashed.,404.jpg
+405,993.737,997.717,3.98,And Nvidia's stock fell more than half during {2022|twenty twenty two}.,405.jpg
+406,997.717,1000.427,2.71,"Once again, people wondered if Nvidia's",406.jpg
+407,1000.427,1002.197,1.77,best days were behind it.,407.jpg
+408,1002.197,1004.107,1.91,They could not have been more wrong.,408.jpg
+409,1004.107,1007.412,3.305,Chapter ten. The ChatGPT explosion.,409.jpg
+410,1007.412,1010.752,3.34,"On November thirtieth, {2022|twenty twenty two},",410.jpg
+411,1010.752,1014.652,3.9,OpenAI released a chatbot called ChatGPT.,411.jpg
+412,1014.652,1017.622,2.97,"Within days, millions of people were using it.",412.jpg
+413,1017.622,1019.292,1.67,"Within about two months,",413.jpg
+414,1019.292,1022.632,3.34,it had an estimated one hundred million users.,414.jpg
+415,1022.632,1025.522,2.89,One of the fastest growing apps in history.,415.jpg
+416,1025.522,1028.252,2.73,And every single question people typed into it,416.jpg
+417,1028.252,1031.082,2.83,was answered by a giant AI model.,417.jpg
+418,1031.082,1034.042,2.96,Trained and running on Nvidia GPUs.,418.jpg
+419,1034.042,1037.072,3.03,"Suddenly, every big tech company on Earth panicked.",419.jpg
+420,1037.072,1039.162,2.09,Google. Microsoft. Meta. Amazon.,420.jpg
+421,1039.162,1040.192,1.03,Startups. Governments.,421.jpg
+422,1040.192,1042.672,2.48,Everyone needed to build their own AI.,422.jpg
+423,1042.672,1043.902,1.23,"And to build AI,",423.jpg
+424,1043.902,1048.152,4.25,"you needed Nvidia's most powerful chip, the {H100|h one hundred}.",424.jpg
+425,1048.152,1049.492,1.34,There weren't enough of them.,425.jpg
+426,1049.492,1050.852,1.36,Not even close.,426.jpg
+427,1050.852,1052.612,1.76,Companies waited months.,427.jpg
+428,1052.612,1055.682,3.07,Some {H100|h one hundred} chips reportedly sold for,428.jpg
+429,1055.682,1058.212,2.53,tens of thousands of dollars each.,429.jpg
+430,1058.212,1061.542,3.33,"Tech CEOs would brag about how many they had,",430.jpg
+431,1061.542,1063.592,2.05,like collecting gold bars.,431.jpg
+432,1063.592,1065.822,2.23,Nvidia's sales exploded.,432.jpg
+433,1065.822,1067.242,1.42,"Its data center business,",433.jpg
+434,1067.242,1069.482,2.24,"which used to be a side project,",434.jpg
+435,1069.482,1071.162,1.68,became the main event.,435.jpg
+436,1071.162,1072.752,1.59,"Quarter after quarter,",436.jpg
+437,1072.752,1075.792,3.04,Nvidia smashed Wall Street's expectations by,437.jpg
+438,1075.792,1078.602,2.81,numbers that seemed almost impossible.,438.jpg
+439,1078.602,1080.622,2.02,"In May {2023|twenty twenty three},",439.jpg
+440,1080.622,1083.982,3.36,Nvidia crossed one trillion dollars in value.,440.jpg
+441,1083.982,1087.302,3.32,"In early {2024|twenty twenty four}, two trillion.",441.jpg
+442,1087.302,1090.842,3.54,"By June {2024|twenty twenty four}, three trillion.",442.jpg
+443,1090.842,1091.992,1.15,"And for a moment,",443.jpg
+444,1091.992,1095.722,3.73,Nvidia became the most valuable company in the world.,444.jpg
+445,1095.722,1097.252,1.53,And it didn't stop there.,445.jpg
+446,1097.252,1099.602,2.35,"In July {2025|twenty twenty five},",446.jpg
+447,1099.602,1101.162,1.56,it became the first company in,447.jpg
+448,1101.162,1104.092,2.93,history to reach four trillion dollars.,448.jpg
+449,1104.092,1105.512,1.42,"And just a few months later,",449.jpg
+450,1105.512,1109.702,4.19,"in October {2025|twenty twenty five}, it broke five trillion.",450.jpg
+451,1109.702,1111.872,2.17,Someone who had invested one thousand,451.jpg
+452,1111.872,1114.682,2.81,dollars in Nvidia at its IPO,452.jpg
+453,1114.682,1117.212,2.53,in {1999|nineteen ninety nine} would have seen it,453.jpg
+454,1117.212,1119.683,2.471,grow to several million dollars.,454.jpg
+455,1119.683,1121.933,2.25,Not bad for a company that was once,455.jpg
+456,1121.933,1124.453,2.52,thirty days from going out of business.,456.jpg
+457,1124.453,1127.598,3.145,Chapter eleven. The man in the leather jacket.,457.jpg
+458,1127.598,1130.648,3.05,So how did Nvidia actually pull this off?,458.jpg
+459,1130.648,1133.838,3.19,A lot of it comes down to Jensen Huang himself.,459.jpg
+460,1133.838,1136.228,2.39,"He's famous for his black leather jacket,",460.jpg
+461,1136.228,1138.788,2.56,which he wears to almost every keynote.,461.jpg
+462,1138.788,1140.888,2.1,He's one of the longest-serving founder,462.jpg
+463,1140.888,1143.018,2.13,"CEOs in all of tech,",463.jpg
+464,1143.018,1145.808,2.79,running Nvidia for over thirty years.,464.jpg
+465,1145.808,1148.548,2.74,And he runs it in a very unusual way.,465.jpg
+466,1148.548,1152.598,4.05,He has reportedly had around sixty people reporting directly to him.,466.jpg
+467,1152.598,1155.168,2.57,Most CEOs have maybe ten.,467.jpg
+468,1155.168,1157.748,2.58,"He says he avoids one-on-one meetings,",468.jpg
+469,1157.748,1160.918,3.17,"preferring to share information with everyone at once,",469.jpg
+470,1160.918,1163.118,2.2,so the whole company moves together.,470.jpg
+471,1163.118,1165.298,2.18,Employees send him short emails,471.jpg
+472,1165.298,1167.688,2.39,"listing their top five priorities,",472.jpg
+473,1167.688,1169.668,1.98,and he reads them constantly.,473.jpg
+474,1169.668,1171.928,2.26,He's also famously intense.,474.jpg
+475,1171.928,1175.258,3.33,"When asked what advice he'd give to students at Stanford,",475.jpg
+476,1175.258,1177.068,1.81,"he said, ""I wish upon you",476.jpg
+477,1177.068,1179.688,2.62,"ample doses of pain and suffering.""",477.jpg
+478,1179.688,1182.788,3.1,"Because he believes that greatness comes from character,",478.jpg
+479,1182.788,1185.068,2.28,and character is built through struggle.,479.jpg
+480,1185.068,1189.248,4.18,"And when he was asked on a podcast whether he'd start Nvidia again,",480.jpg
+481,1189.248,1193.428,4.18,"knowing everything he knows now, his answer shocked people.",481.jpg
+482,1193.428,1194.648,1.22,He said he wouldn't.,482.jpg
+483,1194.648,1195.678,1.03,Because if he had known,483.jpg
+484,1195.678,1197.328,1.65,"how hard it would be,",484.jpg
+485,1197.328,1199.228,1.9,"how much pain was ahead,",485.jpg
+486,1199.228,1201.658,2.43,he might never have had the courage to start.,486.jpg
+487,1201.658,1203.438,1.78,That's the thing about Nvidia.,487.jpg
+488,1203.438,1205.828,2.39,It wasn't built on genius alone.,488.jpg
+489,1205.828,1207.748,1.92,It was built on surviving.,489.jpg
+490,1207.748,1209.968,2.22,Chapter twelve. The risks ahead.,490.jpg
+491,1209.968,1212.898,2.93,"Of course, being on top has never been easy.",491.jpg
+492,1212.898,1218.308,5.41,"In January {2025|twenty twenty five}, a Chinese AI company called DeepSeek",492.jpg
+493,1218.308,1220.708,2.4,released a powerful AI model,493.jpg
+494,1220.708,1222.428,1.72,that it claimed was trained using,494.jpg
+495,1222.428,1224.838,2.41,far fewer chips than expected.,495.jpg
+496,1224.838,1226.458,1.62,Investors panicked.,496.jpg
+497,1226.458,1229.448,2.99,"If AI didn't need as many GPUs,",497.jpg
+498,1229.448,1231.008,1.56,what would happen to Nvidia?,498.jpg
+499,1231.008,1232.288,1.28,"In a single day,",499.jpg
+500,1232.288,1234.928,2.64,Nvidia lost nearly six hundred billion,500.jpg
+501,1234.928,1237.178,2.25,dollars in stock market value.,501.jpg
+502,1237.178,1240.818,3.64,The biggest single-day loss for any company in history.,502.jpg
+503,1240.818,1245.768,4.95,"And yet, within months, Nvidia bounced back, and climbed to new records.",503.jpg
+504,1245.768,1249.538,3.77,Because the world's hunger for AI computing kept growing.,504.jpg
+505,1249.538,1251.308,1.77,But the challenges are real.,505.jpg
+506,1251.308,1253.508,2.2,The US government has restricted which,506.jpg
+507,1253.508,1255.978,2.47,"chips Nvidia can sell to China,",507.jpg
+508,1255.978,1257.958,1.98,once one of its biggest markets.,508.jpg
+509,1257.958,1261.008,3.05,Rivals like AMD are fighting hard.,509.jpg
+510,1261.008,1263.208,2.2,"And Nvidia's own biggest customers,",510.jpg
+511,1263.208,1266.278,3.07,"like Google, Amazon, and Microsoft,",511.jpg
+512,1266.278,1268.908,2.63,"are designing their own AI chips,",512.jpg
+513,1268.908,1271.358,2.45,so they can depend less on Nvidia.,513.jpg
+514,1271.358,1274.298,2.94,"Meanwhile, Nvidia keeps pushing forward.",514.jpg
+515,1274.298,1275.848,1.55,New generations of chips with,515.jpg
+516,1275.848,1277.968,2.12,names like Blackwell and Rubin.,516.jpg
+517,1277.968,1281.298,3.33,Massive AI systems the size of rooms.,517.jpg
+518,1281.298,1284.918,3.62,"And Jensen talks about the next frontier: robots,",518.jpg
+519,1284.918,1288.928,4.01,"self-driving cars, and what he calls ""AI factories.""",519.jpg
+520,1288.928,1291.798,2.87,Nobody knows exactly how this story ends.,520.jpg
+521,1291.798,1293.903,2.105,Chapter thirteen. The lesson.,521.jpg
+522,1293.903,1296.013,2.11,So let's look at the whole journey.,522.jpg
+523,1296.013,1297.883,1.87,"A kid sent across the world,",523.jpg
+524,1297.883,1301.193,3.31,cleaning bathrooms at a boarding school in Kentucky.,524.jpg
+525,1301.193,1303.723,2.53,A teenager washing dishes at Denny's.,525.jpg
+526,1303.723,1305.283,1.56,Three engineers with a big,526.jpg
+527,1305.283,1307.803,2.52,idea and forty thousand dollars.,527.jpg
+528,1307.803,1309.633,1.83,A first chip that flopped.,528.jpg
+529,1309.633,1312.073,2.44,A company thirty days from death.,529.jpg
+530,1312.073,1314.493,2.42,A gamble on a virtual test machine.,530.jpg
+531,1314.493,1316.783,2.29,The invention of the GPU.,531.jpg
+532,1316.783,1320.223,3.44,A billion-dollar bet on CUDA that Wall Street hated.,532.jpg
+533,1320.223,1322.803,2.58,A stock crash of more than eighty percent.,533.jpg
+534,1322.803,1324.643,1.84,A failed phone business.,534.jpg
+535,1324.643,1326.563,1.92,"And then, two gaming cards",535.jpg
+536,1326.563,1328.323,1.76,"in a bedroom in Toronto,",536.jpg
+537,1328.323,1329.953,1.63,that changed the future.,537.jpg
+538,1329.953,1331.813,1.86,Nvidia didn't succeed because it,538.jpg
+539,1331.813,1333.953,2.14,always made the right choices.,539.jpg
+540,1333.953,1336.003,2.05,It made plenty of wrong ones.,540.jpg
+541,1336.003,1338.813,2.81,It succeeded because it refused to die.,541.jpg
+542,1338.813,1340.133,1.32,Long enough for the world to,542.jpg
+543,1340.133,1342.383,2.25,finally catch up to its idea.,543.jpg
+544,1342.383,1344.533,2.15,And maybe that's the real lesson.,544.jpg
+545,1344.533,1347.683,3.15,"Sometimes, the thing everyone tells you to quit...",545.jpg
+546,1347.683,1350.413,2.73,is the exact thing that changes everything.,546.jpg
+547,1350.413,1352.133,1.72,"If you enjoyed this story,",547.jpg
+548,1352.133,1353.383,1.25,share it with a friend who,548.jpg
+549,1353.383,1355.733,2.35,thinks they know everything about tech.,549.jpg
+550,1355.733,1357.683,1.95,Subscribe for more stories of the,550.jpg
+551,1357.683,1359.823,2.14,companies that shaped our world.,551.jpg
+552,1359.823,1361.663,1.84,"And let me know in the comments,",552.jpg
+553,1361.663,1363.926,2.263,which company should I cover next?,553.jpg

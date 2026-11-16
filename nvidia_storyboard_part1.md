@@ -2,7 +2,7 @@
 
 Each line of the voiceover is one shot of about 1–3 seconds. Each prompt box is **self-contained**: paste it on its own into any image model (Midjourney, GPT-Image, Flux, Ideogram, etc.) and it carries the full style, characters and scene.
 
-**Style target:** the reference frames, i.e. a flat hand-drawn 2D explainer cartoon with big round heads, stick limbs, thick wobbly black outlines, one cel-shade tone, a muted palette and handwritten captions.
+**Style target:** the reference frames, i.e. A flat hand-drawn 2D explainer cartoon with big round heads, stick limbs, thick wobbly black outlines, one cel-shade tone, a muted palette and handwritten captions.
 
 **Tips:** use 16:9 (e.g. `--ar 16:9`). To keep characters consistent, generate a character sheet first and pass it as a reference image together with these prompts. Durations assume about 2.7 spoken words per second.
 
@@ -12,17 +12,17 @@ Each line of the voiceover is one shot of about 1–3 seconds. Each prompt box i
 
 ## Character sheet (reference)
 
-- YOUNG JENSEN HUANG (age about 9, 1970s): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
-- TEENAGE JENSEN HUANG (about 15, 1970s): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
-- CHRIS MALACHOWSKY (Nvidia co-founder, 1990s, simplified caricature): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
-- CURTIS PRIEM (Nvidia co-founder, 1990s, simplified caricature): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful engineer look.
-- DON VALENTINE (venture capitalist, simplified caricature): older, round beige head, slicked white hair, dark grey suit, white shirt, red tie, sceptical eyebrows.
-- IAN BUCK (young researcher, mid-2000s, simplified caricature): round beige head, short messy brown hair, grey hoodie, laptop under arm, eager smile.
-- ALEX KRIZHEVSKY (university student, 2012, simplified caricature): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
-- ILYA SUTSKEVER (researcher, 2012, simplified caricature): round beige head, short dark hair receding at the temples, intense eyes, grey t-shirt.
-- GEOFFREY HINTON (professor, simplified caricature): older, round beige head, white receding hair, kind smile, grey sweater over a collared shirt.
+- THE FOUNDER AS A BOY (original character, about 9, 1970s, East Asian boy): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
+- THE FOUNDER AS A TEENAGER (original character, about 15, 1970s, East Asian teen): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FIRST CO-FOUNDER (original character, 1990s engineer): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
+- THE SECOND CO-FOUNDER (original character, 1990s engineer): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful look.
+- THE VETERAN INVESTOR (original character, older venture capitalist): round beige head, slicked white hair, dark grey suit, white shirt, red tie, sceptical eyebrows.
+- THE YOUNG RESEARCHER (original character, mid-2000s grad student): round beige head, short messy brown hair, grey hoodie, laptop under arm, eager smile.
+- THE STUDENT (original character, 2012 university student): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
+- THE LAB PARTNER (original character, 2012 researcher): round beige head, short dark hair receding at the temples, intense eyes, grey t-shirt.
+- THE PROFESSOR (original character, older computer-science professor): round beige head, white receding hair, kind smile, grey sweater over a collared shirt.
 
 
 ---
@@ -45,9 +45,9 @@ HISTORICAL CONTEXT: San Jose, California, 1993 roadside diner with red vinyl boo
 SCENE: Exterior of a 1990s American roadside diner at dusk with a glowing sign reading 'DENNY'S' in plain hand-lettered text, palm trees, cars in the parking lot; then inside, a red vinyl booth by the window where three men slide in. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
-- CHRIS MALACHOWSKY (Nvidia co-founder, 1990s, simplified caricature): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
-- CURTIS PRIEM (Nvidia co-founder, 1990s, simplified caricature): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful engineer look.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FIRST CO-FOUNDER (original character, 1990s engineer): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
+- THE SECOND CO-FOUNDER (original character, 1990s engineer): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful look.
 
 ON-SCREEN TEXT: "San Jose, 1993" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -74,9 +74,9 @@ HISTORICAL CONTEXT: San Jose, California, 1993 roadside diner with red vinyl boo
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Exterior of a 1990s American roadside diner at dusk with a glowing sign reading 'DENNY'S' in plain hand-lettered text, palm trees, cars in the parking lot; then inside, a red vinyl booth by the window where three men slide in.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
-- CHRIS MALACHOWSKY (Nvidia co-founder, 1990s, simplified caricature): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
-- CURTIS PRIEM (Nvidia co-founder, 1990s, simplified caricature): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful engineer look.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FIRST CO-FOUNDER (original character, 1990s engineer): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
+- THE SECOND CO-FOUNDER (original character, 1990s engineer): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful look.
 
 ON-SCREEN TEXT: "San Jose, 1993" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -130,9 +130,9 @@ HISTORICAL CONTEXT: San Jose, California, 1993 roadside diner with red vinyl boo
 SCENE: Plates of pancakes, eggs and fries arriving on the table; the three engineers smiling.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
-- CHRIS MALACHOWSKY (Nvidia co-founder, 1990s, simplified caricature): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
-- CURTIS PRIEM (Nvidia co-founder, 1990s, simplified caricature): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful engineer look.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FIRST CO-FOUNDER (original character, 1990s engineer): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
+- THE SECOND CO-FOUNDER (original character, 1990s engineer): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful look.
 
 ON-SCREEN TEXT: none.
 
@@ -159,9 +159,9 @@ HISTORICAL CONTEXT: San Jose, California, 1993 roadside diner with red vinyl boo
 SCENE: The three hunched over paper napkins covered with chip diagrams and arrows, a wall clock behind them spinning forward. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
-- CHRIS MALACHOWSKY (Nvidia co-founder, 1990s, simplified caricature): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
-- CURTIS PRIEM (Nvidia co-founder, 1990s, simplified caricature): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful engineer look.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FIRST CO-FOUNDER (original character, 1990s engineer): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
+- THE SECOND CO-FOUNDER (original character, 1990s engineer): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful look.
 
 ON-SCREEN TEXT: none.
 
@@ -188,9 +188,9 @@ HISTORICAL CONTEXT: San Jose, California, 1993 roadside diner with red vinyl boo
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The three hunched over paper napkins covered with chip diagrams and arrows, a wall clock behind them spinning forward.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
-- CHRIS MALACHOWSKY (Nvidia co-founder, 1990s, simplified caricature): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
-- CURTIS PRIEM (Nvidia co-founder, 1990s, simplified caricature): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful engineer look.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FIRST CO-FOUNDER (original character, 1990s engineer): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
+- THE SECOND CO-FOUNDER (original character, 1990s engineer): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful look.
 
 ON-SCREEN TEXT: none.
 
@@ -265,9 +265,9 @@ HISTORICAL CONTEXT: San Jose, California, 1993 roadside diner with red vinyl boo
 SCENE: An empty diner with only the three engineers.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
-- CHRIS MALACHOWSKY (Nvidia co-founder, 1990s, simplified caricature): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
-- CURTIS PRIEM (Nvidia co-founder, 1990s, simplified caricature): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful engineer look.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FIRST CO-FOUNDER (original character, 1990s engineer): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
+- THE SECOND CO-FOUNDER (original character, 1990s engineer): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful look.
 
 ON-SCREEN TEXT: "No customers." in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -411,7 +411,7 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: San Jose, California, 1993 roadside diner with red vinyl booths and paper napkin sketches, contrasted with the 2025 AI boom: glowing data centres and record stock charts.
 
-SCENE: Two bars: a green one taller than a grey one labelled 'Apple' in plain text.
+SCENE: Two bars: A green one taller than a grey one labelled 'Apple' in plain text.
 
 ON-SCREEN TEXT: none.
 
@@ -750,10 +750,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: San Jose, California, 1993 roadside diner with red vinyl booths and paper napkin sketches, contrasted with the 2025 AI boom: glowing data centres and record stock charts.
 
-SCENE: Jensen pouring money into a machine labelled 'CUDA' while a crowd shakes their heads. Wide/establishing framing.
+SCENE: The founder pouring money into a machine labelled 'CUDA' while a crowd shakes their heads. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: none.
@@ -778,10 +778,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: San Jose, California, 1993 roadside diner with red vinyl booths and paper napkin sketches, contrasted with the 2025 AI boom: glowing data centres and record stock charts.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Jensen pouring money into a machine labelled 'CUDA' while a crowd shakes their heads.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: The founder pouring money into a machine labelled 'CUDA' while a crowd shakes their heads.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: none.
@@ -806,10 +806,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: San Jose, California, 1993 roadside diner with red vinyl booths and paper napkin sketches, contrasted with the 2025 AI boom: glowing data centres and record stock charts.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Jensen pouring money into a machine labelled 'CUDA' while a crowd shakes their heads.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: The founder pouring money into a machine labelled 'CUDA' while a crowd shakes their heads.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: none.
@@ -930,7 +930,7 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: San Jose, California, 1993 roadside diner with red vinyl booths and paper napkin sketches, contrasted with the 2025 AI boom: glowing data centres and record stock charts.
 
-SCENE: Split frame: the diner booth on the left, a huge glowing data centre on the right. Wide/establishing framing.
+SCENE: Split frame: The diner booth on the left, a huge glowing data centre on the right. Wide/establishing framing.
 
 ON-SCREEN TEXT: none.
 
@@ -954,7 +954,7 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: San Jose, California, 1993 roadside diner with red vinyl booths and paper napkin sketches, contrasted with the 2025 AI boom: glowing data centres and record stock charts.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Split frame: the diner booth on the left, a huge glowing data centre on the right.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Split frame: The diner booth on the left, a huge glowing data centre on the right.
 
 ON-SCREEN TEXT: none.
 
@@ -1082,7 +1082,7 @@ HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school 
 SCENE: A silhouette of a man in a leather jacket standing in front of a big green glow. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -1109,7 +1109,7 @@ HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A silhouette of a man in a leather jacket standing in front of a big green glow.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -1133,12 +1133,12 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: Jensen Huang turns around grinning, arms crossed.
+SCENE: The founder turns around grinning, arms crossed.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
-ON-SCREEN TEXT: "Jensen Huang" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Iconic.
 
@@ -1187,10 +1187,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: Young Jensen and his slightly taller brother at an airport gate holding small suitcases, waving goodbye to their parents. Wide/establishing framing.
+SCENE: Young the founder and his slightly taller brother at an airport gate holding small suitcases, waving goodbye to their parents. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- YOUNG JENSEN HUANG (age about 9, 1970s): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
+- THE FOUNDER AS A BOY (original character, about 9, 1970s, East Asian boy): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: none.
@@ -1215,10 +1215,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Young Jensen and his slightly taller brother at an airport gate holding small suitcases, waving goodbye to their parents.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Young the founder and his slightly taller brother at an airport gate holding small suitcases, waving goodbye to their parents.
 
 CHARACTERS IN FRAME:
-- YOUNG JENSEN HUANG (age about 9, 1970s): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
+- THE FOUNDER AS A BOY (original character, about 9, 1970s, East Asian boy): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: none.
@@ -1243,10 +1243,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Young Jensen and his slightly taller brother at an airport gate holding small suitcases, waving goodbye to their parents.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Young the founder and his slightly taller brother at an airport gate holding small suitcases, waving goodbye to their parents.
 
 CHARACTERS IN FRAME:
-- YOUNG JENSEN HUANG (age about 9, 1970s): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
+- THE FOUNDER AS A BOY (original character, about 9, 1970s, East Asian boy): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: none.
@@ -1400,7 +1400,7 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: The uncle's thought bubble: a grand ivy-covered academy with towers.
+SCENE: The uncle's thought bubble: A grand ivy-covered academy with towers.
 
 ON-SCREEN TEXT: none.
 
@@ -1451,10 +1451,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: Tiny young Jensen standing among much taller teenagers.
+SCENE: Tiny young the founder standing among much taller teenagers.
 
 CHARACTERS IN FRAME:
-- YOUNG JENSEN HUANG (age about 9, 1970s): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
+- THE FOUNDER AS A BOY (original character, about 9, 1970s, East Asian boy): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: none.
@@ -1479,10 +1479,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: A dorm room: a much older teen with tattoos on the other bed; young Jensen sitting nervously on his bed.
+SCENE: A dorm room: A much older teen with tattoos on the other bed; young the founder sitting nervously on his bed.
 
 CHARACTERS IN FRAME:
-- YOUNG JENSEN HUANG (age about 9, 1970s): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
+- THE FOUNDER AS A BOY (original character, about 9, 1970s, East Asian boy): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: none.
@@ -1507,10 +1507,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: A chore chart on the wall with Jensen's name.
+SCENE: A chore chart on the wall with the founder's name.
 
 CHARACTERS IN FRAME:
-- YOUNG JENSEN HUANG (age about 9, 1970s): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
+- THE FOUNDER AS A BOY (original character, about 9, 1970s, East Asian boy): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
 
 ON-SCREEN TEXT: none.
 
@@ -1534,10 +1534,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: Young Jensen mopping a tiled bathroom floor with a big mop and bucket, determined face.
+SCENE: Young the founder mopping a tiled bathroom floor with a big mop and bucket, determined face.
 
 CHARACTERS IN FRAME:
-- YOUNG JENSEN HUANG (age about 9, 1970s): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
+- THE FOUNDER AS A BOY (original character, about 9, 1970s, East Asian boy): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
 
 ON-SCREEN TEXT: "Cleaning bathrooms" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -1564,7 +1564,7 @@ HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school 
 SCENE: The family hugging in front of a small house with pine trees and rain.
 
 CHARACTERS IN FRAME:
-- YOUNG JENSEN HUANG (age about 9, 1970s): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
+- THE FOUNDER AS A BOY (original character, about 9, 1970s, East Asian boy): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: "Oregon" in the handwritten marker font, clearly legible, spelled exactly.
@@ -1589,10 +1589,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: Teenage Jensen in a busboy uniform inside a 1970s diner. Wide/establishing framing.
+SCENE: Teenage the founder in a busboy uniform inside a 1970s diner. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- TEENAGE JENSEN HUANG (about 15, 1970s): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
+- THE FOUNDER AS A TEENAGER (original character, about 15, 1970s, East Asian teen): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
 
 ON-SCREEN TEXT: "Denny's" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -1616,10 +1616,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Teenage Jensen in a busboy uniform inside a 1970s diner.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Teenage the founder in a busboy uniform inside a 1970s diner.
 
 CHARACTERS IN FRAME:
-- TEENAGE JENSEN HUANG (about 15, 1970s): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
+- THE FOUNDER AS A TEENAGER (original character, about 15, 1970s, East Asian teen): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
 
 ON-SCREEN TEXT: "Denny's" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -1643,10 +1643,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: Teen Jensen at a sink piled with dishes, suds everywhere.
+SCENE: Teen the founder at a sink piled with dishes, suds everywhere.
 
 CHARACTERS IN FRAME:
-- TEENAGE JENSEN HUANG (about 15, 1970s): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
+- THE FOUNDER AS A TEENAGER (original character, about 15, 1970s, East Asian teen): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
 
 ON-SCREEN TEXT: none.
 
@@ -1670,10 +1670,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: Teen Jensen carrying a grey tub of dirty plates.
+SCENE: Teen the founder carrying a grey tub of dirty plates.
 
 CHARACTERS IN FRAME:
-- TEENAGE JENSEN HUANG (about 15, 1970s): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
+- THE FOUNDER AS A TEENAGER (original character, about 15, 1970s, East Asian teen): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
 
 ON-SCREEN TEXT: none.
 
@@ -1697,10 +1697,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: Teen Jensen taking an order with a notepad, smiling.
+SCENE: Teen the founder taking an order with a notepad, smiling.
 
 CHARACTERS IN FRAME:
-- TEENAGE JENSEN HUANG (about 15, 1970s): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
+- THE FOUNDER AS A TEENAGER (original character, about 15, 1970s, East Asian teen): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: none.
@@ -1725,10 +1725,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: Teen Jensen juggling plates during a rush, sweat drop, but smiling. Wide/establishing framing.
+SCENE: Teen the founder juggling plates during a rush, sweat drop, but smiling. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- TEENAGE JENSEN HUANG (about 15, 1970s): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
+- THE FOUNDER AS A TEENAGER (original character, about 15, 1970s, East Asian teen): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
 
 ON-SCREEN TEXT: none.
 
@@ -1752,10 +1752,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Teen Jensen juggling plates during a rush, sweat drop, but smiling.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Teen the founder juggling plates during a rush, sweat drop, but smiling.
 
 CHARACTERS IN FRAME:
-- TEENAGE JENSEN HUANG (about 15, 1970s): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
+- THE FOUNDER AS A TEENAGER (original character, about 15, 1970s, East Asian teen): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
 
 ON-SCREEN TEXT: none.
 
@@ -1779,10 +1779,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: Teen Jensen holding a report card with straight A's.
+SCENE: Teen the founder holding a report card with straight A's.
 
 CHARACTERS IN FRAME:
-- TEENAGE JENSEN HUANG (about 15, 1970s): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
+- THE FOUNDER AS A TEENAGER (original character, about 15, 1970s, East Asian teen): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
 
 ON-SCREEN TEXT: none.
 
@@ -1806,10 +1806,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: A college lab with circuit boards; young Jensen and a young woman with long black hair working together. Wide/establishing framing.
+SCENE: A college lab with circuit boards; young the founder and a young woman with long black hair working together. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: "Oregon State University" in the handwritten marker font, clearly legible, spelled exactly.
@@ -1834,10 +1834,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: A college lab with circuit boards; young Jensen and a young woman with long black hair working together.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: A college lab with circuit boards; young the founder and a young woman with long black hair working together.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: "Oregon State University" in the handwritten marker font, clearly legible, spelled exactly.
@@ -1862,10 +1862,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: A college lab with circuit boards; young Jensen and a young woman with long black hair working together.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: A college lab with circuit boards; young the founder and a young woman with long black hair working together.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: "Oregon State University" in the handwritten marker font, clearly legible, spelled exactly.
@@ -1890,10 +1890,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: Jensen in a graduation cap and gown in front of sandstone arches and palm trees.
+SCENE: The founder in a graduation cap and gown in front of sandstone arches and palm trees.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 
 ON-SCREEN TEXT: "Stanford" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -1917,10 +1917,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: Jensen at a 1980s office desk with a big CRT monitor showing chip layouts. Wide/establishing framing.
+SCENE: The founder at a 1980s office desk with a big CRT monitor showing chip layouts. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 
 ON-SCREEN TEXT: "AMD · LSI Logic" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -1944,10 +1944,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Jensen at a 1980s office desk with a big CRT monitor showing chip layouts.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The founder at a 1980s office desk with a big CRT monitor showing chip layouts.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 
 ON-SCREEN TEXT: "AMD · LSI Logic" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -1971,10 +1971,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: Jensen in his office with a nameplate.
+SCENE: The founder in his office with a nameplate.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 
 ON-SCREEN TEXT: none.
 
@@ -2001,7 +2001,7 @@ HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school 
 SCENE: A cosy desk with a coffee mug.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 
 ON-SCREEN TEXT: none.
 
@@ -2025,10 +2025,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: Jensen at home holding a toddler.
+SCENE: The founder at home holding a toddler.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 
 ON-SCREEN TEXT: none.
 
@@ -2052,12 +2052,12 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: Chris and Curtis knock on Jensen's office door, holding a rolled diagram. Wide/establishing framing.
+SCENE: The first co-founder and the second co-founder knock on the founder's office door, holding a rolled diagram. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
-- CHRIS MALACHOWSKY (Nvidia co-founder, 1990s, simplified caricature): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
-- CURTIS PRIEM (Nvidia co-founder, 1990s, simplified caricature): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful engineer look.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FIRST CO-FOUNDER (original character, 1990s engineer): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
+- THE SECOND CO-FOUNDER (original character, 1990s engineer): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful look.
 
 ON-SCREEN TEXT: none.
 
@@ -2081,12 +2081,12 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1960s-1980s: Taiwan streets, rural Kentucky boarding school with red-brick buildings and green hills, rainy Oregon towns, a 1970s American diner, college engineering labs and 1980s chip-design offices with CRT monitors.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Chris and Curtis knock on Jensen's office door, holding a rolled diagram.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The first co-founder and the second co-founder knock on the founder's office door, holding a rolled diagram.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
-- CHRIS MALACHOWSKY (Nvidia co-founder, 1990s, simplified caricature): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
-- CURTIS PRIEM (Nvidia co-founder, 1990s, simplified caricature): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful engineer look.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FIRST CO-FOUNDER (original character, 1990s engineer): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
+- THE SECOND CO-FOUNDER (original character, 1990s engineer): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful look.
 
 ON-SCREEN TEXT: none.
 
@@ -2139,13 +2139,13 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Silicon Valley, early 1990s: tech campuses, beige computers with CRT monitors, a diner booth covered in napkin sketches, small empty startup offices, venture-capital glass offices.
 
-SCENE: Chris and Curtis side by side with name labels.
+SCENE: The first co-founder and the second co-founder side by side with name labels.
 
 CHARACTERS IN FRAME:
-- CHRIS MALACHOWSKY (Nvidia co-founder, 1990s, simplified caricature): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
-- CURTIS PRIEM (Nvidia co-founder, 1990s, simplified caricature): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful engineer look.
+- THE FIRST CO-FOUNDER (original character, 1990s engineer): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
+- THE SECOND CO-FOUNDER (original character, 1990s engineer): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful look.
 
-ON-SCREEN TEXT: "Chris Malachowsky · Curtis Priem" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Introductory.
 
@@ -2170,8 +2170,8 @@ HISTORICAL CONTEXT: Silicon Valley, early 1990s: tech campuses, beige computers 
 SCENE: A 1990s tech campus with low buildings and engineers carrying workstations. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- CHRIS MALACHOWSKY (Nvidia co-founder, 1990s, simplified caricature): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
-- CURTIS PRIEM (Nvidia co-founder, 1990s, simplified caricature): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful engineer look.
+- THE FIRST CO-FOUNDER (original character, 1990s engineer): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
+- THE SECOND CO-FOUNDER (original character, 1990s engineer): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful look.
 - ENGINEERS: generic bean-people of varied skin tones in casual tech clothes (polo shirts, hoodies, lanyards), some with glasses.
 
 ON-SCREEN TEXT: "Sun Microsystems" in the handwritten marker font, clearly legible, spelled exactly.
@@ -2199,8 +2199,8 @@ HISTORICAL CONTEXT: Silicon Valley, early 1990s: tech campuses, beige computers 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A 1990s tech campus with low buildings and engineers carrying workstations.
 
 CHARACTERS IN FRAME:
-- CHRIS MALACHOWSKY (Nvidia co-founder, 1990s, simplified caricature): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
-- CURTIS PRIEM (Nvidia co-founder, 1990s, simplified caricature): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful engineer look.
+- THE FIRST CO-FOUNDER (original character, 1990s engineer): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
+- THE SECOND CO-FOUNDER (original character, 1990s engineer): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful look.
 - ENGINEERS: generic bean-people of varied skin tones in casual tech clothes (polo shirts, hoodies, lanyards), some with glasses.
 
 ON-SCREEN TEXT: "Sun Microsystems" in the handwritten marker font, clearly legible, spelled exactly.
@@ -2822,9 +2822,9 @@ HISTORICAL CONTEXT: Silicon Valley, early 1990s: tech campuses, beige computers 
 SCENE: The three shaking hands in a small empty office. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
-- CHRIS MALACHOWSKY (Nvidia co-founder, 1990s, simplified caricature): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
-- CURTIS PRIEM (Nvidia co-founder, 1990s, simplified caricature): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful engineer look.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FIRST CO-FOUNDER (original character, 1990s engineer): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
+- THE SECOND CO-FOUNDER (original character, 1990s engineer): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful look.
 
 ON-SCREEN TEXT: "April 5, 1993" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -2851,9 +2851,9 @@ HISTORICAL CONTEXT: Silicon Valley, early 1990s: tech campuses, beige computers 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The three shaking hands in a small empty office.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
-- CHRIS MALACHOWSKY (Nvidia co-founder, 1990s, simplified caricature): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
-- CURTIS PRIEM (Nvidia co-founder, 1990s, simplified caricature): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful engineer look.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FIRST CO-FOUNDER (original character, 1990s engineer): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
+- THE SECOND CO-FOUNDER (original character, 1990s engineer): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful look.
 
 ON-SCREEN TEXT: "April 5, 1993" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -3048,7 +3048,7 @@ HISTORICAL CONTEXT: Silicon Valley, early 1990s: tech campuses, beige computers 
 SCENE: Investors in a glass office handing over a cheque. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- DON VALENTINE (venture capitalist, simplified caricature): older, round beige head, slicked white hair, dark grey suit, white shirt, red tie, sceptical eyebrows.
+- THE VETERAN INVESTOR (original character, older venture capitalist): round beige head, slicked white hair, dark grey suit, white shirt, red tie, sceptical eyebrows.
 - WALL STREET INVESTORS: generic bean-people of varied skin tones in dark suits and ties, holding phones and charts.
 
 ON-SCREEN TEXT: "~$20 million" in the handwritten marker font, clearly legible, spelled exactly.
@@ -3076,7 +3076,7 @@ HISTORICAL CONTEXT: Silicon Valley, early 1990s: tech campuses, beige computers 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 4), small change in pose/expression to show the moment progressing: Investors in a glass office handing over a cheque.
 
 CHARACTERS IN FRAME:
-- DON VALENTINE (venture capitalist, simplified caricature): older, round beige head, slicked white hair, dark grey suit, white shirt, red tie, sceptical eyebrows.
+- THE VETERAN INVESTOR (original character, older venture capitalist): round beige head, slicked white hair, dark grey suit, white shirt, red tie, sceptical eyebrows.
 - WALL STREET INVESTORS: generic bean-people of varied skin tones in dark suits and ties, holding phones and charts.
 
 ON-SCREEN TEXT: "~$20 million" in the handwritten marker font, clearly legible, spelled exactly.
@@ -3104,7 +3104,7 @@ HISTORICAL CONTEXT: Silicon Valley, early 1990s: tech campuses, beige computers 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 4), small change in pose/expression to show the moment progressing: Investors in a glass office handing over a cheque.
 
 CHARACTERS IN FRAME:
-- DON VALENTINE (venture capitalist, simplified caricature): older, round beige head, slicked white hair, dark grey suit, white shirt, red tie, sceptical eyebrows.
+- THE VETERAN INVESTOR (original character, older venture capitalist): round beige head, slicked white hair, dark grey suit, white shirt, red tie, sceptical eyebrows.
 - WALL STREET INVESTORS: generic bean-people of varied skin tones in dark suits and ties, holding phones and charts.
 
 ON-SCREEN TEXT: "~$20 million" in the handwritten marker font, clearly legible, spelled exactly.
@@ -3132,7 +3132,7 @@ HISTORICAL CONTEXT: Silicon Valley, early 1990s: tech campuses, beige computers 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 4 of 4), small change in pose/expression to show the moment progressing: Investors in a glass office handing over a cheque.
 
 CHARACTERS IN FRAME:
-- DON VALENTINE (venture capitalist, simplified caricature): older, round beige head, slicked white hair, dark grey suit, white shirt, red tie, sceptical eyebrows.
+- THE VETERAN INVESTOR (original character, older venture capitalist): round beige head, slicked white hair, dark grey suit, white shirt, red tie, sceptical eyebrows.
 - WALL STREET INVESTORS: generic bean-people of varied skin tones in dark suits and ties, holding phones and charts.
 
 ON-SCREEN TEXT: "~$20 million" in the handwritten marker font, clearly legible, spelled exactly.
@@ -3157,10 +3157,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Silicon Valley, early 1990s: tech campuses, beige computers with CRT monitors, a diner booth covered in napkin sketches, small empty startup offices, venture-capital glass offices.
 
-SCENE: Don Valentine on a phone, with a speech bubble from the other end: 'Give this kid money.' Wide/establishing framing.
+SCENE: The veteran investor on a phone, with a speech bubble from the other end: 'Give this kid money.' Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- DON VALENTINE (venture capitalist, simplified caricature): older, round beige head, slicked white hair, dark grey suit, white shirt, red tie, sceptical eyebrows.
+- THE VETERAN INVESTOR (original character, older venture capitalist): round beige head, slicked white hair, dark grey suit, white shirt, red tie, sceptical eyebrows.
 
 ON-SCREEN TEXT: "Give this kid money." in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -3184,10 +3184,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Silicon Valley, early 1990s: tech campuses, beige computers with CRT monitors, a diner booth covered in napkin sketches, small empty startup offices, venture-capital glass offices.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Don Valentine on a phone, with a speech bubble from the other end: 'Give this kid money.'
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: The veteran investor on a phone, with a speech bubble from the other end: 'Give this kid money.'
 
 CHARACTERS IN FRAME:
-- DON VALENTINE (venture capitalist, simplified caricature): older, round beige head, slicked white hair, dark grey suit, white shirt, red tie, sceptical eyebrows.
+- THE VETERAN INVESTOR (original character, older venture capitalist): round beige head, slicked white hair, dark grey suit, white shirt, red tie, sceptical eyebrows.
 
 ON-SCREEN TEXT: "Give this kid money." in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -3211,10 +3211,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Silicon Valley, early 1990s: tech campuses, beige computers with CRT monitors, a diner booth covered in napkin sketches, small empty startup offices, venture-capital glass offices.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Don Valentine on a phone, with a speech bubble from the other end: 'Give this kid money.'
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: The veteran investor on a phone, with a speech bubble from the other end: 'Give this kid money.'
 
 CHARACTERS IN FRAME:
-- DON VALENTINE (venture capitalist, simplified caricature): older, round beige head, slicked white hair, dark grey suit, white shirt, red tie, sceptical eyebrows.
+- THE VETERAN INVESTOR (original character, older venture capitalist): round beige head, slicked white hair, dark grey suit, white shirt, red tie, sceptical eyebrows.
 
 ON-SCREEN TEXT: "Give this kid money." in the handwritten marker font, clearly legible, spelled exactly.
 

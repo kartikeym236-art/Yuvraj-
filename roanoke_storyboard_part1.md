@@ -2,7 +2,7 @@
 
 Each line of the voiceover is one shot of about 1–3 seconds. Each prompt box is **self-contained**: paste it on its own into any image model (Midjourney, GPT-Image, Flux, Ideogram, etc.) and it carries the full style, characters and scene.
 
-**Style target:** the reference frames, i.e. a flat hand-drawn 2D explainer cartoon with big round heads, stick limbs, thick wobbly black outlines, one cel-shade tone, a muted palette and handwritten captions.
+**Style target:** the reference frames, i.e. A flat hand-drawn 2D explainer cartoon with big round heads, stick limbs, thick wobbly black outlines, one cel-shade tone, a muted palette and handwritten captions.
 
 **Tips:** use 16:9 (e.g. `--ar 16:9`). To keep characters consistent, generate a character sheet first and pass it as a reference image together with these prompts. Durations assume about 2.7 spoken words per second.
 
@@ -12,21 +12,21 @@ Each line of the voiceover is one shot of about 1–3 seconds. Each prompt box i
 
 ## Character sheet (reference)
 
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
-- ELEANOR DARE (John White's daughter, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
-- ANANIAS DARE (Eleanor's husband, about 30): round beige head, short brown hair and short brown beard, brown leather jerkin over a white shirt, dark breeches, simple brown felt hat.
-- VIRGINIA DARE (newborn baby): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
-- MANTEO (Croatoan man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace. In England and later scenes he may wear a plain English doublet over his deerskin.
-- WANCHESE (Roanoke man, about 25): round head with warm medium-brown skin and one darker cel-shade crescent, black hair shaved on the sides with a crest on top and a single feather, wary stern expression; deerskin mantle over one shoulder, copper bead necklace.
-- WINGINA (Secotan chief, about 40): round head with warm medium-brown skin, black crest hairstyle with several upright feathers, a large flat copper pendant on his chest, painted deerskin mantle, dignified commanding expression.
-- SIR WALTER RALEIGH (simplified caricature): round beige head, dark hair, dark pointed beard and upturned mustache, single pearl earring, silver-grey slashed doublet with a white ruff, black hat with a white feather.
-- QUEEN ELIZABETH I (simplified caricature): round very pale head, tightly curled red-orange hair, small jewelled crown, huge fan-shaped white lace ruff, jewelled cream-and-gold gown covered in pearls.
-- RALPH LANE (soldier commander): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
-- SIR FRANCIS DRAKE (simplified caricature): round beige head, reddish-brown hair and short reddish beard, black doublet with gold buttons, heavy gold chain, captain's black hat.
-- SIMON FERNANDES (ship's pilot): round tanned-beige head, dark curly hair and stubbly black beard, small gold hoop earring, salt-stained navy sea coat, smug narrow eyes.
-- KING PHILIP II OF SPAIN (simplified caricature): round beige head, short grey-blond beard, prominent jaw, all-black clothing with a small white ruff, gold chain, stern face.
-- POWHATAN (paramount chief, elderly): round head with warm medium-brown skin, grey-streaked black hair, a large deerskin mantle decorated with white shell patterns, strings of pearls, stern powerful expression.
-- JOHN LAWSON (English explorer, 1701): round beige head, long curly brown periwig, black tricorn hat, long dark-green coat, notebook and quill.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR'S DAUGHTER (original character, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
+- HER HUSBAND (original character, about 30): round beige head, short brown hair and short brown beard, brown leather jerkin over a white shirt, dark breeches, simple brown felt hat.
+- THE BABY GIRL (newborn): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
+- THE CROATOAN GUIDE (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace; in England and later scenes he may wear a plain English doublet over his deerskin.
+- THE ROANOKE WARRIOR (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker cel-shade crescent, black hair shaved on the sides with a crest on top and a single feather, wary stern expression; deerskin mantle over one shoulder, copper bead necklace.
+- THE SECOTAN CHIEF (original character, about 40): round head with warm medium-brown skin, black crest hairstyle with several upright feathers, a large flat copper pendant on his chest, painted deerskin mantle, dignified commanding expression.
+- THE COURTIER-EXPLORER (original character, dashing Elizabethan nobleman): round beige head, dark hair, dark pointed beard and upturned mustache, single pearl earring, silver-grey slashed doublet with a white ruff, black hat with a white feather.
+- THE QUEEN (original character, Elizabethan English monarch): round very pale head, tightly curled red-orange hair, small jewelled crown, huge fan-shaped white lace ruff, jewelled cream-and-gold gown covered in pearls.
+- THE SOLDIER-COMMANDER (original character): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
+- THE FAMOUS SEA CAPTAIN (original character, Elizabethan privateer): round beige head, reddish-brown hair and short reddish beard, black doublet with gold buttons, heavy gold chain, captain's black hat.
+- THE SHIP'S PILOT (original character): round tanned-beige head, dark curly hair and stubbly black beard, small gold hoop earring, salt-stained navy sea coat, smug narrow eyes.
+- THE SPANISH KING (original character, 16th-century monarch): round beige head, short grey-blond beard, prominent jaw, all-black clothing with a small white ruff, gold chain, stern face.
+- THE PARAMOUNT CHIEF (original character, elderly Algonquian leader): round head with warm medium-brown skin, grey-streaked black hair, a large deerskin mantle decorated with white shell patterns, strings of pearls, stern powerful expression.
+- THE EXPLORER (original character, English traveller in 1701): round beige head, long curly brown periwig, black tricorn hat, long dark-green coat, notebook and quill.
 
 
 ---
@@ -46,7 +46,7 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, coast of present-day North Carolina, 18 August 1590: Elizabethan sailing ships offshore, pale sandy beaches, dense green maritime forest of oaks and pines, sea oats on the dunes, overcast late-summer light.
 
-SCENE: Wide seascape: a wooden three-masted English ship with cream sails and St George's cross flags drops its anchor in calm blue water; a long low sandy coastline with green trees in the distance; a few gulls. Wide/establishing framing.
+SCENE: Wide seascape: A wooden three-masted English ship with cream sails and St George's cross flags drops its anchor in calm blue water; a long low sandy coastline with green trees in the distance; a few gulls. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
 - ENGLISH SAILORS: generic bean-men in loose white shirts, striped or plain baggy breeches, red knitted caps, bare feet or simple shoes.
@@ -73,7 +73,7 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, coast of present-day North Carolina, 18 August 1590: Elizabethan sailing ships offshore, pale sandy beaches, dense green maritime forest of oaks and pines, sea oats on the dunes, overcast late-summer light.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Wide seascape: a wooden three-masted English ship with cream sails and St George's cross flags drops its anchor in calm blue water; a long low sandy coastline with green trees in the distance; a few gulls.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Wide seascape: A wooden three-masted English ship with cream sails and St George's cross flags drops its anchor in calm blue water; a long low sandy coastline with green trees in the distance; a few gulls.
 
 CHARACTERS IN FRAME:
 - ENGLISH SAILORS: generic bean-men in loose white shirts, striped or plain baggy breeches, red knitted caps, bare feet or simple shoes.
@@ -100,7 +100,7 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, coast of present-day North Carolina, 18 August 1590: Elizabethan sailing ships offshore, pale sandy beaches, dense green maritime forest of oaks and pines, sea oats on the dunes, overcast late-summer light.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Wide seascape: a wooden three-masted English ship with cream sails and St George's cross flags drops its anchor in calm blue water; a long low sandy coastline with green trees in the distance; a few gulls.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Wide seascape: A wooden three-masted English ship with cream sails and St George's cross flags drops its anchor in calm blue water; a long low sandy coastline with green trees in the distance; a few gulls.
 
 CHARACTERS IN FRAME:
 - ENGLISH SAILORS: generic bean-men in loose white shirts, striped or plain baggy breeches, red knitted caps, bare feet or simple shoes.
@@ -127,12 +127,12 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, coast of present-day North Carolina, 18 August 1590: Elizabethan sailing ships offshore, pale sandy beaches, dense green maritime forest of oaks and pines, sea oats on the dunes, overcast late-summer light.
 
-SCENE: On the ship's deck, John White grips the wooden rail, looking out toward the shore, wind blowing his cloak.
+SCENE: On the ship's deck, the governor grips the wooden rail, looking out toward the shore, wind blowing his cloak.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
-ON-SCREEN TEXT: "John White" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Hopeful, tense.
 
@@ -154,10 +154,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, coast of present-day North Carolina, 18 August 1590: Elizabethan sailing ships offshore, pale sandy beaches, dense green maritime forest of oaks and pines, sea oats on the dunes, overcast late-summer light.
 
-SCENE: Close-up of John White's weary face, deep tired lines under his eyes; a small '3 years' written in the sky.
+SCENE: Close-up of the governor's weary face, deep tired lines under his eyes; a small '3 years' written in the sky.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: "3 years" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -181,7 +181,7 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, coast of present-day North Carolina, 18 August 1590: Elizabethan sailing ships offshore, pale sandy beaches, dense green maritime forest of oaks and pines, sea oats on the dunes, overcast late-summer light.
 
-SCENE: Montage in three panels: the ship tossed in a storm, cannons firing between warships, a torn letter blowing away.
+SCENE: Montage in three panels: The ship tossed in a storm, cannons firing between warships, a torn letter blowing away.
 
 ON-SCREEN TEXT: none.
 
@@ -205,10 +205,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, coast of present-day North Carolina, 18 August 1590: Elizabethan sailing ships offshore, pale sandy beaches, dense green maritime forest of oaks and pines, sea oats on the dunes, overcast late-summer light.
 
-SCENE: John White smiles softly, holding a small hand-carved wooden doll wrapped in cloth.
+SCENE: The governor smiles softly, holding a small hand-carved wooden doll wrapped in cloth.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -232,10 +232,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, coast of present-day North Carolina, 18 August 1590: Elizabethan sailing ships offshore, pale sandy beaches, dense green maritime forest of oaks and pines, sea oats on the dunes, overcast late-summer light.
 
-SCENE: Thought bubble above John White: a little three-candle birthday image with a small girl silhouette.
+SCENE: Thought bubble above the governor: A little three-candle birthday image with a small girl silhouette.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: "3rd birthday" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -259,12 +259,12 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, coast of present-day North Carolina, 18 August 1590: Elizabethan sailing ships offshore, pale sandy beaches, dense green maritime forest of oaks and pines, sea oats on the dunes, overcast late-summer light.
 
-SCENE: A soft dreamlike portrait in a round frame: baby Virginia in her white swaddle and bonnet.
+SCENE: A soft dreamlike portrait in a round frame: baby the baby girl in her white swaddle and bonnet.
 
 CHARACTERS IN FRAME:
-- VIRGINIA DARE (newborn baby): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
+- THE BABY GIRL (newborn): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
 
-ON-SCREEN TEXT: "Virginia" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Gentle.
 
@@ -310,10 +310,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, coast of present-day North Carolina, 18 August 1590: Elizabethan sailing ships offshore, pale sandy beaches, dense green maritime forest of oaks and pines, sea oats on the dunes, overcast late-summer light.
 
-SCENE: John White's thought bubble showing a toddler taking first wobbly steps, faded and blurry.
+SCENE: The governor's thought bubble showing a toddler taking first wobbly steps, faded and blurry.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -337,10 +337,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, coast of present-day North Carolina, 18 August 1590: Elizabethan sailing ships offshore, pale sandy beaches, dense green maritime forest of oaks and pines, sea oats on the dunes, overcast late-summer light.
 
-SCENE: John White's thought bubble with an empty speech bubble, a small sad tilt to his eyebrows.
+SCENE: The governor's thought bubble with an empty speech bubble, a small sad tilt to his eyebrows.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -364,10 +364,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, coast of present-day North Carolina, 18 August 1590: Elizabethan sailing ships offshore, pale sandy beaches, dense green maritime forest of oaks and pines, sea oats on the dunes, overcast late-summer light.
 
-SCENE: John White climbs down a rope ladder into a small rowing boat beside the ship, determined smile.
+SCENE: The governor climbs down a rope ladder into a small rowing boat beside the ship, determined smile.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 - ENGLISH SAILORS: generic bean-men in loose white shirts, striped or plain baggy breeches, red knitted caps, bare feet or simple shoes.
 
 ON-SCREEN TEXT: none.
@@ -395,7 +395,7 @@ HISTORICAL CONTEXT: Roanoke Island, coast of present-day North Carolina, 18 Augu
 SCENE: Two small rowing boats of sailors pull toward a wooded island; a thin column of grey smoke rises above the trees. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 - ENGLISH SAILORS: generic bean-men in loose white shirts, striped or plain baggy breeches, red knitted caps, bare feet or simple shoes.
 
 ON-SCREEN TEXT: none.
@@ -423,7 +423,7 @@ HISTORICAL CONTEXT: Roanoke Island, coast of present-day North Carolina, 18 Augu
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Two small rowing boats of sailors pull toward a wooded island; a thin column of grey smoke rises above the trees.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 - ENGLISH SAILORS: generic bean-men in loose white shirts, striped or plain baggy breeches, red knitted caps, bare feet or simple shoes.
 
 ON-SCREEN TEXT: none.
@@ -448,10 +448,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, coast of present-day North Carolina, 18 August 1590: Elizabethan sailing ships offshore, pale sandy beaches, dense green maritime forest of oaks and pines, sea oats on the dunes, overcast late-summer light.
 
-SCENE: Close-up of John White pointing at the smoke, eyes brightening.
+SCENE: Close-up of the governor pointing at the smoke, eyes brightening.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -530,7 +530,7 @@ SCENE: The sailors sing with open mouths and arms around each other's shoulders,
 
 CHARACTERS IN FRAME:
 - ENGLISH SAILORS: generic bean-men in loose white shirts, striped or plain baggy breeches, red knitted caps, bare feet or simple shoes.
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -558,7 +558,7 @@ SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), s
 
 CHARACTERS IN FRAME:
 - ENGLISH SAILORS: generic bean-men in loose white shirts, striped or plain baggy breeches, red knitted caps, bare feet or simple shoes.
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -606,10 +606,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, coast of present-day North Carolina, 18 August 1590: Elizabethan sailing ships offshore, pale sandy beaches, dense green maritime forest of oaks and pines, sea oats on the dunes, overcast late-summer light.
 
-SCENE: John White and sailors wade ashore and walk up a pale sandy beach toward the trees.
+SCENE: The governor and sailors wade ashore and walk up a pale sandy beach toward the trees.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 - ENGLISH SAILORS: generic bean-men in loose white shirts, striped or plain baggy breeches, red knitted caps, bare feet or simple shoes.
 
 ON-SCREEN TEXT: none.
@@ -634,10 +634,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, coast of present-day North Carolina, 18 August 1590: Elizabethan sailing ships offshore, pale sandy beaches, dense green maritime forest of oaks and pines, sea oats on the dunes, overcast late-summer light.
 
-SCENE: Close-up of bare footprints in the sand leading toward the trees; John White kneeling to look.
+SCENE: Close-up of bare footprints in the sand leading toward the trees; the governor kneeling to look.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -661,10 +661,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, coast of present-day North Carolina, 18 August 1590: Elizabethan sailing ships offshore, pale sandy beaches, dense green maritime forest of oaks and pines, sea oats on the dunes, overcast late-summer light.
 
-SCENE: John White climbing a grassy sandy hill, sailors following, the sky slightly overcast.
+SCENE: The governor climbing a grassy sandy hill, sailors following, the sky slightly overcast.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 - ENGLISH SAILORS: generic bean-men in loose white shirts, striped or plain baggy breeches, red knitted caps, bare feet or simple shoes.
 
 ON-SCREEN TEXT: none.
@@ -689,10 +689,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, coast of present-day North Carolina, 18 August 1590: Elizabethan sailing ships offshore, pale sandy beaches, dense green maritime forest of oaks and pines, sea oats on the dunes, overcast late-summer light.
 
-SCENE: Wide shot from the hilltop: an empty clearing where the settlement should be, just bare ground and grass.
+SCENE: Wide shot from the hilltop: An empty clearing where the settlement should be, just bare ground and grass.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -764,12 +764,12 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, coast of present-day North Carolina, 18 August 1590: Elizabethan sailing ships offshore, pale sandy beaches, dense green maritime forest of oaks and pines, sea oats on the dunes, overcast late-summer light.
 
-SCENE: Faded ghostly outlines of colonists standing in the empty clearing; in front, ghostly Eleanor holding baby Virginia. Wide/establishing framing.
+SCENE: Faded ghostly outlines of colonists standing in the empty clearing; in front, ghostly the governor's daughter holding baby the baby girl. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
 - ENGLISH COLONISTS: generic bean-people in plain Elizabethan clothes: men in brown jerkins, breeches and felt hats; women in coifs, bodices and long skirts; children in small versions of the same.
-- ELEANOR DARE (John White's daughter, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
-- VIRGINIA DARE (newborn baby): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
+- THE GOVERNOR'S DAUGHTER (original character, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
+- THE BABY GIRL (newborn): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
 
 ON-SCREEN TEXT: "~115 people" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -793,12 +793,12 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, coast of present-day North Carolina, 18 August 1590: Elizabethan sailing ships offshore, pale sandy beaches, dense green maritime forest of oaks and pines, sea oats on the dunes, overcast late-summer light.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Faded ghostly outlines of colonists standing in the empty clearing; in front, ghostly Eleanor holding baby Virginia.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Faded ghostly outlines of colonists standing in the empty clearing; in front, ghostly the governor's daughter holding baby the baby girl.
 
 CHARACTERS IN FRAME:
 - ENGLISH COLONISTS: generic bean-people in plain Elizabethan clothes: men in brown jerkins, breeches and felt hats; women in coifs, bodices and long skirts; children in small versions of the same.
-- ELEANOR DARE (John White's daughter, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
-- VIRGINIA DARE (newborn baby): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
+- THE GOVERNOR'S DAUGHTER (original character, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
+- THE BABY GIRL (newborn): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
 
 ON-SCREEN TEXT: "~115 people" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -846,10 +846,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, coast of present-day North Carolina, 18 August 1590: Elizabethan sailing ships offshore, pale sandy beaches, dense green maritime forest of oaks and pines, sea oats on the dunes, overcast late-summer light.
 
-SCENE: A tall wooden post with the bark stripped off stands at the edge of the clearing; John White walks toward it. Wide/establishing framing.
+SCENE: A tall wooden post with the bark stripped off stands at the edge of the clearing; the governor walks toward it. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -873,10 +873,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, coast of present-day North Carolina, 18 August 1590: Elizabethan sailing ships offshore, pale sandy beaches, dense green maritime forest of oaks and pines, sea oats on the dunes, overcast late-summer light.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A tall wooden post with the bark stripped off stands at the edge of the clearing; John White walks toward it.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A tall wooden post with the bark stripped off stands at the edge of the clearing; the governor walks toward it.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -1421,10 +1421,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Elizabethan England and the Atlantic world, 1580s: timber-framed London streets, royal palace interiors with tapestries, Spanish treasure galleons, old parchment maps of the Americas.
 
-SCENE: King Philip II seated on a throne atop a mountain of gold coins. Wide/establishing framing.
+SCENE: The Spanish king seated on a throne atop a mountain of gold coins. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- KING PHILIP II OF SPAIN (simplified caricature): round beige head, short grey-blond beard, prominent jaw, all-black clothing with a small white ruff, gold chain, stern face.
+- THE SPANISH KING (original character, 16th-century monarch): round beige head, short grey-blond beard, prominent jaw, all-black clothing with a small white ruff, gold chain, stern face.
 
 ON-SCREEN TEXT: none.
 
@@ -1448,10 +1448,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Elizabethan England and the Atlantic world, 1580s: timber-framed London streets, royal palace interiors with tapestries, Spanish treasure galleons, old parchment maps of the Americas.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: King Philip II seated on a throne atop a mountain of gold coins.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The Spanish king seated on a throne atop a mountain of gold coins.
 
 CHARACTERS IN FRAME:
-- KING PHILIP II OF SPAIN (simplified caricature): round beige head, short grey-blond beard, prominent jaw, all-black clothing with a small white ruff, gold chain, stern face.
+- THE SPANISH KING (original character, 16th-century monarch): round beige head, short grey-blond beard, prominent jaw, all-black clothing with a small white ruff, gold chain, stern face.
 
 ON-SCREEN TEXT: none.
 
@@ -1475,12 +1475,12 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Elizabethan England and the Atlantic world, 1580s: timber-framed London streets, royal palace interiors with tapestries, Spanish treasure galleons, old parchment maps of the Americas.
 
-SCENE: Queen Elizabeth I on her throne in a grand hall, tapping her fingers, eyeing a painting of a Spanish treasure ship. Wide/establishing framing.
+SCENE: The queen on her throne in a grand hall, tapping her fingers, eyeing a painting of a Spanish treasure ship. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- QUEEN ELIZABETH I (simplified caricature): round very pale head, tightly curled red-orange hair, small jewelled crown, huge fan-shaped white lace ruff, jewelled cream-and-gold gown covered in pearls.
+- THE QUEEN (original character, Elizabethan English monarch): round very pale head, tightly curled red-orange hair, small jewelled crown, huge fan-shaped white lace ruff, jewelled cream-and-gold gown covered in pearls.
 
-ON-SCREEN TEXT: "Elizabeth I" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Ambitious.
 
@@ -1502,12 +1502,12 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Elizabethan England and the Atlantic world, 1580s: timber-framed London streets, royal palace interiors with tapestries, Spanish treasure galleons, old parchment maps of the Americas.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Queen Elizabeth I on her throne in a grand hall, tapping her fingers, eyeing a painting of a Spanish treasure ship.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The queen on her throne in a grand hall, tapping her fingers, eyeing a painting of a Spanish treasure ship.
 
 CHARACTERS IN FRAME:
-- QUEEN ELIZABETH I (simplified caricature): round very pale head, tightly curled red-orange hair, small jewelled crown, huge fan-shaped white lace ruff, jewelled cream-and-gold gown covered in pearls.
+- THE QUEEN (original character, Elizabethan English monarch): round very pale head, tightly curled red-orange hair, small jewelled crown, huge fan-shaped white lace ruff, jewelled cream-and-gold gown covered in pearls.
 
-ON-SCREEN TEXT: "Elizabeth I" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Ambitious.
 
@@ -1577,12 +1577,12 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Elizabethan England and the Atlantic world, 1580s: timber-framed London streets, royal palace interiors with tapestries, Spanish treasure galleons, old parchment maps of the Americas.
 
-SCENE: Sir Walter Raleigh sweeps into the throne room with a flourish of his feathered hat, bowing.
+SCENE: The courtier-explorer sweeps into the throne room with a flourish of his feathered hat, bowing.
 
 CHARACTERS IN FRAME:
-- SIR WALTER RALEIGH (simplified caricature): round beige head, dark hair, dark pointed beard and upturned mustache, single pearl earring, silver-grey slashed doublet with a white ruff, black hat with a white feather.
+- THE COURTIER-EXPLORER (original character, dashing Elizabethan nobleman): round beige head, dark hair, dark pointed beard and upturned mustache, single pearl earring, silver-grey slashed doublet with a white ruff, black hat with a white feather.
 
-ON-SCREEN TEXT: "Sir Walter Raleigh" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Dashing.
 
@@ -1604,11 +1604,11 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Elizabethan England and the Atlantic world, 1580s: timber-framed London streets, royal palace interiors with tapestries, Spanish treasure galleons, old parchment maps of the Americas.
 
-SCENE: Queen Elizabeth hands Raleigh a scroll with a red wax seal, Raleigh grinning. Wide/establishing framing.
+SCENE: The queen hands the courtier-explorer a scroll with a red wax seal, the courtier-explorer grinning. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- QUEEN ELIZABETH I (simplified caricature): round very pale head, tightly curled red-orange hair, small jewelled crown, huge fan-shaped white lace ruff, jewelled cream-and-gold gown covered in pearls.
-- SIR WALTER RALEIGH (simplified caricature): round beige head, dark hair, dark pointed beard and upturned mustache, single pearl earring, silver-grey slashed doublet with a white ruff, black hat with a white feather.
+- THE QUEEN (original character, Elizabethan English monarch): round very pale head, tightly curled red-orange hair, small jewelled crown, huge fan-shaped white lace ruff, jewelled cream-and-gold gown covered in pearls.
+- THE COURTIER-EXPLORER (original character, dashing Elizabethan nobleman): round beige head, dark hair, dark pointed beard and upturned mustache, single pearl earring, silver-grey slashed doublet with a white ruff, black hat with a white feather.
 
 ON-SCREEN TEXT: "1584" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -1632,11 +1632,11 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Elizabethan England and the Atlantic world, 1580s: timber-framed London streets, royal palace interiors with tapestries, Spanish treasure galleons, old parchment maps of the Americas.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Queen Elizabeth hands Raleigh a scroll with a red wax seal, Raleigh grinning.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The queen hands the courtier-explorer a scroll with a red wax seal, the courtier-explorer grinning.
 
 CHARACTERS IN FRAME:
-- QUEEN ELIZABETH I (simplified caricature): round very pale head, tightly curled red-orange hair, small jewelled crown, huge fan-shaped white lace ruff, jewelled cream-and-gold gown covered in pearls.
-- SIR WALTER RALEIGH (simplified caricature): round beige head, dark hair, dark pointed beard and upturned mustache, single pearl earring, silver-grey slashed doublet with a white ruff, black hat with a white feather.
+- THE QUEEN (original character, Elizabethan English monarch): round very pale head, tightly curled red-orange hair, small jewelled crown, huge fan-shaped white lace ruff, jewelled cream-and-gold gown covered in pearls.
+- THE COURTIER-EXPLORER (original character, dashing Elizabethan nobleman): round beige head, dark hair, dark pointed beard and upturned mustache, single pearl earring, silver-grey slashed doublet with a white ruff, black hat with a white feather.
 
 ON-SCREEN TEXT: "1584" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -1714,7 +1714,7 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Elizabethan England and the Atlantic world, 1580s: timber-framed London streets, royal palace interiors with tapestries, Spanish treasure galleons, old parchment maps of the Americas.
 
-SCENE: Flat map: the mainland coast on the left, a long thin curving line of barrier islands on the right, little Roanoke island tucked between them. Wide/establishing framing.
+SCENE: Flat map: The mainland coast on the left, a long thin curving line of barrier islands on the right, little Roanoke island tucked between them. Wide/establishing framing.
 
 ON-SCREEN TEXT: "Outer Banks" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -1738,7 +1738,7 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Elizabethan England and the Atlantic world, 1580s: timber-framed London streets, royal palace interiors with tapestries, Spanish treasure galleons, old parchment maps of the Americas.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Flat map: the mainland coast on the left, a long thin curving line of barrier islands on the right, little Roanoke island tucked between them.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Flat map: The mainland coast on the left, a long thin curving line of barrier islands on the right, little Roanoke island tucked between them.
 
 ON-SCREEN TEXT: "Outer Banks" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -1762,10 +1762,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Elizabethan England and the Atlantic world, 1580s: timber-framed London streets, royal palace interiors with tapestries, Spanish treasure galleons, old parchment maps of the Americas.
 
-SCENE: Scouts in the royal court showing drawings and baskets to Raleigh, everyone smiling.
+SCENE: Scouts in the royal court showing drawings and baskets to the courtier-explorer, everyone smiling.
 
 CHARACTERS IN FRAME:
-- SIR WALTER RALEIGH (simplified caricature): round beige head, dark hair, dark pointed beard and upturned mustache, single pearl earring, silver-grey slashed doublet with a white ruff, black hat with a white feather.
+- THE COURTIER-EXPLORER (original character, dashing Elizabethan nobleman): round beige head, dark hair, dark pointed beard and upturned mustache, single pearl earring, silver-grey slashed doublet with a white ruff, black hat with a white feather.
 - ENGLISH SAILORS: generic bean-men in loose white shirts, striped or plain baggy breeches, red knitted caps, bare feet or simple shoes.
 
 ON-SCREEN TEXT: none.
@@ -1892,8 +1892,8 @@ HISTORICAL CONTEXT: Elizabethan England and the Atlantic world, 1580s: timber-fr
 SCENE: Two Algonquian men stepping off a ship onto a grey London dock, Londoners staring curiously. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- MANTEO (Croatoan man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace. In England and later scenes he may wear a plain English doublet over his deerskin.
-- WANCHESE (Roanoke man, about 25): round head with warm medium-brown skin and one darker cel-shade crescent, black hair shaved on the sides with a crest on top and a single feather, wary stern expression; deerskin mantle over one shoulder, copper bead necklace.
+- THE CROATOAN GUIDE (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace; in England and later scenes he may wear a plain English doublet over his deerskin.
+- THE ROANOKE WARRIOR (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker cel-shade crescent, black hair shaved on the sides with a crest on top and a single feather, wary stern expression; deerskin mantle over one shoulder, copper bead necklace.
 - ENGLISH COLONISTS: generic bean-people in plain Elizabethan clothes: men in brown jerkins, breeches and felt hats; women in coifs, bodices and long skirts; children in small versions of the same.
 
 ON-SCREEN TEXT: none.
@@ -1921,8 +1921,8 @@ HISTORICAL CONTEXT: Elizabethan England and the Atlantic world, 1580s: timber-fr
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Two Algonquian men stepping off a ship onto a grey London dock, Londoners staring curiously.
 
 CHARACTERS IN FRAME:
-- MANTEO (Croatoan man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace. In England and later scenes he may wear a plain English doublet over his deerskin.
-- WANCHESE (Roanoke man, about 25): round head with warm medium-brown skin and one darker cel-shade crescent, black hair shaved on the sides with a crest on top and a single feather, wary stern expression; deerskin mantle over one shoulder, copper bead necklace.
+- THE CROATOAN GUIDE (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace; in England and later scenes he may wear a plain English doublet over his deerskin.
+- THE ROANOKE WARRIOR (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker cel-shade crescent, black hair shaved on the sides with a crest on top and a single feather, wary stern expression; deerskin mantle over one shoulder, copper bead necklace.
 - ENGLISH COLONISTS: generic bean-people in plain Elizabethan clothes: men in brown jerkins, breeches and felt hats; women in coifs, bodices and long skirts; children in small versions of the same.
 
 ON-SCREEN TEXT: none.
@@ -1947,13 +1947,13 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Elizabethan England and the Atlantic world, 1580s: timber-framed London streets, royal palace interiors with tapestries, Spanish treasure galleons, old parchment maps of the Americas.
 
-SCENE: Portrait-style frame: Manteo on the left, Wanchese on the right, names written beneath.
+SCENE: Portrait-style frame: The Croatoan guide on the left, the Roanoke warrior on the right, names written beneath.
 
 CHARACTERS IN FRAME:
-- MANTEO (Croatoan man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace. In England and later scenes he may wear a plain English doublet over his deerskin.
-- WANCHESE (Roanoke man, about 25): round head with warm medium-brown skin and one darker cel-shade crescent, black hair shaved on the sides with a crest on top and a single feather, wary stern expression; deerskin mantle over one shoulder, copper bead necklace.
+- THE CROATOAN GUIDE (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace; in England and later scenes he may wear a plain English doublet over his deerskin.
+- THE ROANOKE WARRIOR (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker cel-shade crescent, black hair shaved on the sides with a crest on top and a single feather, wary stern expression; deerskin mantle over one shoulder, copper bead necklace.
 
-ON-SCREEN TEXT: "Manteo · Wanchese" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Important.
 
@@ -1999,11 +1999,11 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Elizabethan England and the Atlantic world, 1580s: timber-framed London streets, royal palace interiors with tapestries, Spanish treasure galleons, old parchment maps of the Americas.
 
-SCENE: Manteo and Wanchese looking at each other, contrasting expressions: Manteo calm, Wanchese wary.
+SCENE: The Croatoan guide and the Roanoke warrior looking at each other, contrasting expressions: The Croatoan guide calm, the Roanoke warrior wary.
 
 CHARACTERS IN FRAME:
-- MANTEO (Croatoan man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace. In England and later scenes he may wear a plain English doublet over his deerskin.
-- WANCHESE (Roanoke man, about 25): round head with warm medium-brown skin and one darker cel-shade crescent, black hair shaved on the sides with a crest on top and a single feather, wary stern expression; deerskin mantle over one shoulder, copper bead necklace.
+- THE CROATOAN GUIDE (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace; in England and later scenes he may wear a plain English doublet over his deerskin.
+- THE ROANOKE WARRIOR (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker cel-shade crescent, black hair shaved on the sides with a crest on top and a single feather, wary stern expression; deerskin mantle over one shoulder, copper bead necklace.
 
 ON-SCREEN TEXT: none.
 
@@ -2027,10 +2027,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Elizabethan England and the Atlantic world, 1580s: timber-framed London streets, royal palace interiors with tapestries, Spanish treasure galleons, old parchment maps of the Americas.
 
-SCENE: Raleigh smiling over a map of Roanoke.
+SCENE: The courtier-explorer smiling over a map of Roanoke.
 
 CHARACTERS IN FRAME:
-- SIR WALTER RALEIGH (simplified caricature): round beige head, dark hair, dark pointed beard and upturned mustache, single pearl earring, silver-grey slashed doublet with a white ruff, black hat with a white feather.
+- THE COURTIER-EXPLORER (original character, dashing Elizabethan nobleman): round beige head, dark hair, dark pointed beard and upturned mustache, single pearl earring, silver-grey slashed doublet with a white ruff, black hat with a white feather.
 
 ON-SCREEN TEXT: none.
 
@@ -2081,7 +2081,7 @@ HISTORICAL CONTEXT: Elizabethan England and the Atlantic world, 1580s: timber-fr
 SCENE: Soldiers in morion helmets marching off a ship onto the island. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- RALPH LANE (soldier commander): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
+- THE SOLDIER-COMMANDER (original character): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
 
 ON-SCREEN TEXT: none.
 
@@ -2108,7 +2108,7 @@ HISTORICAL CONTEXT: Elizabethan England and the Atlantic world, 1580s: timber-fr
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Soldiers in morion helmets marching off a ship onto the island.
 
 CHARACTERS IN FRAME:
-- RALPH LANE (soldier commander): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
+- THE SOLDIER-COMMANDER (original character): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
 
 ON-SCREEN TEXT: none.
 
@@ -2135,7 +2135,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Chapter title card. Flat rust brown background filling the frame, a simple hand-drawn steel morion helmet illustrated small and centred under the title, generous empty space, gentle subtle vignette in a slightly darker flat shade at the corners.
 
@@ -2159,7 +2159,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: A big exclamation mark on a parchment background.
 
@@ -2183,7 +2183,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Two numbered flags on a map: '1' and '2', with '2' labelled 'Lost Colony'. Wide/establishing framing.
 
@@ -2207,7 +2207,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Two numbered flags on a map: '1' and '2', with '2' labelled 'Lost Colony'.
 
@@ -2231,7 +2231,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Big hand-lettered number '2'.
 
@@ -2255,12 +2255,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: English soldiers building a wooden star-shaped earthwork fort on the island, carrying logs. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- RALPH LANE (soldier commander): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
+- THE SOLDIER-COMMANDER (original character): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
 - ENGLISH COLONISTS: generic bean-people in plain Elizabethan clothes: men in brown jerkins, breeches and felt hats; women in coifs, bodices and long skirts; children in small versions of the same.
 
 ON-SCREEN TEXT: "1585" in the handwritten marker font, clearly legible, spelled exactly.
@@ -2283,12 +2283,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: English soldiers building a wooden star-shaped earthwork fort on the island, carrying logs.
 
 CHARACTERS IN FRAME:
-- RALPH LANE (soldier commander): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
+- THE SOLDIER-COMMANDER (original character): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
 - ENGLISH COLONISTS: generic bean-people in plain Elizabethan clothes: men in brown jerkins, breeches and felt hats; women in coifs, bodices and long skirts; children in small versions of the same.
 
 ON-SCREEN TEXT: "1585" in the handwritten marker font, clearly legible, spelled exactly.
@@ -2311,7 +2311,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: A family portrait crossed out with a red X.
 
@@ -2335,14 +2335,14 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
-SCENE: Ralph Lane in front of a group of armed men in breastplates and morion helmets. Wide/establishing framing.
+SCENE: The soldier-commander in front of a group of armed men in breastplates and morion helmets. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- RALPH LANE (soldier commander): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
+- THE SOLDIER-COMMANDER (original character): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
 
-ON-SCREEN TEXT: "Ralph Lane" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Military.
 
@@ -2362,14 +2362,14 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Ralph Lane in front of a group of armed men in breastplates and morion helmets.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The soldier-commander in front of a group of armed men in breastplates and morion helmets.
 
 CHARACTERS IN FRAME:
-- RALPH LANE (soldier commander): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
+- THE SOLDIER-COMMANDER (original character): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
 
-ON-SCREEN TEXT: "Ralph Lane" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Military.
 
@@ -2389,12 +2389,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
-SCENE: Lane holding up one finger, eyes greedy.
+SCENE: The commander holding up one finger, eyes greedy.
 
 CHARACTERS IN FRAME:
-- RALPH LANE (soldier commander): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
+- THE SOLDIER-COMMANDER (original character): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
 
 ON-SCREEN TEXT: none.
 
@@ -2416,12 +2416,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Soldiers digging frantically with shovels, gold sparkles in their eyes.
 
 CHARACTERS IN FRAME:
-- RALPH LANE (soldier commander): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
+- THE SOLDIER-COMMANDER (original character): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
 
 ON-SCREEN TEXT: "GOLD" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -2443,12 +2443,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: A soldier holding up a shovel full of plain sand, disappointed.
 
 CHARACTERS IN FRAME:
-- RALPH LANE (soldier commander): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
+- THE SOLDIER-COMMANDER (original character): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
 
 ON-SCREEN TEXT: none.
 
@@ -2470,12 +2470,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Thin soldiers sitting around an empty cooking pot.
 
 CHARACTERS IN FRAME:
-- RALPH LANE (soldier commander): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
+- THE SOLDIER-COMMANDER (original character): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
 
 ON-SCREEN TEXT: none.
 
@@ -2497,7 +2497,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Calendar page showing late summer, a withered field. Wide/establishing framing.
 
@@ -2521,7 +2521,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Calendar page showing late summer, a withered field.
 
@@ -2545,13 +2545,13 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Native villagers handing baskets of corn to soldiers. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
 - CAROLINA ALGONQUIAN VILLAGERS: generic bean-people with warm medium-brown skin and one darker cel-shade crescent, black hair (men with shaved sides and crests, women with long hair or bangs), deerskin aprons and mantles, shell and copper necklaces; respectful, dignified depiction.
-- RALPH LANE (soldier commander): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
+- THE SOLDIER-COMMANDER (original character): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
 
 ON-SCREEN TEXT: none.
 
@@ -2573,13 +2573,13 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Native villagers handing baskets of corn to soldiers.
 
 CHARACTERS IN FRAME:
 - CAROLINA ALGONQUIAN VILLAGERS: generic bean-people with warm medium-brown skin and one darker cel-shade crescent, black hair (men with shaved sides and crests, women with long hair or bangs), deerskin aprons and mantles, shell and copper necklaces; respectful, dignified depiction.
-- RALPH LANE (soldier commander): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
+- THE SOLDIER-COMMANDER (original character): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
 
 ON-SCREEN TEXT: none.
 
@@ -2601,13 +2601,13 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Native villagers handing baskets of corn to soldiers.
 
 CHARACTERS IN FRAME:
 - CAROLINA ALGONQUIAN VILLAGERS: generic bean-people with warm medium-brown skin and one darker cel-shade crescent, black hair (men with shaved sides and crests, women with long hair or bangs), deerskin aprons and mantles, shell and copper necklaces; respectful, dignified depiction.
-- RALPH LANE (soldier commander): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
+- THE SOLDIER-COMMANDER (original character): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
 
 ON-SCREEN TEXT: none.
 
@@ -2629,13 +2629,13 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: A handshake between a soldier and a Native man cracking apart.
 
 CHARACTERS IN FRAME:
 - CAROLINA ALGONQUIAN VILLAGERS: generic bean-people with warm medium-brown skin and one darker cel-shade crescent, black hair (men with shaved sides and crests, women with long hair or bangs), deerskin aprons and mantles, shell and copper necklaces; respectful, dignified depiction.
-- RALPH LANE (soldier commander): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
+- THE SOLDIER-COMMANDER (original character): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
 
 ON-SCREEN TEXT: none.
 
@@ -2657,13 +2657,13 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
-SCENE: Night scene: torches and smoke at a village edge, soldiers charging; Wingina's silhouette in the firelight. No gore. Wide/establishing framing.
+SCENE: Night scene: torches and smoke at a village edge, soldiers charging; the Secotan chief's silhouette in the firelight. No gore. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- RALPH LANE (soldier commander): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
-- WINGINA (Secotan chief, about 40): round head with warm medium-brown skin, black crest hairstyle with several upright feathers, a large flat copper pendant on his chest, painted deerskin mantle, dignified commanding expression.
+- THE SOLDIER-COMMANDER (original character): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
+- THE SECOTAN CHIEF (original character, about 40): round head with warm medium-brown skin, black crest hairstyle with several upright feathers, a large flat copper pendant on his chest, painted deerskin mantle, dignified commanding expression.
 - CAROLINA ALGONQUIAN VILLAGERS: generic bean-people with warm medium-brown skin and one darker cel-shade crescent, black hair (men with shaved sides and crests, women with long hair or bangs), deerskin aprons and mantles, shell and copper necklaces; respectful, dignified depiction.
 
 ON-SCREEN TEXT: "1586" in the handwritten marker font, clearly legible, spelled exactly.
@@ -2686,13 +2686,13 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 4), small change in pose/expression to show the moment progressing: Night scene: torches and smoke at a village edge, soldiers charging; Wingina's silhouette in the firelight. No gore.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 4), small change in pose/expression to show the moment progressing: Night scene: torches and smoke at a village edge, soldiers charging; the Secotan chief's silhouette in the firelight. No gore.
 
 CHARACTERS IN FRAME:
-- RALPH LANE (soldier commander): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
-- WINGINA (Secotan chief, about 40): round head with warm medium-brown skin, black crest hairstyle with several upright feathers, a large flat copper pendant on his chest, painted deerskin mantle, dignified commanding expression.
+- THE SOLDIER-COMMANDER (original character): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
+- THE SECOTAN CHIEF (original character, about 40): round head with warm medium-brown skin, black crest hairstyle with several upright feathers, a large flat copper pendant on his chest, painted deerskin mantle, dignified commanding expression.
 - CAROLINA ALGONQUIAN VILLAGERS: generic bean-people with warm medium-brown skin and one darker cel-shade crescent, black hair (men with shaved sides and crests, women with long hair or bangs), deerskin aprons and mantles, shell and copper necklaces; respectful, dignified depiction.
 
 ON-SCREEN TEXT: "1586" in the handwritten marker font, clearly legible, spelled exactly.
@@ -2715,13 +2715,13 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 4), small change in pose/expression to show the moment progressing: Night scene: torches and smoke at a village edge, soldiers charging; Wingina's silhouette in the firelight. No gore.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 4), small change in pose/expression to show the moment progressing: Night scene: torches and smoke at a village edge, soldiers charging; the Secotan chief's silhouette in the firelight. No gore.
 
 CHARACTERS IN FRAME:
-- RALPH LANE (soldier commander): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
-- WINGINA (Secotan chief, about 40): round head with warm medium-brown skin, black crest hairstyle with several upright feathers, a large flat copper pendant on his chest, painted deerskin mantle, dignified commanding expression.
+- THE SOLDIER-COMMANDER (original character): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
+- THE SECOTAN CHIEF (original character, about 40): round head with warm medium-brown skin, black crest hairstyle with several upright feathers, a large flat copper pendant on his chest, painted deerskin mantle, dignified commanding expression.
 - CAROLINA ALGONQUIAN VILLAGERS: generic bean-people with warm medium-brown skin and one darker cel-shade crescent, black hair (men with shaved sides and crests, women with long hair or bangs), deerskin aprons and mantles, shell and copper necklaces; respectful, dignified depiction.
 
 ON-SCREEN TEXT: "1586" in the handwritten marker font, clearly legible, spelled exactly.
@@ -2744,13 +2744,13 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 4 of 4), small change in pose/expression to show the moment progressing: Night scene: torches and smoke at a village edge, soldiers charging; Wingina's silhouette in the firelight. No gore.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 4 of 4), small change in pose/expression to show the moment progressing: Night scene: torches and smoke at a village edge, soldiers charging; the Secotan chief's silhouette in the firelight. No gore.
 
 CHARACTERS IN FRAME:
-- RALPH LANE (soldier commander): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
-- WINGINA (Secotan chief, about 40): round head with warm medium-brown skin, black crest hairstyle with several upright feathers, a large flat copper pendant on his chest, painted deerskin mantle, dignified commanding expression.
+- THE SOLDIER-COMMANDER (original character): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
+- THE SECOTAN CHIEF (original character, about 40): round head with warm medium-brown skin, black crest hairstyle with several upright feathers, a large flat copper pendant on his chest, painted deerskin mantle, dignified commanding expression.
 - CAROLINA ALGONQUIAN VILLAGERS: generic bean-people with warm medium-brown skin and one darker cel-shade crescent, black hair (men with shaved sides and crests, women with long hair or bangs), deerskin aprons and mantles, shell and copper necklaces; respectful, dignified depiction.
 
 ON-SCREEN TEXT: "1586" in the handwritten marker font, clearly legible, spelled exactly.
@@ -2773,13 +2773,13 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Native villagers watching distant English ships with suspicion and anger. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
 - CAROLINA ALGONQUIAN VILLAGERS: generic bean-people with warm medium-brown skin and one darker cel-shade crescent, black hair (men with shaved sides and crests, women with long hair or bangs), deerskin aprons and mantles, shell and copper necklaces; respectful, dignified depiction.
-- WANCHESE (Roanoke man, about 25): round head with warm medium-brown skin and one darker cel-shade crescent, black hair shaved on the sides with a crest on top and a single feather, wary stern expression; deerskin mantle over one shoulder, copper bead necklace.
+- THE ROANOKE WARRIOR (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker cel-shade crescent, black hair shaved on the sides with a crest on top and a single feather, wary stern expression; deerskin mantle over one shoulder, copper bead necklace.
 
 ON-SCREEN TEXT: none.
 
@@ -2801,13 +2801,13 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 4), small change in pose/expression to show the moment progressing: Native villagers watching distant English ships with suspicion and anger.
 
 CHARACTERS IN FRAME:
 - CAROLINA ALGONQUIAN VILLAGERS: generic bean-people with warm medium-brown skin and one darker cel-shade crescent, black hair (men with shaved sides and crests, women with long hair or bangs), deerskin aprons and mantles, shell and copper necklaces; respectful, dignified depiction.
-- WANCHESE (Roanoke man, about 25): round head with warm medium-brown skin and one darker cel-shade crescent, black hair shaved on the sides with a crest on top and a single feather, wary stern expression; deerskin mantle over one shoulder, copper bead necklace.
+- THE ROANOKE WARRIOR (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker cel-shade crescent, black hair shaved on the sides with a crest on top and a single feather, wary stern expression; deerskin mantle over one shoulder, copper bead necklace.
 
 ON-SCREEN TEXT: none.
 
@@ -2829,13 +2829,13 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 4), small change in pose/expression to show the moment progressing: Native villagers watching distant English ships with suspicion and anger.
 
 CHARACTERS IN FRAME:
 - CAROLINA ALGONQUIAN VILLAGERS: generic bean-people with warm medium-brown skin and one darker cel-shade crescent, black hair (men with shaved sides and crests, women with long hair or bangs), deerskin aprons and mantles, shell and copper necklaces; respectful, dignified depiction.
-- WANCHESE (Roanoke man, about 25): round head with warm medium-brown skin and one darker cel-shade crescent, black hair shaved on the sides with a crest on top and a single feather, wary stern expression; deerskin mantle over one shoulder, copper bead necklace.
+- THE ROANOKE WARRIOR (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker cel-shade crescent, black hair shaved on the sides with a crest on top and a single feather, wary stern expression; deerskin mantle over one shoulder, copper bead necklace.
 
 ON-SCREEN TEXT: none.
 
@@ -2857,13 +2857,13 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 4 of 4), small change in pose/expression to show the moment progressing: Native villagers watching distant English ships with suspicion and anger.
 
 CHARACTERS IN FRAME:
 - CAROLINA ALGONQUIAN VILLAGERS: generic bean-people with warm medium-brown skin and one darker cel-shade crescent, black hair (men with shaved sides and crests, women with long hair or bangs), deerskin aprons and mantles, shell and copper necklaces; respectful, dignified depiction.
-- WANCHESE (Roanoke man, about 25): round head with warm medium-brown skin and one darker cel-shade crescent, black hair shaved on the sides with a crest on top and a single feather, wary stern expression; deerskin mantle over one shoulder, copper bead necklace.
+- THE ROANOKE WARRIOR (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker cel-shade crescent, black hair shaved on the sides with a crest on top and a single feather, wary stern expression; deerskin mantle over one shoulder, copper bead necklace.
 
 ON-SCREEN TEXT: none.
 
@@ -2885,14 +2885,14 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
-SCENE: Drake's fleet anchored offshore, Drake waving from the deck. Wide/establishing framing.
+SCENE: The sea captain's fleet anchored offshore, the sea captain waving from the deck. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- SIR FRANCIS DRAKE (simplified caricature): round beige head, reddish-brown hair and short reddish beard, black doublet with gold buttons, heavy gold chain, captain's black hat.
+- THE FAMOUS SEA CAPTAIN (original character, Elizabethan privateer): round beige head, reddish-brown hair and short reddish beard, black doublet with gold buttons, heavy gold chain, captain's black hat.
 
-ON-SCREEN TEXT: "Sir Francis Drake" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Grand.
 
@@ -2912,14 +2912,14 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Drake's fleet anchored offshore, Drake waving from the deck.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The sea captain's fleet anchored offshore, the sea captain waving from the deck.
 
 CHARACTERS IN FRAME:
-- SIR FRANCIS DRAKE (simplified caricature): round beige head, reddish-brown hair and short reddish beard, black doublet with gold buttons, heavy gold chain, captain's black hat.
+- THE FAMOUS SEA CAPTAIN (original character, Elizabethan privateer): round beige head, reddish-brown hair and short reddish beard, black doublet with gold buttons, heavy gold chain, captain's black hat.
 
-ON-SCREEN TEXT: "Sir Francis Drake" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Grand.
 
@@ -2939,12 +2939,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
-SCENE: Lane's soldiers rushing to the boats with relief. Wide/establishing framing.
+SCENE: The commander's soldiers rushing to the boats with relief. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- RALPH LANE (soldier commander): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
+- THE SOLDIER-COMMANDER (original character): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
 
 ON-SCREEN TEXT: none.
 
@@ -2966,12 +2966,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Lane's soldiers rushing to the boats with relief.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The commander's soldiers rushing to the boats with relief.
 
 CHARACTERS IN FRAME:
-- RALPH LANE (soldier commander): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
+- THE SOLDIER-COMMANDER (original character): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
 
 ON-SCREEN TEXT: none.
 
@@ -2993,12 +2993,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Ships sailing away from the island. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- SIR FRANCIS DRAKE (simplified caricature): round beige head, reddish-brown hair and short reddish beard, black doublet with gold buttons, heavy gold chain, captain's black hat.
+- THE FAMOUS SEA CAPTAIN (original character, Elizabethan privateer): round beige head, reddish-brown hair and short reddish beard, black doublet with gold buttons, heavy gold chain, captain's black hat.
 
 ON-SCREEN TEXT: none.
 
@@ -3020,12 +3020,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Ships sailing away from the island.
 
 CHARACTERS IN FRAME:
-- SIR FRANCIS DRAKE (simplified caricature): round beige head, reddish-brown hair and short reddish beard, black doublet with gold buttons, heavy gold chain, captain's black hat.
+- THE FAMOUS SEA CAPTAIN (original character, Elizabethan privateer): round beige head, reddish-brown hair and short reddish beard, black doublet with gold buttons, heavy gold chain, captain's black hat.
 
 ON-SCREEN TEXT: none.
 
@@ -3047,7 +3047,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: A spiral mystery graphic.
 
@@ -3071,7 +3071,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: A supply ship arriving at the island, cargo on deck.
 
@@ -3098,7 +3098,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: The empty wooden fort, a gate swinging.
 
@@ -3122,7 +3122,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Fifteen soldiers waving goodbye as the ship leaves. Wide/establishing framing.
 
@@ -3149,7 +3149,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Fifteen soldiers waving goodbye as the ship leaves.
 
@@ -3176,7 +3176,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Colonists searching through tall grass. Wide/establishing framing.
 
@@ -3203,7 +3203,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Colonists searching through tall grass.
 
@@ -3230,7 +3230,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Colonists searching through tall grass.
 
@@ -3257,7 +3257,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Scattered weathered bones in the grass, a rusty helmet beside them.
 
@@ -3281,7 +3281,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Ships approaching the island under dark clouds. Wide/establishing framing.
 
@@ -3305,7 +3305,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 1585-1586: a small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
+HISTORICAL CONTEXT: Roanoke Island, 1585-1586: A small English earthwork fort and wooden huts in a forest clearing, soldiers in steel helmets and breastplates, nearby Secotan villages with bark-covered longhouses and cornfields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Ships approaching the island under dark clouds.
 
@@ -3360,10 +3360,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families unloading chests and livestock, small timber cottages being built in a clearing, salt marshes and shallow sounds around the island.
 
-SCENE: Raleigh at his desk with a fresh map, determined.
+SCENE: The courtier-explorer at his desk with a fresh map, determined.
 
 CHARACTERS IN FRAME:
-- SIR WALTER RALEIGH (simplified caricature): round beige head, dark hair, dark pointed beard and upturned mustache, single pearl earring, silver-grey slashed doublet with a white ruff, black hat with a white feather.
+- THE COURTIER-EXPLORER (original character, dashing Elizabethan nobleman): round beige head, dark hair, dark pointed beard and upturned mustache, single pearl earring, silver-grey slashed doublet with a white ruff, black hat with a white feather.
 
 ON-SCREEN TEXT: none.
 
@@ -3387,10 +3387,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families unloading chests and livestock, small timber cottages being built in a clearing, salt marshes and shallow sounds around the island.
 
-SCENE: A glowing lightbulb above Raleigh's head.
+SCENE: A glowing lightbulb above the courtier-explorer's head.
 
 CHARACTERS IN FRAME:
-- SIR WALTER RALEIGH (simplified caricature): round beige head, dark hair, dark pointed beard and upturned mustache, single pearl earring, silver-grey slashed doublet with a white ruff, black hat with a white feather.
+- THE COURTIER-EXPLORER (original character, dashing Elizabethan nobleman): round beige head, dark hair, dark pointed beard and upturned mustache, single pearl earring, silver-grey slashed doublet with a white ruff, black hat with a white feather.
 
 ON-SCREEN TEXT: none.
 
@@ -3546,12 +3546,12 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families unloading chests and livestock, small timber cottages being built in a clearing, salt marshes and shallow sounds around the island.
 
-SCENE: John White standing proudly with a rolled map.
+SCENE: The governor standing proudly with a rolled map.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
-ON-SCREEN TEXT: "Governor John White" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Proud.
 
@@ -3573,10 +3573,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families unloading chests and livestock, small timber cottages being built in a clearing, salt marshes and shallow sounds around the island.
 
-SCENE: John White awkwardly holding a sword the wrong way.
+SCENE: The governor awkwardly holding a sword the wrong way.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -3600,10 +3600,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families unloading chests and livestock, small timber cottages being built in a clearing, salt marshes and shallow sounds around the island.
 
-SCENE: John White painting a watercolour at an easel.
+SCENE: The governor painting a watercolour at an easel.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -3630,7 +3630,7 @@ HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families 
 SCENE: Watercolour-style paintings (drawn in the cartoon style) of a Native village with fields and longhouses pinned on a wall. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -3657,7 +3657,7 @@ HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Watercolour-style paintings (drawn in the cartoon style) of a Native village with fields and longhouses pinned on a wall.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -3681,12 +3681,12 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families unloading chests and livestock, small timber cottages being built in a clearing, salt marshes and shallow sounds around the island.
 
-SCENE: John White with his arm around Eleanor and Ananias.
+SCENE: The governor with his arm around the governor's daughter and her husband.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
-- ELEANOR DARE (John White's daughter, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
-- ANANIAS DARE (Eleanor's husband, about 30): round beige head, short brown hair and short brown beard, brown leather jerkin over a white shirt, dark breeches, simple brown felt hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR'S DAUGHTER (original character, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
+- HER HUSBAND (original character, about 30): round beige head, short brown hair and short brown beard, brown leather jerkin over a white shirt, dark breeches, simple brown felt hat.
 
 ON-SCREEN TEXT: none.
 
@@ -3710,13 +3710,13 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families unloading chests and livestock, small timber cottages being built in a clearing, salt marshes and shallow sounds around the island.
 
-SCENE: Eleanor and Ananias holding hands.
+SCENE: The governor's daughter and her husband holding hands.
 
 CHARACTERS IN FRAME:
-- ELEANOR DARE (John White's daughter, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
-- ANANIAS DARE (Eleanor's husband, about 30): round beige head, short brown hair and short brown beard, brown leather jerkin over a white shirt, dark breeches, simple brown felt hat.
+- THE GOVERNOR'S DAUGHTER (original character, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
+- HER HUSBAND (original character, about 30): round beige head, short brown hair and short brown beard, brown leather jerkin over a white shirt, dark breeches, simple brown felt hat.
 
-ON-SCREEN TEXT: "Eleanor & Ananias Dare" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Loving.
 
@@ -3738,10 +3738,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families unloading chests and livestock, small timber cottages being built in a clearing, salt marshes and shallow sounds around the island.
 
-SCENE: Eleanor smiling, hand on her pregnant belly.
+SCENE: The governor's daughter smiling, hand on her pregnant belly.
 
 CHARACTERS IN FRAME:
-- ELEANOR DARE (John White's daughter, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
+- THE GOVERNOR'S DAUGHTER (original character, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
 
 ON-SCREEN TEXT: none.
 
@@ -3987,11 +3987,11 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families unloading chests and livestock, small timber cottages being built in a clearing, salt marshes and shallow sounds around the island.
 
-SCENE: Simon Fernandes standing at the ship's wheel, arms crossed, refusing. Wide/establishing framing.
+SCENE: The ship's pilot standing at the ship's wheel, arms crossed, refusing. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- SIMON FERNANDES (ship's pilot): round tanned-beige head, dark curly hair and stubbly black beard, small gold hoop earring, salt-stained navy sea coat, smug narrow eyes.
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE SHIP'S PILOT (original character): round tanned-beige head, dark curly hair and stubbly black beard, small gold hoop earring, salt-stained navy sea coat, smug narrow eyes.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: "July 1587" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -4015,11 +4015,11 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families unloading chests and livestock, small timber cottages being built in a clearing, salt marshes and shallow sounds around the island.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 4), small change in pose/expression to show the moment progressing: Simon Fernandes standing at the ship's wheel, arms crossed, refusing.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 4), small change in pose/expression to show the moment progressing: The ship's pilot standing at the ship's wheel, arms crossed, refusing.
 
 CHARACTERS IN FRAME:
-- SIMON FERNANDES (ship's pilot): round tanned-beige head, dark curly hair and stubbly black beard, small gold hoop earring, salt-stained navy sea coat, smug narrow eyes.
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE SHIP'S PILOT (original character): round tanned-beige head, dark curly hair and stubbly black beard, small gold hoop earring, salt-stained navy sea coat, smug narrow eyes.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: "July 1587" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -4043,11 +4043,11 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families unloading chests and livestock, small timber cottages being built in a clearing, salt marshes and shallow sounds around the island.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 4), small change in pose/expression to show the moment progressing: Simon Fernandes standing at the ship's wheel, arms crossed, refusing.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 4), small change in pose/expression to show the moment progressing: The ship's pilot standing at the ship's wheel, arms crossed, refusing.
 
 CHARACTERS IN FRAME:
-- SIMON FERNANDES (ship's pilot): round tanned-beige head, dark curly hair and stubbly black beard, small gold hoop earring, salt-stained navy sea coat, smug narrow eyes.
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE SHIP'S PILOT (original character): round tanned-beige head, dark curly hair and stubbly black beard, small gold hoop earring, salt-stained navy sea coat, smug narrow eyes.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: "July 1587" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -4071,11 +4071,11 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families unloading chests and livestock, small timber cottages being built in a clearing, salt marshes and shallow sounds around the island.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 4 of 4), small change in pose/expression to show the moment progressing: Simon Fernandes standing at the ship's wheel, arms crossed, refusing.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 4 of 4), small change in pose/expression to show the moment progressing: The ship's pilot standing at the ship's wheel, arms crossed, refusing.
 
 CHARACTERS IN FRAME:
-- SIMON FERNANDES (ship's pilot): round tanned-beige head, dark curly hair and stubbly black beard, small gold hoop earring, salt-stained navy sea coat, smug narrow eyes.
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE SHIP'S PILOT (original character): round tanned-beige head, dark curly hair and stubbly black beard, small gold hoop earring, salt-stained navy sea coat, smug narrow eyes.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: "July 1587" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -4099,10 +4099,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families unloading chests and livestock, small timber cottages being built in a clearing, salt marshes and shallow sounds around the island.
 
-SCENE: Fernandes looking out to sea with a sly smile, question marks around him. Wide/establishing framing.
+SCENE: The pilot looking out to sea with a sly smile, question marks around him. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- SIMON FERNANDES (ship's pilot): round tanned-beige head, dark curly hair and stubbly black beard, small gold hoop earring, salt-stained navy sea coat, smug narrow eyes.
+- THE SHIP'S PILOT (original character): round tanned-beige head, dark curly hair and stubbly black beard, small gold hoop earring, salt-stained navy sea coat, smug narrow eyes.
 
 ON-SCREEN TEXT: none.
 
@@ -4126,10 +4126,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families unloading chests and livestock, small timber cottages being built in a clearing, salt marshes and shallow sounds around the island.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Fernandes looking out to sea with a sly smile, question marks around him.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The pilot looking out to sea with a sly smile, question marks around him.
 
 CHARACTERS IN FRAME:
-- SIMON FERNANDES (ship's pilot): round tanned-beige head, dark curly hair and stubbly black beard, small gold hoop earring, salt-stained navy sea coat, smug narrow eyes.
+- THE SHIP'S PILOT (original character): round tanned-beige head, dark curly hair and stubbly black beard, small gold hoop earring, salt-stained navy sea coat, smug narrow eyes.
 
 ON-SCREEN TEXT: none.
 
@@ -4315,7 +4315,7 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families unloading chests and livestock, small timber cottages being built in a clearing, salt marshes and shallow sounds around the island.
 
-SCENE: Implicit: an abandoned crab basket floating in the shallows, a few arrows stuck in the sand nearby. No body shown. Wide/establishing framing.
+SCENE: Implicit: An abandoned crab basket floating in the shallows, a few arrows stuck in the sand nearby. No body shown. Wide/establishing framing.
 
 ON-SCREEN TEXT: none.
 
@@ -4339,7 +4339,7 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families unloading chests and livestock, small timber cottages being built in a clearing, salt marshes and shallow sounds around the island.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Implicit: an abandoned crab basket floating in the shallows, a few arrows stuck in the sand nearby. No body shown.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Implicit: An abandoned crab basket floating in the shallows, a few arrows stuck in the sand nearby. No body shown.
 
 ON-SCREEN TEXT: none.
 
@@ -4438,10 +4438,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families unloading chests and livestock, small timber cottages being built in a clearing, salt marshes and shallow sounds around the island.
 
-SCENE: Manteo stepping into the frame, smiling.
+SCENE: The Croatoan guide stepping into the frame, smiling.
 
 CHARACTERS IN FRAME:
-- MANTEO (Croatoan man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace. In England and later scenes he may wear a plain English doublet over his deerskin.
+- THE CROATOAN GUIDE (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace; in England and later scenes he may wear a plain English doublet over his deerskin.
 
 ON-SCREEN TEXT: none.
 
@@ -4465,10 +4465,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families unloading chests and livestock, small timber cottages being built in a clearing, salt marshes and shallow sounds around the island.
 
-SCENE: Manteo standing among the colonists on the beach.
+SCENE: The Croatoan guide standing among the colonists on the beach.
 
 CHARACTERS IN FRAME:
-- MANTEO (Croatoan man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace. In England and later scenes he may wear a plain English doublet over his deerskin.
+- THE CROATOAN GUIDE (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace; in England and later scenes he may wear a plain English doublet over his deerskin.
 - ENGLISH COLONISTS: generic bean-people in plain Elizabethan clothes: men in brown jerkins, breeches and felt hats; women in coifs, bodices and long skirts; children in small versions of the same.
 
 ON-SCREEN TEXT: none.
@@ -4496,7 +4496,7 @@ HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families 
 SCENE: Map with Croatoan island highlighted south of Roanoke. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- MANTEO (Croatoan man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace. In England and later scenes he may wear a plain English doublet over his deerskin.
+- THE CROATOAN GUIDE (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace; in England and later scenes he may wear a plain English doublet over his deerskin.
 
 ON-SCREEN TEXT: "Croatoan" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -4523,7 +4523,7 @@ HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Map with Croatoan island highlighted south of Roanoke.
 
 CHARACTERS IN FRAME:
-- MANTEO (Croatoan man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace. In England and later scenes he may wear a plain English doublet over his deerskin.
+- THE CROATOAN GUIDE (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace; in England and later scenes he may wear a plain English doublet over his deerskin.
 
 ON-SCREEN TEXT: "Croatoan" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -4547,10 +4547,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families unloading chests and livestock, small timber cottages being built in a clearing, salt marshes and shallow sounds around the island.
 
-SCENE: Manteo kneeling as a minister pours water on his head, colonists watching. Wide/establishing framing.
+SCENE: The Croatoan guide kneeling as a minister pours water on his head, colonists watching. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- MANTEO (Croatoan man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace. In England and later scenes he may wear a plain English doublet over his deerskin.
+- THE CROATOAN GUIDE (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace; in England and later scenes he may wear a plain English doublet over his deerskin.
 - ENGLISH COLONISTS: generic bean-people in plain Elizabethan clothes: men in brown jerkins, breeches and felt hats; women in coifs, bodices and long skirts; children in small versions of the same.
 
 ON-SCREEN TEXT: none.
@@ -4575,10 +4575,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families unloading chests and livestock, small timber cottages being built in a clearing, salt marshes and shallow sounds around the island.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Manteo kneeling as a minister pours water on his head, colonists watching.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: The Croatoan guide kneeling as a minister pours water on his head, colonists watching.
 
 CHARACTERS IN FRAME:
-- MANTEO (Croatoan man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace. In England and later scenes he may wear a plain English doublet over his deerskin.
+- THE CROATOAN GUIDE (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace; in England and later scenes he may wear a plain English doublet over his deerskin.
 - ENGLISH COLONISTS: generic bean-people in plain Elizabethan clothes: men in brown jerkins, breeches and felt hats; women in coifs, bodices and long skirts; children in small versions of the same.
 
 ON-SCREEN TEXT: none.
@@ -4603,10 +4603,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families unloading chests and livestock, small timber cottages being built in a clearing, salt marshes and shallow sounds around the island.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Manteo kneeling as a minister pours water on his head, colonists watching.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: The Croatoan guide kneeling as a minister pours water on his head, colonists watching.
 
 CHARACTERS IN FRAME:
-- MANTEO (Croatoan man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace. In England and later scenes he may wear a plain English doublet over his deerskin.
+- THE CROATOAN GUIDE (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace; in England and later scenes he may wear a plain English doublet over his deerskin.
 - ENGLISH COLONISTS: generic bean-people in plain Elizabethan clothes: men in brown jerkins, breeches and felt hats; women in coifs, bodices and long skirts; children in small versions of the same.
 
 ON-SCREEN TEXT: none.
@@ -4631,12 +4631,12 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families unloading chests and livestock, small timber cottages being built in a clearing, salt marshes and shallow sounds around the island.
 
-SCENE: Eleanor in a simple bed holding a newborn, John White smiling beside her. Wide/establishing framing.
+SCENE: The governor's daughter in a simple bed holding a newborn, the governor smiling beside her. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- ELEANOR DARE (John White's daughter, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
-- VIRGINIA DARE (newborn baby): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
+- THE GOVERNOR'S DAUGHTER (original character, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE BABY GIRL (newborn): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
 
 ON-SCREEN TEXT: "August 18, 1587" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -4660,12 +4660,12 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families unloading chests and livestock, small timber cottages being built in a clearing, salt marshes and shallow sounds around the island.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Eleanor in a simple bed holding a newborn, John White smiling beside her.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The governor's daughter in a simple bed holding a newborn, the governor smiling beside her.
 
 CHARACTERS IN FRAME:
-- ELEANOR DARE (John White's daughter, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
-- VIRGINIA DARE (newborn baby): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
+- THE GOVERNOR'S DAUGHTER (original character, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE BABY GIRL (newborn): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
 
 ON-SCREEN TEXT: "August 18, 1587" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -4689,12 +4689,12 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families unloading chests and livestock, small timber cottages being built in a clearing, salt marshes and shallow sounds around the island.
 
-SCENE: Close-up of baby Virginia.
+SCENE: Close-up of baby the baby girl.
 
 CHARACTERS IN FRAME:
-- VIRGINIA DARE (newborn baby): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
+- THE BABY GIRL (newborn): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
 
-ON-SCREEN TEXT: "Virginia" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Tender.
 
@@ -4718,7 +4718,7 @@ HISTORICAL CONTEXT: Roanoke Island, summer 1587: English settlers with families 
 
 SCENE: Name written on parchment with a quill.
 
-ON-SCREEN TEXT: "Virginia Dare" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Historic.
 

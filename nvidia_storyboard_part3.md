@@ -2,7 +2,7 @@
 
 Each line of the voiceover is one shot of about 1–3 seconds. Each prompt box is **self-contained**: paste it on its own into any image model (Midjourney, GPT-Image, Flux, Ideogram, etc.) and it carries the full style, characters and scene.
 
-**Style target:** the reference frames, i.e. a flat hand-drawn 2D explainer cartoon with big round heads, stick limbs, thick wobbly black outlines, one cel-shade tone, a muted palette and handwritten captions.
+**Style target:** the reference frames, i.e. A flat hand-drawn 2D explainer cartoon with big round heads, stick limbs, thick wobbly black outlines, one cel-shade tone, a muted palette and handwritten captions.
 
 **Tips:** use 16:9 (e.g. `--ar 16:9`). To keep characters consistent, generate a character sheet first and pass it as a reference image together with these prompts. Durations assume about 2.7 spoken words per second.
 
@@ -12,17 +12,17 @@ Each line of the voiceover is one shot of about 1–3 seconds. Each prompt box i
 
 ## Character sheet (reference)
 
-- YOUNG JENSEN HUANG (age about 9, 1970s): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
-- TEENAGE JENSEN HUANG (about 15, 1970s): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
-- CHRIS MALACHOWSKY (Nvidia co-founder, 1990s, simplified caricature): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
-- CURTIS PRIEM (Nvidia co-founder, 1990s, simplified caricature): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful engineer look.
-- DON VALENTINE (venture capitalist, simplified caricature): older, round beige head, slicked white hair, dark grey suit, white shirt, red tie, sceptical eyebrows.
-- IAN BUCK (young researcher, mid-2000s, simplified caricature): round beige head, short messy brown hair, grey hoodie, laptop under arm, eager smile.
-- ALEX KRIZHEVSKY (university student, 2012, simplified caricature): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
-- ILYA SUTSKEVER (researcher, 2012, simplified caricature): round beige head, short dark hair receding at the temples, intense eyes, grey t-shirt.
-- GEOFFREY HINTON (professor, simplified caricature): older, round beige head, white receding hair, kind smile, grey sweater over a collared shirt.
+- THE FOUNDER AS A BOY (original character, about 9, 1970s, East Asian boy): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
+- THE FOUNDER AS A TEENAGER (original character, about 15, 1970s, East Asian teen): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FIRST CO-FOUNDER (original character, 1990s engineer): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
+- THE SECOND CO-FOUNDER (original character, 1990s engineer): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful look.
+- THE VETERAN INVESTOR (original character, older venture capitalist): round beige head, slicked white hair, dark grey suit, white shirt, red tie, sceptical eyebrows.
+- THE YOUNG RESEARCHER (original character, mid-2000s grad student): round beige head, short messy brown hair, grey hoodie, laptop under arm, eager smile.
+- THE STUDENT (original character, 2012 university student): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
+- THE LAB PARTNER (original character, 2012 researcher): round beige head, short dark hair receding at the temples, intense eyes, grey t-shirt.
+- THE PROFESSOR (original character, older computer-science professor): round beige head, white receding hair, kind smile, grey sweater over a collared shirt.
 
 
 ---
@@ -387,7 +387,7 @@ HISTORICAL CONTEXT: 2006-2008: university labs and research supercomputers, prog
 SCENE: A researcher typing code at night with energy drinks. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- IAN BUCK (young researcher, mid-2000s, simplified caricature): round beige head, short messy brown hair, grey hoodie, laptop under arm, eager smile.
+- THE YOUNG RESEARCHER (original character, mid-2000s grad student): round beige head, short messy brown hair, grey hoodie, laptop under arm, eager smile.
 
 ON-SCREEN TEXT: none.
 
@@ -414,7 +414,7 @@ HISTORICAL CONTEXT: 2006-2008: university labs and research supercomputers, prog
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A researcher typing code at night with energy drinks.
 
 CHARACTERS IN FRAME:
-- IAN BUCK (young researcher, mid-2000s, simplified caricature): round beige head, short messy brown hair, grey hoodie, laptop under arm, eager smile.
+- THE YOUNG RESEARCHER (original character, mid-2000s grad student): round beige head, short messy brown hair, grey hoodie, laptop under arm, eager smile.
 
 ON-SCREEN TEXT: none.
 
@@ -510,12 +510,12 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2006-2008: university labs and research supercomputers, programmers coding at night, the 2008 financial crisis on Wall Street with crashing red charts.
 
-SCENE: Ian Buck at a Stanford lab. Wide/establishing framing.
+SCENE: The young researcher at a Stanford lab. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- IAN BUCK (young researcher, mid-2000s, simplified caricature): round beige head, short messy brown hair, grey hoodie, laptop under arm, eager smile.
+- THE YOUNG RESEARCHER (original character, mid-2000s grad student): round beige head, short messy brown hair, grey hoodie, laptop under arm, eager smile.
 
-ON-SCREEN TEXT: "Ian Buck" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Introductory.
 
@@ -537,12 +537,12 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2006-2008: university labs and research supercomputers, programmers coding at night, the 2008 financial crisis on Wall Street with crashing red charts.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Ian Buck at a Stanford lab.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The young researcher at a Stanford lab.
 
 CHARACTERS IN FRAME:
-- IAN BUCK (young researcher, mid-2000s, simplified caricature): round beige head, short messy brown hair, grey hoodie, laptop under arm, eager smile.
+- THE YOUNG RESEARCHER (original character, mid-2000s grad student): round beige head, short messy brown hair, grey hoodie, laptop under arm, eager smile.
 
-ON-SCREEN TEXT: "Ian Buck" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Introductory.
 
@@ -564,11 +564,11 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2006-2008: university labs and research supercomputers, programmers coding at night, the 2008 financial crisis on Wall Street with crashing red charts.
 
-SCENE: Jensen handing Ian a badge.
+SCENE: The founder handing the young researcher a badge.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
-- IAN BUCK (young researcher, mid-2000s, simplified caricature): round beige head, short messy brown hair, grey hoodie, laptop under arm, eager smile.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE YOUNG RESEARCHER (original character, mid-2000s grad student): round beige head, short messy brown hair, grey hoodie, laptop under arm, eager smile.
 
 ON-SCREEN TEXT: none.
 
@@ -592,10 +592,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2006-2008: university labs and research supercomputers, programmers coding at night, the 2008 financial crisis on Wall Street with crashing red charts.
 
-SCENE: Ian and engineers building a glowing toolbox labelled 'CUDA'.
+SCENE: The young researcher and engineers building a glowing toolbox labelled 'CUDA'.
 
 CHARACTERS IN FRAME:
-- IAN BUCK (young researcher, mid-2000s, simplified caricature): round beige head, short messy brown hair, grey hoodie, laptop under arm, eager smile.
+- THE YOUNG RESEARCHER (original character, mid-2000s grad student): round beige head, short messy brown hair, grey hoodie, laptop under arm, eager smile.
 - ENGINEERS: generic bean-people of varied skin tones in casual tech clothes (polo shirts, hoodies, lanyards), some with glasses.
 
 ON-SCREEN TEXT: "CUDA" in the handwritten marker font, clearly legible, spelled exactly.
@@ -1370,10 +1370,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2006-2008: university labs and research supercomputers, programmers coding at night, the 2008 financial crisis on Wall Street with crashing red charts.
 
-SCENE: Jensen standing in front of the CUDA toolbox, arms crossed.
+SCENE: The founder standing in front of the CUDA toolbox, arms crossed.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -1397,10 +1397,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2006-2008: university labs and research supercomputers, programmers coding at night, the 2008 financial crisis on Wall Street with crashing red charts.
 
-SCENE: Jensen looking at a distant horizon with a glowing sunrise. Wide/establishing framing.
+SCENE: The founder looking at a distant horizon with a glowing sunrise. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -1424,10 +1424,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2006-2008: university labs and research supercomputers, programmers coding at night, the 2008 financial crisis on Wall Street with crashing red charts.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Jensen looking at a distant horizon with a glowing sunrise.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The founder looking at a distant horizon with a glowing sunrise.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -1454,7 +1454,7 @@ HISTORICAL CONTEXT: 2006-2008: university labs and research supercomputers, prog
 SCENE: Question marks over the horizon.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -1505,7 +1505,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: Late 2000s to mid-2010s: the smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
+HISTORICAL CONTEXT: Late 2000s to mid-2010s: The smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
 
 SCENE: Chapter title card. Flat cool grey background filling the frame, a simple hand-drawn cracked smartphone illustrated small and centred under the title, generous empty space, gentle subtle vignette in a slightly darker flat shade at the corners.
 
@@ -1529,7 +1529,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: Late 2000s to mid-2010s: the smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
+HISTORICAL CONTEXT: Late 2000s to mid-2010s: The smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
 
 SCENE: A sad trombone icon.
 
@@ -1553,7 +1553,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: Late 2000s to mid-2010s: the smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
+HISTORICAL CONTEXT: Late 2000s to mid-2010s: The smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
 
 SCENE: Everyone on the street looking at smartphones.
 
@@ -1580,12 +1580,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: Late 2000s to mid-2010s: the smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
+HISTORICAL CONTEXT: Late 2000s to mid-2010s: The smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
 
-SCENE: Jensen holding a phone eagerly.
+SCENE: The founder holding a phone eagerly.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -1607,7 +1607,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: Late 2000s to mid-2010s: the smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
+HISTORICAL CONTEXT: Late 2000s to mid-2010s: The smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
 
 SCENE: A small chip labelled 'Tegra' inside a phone outline. Wide/establishing framing.
 
@@ -1631,7 +1631,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: Late 2000s to mid-2010s: the smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
+HISTORICAL CONTEXT: Late 2000s to mid-2010s: The smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A small chip labelled 'Tegra' inside a phone outline.
 
@@ -1655,7 +1655,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: Late 2000s to mid-2010s: the smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
+HISTORICAL CONTEXT: Late 2000s to mid-2010s: The smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
 
 SCENE: The chip with a sad face.
 
@@ -1679,7 +1679,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: Late 2000s to mid-2010s: the smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
+HISTORICAL CONTEXT: Late 2000s to mid-2010s: The smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
 
 SCENE: Two big chips labelled 'Qualcomm' and 'Apple' in plain text pushing Tegra off a table. Wide/establishing framing.
 
@@ -1703,7 +1703,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: Late 2000s to mid-2010s: the smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
+HISTORICAL CONTEXT: Late 2000s to mid-2010s: The smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Two big chips labelled 'Qualcomm' and 'Apple' in plain text pushing Tegra off a table.
 
@@ -1727,7 +1727,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: Late 2000s to mid-2010s: the smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
+HISTORICAL CONTEXT: Late 2000s to mid-2010s: The smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Two big chips labelled 'Qualcomm' and 'Apple' in plain text pushing Tegra off a table.
 
@@ -1751,7 +1751,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: Late 2000s to mid-2010s: the smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
+HISTORICAL CONTEXT: Late 2000s to mid-2010s: The smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
 
 SCENE: Tegra squished between two giants.
 
@@ -1775,7 +1775,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: Late 2000s to mid-2010s: the smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
+HISTORICAL CONTEXT: Late 2000s to mid-2010s: The smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
 
 SCENE: A phone dropped in a bin. Wide/establishing framing.
 
@@ -1799,7 +1799,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: Late 2000s to mid-2010s: the smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
+HISTORICAL CONTEXT: Late 2000s to mid-2010s: The smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A phone dropped in a bin.
 
@@ -1823,7 +1823,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: Late 2000s to mid-2010s: the smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
+HISTORICAL CONTEXT: Late 2000s to mid-2010s: The smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
 
 SCENE: Tegra chip being rescued from the bin.
 
@@ -1847,7 +1847,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: Late 2000s to mid-2010s: the smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
+HISTORICAL CONTEXT: Late 2000s to mid-2010s: The smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
 
 SCENE: A sleek electric car's interior with a huge vertical touchscreen. Wide/establishing framing.
 
@@ -1871,7 +1871,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: Late 2000s to mid-2010s: the smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
+HISTORICAL CONTEXT: Late 2000s to mid-2010s: The smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A sleek electric car's interior with a huge vertical touchscreen.
 
@@ -1895,7 +1895,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: Late 2000s to mid-2010s: the smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
+HISTORICAL CONTEXT: Late 2000s to mid-2010s: The smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
 
 SCENE: A handheld console with detachable side controllers glowing. Wide/establishing framing.
 
@@ -1922,7 +1922,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: Late 2000s to mid-2010s: the smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
+HISTORICAL CONTEXT: Late 2000s to mid-2010s: The smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A handheld console with detachable side controllers glowing.
 
@@ -1949,7 +1949,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: Late 2000s to mid-2010s: the smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
+HISTORICAL CONTEXT: Late 2000s to mid-2010s: The smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
 
 SCENE: Kids playing on the handheld console.
 
@@ -1976,7 +1976,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: Late 2000s to mid-2010s: the smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
+HISTORICAL CONTEXT: Late 2000s to mid-2010s: The smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
 
 SCENE: Nvidia standing on the beach as a big wave labelled 'Mobile' passes. Wide/establishing framing.
 
@@ -2000,7 +2000,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: Late 2000s to mid-2010s: the smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
+HISTORICAL CONTEXT: Late 2000s to mid-2010s: The smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Nvidia standing on the beach as a big wave labelled 'Mobile' passes.
 
@@ -2024,7 +2024,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: Late 2000s to mid-2010s: the smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
+HISTORICAL CONTEXT: Late 2000s to mid-2010s: The smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Nvidia standing on the beach as a big wave labelled 'Mobile' passes.
 
@@ -2048,7 +2048,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: Late 2000s to mid-2010s: the smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
+HISTORICAL CONTEXT: Late 2000s to mid-2010s: The smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
 
 SCENE: A neutral face emoji.
 
@@ -2072,7 +2072,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: Late 2000s to mid-2010s: the smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
+HISTORICAL CONTEXT: Late 2000s to mid-2010s: The smartphone boom, mobile chips, an electric car's large touchscreen dashboard, a handheld hybrid game console.
 
 SCENE: Toronto skyline at night with a tower; a single lit window.
 
@@ -2154,12 +2154,12 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2012-2016: University of Toronto, a student bedroom with a humming gaming PC, the ImageNet competition leaderboard, AI research labs, a small San Francisco nonprofit office.
 
-SCENE: Alex, Ilya and Professor Hinton gathered around a whiteboard covered in connected circles diagrams. Wide/establishing framing.
+SCENE: The student, the lab partner and the professor gathered around a whiteboard covered in connected circles diagrams. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- ALEX KRIZHEVSKY (university student, 2012, simplified caricature): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
-- ILYA SUTSKEVER (researcher, 2012, simplified caricature): round beige head, short dark hair receding at the temples, intense eyes, grey t-shirt.
-- GEOFFREY HINTON (professor, simplified caricature): older, round beige head, white receding hair, kind smile, grey sweater over a collared shirt.
+- THE STUDENT (original character, 2012 university student): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
+- THE LAB PARTNER (original character, 2012 researcher): round beige head, short dark hair receding at the temples, intense eyes, grey t-shirt.
+- THE PROFESSOR (original character, older computer-science professor): round beige head, white receding hair, kind smile, grey sweater over a collared shirt.
 
 ON-SCREEN TEXT: "Neural Network" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -2183,12 +2183,12 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2012-2016: University of Toronto, a student bedroom with a humming gaming PC, the ImageNet competition leaderboard, AI research labs, a small San Francisco nonprofit office.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 4), small change in pose/expression to show the moment progressing: Alex, Ilya and Professor Hinton gathered around a whiteboard covered in connected circles diagrams.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 4), small change in pose/expression to show the moment progressing: The student, the lab partner and the professor gathered around a whiteboard covered in connected circles diagrams.
 
 CHARACTERS IN FRAME:
-- ALEX KRIZHEVSKY (university student, 2012, simplified caricature): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
-- ILYA SUTSKEVER (researcher, 2012, simplified caricature): round beige head, short dark hair receding at the temples, intense eyes, grey t-shirt.
-- GEOFFREY HINTON (professor, simplified caricature): older, round beige head, white receding hair, kind smile, grey sweater over a collared shirt.
+- THE STUDENT (original character, 2012 university student): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
+- THE LAB PARTNER (original character, 2012 researcher): round beige head, short dark hair receding at the temples, intense eyes, grey t-shirt.
+- THE PROFESSOR (original character, older computer-science professor): round beige head, white receding hair, kind smile, grey sweater over a collared shirt.
 
 ON-SCREEN TEXT: "Neural Network" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -2212,12 +2212,12 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2012-2016: University of Toronto, a student bedroom with a humming gaming PC, the ImageNet competition leaderboard, AI research labs, a small San Francisco nonprofit office.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 4), small change in pose/expression to show the moment progressing: Alex, Ilya and Professor Hinton gathered around a whiteboard covered in connected circles diagrams.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 4), small change in pose/expression to show the moment progressing: The student, the lab partner and the professor gathered around a whiteboard covered in connected circles diagrams.
 
 CHARACTERS IN FRAME:
-- ALEX KRIZHEVSKY (university student, 2012, simplified caricature): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
-- ILYA SUTSKEVER (researcher, 2012, simplified caricature): round beige head, short dark hair receding at the temples, intense eyes, grey t-shirt.
-- GEOFFREY HINTON (professor, simplified caricature): older, round beige head, white receding hair, kind smile, grey sweater over a collared shirt.
+- THE STUDENT (original character, 2012 university student): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
+- THE LAB PARTNER (original character, 2012 researcher): round beige head, short dark hair receding at the temples, intense eyes, grey t-shirt.
+- THE PROFESSOR (original character, older computer-science professor): round beige head, white receding hair, kind smile, grey sweater over a collared shirt.
 
 ON-SCREEN TEXT: "Neural Network" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -2241,12 +2241,12 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2012-2016: University of Toronto, a student bedroom with a humming gaming PC, the ImageNet competition leaderboard, AI research labs, a small San Francisco nonprofit office.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 4 of 4), small change in pose/expression to show the moment progressing: Alex, Ilya and Professor Hinton gathered around a whiteboard covered in connected circles diagrams.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 4 of 4), small change in pose/expression to show the moment progressing: The student, the lab partner and the professor gathered around a whiteboard covered in connected circles diagrams.
 
 CHARACTERS IN FRAME:
-- ALEX KRIZHEVSKY (university student, 2012, simplified caricature): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
-- ILYA SUTSKEVER (researcher, 2012, simplified caricature): round beige head, short dark hair receding at the temples, intense eyes, grey t-shirt.
-- GEOFFREY HINTON (professor, simplified caricature): older, round beige head, white receding hair, kind smile, grey sweater over a collared shirt.
+- THE STUDENT (original character, 2012 university student): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
+- THE LAB PARTNER (original character, 2012 researcher): round beige head, short dark hair receding at the temples, intense eyes, grey t-shirt.
+- THE PROFESSOR (original character, older computer-science professor): round beige head, white receding hair, kind smile, grey sweater over a collared shirt.
 
 ON-SCREEN TEXT: "Neural Network" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -2513,7 +2513,7 @@ HISTORICAL CONTEXT: 2012-2016: University of Toronto, a student bedroom with a h
 SCENE: Two gaming graphics cards with green accents on a desk.
 
 CHARACTERS IN FRAME:
-- ALEX KRIZHEVSKY (university student, 2012, simplified caricature): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
+- THE STUDENT (original character, 2012 university student): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
 
 ON-SCREEN TEXT: none.
 
@@ -2561,10 +2561,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2012-2016: University of Toronto, a student bedroom with a humming gaming PC, the ImageNet competition leaderboard, AI research labs, a small San Francisco nonprofit office.
 
-SCENE: A cosy bedroom with posters; Alex at a desk with a humming PC, fans spinning, night outside. Wide/establishing framing.
+SCENE: A cosy bedroom with posters; the student at a desk with a humming PC, fans spinning, night outside. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- ALEX KRIZHEVSKY (university student, 2012, simplified caricature): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
+- THE STUDENT (original character, 2012 university student): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
 
 ON-SCREEN TEXT: none.
 
@@ -2588,10 +2588,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2012-2016: University of Toronto, a student bedroom with a humming gaming PC, the ImageNet competition leaderboard, AI research labs, a small San Francisco nonprofit office.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: A cosy bedroom with posters; Alex at a desk with a humming PC, fans spinning, night outside.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: A cosy bedroom with posters; the student at a desk with a humming PC, fans spinning, night outside.
 
 CHARACTERS IN FRAME:
-- ALEX KRIZHEVSKY (university student, 2012, simplified caricature): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
+- THE STUDENT (original character, 2012 university student): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
 
 ON-SCREEN TEXT: none.
 
@@ -2615,10 +2615,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2012-2016: University of Toronto, a student bedroom with a humming gaming PC, the ImageNet competition leaderboard, AI research labs, a small San Francisco nonprofit office.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: A cosy bedroom with posters; Alex at a desk with a humming PC, fans spinning, night outside.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: A cosy bedroom with posters; the student at a desk with a humming PC, fans spinning, night outside.
 
 CHARACTERS IN FRAME:
-- ALEX KRIZHEVSKY (university student, 2012, simplified caricature): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
+- THE STUDENT (original character, 2012 university student): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
 
 ON-SCREEN TEXT: none.
 
@@ -2645,7 +2645,7 @@ HISTORICAL CONTEXT: 2012-2016: University of Toronto, a student bedroom with a h
 SCENE: Hand-lettered 'AlexNet' glowing on the monitor.
 
 CHARACTERS IN FRAME:
-- ALEX KRIZHEVSKY (university student, 2012, simplified caricature): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
+- THE STUDENT (original character, 2012 university student): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
 
 ON-SCREEN TEXT: "AlexNet" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -2963,10 +2963,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2012-2016: University of Toronto, a student bedroom with a humming gaming PC, the ImageNet competition leaderboard, AI research labs, a small San Francisco nonprofit office.
 
-SCENE: Jensen guarding the CUDA toolbox. Wide/establishing framing.
+SCENE: The founder guarding the CUDA toolbox. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -2990,10 +2990,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2012-2016: University of Toronto, a student bedroom with a humming gaming PC, the ImageNet competition leaderboard, AI research labs, a small San Francisco nonprofit office.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Jensen guarding the CUDA toolbox.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The founder guarding the CUDA toolbox.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -3176,10 +3176,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2012-2016: University of Toronto, a student bedroom with a humming gaming PC, the ImageNet competition leaderboard, AI research labs, a small San Francisco nonprofit office.
 
-SCENE: Jensen's eyes sparkling.
+SCENE: The founder's eyes sparkling.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -3203,10 +3203,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2012-2016: University of Toronto, a student bedroom with a humming gaming PC, the ImageNet competition leaderboard, AI research labs, a small San Francisco nonprofit office.
 
-SCENE: Jensen steering a giant ship toward a glowing 'AI' island.
+SCENE: The founder steering a giant ship toward a glowing 'AI' island.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -3230,10 +3230,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2012-2016: University of Toronto, a student bedroom with a humming gaming PC, the ImageNet competition leaderboard, AI research labs, a small San Francisco nonprofit office.
 
-SCENE: Jensen on stage with a slide reading 'AI'; audience confused. Wide/establishing framing.
+SCENE: The founder on stage with a slide reading 'AI'; audience confused. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: none.
@@ -3258,10 +3258,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2012-2016: University of Toronto, a student bedroom with a humming gaming PC, the ImageNet competition leaderboard, AI research labs, a small San Francisco nonprofit office.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Jensen on stage with a slide reading 'AI'; audience confused.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The founder on stage with a slide reading 'AI'; audience confused.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: none.
@@ -3286,10 +3286,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2012-2016: University of Toronto, a student bedroom with a humming gaming PC, the ImageNet competition leaderboard, AI research labs, a small San Francisco nonprofit office.
 
-SCENE: Jensen carrying a sleek gold-and-black server box into a small office. Wide/establishing framing.
+SCENE: The founder carrying a sleek gold-and-black server box into a small office. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: "DGX-1 · 2016" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -3313,10 +3313,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2012-2016: University of Toronto, a student bedroom with a humming gaming PC, the ImageNet competition leaderboard, AI research labs, a small San Francisco nonprofit office.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 4), small change in pose/expression to show the moment progressing: Jensen carrying a sleek gold-and-black server box into a small office.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 4), small change in pose/expression to show the moment progressing: The founder carrying a sleek gold-and-black server box into a small office.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: "DGX-1 · 2016" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -3340,10 +3340,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2012-2016: University of Toronto, a student bedroom with a humming gaming PC, the ImageNet competition leaderboard, AI research labs, a small San Francisco nonprofit office.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 4), small change in pose/expression to show the moment progressing: Jensen carrying a sleek gold-and-black server box into a small office.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 4), small change in pose/expression to show the moment progressing: The founder carrying a sleek gold-and-black server box into a small office.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: "DGX-1 · 2016" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -3367,10 +3367,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2012-2016: University of Toronto, a student bedroom with a humming gaming PC, the ImageNet competition leaderboard, AI research labs, a small San Francisco nonprofit office.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 4 of 4), small change in pose/expression to show the moment progressing: Jensen carrying a sleek gold-and-black server box into a small office.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 4 of 4), small change in pose/expression to show the moment progressing: The founder carrying a sleek gold-and-black server box into a small office.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: "DGX-1 · 2016" in the handwritten marker font, clearly legible, spelled exactly.
 

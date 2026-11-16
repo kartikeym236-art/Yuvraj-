@@ -2,7 +2,7 @@
 
 Each line of the voiceover is one shot of about 1–3 seconds. Each prompt box is **self-contained**: paste it on its own into any image model (Midjourney, GPT-Image, Flux, Ideogram, etc.) and it carries the full style, characters and scene.
 
-**Style target:** the reference frames, i.e. a flat hand-drawn 2D explainer cartoon with big round heads, stick limbs, thick wobbly black outlines, one cel-shade tone, a muted palette and handwritten captions.
+**Style target:** the reference frames, i.e. A flat hand-drawn 2D explainer cartoon with big round heads, stick limbs, thick wobbly black outlines, one cel-shade tone, a muted palette and handwritten captions.
 
 **Tips:** use 16:9 (e.g. `--ar 16:9`). To keep characters consistent, generate a character sheet first and pass it as a reference image together with these prompts. Durations assume about 2.7 spoken words per second.
 
@@ -12,21 +12,21 @@ Each line of the voiceover is one shot of about 1–3 seconds. Each prompt box i
 
 ## Character sheet (reference)
 
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
-- ELEANOR DARE (John White's daughter, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
-- ANANIAS DARE (Eleanor's husband, about 30): round beige head, short brown hair and short brown beard, brown leather jerkin over a white shirt, dark breeches, simple brown felt hat.
-- VIRGINIA DARE (newborn baby): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
-- MANTEO (Croatoan man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace. In England and later scenes he may wear a plain English doublet over his deerskin.
-- WANCHESE (Roanoke man, about 25): round head with warm medium-brown skin and one darker cel-shade crescent, black hair shaved on the sides with a crest on top and a single feather, wary stern expression; deerskin mantle over one shoulder, copper bead necklace.
-- WINGINA (Secotan chief, about 40): round head with warm medium-brown skin, black crest hairstyle with several upright feathers, a large flat copper pendant on his chest, painted deerskin mantle, dignified commanding expression.
-- SIR WALTER RALEIGH (simplified caricature): round beige head, dark hair, dark pointed beard and upturned mustache, single pearl earring, silver-grey slashed doublet with a white ruff, black hat with a white feather.
-- QUEEN ELIZABETH I (simplified caricature): round very pale head, tightly curled red-orange hair, small jewelled crown, huge fan-shaped white lace ruff, jewelled cream-and-gold gown covered in pearls.
-- RALPH LANE (soldier commander): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
-- SIR FRANCIS DRAKE (simplified caricature): round beige head, reddish-brown hair and short reddish beard, black doublet with gold buttons, heavy gold chain, captain's black hat.
-- SIMON FERNANDES (ship's pilot): round tanned-beige head, dark curly hair and stubbly black beard, small gold hoop earring, salt-stained navy sea coat, smug narrow eyes.
-- KING PHILIP II OF SPAIN (simplified caricature): round beige head, short grey-blond beard, prominent jaw, all-black clothing with a small white ruff, gold chain, stern face.
-- POWHATAN (paramount chief, elderly): round head with warm medium-brown skin, grey-streaked black hair, a large deerskin mantle decorated with white shell patterns, strings of pearls, stern powerful expression.
-- JOHN LAWSON (English explorer, 1701): round beige head, long curly brown periwig, black tricorn hat, long dark-green coat, notebook and quill.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR'S DAUGHTER (original character, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
+- HER HUSBAND (original character, about 30): round beige head, short brown hair and short brown beard, brown leather jerkin over a white shirt, dark breeches, simple brown felt hat.
+- THE BABY GIRL (newborn): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
+- THE CROATOAN GUIDE (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace; in England and later scenes he may wear a plain English doublet over his deerskin.
+- THE ROANOKE WARRIOR (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker cel-shade crescent, black hair shaved on the sides with a crest on top and a single feather, wary stern expression; deerskin mantle over one shoulder, copper bead necklace.
+- THE SECOTAN CHIEF (original character, about 40): round head with warm medium-brown skin, black crest hairstyle with several upright feathers, a large flat copper pendant on his chest, painted deerskin mantle, dignified commanding expression.
+- THE COURTIER-EXPLORER (original character, dashing Elizabethan nobleman): round beige head, dark hair, dark pointed beard and upturned mustache, single pearl earring, silver-grey slashed doublet with a white ruff, black hat with a white feather.
+- THE QUEEN (original character, Elizabethan English monarch): round very pale head, tightly curled red-orange hair, small jewelled crown, huge fan-shaped white lace ruff, jewelled cream-and-gold gown covered in pearls.
+- THE SOLDIER-COMMANDER (original character): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
+- THE FAMOUS SEA CAPTAIN (original character, Elizabethan privateer): round beige head, reddish-brown hair and short reddish beard, black doublet with gold buttons, heavy gold chain, captain's black hat.
+- THE SHIP'S PILOT (original character): round tanned-beige head, dark curly hair and stubbly black beard, small gold hoop earring, salt-stained navy sea coat, smug narrow eyes.
+- THE SPANISH KING (original character, 16th-century monarch): round beige head, short grey-blond beard, prominent jaw, all-black clothing with a small white ruff, gold chain, stern face.
+- THE PARAMOUNT CHIEF (original character, elderly Algonquian leader): round head with warm medium-brown skin, grey-streaked black hair, a large deerskin mantle decorated with white shell patterns, strings of pearls, stern powerful expression.
+- THE EXPLORER (original character, English traveller in 1701): round beige head, long curly brown periwig, black tricorn hat, long dark-green coat, notebook and quill.
 
 
 ---
@@ -170,7 +170,7 @@ SCENE: Colonists walking along a beach toward Croatoan island.
 
 CHARACTERS IN FRAME:
 - ENGLISH COLONISTS: generic bean-people in plain Elizabethan clothes: men in brown jerkins, breeches and felt hats; women in coifs, bodices and long skirts; children in small versions of the same.
-- MANTEO (Croatoan man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace. In England and later scenes he may wear a plain English doublet over his deerskin.
+- THE CROATOAN GUIDE (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace; in England and later scenes he may wear a plain English doublet over his deerskin.
 
 ON-SCREEN TEXT: "Croatoan" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -218,10 +218,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Croatoan / Hatteras Island: long sandy barrier island with dunes and maritime forest, a Croatoan village of bark-covered longhouses and cornfields; plus 1701 explorer visits and present-day archaeological digs with trowels, sieves and string grids.
 
-SCENE: Croatoan village with longhouses, Manteo welcoming people. Wide/establishing framing.
+SCENE: Croatoan village with longhouses, the Croatoan guide welcoming people. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- MANTEO (Croatoan man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace. In England and later scenes he may wear a plain English doublet over his deerskin.
+- THE CROATOAN GUIDE (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace; in England and later scenes he may wear a plain English doublet over his deerskin.
 - CAROLINA ALGONQUIAN VILLAGERS: generic bean-people with warm medium-brown skin and one darker cel-shade crescent, black hair (men with shaved sides and crests, women with long hair or bangs), deerskin aprons and mantles, shell and copper necklaces; respectful, dignified depiction.
 
 ON-SCREEN TEXT: none.
@@ -246,10 +246,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Croatoan / Hatteras Island: long sandy barrier island with dunes and maritime forest, a Croatoan village of bark-covered longhouses and cornfields; plus 1701 explorer visits and present-day archaeological digs with trowels, sieves and string grids.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Croatoan village with longhouses, Manteo welcoming people.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Croatoan village with longhouses, the Croatoan guide welcoming people.
 
 CHARACTERS IN FRAME:
-- MANTEO (Croatoan man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace. In England and later scenes he may wear a plain English doublet over his deerskin.
+- THE CROATOAN GUIDE (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace; in England and later scenes he may wear a plain English doublet over his deerskin.
 - CAROLINA ALGONQUIAN VILLAGERS: generic bean-people with warm medium-brown skin and one darker cel-shade crescent, black hair (men with shaved sides and crests, women with long hair or bangs), deerskin aprons and mantles, shell and copper necklaces; respectful, dignified depiction.
 
 ON-SCREEN TEXT: none.
@@ -516,10 +516,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Croatoan / Hatteras Island: long sandy barrier island with dunes and maritime forest, a Croatoan village of bark-covered longhouses and cornfields; plus 1701 explorer visits and present-day archaeological digs with trowels, sieves and string grids.
 
-SCENE: John Lawson arriving at a Hatteras village. Wide/establishing framing.
+SCENE: The explorer arriving at a Hatteras village. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JOHN LAWSON (English explorer, 1701): round beige head, long curly brown periwig, black tricorn hat, long dark-green coat, notebook and quill.
+- THE EXPLORER (original character, English traveller in 1701): round beige head, long curly brown periwig, black tricorn hat, long dark-green coat, notebook and quill.
 - CAROLINA ALGONQUIAN VILLAGERS: generic bean-people with warm medium-brown skin and one darker cel-shade crescent, black hair (men with shaved sides and crests, women with long hair or bangs), deerskin aprons and mantles, shell and copper necklaces; respectful, dignified depiction.
 
 ON-SCREEN TEXT: "1701" in the handwritten marker font, clearly legible, spelled exactly.
@@ -544,10 +544,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Croatoan / Hatteras Island: long sandy barrier island with dunes and maritime forest, a Croatoan village of bark-covered longhouses and cornfields; plus 1701 explorer visits and present-day archaeological digs with trowels, sieves and string grids.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: John Lawson arriving at a Hatteras village.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: The explorer arriving at a Hatteras village.
 
 CHARACTERS IN FRAME:
-- JOHN LAWSON (English explorer, 1701): round beige head, long curly brown periwig, black tricorn hat, long dark-green coat, notebook and quill.
+- THE EXPLORER (original character, English traveller in 1701): round beige head, long curly brown periwig, black tricorn hat, long dark-green coat, notebook and quill.
 - CAROLINA ALGONQUIAN VILLAGERS: generic bean-people with warm medium-brown skin and one darker cel-shade crescent, black hair (men with shaved sides and crests, women with long hair or bangs), deerskin aprons and mantles, shell and copper necklaces; respectful, dignified depiction.
 
 ON-SCREEN TEXT: "1701" in the handwritten marker font, clearly legible, spelled exactly.
@@ -572,10 +572,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Croatoan / Hatteras Island: long sandy barrier island with dunes and maritime forest, a Croatoan village of bark-covered longhouses and cornfields; plus 1701 explorer visits and present-day archaeological digs with trowels, sieves and string grids.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: John Lawson arriving at a Hatteras village.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: The explorer arriving at a Hatteras village.
 
 CHARACTERS IN FRAME:
-- JOHN LAWSON (English explorer, 1701): round beige head, long curly brown periwig, black tricorn hat, long dark-green coat, notebook and quill.
+- THE EXPLORER (original character, English traveller in 1701): round beige head, long curly brown periwig, black tricorn hat, long dark-green coat, notebook and quill.
 - CAROLINA ALGONQUIAN VILLAGERS: generic bean-people with warm medium-brown skin and one darker cel-shade crescent, black hair (men with shaved sides and crests, women with long hair or bangs), deerskin aprons and mantles, shell and copper necklaces; respectful, dignified depiction.
 
 ON-SCREEN TEXT: "1701" in the handwritten marker font, clearly legible, spelled exactly.
@@ -600,10 +600,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Croatoan / Hatteras Island: long sandy barrier island with dunes and maritime forest, a Croatoan village of bark-covered longhouses and cornfields; plus 1701 explorer visits and present-day archaeological digs with trowels, sieves and string grids.
 
-SCENE: Lawson writing in his notebook while a Hatteras elder speaks. Wide/establishing framing.
+SCENE: The explorer writing in his notebook while a Hatteras elder speaks. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JOHN LAWSON (English explorer, 1701): round beige head, long curly brown periwig, black tricorn hat, long dark-green coat, notebook and quill.
+- THE EXPLORER (original character, English traveller in 1701): round beige head, long curly brown periwig, black tricorn hat, long dark-green coat, notebook and quill.
 - CAROLINA ALGONQUIAN VILLAGERS: generic bean-people with warm medium-brown skin and one darker cel-shade crescent, black hair (men with shaved sides and crests, women with long hair or bangs), deerskin aprons and mantles, shell and copper necklaces; respectful, dignified depiction.
 
 ON-SCREEN TEXT: ""talk in a book"" in the handwritten marker font, clearly legible, spelled exactly.
@@ -628,10 +628,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Croatoan / Hatteras Island: long sandy barrier island with dunes and maritime forest, a Croatoan village of bark-covered longhouses and cornfields; plus 1701 explorer visits and present-day archaeological digs with trowels, sieves and string grids.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 4), small change in pose/expression to show the moment progressing: Lawson writing in his notebook while a Hatteras elder speaks.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 4), small change in pose/expression to show the moment progressing: The explorer writing in his notebook while a Hatteras elder speaks.
 
 CHARACTERS IN FRAME:
-- JOHN LAWSON (English explorer, 1701): round beige head, long curly brown periwig, black tricorn hat, long dark-green coat, notebook and quill.
+- THE EXPLORER (original character, English traveller in 1701): round beige head, long curly brown periwig, black tricorn hat, long dark-green coat, notebook and quill.
 - CAROLINA ALGONQUIAN VILLAGERS: generic bean-people with warm medium-brown skin and one darker cel-shade crescent, black hair (men with shaved sides and crests, women with long hair or bangs), deerskin aprons and mantles, shell and copper necklaces; respectful, dignified depiction.
 
 ON-SCREEN TEXT: ""talk in a book"" in the handwritten marker font, clearly legible, spelled exactly.
@@ -656,10 +656,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Croatoan / Hatteras Island: long sandy barrier island with dunes and maritime forest, a Croatoan village of bark-covered longhouses and cornfields; plus 1701 explorer visits and present-day archaeological digs with trowels, sieves and string grids.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 4), small change in pose/expression to show the moment progressing: Lawson writing in his notebook while a Hatteras elder speaks.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 4), small change in pose/expression to show the moment progressing: The explorer writing in his notebook while a Hatteras elder speaks.
 
 CHARACTERS IN FRAME:
-- JOHN LAWSON (English explorer, 1701): round beige head, long curly brown periwig, black tricorn hat, long dark-green coat, notebook and quill.
+- THE EXPLORER (original character, English traveller in 1701): round beige head, long curly brown periwig, black tricorn hat, long dark-green coat, notebook and quill.
 - CAROLINA ALGONQUIAN VILLAGERS: generic bean-people with warm medium-brown skin and one darker cel-shade crescent, black hair (men with shaved sides and crests, women with long hair or bangs), deerskin aprons and mantles, shell and copper necklaces; respectful, dignified depiction.
 
 ON-SCREEN TEXT: ""talk in a book"" in the handwritten marker font, clearly legible, spelled exactly.
@@ -684,10 +684,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Croatoan / Hatteras Island: long sandy barrier island with dunes and maritime forest, a Croatoan village of bark-covered longhouses and cornfields; plus 1701 explorer visits and present-day archaeological digs with trowels, sieves and string grids.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 4 of 4), small change in pose/expression to show the moment progressing: Lawson writing in his notebook while a Hatteras elder speaks.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 4 of 4), small change in pose/expression to show the moment progressing: The explorer writing in his notebook while a Hatteras elder speaks.
 
 CHARACTERS IN FRAME:
-- JOHN LAWSON (English explorer, 1701): round beige head, long curly brown periwig, black tricorn hat, long dark-green coat, notebook and quill.
+- THE EXPLORER (original character, English traveller in 1701): round beige head, long curly brown periwig, black tricorn hat, long dark-green coat, notebook and quill.
 - CAROLINA ALGONQUIAN VILLAGERS: generic bean-people with warm medium-brown skin and one darker cel-shade crescent, black hair (men with shaved sides and crests, women with long hair or bangs), deerskin aprons and mantles, shell and copper necklaces; respectful, dignified depiction.
 
 ON-SCREEN TEXT: ""talk in a book"" in the handwritten marker font, clearly legible, spelled exactly.
@@ -766,10 +766,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Croatoan / Hatteras Island: long sandy barrier island with dunes and maritime forest, a Croatoan village of bark-covered longhouses and cornfields; plus 1701 explorer visits and present-day archaeological digs with trowels, sieves and string grids.
 
-SCENE: Lawson raising an eyebrow. Wide/establishing framing.
+SCENE: The explorer raising an eyebrow. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JOHN LAWSON (English explorer, 1701): round beige head, long curly brown periwig, black tricorn hat, long dark-green coat, notebook and quill.
+- THE EXPLORER (original character, English traveller in 1701): round beige head, long curly brown periwig, black tricorn hat, long dark-green coat, notebook and quill.
 
 ON-SCREEN TEXT: none.
 
@@ -793,10 +793,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: Croatoan / Hatteras Island: long sandy barrier island with dunes and maritime forest, a Croatoan village of bark-covered longhouses and cornfields; plus 1701 explorer visits and present-day archaeological digs with trowels, sieves and string grids.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Lawson raising an eyebrow.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The explorer raising an eyebrow.
 
 CHARACTERS IN FRAME:
-- JOHN LAWSON (English explorer, 1701): round beige head, long curly brown periwig, black tricorn hat, long dark-green coat, notebook and quill.
+- THE EXPLORER (original character, English traveller in 1701): round beige head, long curly brown periwig, black tricorn hat, long dark-green coat, notebook and quill.
 
 ON-SCREEN TEXT: none.
 
@@ -1313,7 +1313,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Chapter title card. Flat antique gold background filling the frame, a simple hand-drawn old map with a star illustrated small and centred under the title, generous empty space, gentle subtle vignette in a slightly darker flat shade at the corners.
 
@@ -1337,7 +1337,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: A spotlight on a rolled map.
 
@@ -1361,7 +1361,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: An old map hanging in a display case. Wide/establishing framing.
 
@@ -1385,7 +1385,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: An old map hanging in a display case.
 
@@ -1409,12 +1409,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
-SCENE: John White drawing a map. Wide/establishing framing.
+SCENE: The governor drawing a map. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -1436,12 +1436,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: John White drawing a map.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The governor drawing a map.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -1463,7 +1463,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: The British Museum's columned facade. Wide/establishing framing.
 
@@ -1487,7 +1487,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The British Museum's columned facade.
 
@@ -1511,7 +1511,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Close-up of the map with two small paper patches. Wide/establishing framing.
 
@@ -1535,7 +1535,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Close-up of the map with two small paper patches.
 
@@ -1559,7 +1559,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Close-up of the map with two small paper patches.
 
@@ -1583,7 +1583,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: A museum visitor shrugging. Wide/establishing framing.
 
@@ -1607,7 +1607,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A museum visitor shrugging.
 
@@ -1631,7 +1631,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Researchers shining a lightbox under the map. Wide/establishing framing.
 
@@ -1658,7 +1658,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Researchers shining a lightbox under the map.
 
@@ -1685,7 +1685,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Glowing light revealing something beneath. Wide/establishing framing.
 
@@ -1709,7 +1709,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Glowing light revealing something beneath.
 
@@ -1733,7 +1733,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: A small four-pointed star symbol glowing. Wide/establishing framing.
 
@@ -1757,7 +1757,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A small four-pointed star symbol glowing.
 
@@ -1781,7 +1781,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Map showing the star at a river junction. Wide/establishing framing.
 
@@ -1805,7 +1805,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Map showing the star at a river junction.
 
@@ -1829,7 +1829,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Map showing the star at a river junction.
 
@@ -1853,7 +1853,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: A Spanish spy with a spyglass looking at the map confused. Wide/establishing framing.
 
@@ -1877,7 +1877,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A Spanish spy with a spyglass looking at the map confused.
 
@@ -1901,7 +1901,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Archaeologists walking into a field near a river.
 
@@ -1928,7 +1928,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: A sign reading 'SITE X'.
 
@@ -1952,7 +1952,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Pottery shards on a cloth. Wide/establishing framing.
 
@@ -1979,7 +1979,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Pottery shards on a cloth.
 
@@ -2006,7 +2006,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: A map with two arrows. Wide/establishing framing.
 
@@ -2030,7 +2030,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A map with two arrows.
 
@@ -2054,7 +2054,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Colonists on a beach watching the sea. Wide/establishing framing.
 
@@ -2081,7 +2081,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Colonists on a beach watching the sea.
 
@@ -2108,7 +2108,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Colonists on a beach watching the sea.
 
@@ -2135,7 +2135,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Colonists walking inland through a forest. Wide/establishing framing.
 
@@ -2162,7 +2162,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: John White's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
+HISTORICAL CONTEXT: The governor's hand-drawn watercolour map of the Carolina coast, the British Museum in London, a modern conservation lab with a lightbox, and a present-day dig site on wooded farmland where two rivers meet.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Colonists walking inland through a forest.
 
@@ -2194,7 +2194,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Chapter title card. Flat twilight blue background filling the frame, a simple hand-drawn puzzle with one missing piece illustrated small and centred under the title, generous empty space, gentle subtle vignette in a slightly darker flat shade at the corners.
 
@@ -2218,7 +2218,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Puzzle pieces coming together.
 
@@ -2242,7 +2242,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Colonists left on the beach.
 
@@ -2269,7 +2269,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Calendar pages flying.
 
@@ -2293,7 +2293,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Cracked earth.
 
@@ -2317,7 +2317,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: The CROATOAN post. Wide/establishing framing.
 
@@ -2341,7 +2341,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The CROATOAN post.
 
@@ -2365,7 +2365,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Experts at a table. Wide/establishing framing.
 
@@ -2392,7 +2392,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Experts at a table.
 
@@ -2419,7 +2419,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Colonists blending into Native villages. Wide/establishing framing.
 
@@ -2447,7 +2447,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Colonists blending into Native villages.
 
@@ -2475,7 +2475,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Colonists blending into Native villages.
 
@@ -2503,7 +2503,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: A lone grave marker.
 
@@ -2527,7 +2527,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: A mixed family by a fire.
 
@@ -2555,7 +2555,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Shiver lines.
 
@@ -2579,7 +2579,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Modern North Carolina town. Wide/establishing framing.
 
@@ -2603,7 +2603,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Modern North Carolina town.
 
@@ -2627,7 +2627,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Modern North Carolina town.
 
@@ -2651,7 +2651,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Elders telling stories to children. Wide/establishing framing.
 
@@ -2678,7 +2678,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Elders telling stories to children.
 
@@ -2705,7 +2705,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: A DNA helix on a lab screen. Wide/establishing framing.
 
@@ -2732,7 +2732,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A DNA helix on a lab screen.
 
@@ -2759,7 +2759,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: An open locked chest. Wide/establishing framing.
 
@@ -2783,7 +2783,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: An open locked chest.
 
@@ -2807,12 +2807,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
-SCENE: John White on the hill.
+SCENE: The governor on the hill.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -2834,12 +2834,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
-SCENE: Wide shot of John White alone on the hill. Wide/establishing framing.
+SCENE: Wide shot of the governor alone on the hill. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -2861,12 +2861,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Wide shot of John White alone on the hill.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Wide shot of the governor alone on the hill.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -2888,12 +2888,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Wide shot of John White alone on the hill.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Wide shot of the governor alone on the hill.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -2915,12 +2915,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Over-the-shoulder shot of the post.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -2942,7 +2942,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Close-up of the word.
 
@@ -2966,12 +2966,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
-SCENE: John White reaching out.
+SCENE: The governor reaching out.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -2993,13 +2993,13 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
-SCENE: Eleanor holding Virginia looking out to sea from Croatoan.
+SCENE: The governor's daughter holding the baby girl looking out to sea from Croatoan.
 
 CHARACTERS IN FRAME:
-- ELEANOR DARE (John White's daughter, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
-- VIRGINIA DARE (newborn baby): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
+- THE GOVERNOR'S DAUGHTER (original character, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
+- THE BABY GIRL (newborn): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
 
 ON-SCREEN TEXT: none.
 
@@ -3021,7 +3021,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: The ship sailing away.
 
@@ -3045,7 +3045,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Big question mark over the island. Wide/establishing framing.
 
@@ -3069,7 +3069,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Big question mark over the island.
 
@@ -3093,7 +3093,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Map pointing to Croatoan.
 
@@ -3117,7 +3117,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Map pointing to Site X.
 
@@ -3141,7 +3141,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: A shadowy unexplored forest.
 
@@ -3165,7 +3165,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Speech bubbles floating.
 
@@ -3189,7 +3189,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: A stack of letters.
 
@@ -3213,7 +3213,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: A bell icon ringing. Wide/establishing framing.
 
@@ -3237,7 +3237,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A bell icon ringing.
 
@@ -3261,7 +3261,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and John White alone on the hill in 1590.
+HISTORICAL CONTEXT: Reflective summary: Roanoke Island, Croatoan, inland North Carolina forests, present-day North Carolina towns and laboratories, and the governor alone on the hill in 1590.
 
 SCENE: The CROATOAN post at sunset.
 

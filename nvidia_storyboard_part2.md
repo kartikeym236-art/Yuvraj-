@@ -2,7 +2,7 @@
 
 Each line of the voiceover is one shot of about 1–3 seconds. Each prompt box is **self-contained**: paste it on its own into any image model (Midjourney, GPT-Image, Flux, Ideogram, etc.) and it carries the full style, characters and scene.
 
-**Style target:** the reference frames, i.e. a flat hand-drawn 2D explainer cartoon with big round heads, stick limbs, thick wobbly black outlines, one cel-shade tone, a muted palette and handwritten captions.
+**Style target:** the reference frames, i.e. A flat hand-drawn 2D explainer cartoon with big round heads, stick limbs, thick wobbly black outlines, one cel-shade tone, a muted palette and handwritten captions.
 
 **Tips:** use 16:9 (e.g. `--ar 16:9`). To keep characters consistent, generate a character sheet first and pass it as a reference image together with these prompts. Durations assume about 2.7 spoken words per second.
 
@@ -12,17 +12,17 @@ Each line of the voiceover is one shot of about 1–3 seconds. Each prompt box i
 
 ## Character sheet (reference)
 
-- YOUNG JENSEN HUANG (age about 9, 1970s): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
-- TEENAGE JENSEN HUANG (about 15, 1970s): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
-- CHRIS MALACHOWSKY (Nvidia co-founder, 1990s, simplified caricature): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
-- CURTIS PRIEM (Nvidia co-founder, 1990s, simplified caricature): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful engineer look.
-- DON VALENTINE (venture capitalist, simplified caricature): older, round beige head, slicked white hair, dark grey suit, white shirt, red tie, sceptical eyebrows.
-- IAN BUCK (young researcher, mid-2000s, simplified caricature): round beige head, short messy brown hair, grey hoodie, laptop under arm, eager smile.
-- ALEX KRIZHEVSKY (university student, 2012, simplified caricature): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
-- ILYA SUTSKEVER (researcher, 2012, simplified caricature): round beige head, short dark hair receding at the temples, intense eyes, grey t-shirt.
-- GEOFFREY HINTON (professor, simplified caricature): older, round beige head, white receding hair, kind smile, grey sweater over a collared shirt.
+- THE FOUNDER AS A BOY (original character, about 9, 1970s, East Asian boy): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
+- THE FOUNDER AS A TEENAGER (original character, about 15, 1970s, East Asian teen): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FIRST CO-FOUNDER (original character, 1990s engineer): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
+- THE SECOND CO-FOUNDER (original character, 1990s engineer): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful look.
+- THE VETERAN INVESTOR (original character, older venture capitalist): round beige head, slicked white hair, dark grey suit, white shirt, red tie, sceptical eyebrows.
+- THE YOUNG RESEARCHER (original character, mid-2000s grad student): round beige head, short messy brown hair, grey hoodie, laptop under arm, eager smile.
+- THE STUDENT (original character, 2012 university student): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
+- THE LAB PARTNER (original character, 2012 researcher): round beige head, short dark hair receding at the temples, intense eyes, grey t-shirt.
+- THE PROFESSOR (original character, older computer-science professor): round beige head, white receding hair, kind smile, grey sweater over a collared shirt.
 
 
 ---
@@ -40,7 +40,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: Chapter title card. Flat warning orange background filling the frame, a simple hand-drawn cracked computer chip illustrated small and centred under the title, generous empty space, gentle subtle vignette in a slightly darker flat shade at the corners.
 
@@ -64,7 +64,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: A small 1990s graphics card with a green circuit board on a pedestal under a spotlight.
 
@@ -88,7 +88,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: Close-up of the card with a plain hand-lettered label 'NV1'.
 
@@ -112,7 +112,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: The card wearing a tiny superhero cape.
 
@@ -136,7 +136,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: The cape is too big and the card trips over it.
 
@@ -160,9 +160,9 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
-SCENE: The card juggling three icons: a paintbrush, a music note and a gamepad. Wide/establishing framing.
+SCENE: The card juggling three icons: A paintbrush, a music note and a gamepad. Wide/establishing framing.
 
 ON-SCREEN TEXT: none.
 
@@ -184,9 +184,9 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The card juggling three icons: a paintbrush, a music note and a gamepad.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The card juggling three icons: A paintbrush, a music note and a gamepad.
 
 ON-SCREEN TEXT: none.
 
@@ -208,7 +208,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: A 3D model built from curved squares beside one made of triangles. Wide/establishing framing.
 
@@ -232,7 +232,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A 3D model built from curved squares beside one made of triangles.
 
@@ -256,7 +256,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: A crowd of engineers all carrying triangle signs, walking away from the curved-square sign. Wide/establishing framing.
 
@@ -283,7 +283,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A crowd of engineers all carrying triangle signs, walking away from the curved-square sign.
 
@@ -310,7 +310,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: A 1990s beige PC showing a desktop with the plain text 'DirectX' on screen. Wide/establishing framing.
 
@@ -334,7 +334,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A 1990s beige PC showing a desktop with the plain text 'DirectX' on screen.
 
@@ -358,7 +358,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: Triangles stacking into a pyramid.
 
@@ -382,7 +382,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: The NV1 card standing alone on an empty floating island. Wide/establishing framing.
 
@@ -406,7 +406,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The NV1 card standing alone on an empty floating island.
 
@@ -430,7 +430,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: A sales chart flatlining.
 
@@ -454,7 +454,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: Boxes stacked in a shop's return bin.
 
@@ -481,7 +481,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: A money jar draining.
 
@@ -505,7 +505,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: A single spotlight beam.
 
@@ -529,12 +529,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
-SCENE: A 1990s Japanese corporate office with a sign reading 'SEGA' in plain text, executives shaking hands with Jensen. Wide/establishing framing.
+SCENE: A 1990s Japanese corporate office with a sign reading 'SEGA' in plain text, executives shaking hands with the founder. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: "Sega" in the handwritten marker font, clearly legible, spelled exactly.
@@ -557,12 +557,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A 1990s Japanese corporate office with a sign reading 'SEGA' in plain text, executives shaking hands with Jensen.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A 1990s Japanese corporate office with a sign reading 'SEGA' in plain text, executives shaking hands with the founder.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: "Sega" in the handwritten marker font, clearly legible, spelled exactly.
@@ -585,12 +585,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: A big handshake with sparkles.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 
 ON-SCREEN TEXT: none.
 
@@ -612,12 +612,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
-SCENE: Jensen at his desk with a pained expression.
+SCENE: The founder at his desk with a pained expression.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 
 ON-SCREEN TEXT: none.
 
@@ -639,7 +639,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: A road sign pointing the wrong way.
 
@@ -663,7 +663,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: A chip falling off a cliff. Wide/establishing framing.
 
@@ -687,7 +687,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A chip falling off a cliff.
 
@@ -711,7 +711,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: A rope tying the falling chip to the Nvidia office.
 
@@ -735,12 +735,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
-SCENE: Jensen standing up, determined.
+SCENE: The founder standing up, determined.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 
 ON-SCREEN TEXT: none.
 
@@ -762,12 +762,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
-SCENE: Jensen in the Sega boardroom, executives' eyebrows raised. Wide/establishing framing.
+SCENE: The founder in the Sega boardroom, executives' eyebrows raised. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: "We're doing this wrong." in the handwritten marker font, clearly legible, spelled exactly.
@@ -790,12 +790,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Jensen in the Sega boardroom, executives' eyebrows raised.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The founder in the Sega boardroom, executives' eyebrows raised.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: "We're doing this wrong." in the handwritten marker font, clearly legible, spelled exactly.
@@ -818,12 +818,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
-SCENE: Jensen gesturing toward the door.
+SCENE: The founder gesturing toward the door.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: none.
@@ -846,12 +846,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
-SCENE: Jensen with his hands clasped pleading, sweat drop. Wide/establishing framing.
+SCENE: The founder with his hands clasped pleading, sweat drop. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: "Please pay us anyway..." in the handwritten marker font, clearly legible, spelled exactly.
@@ -874,12 +874,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Jensen with his hands clasped pleading, sweat drop.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The founder with his hands clasped pleading, sweat drop.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: "Please pay us anyway..." in the handwritten marker font, clearly legible, spelled exactly.
@@ -902,7 +902,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: Sega executives nodding.
 
@@ -929,7 +929,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: A cheque for $5,000,000.
 
@@ -953,7 +953,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: A heart monitor beeping again.
 
@@ -977,7 +977,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: Money melting like ice cream.
 
@@ -1001,7 +1001,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: Half the desks in the office empty, employees leaving with boxes. Wide/establishing framing.
 
@@ -1028,7 +1028,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Half the desks in the office empty, employees leaving with boxes.
 
@@ -1055,7 +1055,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: A calendar with 30 days and a countdown. Wide/establishing framing.
 
@@ -1079,7 +1079,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A calendar with 30 days and a countdown.
 
@@ -1103,7 +1103,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: A sticky note on a monitor.
 
@@ -1127,12 +1127,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
-SCENE: Jensen speaking at a team meeting. Wide/establishing framing.
+SCENE: The founder speaking at a team meeting. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 - ENGINEERS: generic bean-people of varied skin tones in casual tech clothes (polo shirts, hoodies, lanyards), some with glasses.
 
 ON-SCREEN TEXT: ""Our company is 30 days from going out of business."" in the handwritten marker font, clearly legible, spelled exactly.
@@ -1155,12 +1155,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Jensen speaking at a team meeting.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: The founder speaking at a team meeting.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 - ENGINEERS: generic bean-people of varied skin tones in casual tech clothes (polo shirts, hoodies, lanyards), some with glasses.
 
 ON-SCREEN TEXT: ""Our company is 30 days from going out of business."" in the handwritten marker font, clearly legible, spelled exactly.
@@ -1183,12 +1183,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Jensen speaking at a team meeting.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: The founder speaking at a team meeting.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 - ENGINEERS: generic bean-people of varied skin tones in casual tech clothes (polo shirts, hoodies, lanyards), some with glasses.
 
 ON-SCREEN TEXT: ""Our company is 30 days from going out of business."" in the handwritten marker font, clearly legible, spelled exactly.
@@ -1211,7 +1211,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1995-1996: a struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
+HISTORICAL CONTEXT: 1995-1996: A struggling small startup office with cubicles and beige PCs, 1990s graphics cards, a Japanese game-company boardroom, layoffs and empty desks.
 
 SCENE: Engineers working hard with focused faces.
 
@@ -1243,7 +1243,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: Chapter title card. Flat electric blue background filling the frame, a simple hand-drawn big boxy computer cabinet illustrated small and centred under the title, generous empty space, gentle subtle vignette in a slightly darker flat shade at the corners.
 
@@ -1267,13 +1267,13 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: Engineers huddled around a whiteboard with new diagrams. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
 - ENGINEERS: generic bean-people of varied skin tones in casual tech clothes (polo shirts, hoodies, lanyards), some with glasses.
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 
 ON-SCREEN TEXT: none.
 
@@ -1295,13 +1295,13 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Engineers huddled around a whiteboard with new diagrams.
 
 CHARACTERS IN FRAME:
 - ENGINEERS: generic bean-people of varied skin tones in casual tech clothes (polo shirts, hoodies, lanyards), some with glasses.
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 
 ON-SCREEN TEXT: none.
 
@@ -1323,7 +1323,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: A neat triangle mesh model.
 
@@ -1347,7 +1347,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: Chip connected to a 'DirectX' label.
 
@@ -1371,7 +1371,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: A shiny new graphics card labelled 'RIVA 128'.
 
@@ -1395,7 +1395,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: Big red warning sign.
 
@@ -1419,7 +1419,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: A loop diagram: build → test → fix → build. Wide/establishing framing.
 
@@ -1443,7 +1443,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A loop diagram: build → test → fix → build.
 
@@ -1467,7 +1467,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: Calendar pages flying.
 
@@ -1491,7 +1491,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: Calendar torn.
 
@@ -1515,7 +1515,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: A small hourglass running out.
 
@@ -1539,12 +1539,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
-SCENE: Jensen pushing a stack of chips onto a table.
+SCENE: The founder pushing a stack of chips onto a table.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 
 ON-SCREEN TEXT: none.
 
@@ -1566,12 +1566,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: A huge refrigerator-sized machine with blinking lights rolled into the office. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 - ENGINEERS: generic bean-people of varied skin tones in casual tech clothes (polo shirts, hoodies, lanyards), some with glasses.
 
 ON-SCREEN TEXT: "Emulator" in the handwritten marker font, clearly legible, spelled exactly.
@@ -1594,12 +1594,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A huge refrigerator-sized machine with blinking lights rolled into the office.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 - ENGINEERS: generic bean-people of varied skin tones in casual tech clothes (polo shirts, hoodies, lanyards), some with glasses.
 
 ON-SCREEN TEXT: "Emulator" in the handwritten marker font, clearly legible, spelled exactly.
@@ -1622,7 +1622,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: A ghostly glowing chip appearing on the emulator's screen. Wide/establishing framing.
 
@@ -1649,7 +1649,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: A ghostly glowing chip appearing on the emulator's screen.
 
@@ -1676,7 +1676,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: A ghostly glowing chip appearing on the emulator's screen.
 
@@ -1703,7 +1703,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: Engineers ticking boxes on screens.
 
@@ -1730,7 +1730,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: A factory line producing chips. Wide/establishing framing.
 
@@ -1754,7 +1754,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A factory line producing chips.
 
@@ -1778,7 +1778,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: A crossed-out test tube.
 
@@ -1802,13 +1802,13 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: Office lights flickering, everyone holding breath. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
 - ENGINEERS: generic bean-people of varied skin tones in casual tech clothes (polo shirts, hoodies, lanyards), some with glasses.
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 
 ON-SCREEN TEXT: none.
 
@@ -1830,13 +1830,13 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Office lights flickering, everyone holding breath.
 
 CHARACTERS IN FRAME:
 - ENGINEERS: generic bean-people of varied skin tones in casual tech clothes (polo shirts, hoodies, lanyards), some with glasses.
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 
 ON-SCREEN TEXT: none.
 
@@ -1858,13 +1858,13 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: Engineers cheering, confetti.
 
 CHARACTERS IN FRAME:
 - ENGINEERS: generic bean-people of varied skin tones in casual tech clothes (polo shirts, hoodies, lanyards), some with glasses.
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 
 ON-SCREEN TEXT: "IT WORKED!" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -1886,7 +1886,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: RIVA 128 boxes on store shelves, gamers buying them. Wide/establishing framing.
 
@@ -1913,7 +1913,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: RIVA 128 boxes on store shelves, gamers buying them.
 
@@ -1940,7 +1940,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: A counter clicking to 1,000,000.
 
@@ -1964,7 +1964,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: A heart monitor showing a strong beat.
 
@@ -1988,7 +1988,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: A stock exchange ticker showing 'NVDA $12'. Wide/establishing framing.
 
@@ -2015,7 +2015,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: A stock exchange ticker showing 'NVDA $12'.
 
@@ -2042,7 +2042,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: A stock exchange ticker showing 'NVDA $12'.
 
@@ -2069,7 +2069,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: A wrapped mystery box. Wide/establishing framing.
 
@@ -2093,7 +2093,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: 1970s to 2025 as the scene and context state; accurate period details (1990s beige computers and CRT monitors, 2000s gaming PCs, modern data centres), all simplified into the flat cartoon style. No real company logos: brand names appear only as plain hand-lettered text.
 
-HISTORICAL CONTEXT: 1996-1999: a cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
+HISTORICAL CONTEXT: 1996-1999: A cramped startup lab with a refrigerator-sized emulator machine full of blinking lights, chip factories, computer stores, the 1999 stock market listing.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A wrapped mystery box.
 
@@ -2514,10 +2514,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1999-2006: late-90s and early-2000s gaming PCs and CRT monitors, LAN-party gamers, early game consoles, rival graphics-card companies, glossy product launches.
 
-SCENE: A big boxy black game console with a green glow, Jensen shaking hands. Wide/establishing framing.
+SCENE: A big boxy black game console with a green glow, the founder shaking hands. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: "2000" in the handwritten marker font, clearly legible, spelled exactly.
@@ -2542,10 +2542,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1999-2006: late-90s and early-2000s gaming PCs and CRT monitors, LAN-party gamers, early game consoles, rival graphics-card companies, glossy product launches.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A big boxy black game console with a green glow, Jensen shaking hands.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A big boxy black game console with a green glow, the founder shaking hands.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: "2000" in the handwritten marker font, clearly legible, spelled exactly.
@@ -2732,11 +2732,11 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1999-2006: late-90s and early-2000s gaming PCs and CRT monitors, LAN-party gamers, early game consoles, rival graphics-card companies, glossy product launches.
 
-SCENE: Split frame: teen Jensen washing dishes / Jensen at a corporate desk. Wide/establishing framing.
+SCENE: Split frame: teen the founder washing dishes / the founder at a corporate desk. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- TEENAGE JENSEN HUANG (about 15, 1970s): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER AS A TEENAGER (original character, about 15, 1970s, East Asian teen): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 
 ON-SCREEN TEXT: none.
 
@@ -2760,11 +2760,11 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1999-2006: late-90s and early-2000s gaming PCs and CRT monitors, LAN-party gamers, early game consoles, rival graphics-card companies, glossy product launches.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Split frame: teen Jensen washing dishes / Jensen at a corporate desk.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Split frame: teen the founder washing dishes / the founder at a corporate desk.
 
 CHARACTERS IN FRAME:
-- TEENAGE JENSEN HUANG (about 15, 1970s): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER AS A TEENAGER (original character, about 15, 1970s, East Asian teen): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 
 ON-SCREEN TEXT: none.
 
@@ -2788,10 +2788,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1999-2006: late-90s and early-2000s gaming PCs and CRT monitors, LAN-party gamers, early game consoles, rival graphics-card companies, glossy product launches.
 
-SCENE: Jensen pointing to his shoulder with a speech bubble showing '$100'. Wide/establishing framing.
+SCENE: The founder pointing to his shoulder with a speech bubble showing '$100'. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 
 ON-SCREEN TEXT: "$100 → tattoo" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -2815,10 +2815,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1999-2006: late-90s and early-2000s gaming PCs and CRT monitors, LAN-party gamers, early game consoles, rival graphics-card companies, glossy product launches.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Jensen pointing to his shoulder with a speech bubble showing '$100'.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: The founder pointing to his shoulder with a speech bubble showing '$100'.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 
 ON-SCREEN TEXT: "$100 → tattoo" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -2842,10 +2842,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1999-2006: late-90s and early-2000s gaming PCs and CRT monitors, LAN-party gamers, early game consoles, rival graphics-card companies, glossy product launches.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Jensen pointing to his shoulder with a speech bubble showing '$100'.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: The founder pointing to his shoulder with a speech bubble showing '$100'.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 
 ON-SCREEN TEXT: "$100 → tattoo" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -2869,10 +2869,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1999-2006: late-90s and early-2000s gaming PCs and CRT monitors, LAN-party gamers, early game consoles, rival graphics-card companies, glossy product launches.
 
-SCENE: Jensen showing a small green eye-shaped tattoo on his shoulder.
+SCENE: The founder showing a small green eye-shaped tattoo on his shoulder.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 
 ON-SCREEN TEXT: none.
 
@@ -2896,10 +2896,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1999-2006: late-90s and early-2000s gaming PCs and CRT monitors, LAN-party gamers, early game consoles, rival graphics-card companies, glossy product launches.
 
-SCENE: Jensen wincing with tears. Wide/establishing framing.
+SCENE: The founder wincing with tears. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 
 ON-SCREEN TEXT: none.
 
@@ -2923,10 +2923,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1999-2006: late-90s and early-2000s gaming PCs and CRT monitors, LAN-party gamers, early game consoles, rival graphics-card companies, glossy product launches.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Jensen wincing with tears.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The founder wincing with tears.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
 
 ON-SCREEN TEXT: none.
 
@@ -3175,10 +3175,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1999-2006: late-90s and early-2000s gaming PCs and CRT monitors, LAN-party gamers, early game consoles, rival graphics-card companies, glossy product launches.
 
-SCENE: Jensen at a crossroads sign. Wide/establishing framing.
+SCENE: The founder at a crossroads sign. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -3202,10 +3202,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1999-2006: late-90s and early-2000s gaming PCs and CRT monitors, LAN-party gamers, early game consoles, rival graphics-card companies, glossy product launches.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Jensen at a crossroads sign.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: The founder at a crossroads sign.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -3229,10 +3229,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 1999-2006: late-90s and early-2000s gaming PCs and CRT monitors, LAN-party gamers, early game consoles, rival graphics-card companies, glossy product launches.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Jensen at a crossroads sign.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: The founder at a crossroads sign.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 

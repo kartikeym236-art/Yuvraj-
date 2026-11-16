@@ -2,7 +2,7 @@
 
 Each line of the voiceover is one shot of about 1–3 seconds. Each prompt box is **self-contained**: paste it on its own into any image model (Midjourney, GPT-Image, Flux, Ideogram, etc.) and it carries the full style, characters and scene.
 
-**Style target:** the reference frames, i.e. a flat hand-drawn 2D explainer cartoon with big round heads, stick limbs, thick wobbly black outlines, one cel-shade tone, a muted palette and handwritten captions.
+**Style target:** the reference frames, i.e. A flat hand-drawn 2D explainer cartoon with big round heads, stick limbs, thick wobbly black outlines, one cel-shade tone, a muted palette and handwritten captions.
 
 **Tips:** use 16:9 (e.g. `--ar 16:9`). To keep characters consistent, generate a character sheet first and pass it as a reference image together with these prompts. Durations assume about 2.7 spoken words per second.
 
@@ -12,17 +12,17 @@ Each line of the voiceover is one shot of about 1–3 seconds. Each prompt box i
 
 ## Character sheet (reference)
 
-- YOUNG JENSEN HUANG (age about 9, 1970s): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
-- TEENAGE JENSEN HUANG (about 15, 1970s): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
-- CHRIS MALACHOWSKY (Nvidia co-founder, 1990s, simplified caricature): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
-- CURTIS PRIEM (Nvidia co-founder, 1990s, simplified caricature): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful engineer look.
-- DON VALENTINE (venture capitalist, simplified caricature): older, round beige head, slicked white hair, dark grey suit, white shirt, red tie, sceptical eyebrows.
-- IAN BUCK (young researcher, mid-2000s, simplified caricature): round beige head, short messy brown hair, grey hoodie, laptop under arm, eager smile.
-- ALEX KRIZHEVSKY (university student, 2012, simplified caricature): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
-- ILYA SUTSKEVER (researcher, 2012, simplified caricature): round beige head, short dark hair receding at the temples, intense eyes, grey t-shirt.
-- GEOFFREY HINTON (professor, simplified caricature): older, round beige head, white receding hair, kind smile, grey sweater over a collared shirt.
+- THE FOUNDER AS A BOY (original character, about 9, 1970s, East Asian boy): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
+- THE FOUNDER AS A TEENAGER (original character, about 15, 1970s, East Asian teen): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FIRST CO-FOUNDER (original character, 1990s engineer): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
+- THE SECOND CO-FOUNDER (original character, 1990s engineer): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful look.
+- THE VETERAN INVESTOR (original character, older venture capitalist): round beige head, slicked white hair, dark grey suit, white shirt, red tie, sceptical eyebrows.
+- THE YOUNG RESEARCHER (original character, mid-2000s grad student): round beige head, short messy brown hair, grey hoodie, laptop under arm, eager smile.
+- THE STUDENT (original character, 2012 university student): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
+- THE LAB PARTNER (original character, 2012 researcher): round beige head, short dark hair receding at the temples, intense eyes, grey t-shirt.
+- THE PROFESSOR (original character, older computer-science professor): round beige head, white receding hair, kind smile, grey sweater over a collared shirt.
 
 
 ---
@@ -90,10 +90,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Jensen spotlit on stage. Wide/establishing framing.
+SCENE: The founder spotlit on stage. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -117,10 +117,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Jensen spotlit on stage.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The founder spotlit on stage.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -144,10 +144,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Jensen on a big keynote stage with giant screens. Wide/establishing framing.
+SCENE: The founder on a big keynote stage with giant screens. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: none.
@@ -172,10 +172,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Jensen on a big keynote stage with giant screens.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The founder on a big keynote stage with giant screens.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: none.
@@ -200,10 +200,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: A timeline from 1993 to 2025 with Jensen walking along it. Wide/establishing framing.
+SCENE: A timeline from 1993 to 2025 with the founder walking along it. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: "30+ years" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -227,10 +227,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: A timeline from 1993 to 2025 with Jensen walking along it.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: A timeline from 1993 to 2025 with the founder walking along it.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: "30+ years" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -254,10 +254,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: A timeline from 1993 to 2025 with Jensen walking along it.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: A timeline from 1993 to 2025 with the founder walking along it.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: "30+ years" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -281,10 +281,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Jensen with an unusual org chart.
+SCENE: The founder with an unusual org chart.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -308,10 +308,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: A flat org chart with ~60 boxes connected directly to Jensen. Wide/establishing framing.
+SCENE: A flat org chart with ~60 boxes connected directly to the founder. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: "~60 direct reports" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -335,10 +335,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A flat org chart with ~60 boxes connected directly to Jensen.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A flat org chart with ~60 boxes connected directly to the founder.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: "~60 direct reports" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -386,10 +386,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Jensen speaking to a large group in a big meeting room. Wide/establishing framing.
+SCENE: The founder speaking to a large group in a big meeting room. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 - ENGINEERS: generic bean-people of varied skin tones in casual tech clothes (polo shirts, hoodies, lanyards), some with glasses.
 
 ON-SCREEN TEXT: none.
@@ -414,10 +414,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Jensen speaking to a large group in a big meeting room.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: The founder speaking to a large group in a big meeting room.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 - ENGINEERS: generic bean-people of varied skin tones in casual tech clothes (polo shirts, hoodies, lanyards), some with glasses.
 
 ON-SCREEN TEXT: none.
@@ -442,10 +442,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Jensen speaking to a large group in a big meeting room.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: The founder speaking to a large group in a big meeting room.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 - ENGINEERS: generic bean-people of varied skin tones in casual tech clothes (polo shirts, hoodies, lanyards), some with glasses.
 
 ON-SCREEN TEXT: none.
@@ -470,10 +470,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Jensen reading a stack of emails labelled 'Top 5'. Wide/establishing framing.
+SCENE: The founder reading a stack of emails labelled 'Top 5'. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: "Top 5" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -497,10 +497,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Jensen reading a stack of emails labelled 'Top 5'.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: The founder reading a stack of emails labelled 'Top 5'.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: "Top 5" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -524,10 +524,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Jensen reading a stack of emails labelled 'Top 5'.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: The founder reading a stack of emails labelled 'Top 5'.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: "Top 5" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -551,10 +551,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Jensen with fire in his eyes.
+SCENE: The founder with fire in his eyes.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -578,10 +578,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Jensen speaking to students in a lecture hall. Wide/establishing framing.
+SCENE: The founder speaking to students in a lecture hall. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: ""I wish upon you ample doses of pain and suffering."" in the handwritten marker font, clearly legible, spelled exactly.
@@ -606,10 +606,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 4), small change in pose/expression to show the moment progressing: Jensen speaking to students in a lecture hall.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 4), small change in pose/expression to show the moment progressing: The founder speaking to students in a lecture hall.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: ""I wish upon you ample doses of pain and suffering."" in the handwritten marker font, clearly legible, spelled exactly.
@@ -634,10 +634,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 4), small change in pose/expression to show the moment progressing: Jensen speaking to students in a lecture hall.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 4), small change in pose/expression to show the moment progressing: The founder speaking to students in a lecture hall.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: ""I wish upon you ample doses of pain and suffering."" in the handwritten marker font, clearly legible, spelled exactly.
@@ -662,10 +662,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 4 of 4), small change in pose/expression to show the moment progressing: Jensen speaking to students in a lecture hall.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 4 of 4), small change in pose/expression to show the moment progressing: The founder speaking to students in a lecture hall.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 - BACKGROUND PEOPLE: generic bean-people of varied skin tones in everyday clothes matching the scene's era.
 
 ON-SCREEN TEXT: ""I wish upon you ample doses of pain and suffering."" in the handwritten marker font, clearly legible, spelled exactly.
@@ -738,10 +738,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Jensen at a podcast microphone. Wide/establishing framing.
+SCENE: The founder at a podcast microphone. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -765,10 +765,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Jensen at a podcast microphone.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: The founder at a podcast microphone.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -792,10 +792,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Jensen at a podcast microphone.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: The founder at a podcast microphone.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -819,10 +819,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Jensen shaking his head.
+SCENE: The founder shaking his head.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -846,10 +846,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Jensen looking at a steep mountain path. Wide/establishing framing.
+SCENE: The founder looking at a steep mountain path. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -873,10 +873,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 4), small change in pose/expression to show the moment progressing: Jensen looking at a steep mountain path.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 4), small change in pose/expression to show the moment progressing: The founder looking at a steep mountain path.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -900,10 +900,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 4), small change in pose/expression to show the moment progressing: Jensen looking at a steep mountain path.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 4), small change in pose/expression to show the moment progressing: The founder looking at a steep mountain path.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -927,10 +927,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Present day: huge tech keynote stages with giant screens, modern open-plan offices, a podcast studio, a university lecture hall.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 4 of 4), small change in pose/expression to show the moment progressing: Jensen looking at a steep mountain path.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 4 of 4), small change in pose/expression to show the moment progressing: The founder looking at a steep mountain path.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -1658,10 +1658,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2025: stock market screens, global chip trade maps, rival chip companies, room-sized AI supercomputers, robots and self-driving cars.
 
-SCENE: Jensen walking forward.
+SCENE: The founder walking forward.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -1757,10 +1757,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2025: stock market screens, global chip trade maps, rival chip companies, room-sized AI supercomputers, robots and self-driving cars.
 
-SCENE: Jensen on stage with robots and a self-driving car beside him. Wide/establishing framing.
+SCENE: The founder on stage with robots and a self-driving car beside him. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: "AI factories" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -1784,10 +1784,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2025: stock market screens, global chip trade maps, rival chip companies, room-sized AI supercomputers, robots and self-driving cars.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Jensen on stage with robots and a self-driving car beside him.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The founder on stage with robots and a self-driving car beside him.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: "AI factories" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -1888,10 +1888,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Reflective recap across 1970s-2025, warm sunset tones, symbolic imagery of perseverance.
 
-SCENE: Young Jensen mopping. Wide/establishing framing.
+SCENE: Young the founder mopping. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- YOUNG JENSEN HUANG (age about 9, 1970s): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
+- THE FOUNDER AS A BOY (original character, about 9, 1970s, East Asian boy): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
 
 ON-SCREEN TEXT: none.
 
@@ -1915,10 +1915,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Reflective recap across 1970s-2025, warm sunset tones, symbolic imagery of perseverance.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Young Jensen mopping.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Young the founder mopping.
 
 CHARACTERS IN FRAME:
-- YOUNG JENSEN HUANG (age about 9, 1970s): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
+- THE FOUNDER AS A BOY (original character, about 9, 1970s, East Asian boy): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
 
 ON-SCREEN TEXT: none.
 
@@ -1942,10 +1942,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Reflective recap across 1970s-2025, warm sunset tones, symbolic imagery of perseverance.
 
-SCENE: Teen Jensen at the sink.
+SCENE: Teen the founder at the sink.
 
 CHARACTERS IN FRAME:
-- TEENAGE JENSEN HUANG (about 15, 1970s): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
+- THE FOUNDER AS A TEENAGER (original character, about 15, 1970s, East Asian teen): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
 
 ON-SCREEN TEXT: none.
 
@@ -1972,9 +1972,9 @@ HISTORICAL CONTEXT: Reflective recap across 1970s-2025, warm sunset tones, symbo
 SCENE: The Denny's booth. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
-- CHRIS MALACHOWSKY (Nvidia co-founder, 1990s, simplified caricature): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
-- CURTIS PRIEM (Nvidia co-founder, 1990s, simplified caricature): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful engineer look.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FIRST CO-FOUNDER (original character, 1990s engineer): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
+- THE SECOND CO-FOUNDER (original character, 1990s engineer): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful look.
 
 ON-SCREEN TEXT: none.
 
@@ -2001,9 +2001,9 @@ HISTORICAL CONTEXT: Reflective recap across 1970s-2025, warm sunset tones, symbo
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The Denny's booth.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
-- CHRIS MALACHOWSKY (Nvidia co-founder, 1990s, simplified caricature): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
-- CURTIS PRIEM (Nvidia co-founder, 1990s, simplified caricature): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful engineer look.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FIRST CO-FOUNDER (original character, 1990s engineer): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
+- THE SECOND CO-FOUNDER (original character, 1990s engineer): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful look.
 
 ON-SCREEN TEXT: none.
 
@@ -2198,10 +2198,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Reflective recap across 1970s-2025, warm sunset tones, symbolic imagery of perseverance.
 
-SCENE: Alex's bedroom PC glowing. Wide/establishing framing.
+SCENE: The student's bedroom PC glowing. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- ALEX KRIZHEVSKY (university student, 2012, simplified caricature): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
+- THE STUDENT (original character, 2012 university student): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
 
 ON-SCREEN TEXT: none.
 
@@ -2225,10 +2225,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Reflective recap across 1970s-2025, warm sunset tones, symbolic imagery of perseverance.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Alex's bedroom PC glowing.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: The student's bedroom PC glowing.
 
 CHARACTERS IN FRAME:
-- ALEX KRIZHEVSKY (university student, 2012, simplified caricature): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
+- THE STUDENT (original character, 2012 university student): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
 
 ON-SCREEN TEXT: none.
 
@@ -2252,10 +2252,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Reflective recap across 1970s-2025, warm sunset tones, symbolic imagery of perseverance.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Alex's bedroom PC glowing.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: The student's bedroom PC glowing.
 
 CHARACTERS IN FRAME:
-- ALEX KRIZHEVSKY (university student, 2012, simplified caricature): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
+- THE STUDENT (original character, 2012 university student): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
 
 ON-SCREEN TEXT: none.
 
@@ -2429,10 +2429,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Reflective recap across 1970s-2025, warm sunset tones, symbolic imagery of perseverance.
 
-SCENE: Jensen looking at the camera.
+SCENE: The founder looking at the camera.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 
@@ -2681,10 +2681,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: Reflective recap across 1970s-2025, warm sunset tones, symbolic imagery of perseverance.
 
-SCENE: Jensen waving at the camera.
+SCENE: The founder waving at the camera.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 

@@ -2,7 +2,7 @@
 
 Each line of the voiceover is one shot of about 1–3 seconds. Each prompt box is **self-contained**: paste it on its own into any image model (Midjourney, GPT-Image, Flux, Ideogram, etc.) and it carries the full style, characters and scene.
 
-**Style target:** the reference frames, i.e. a flat hand-drawn 2D explainer cartoon with big round heads, stick limbs, thick wobbly black outlines, one cel-shade tone, a muted palette and handwritten captions.
+**Style target:** the reference frames, i.e. A flat hand-drawn 2D explainer cartoon with big round heads, stick limbs, thick wobbly black outlines, one cel-shade tone, a muted palette and handwritten captions.
 
 **Tips:** use 16:9 (e.g. `--ar 16:9`). To keep characters consistent, generate a character sheet first and pass it as a reference image together with these prompts. Durations assume about 2.7 spoken words per second.
 
@@ -12,21 +12,21 @@ Each line of the voiceover is one shot of about 1–3 seconds. Each prompt box i
 
 ## Character sheet (reference)
 
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
-- ELEANOR DARE (John White's daughter, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
-- ANANIAS DARE (Eleanor's husband, about 30): round beige head, short brown hair and short brown beard, brown leather jerkin over a white shirt, dark breeches, simple brown felt hat.
-- VIRGINIA DARE (newborn baby): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
-- MANTEO (Croatoan man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace. In England and later scenes he may wear a plain English doublet over his deerskin.
-- WANCHESE (Roanoke man, about 25): round head with warm medium-brown skin and one darker cel-shade crescent, black hair shaved on the sides with a crest on top and a single feather, wary stern expression; deerskin mantle over one shoulder, copper bead necklace.
-- WINGINA (Secotan chief, about 40): round head with warm medium-brown skin, black crest hairstyle with several upright feathers, a large flat copper pendant on his chest, painted deerskin mantle, dignified commanding expression.
-- SIR WALTER RALEIGH (simplified caricature): round beige head, dark hair, dark pointed beard and upturned mustache, single pearl earring, silver-grey slashed doublet with a white ruff, black hat with a white feather.
-- QUEEN ELIZABETH I (simplified caricature): round very pale head, tightly curled red-orange hair, small jewelled crown, huge fan-shaped white lace ruff, jewelled cream-and-gold gown covered in pearls.
-- RALPH LANE (soldier commander): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
-- SIR FRANCIS DRAKE (simplified caricature): round beige head, reddish-brown hair and short reddish beard, black doublet with gold buttons, heavy gold chain, captain's black hat.
-- SIMON FERNANDES (ship's pilot): round tanned-beige head, dark curly hair and stubbly black beard, small gold hoop earring, salt-stained navy sea coat, smug narrow eyes.
-- KING PHILIP II OF SPAIN (simplified caricature): round beige head, short grey-blond beard, prominent jaw, all-black clothing with a small white ruff, gold chain, stern face.
-- POWHATAN (paramount chief, elderly): round head with warm medium-brown skin, grey-streaked black hair, a large deerskin mantle decorated with white shell patterns, strings of pearls, stern powerful expression.
-- JOHN LAWSON (English explorer, 1701): round beige head, long curly brown periwig, black tricorn hat, long dark-green coat, notebook and quill.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR'S DAUGHTER (original character, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
+- HER HUSBAND (original character, about 30): round beige head, short brown hair and short brown beard, brown leather jerkin over a white shirt, dark breeches, simple brown felt hat.
+- THE BABY GIRL (newborn): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
+- THE CROATOAN GUIDE (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace; in England and later scenes he may wear a plain English doublet over his deerskin.
+- THE ROANOKE WARRIOR (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker cel-shade crescent, black hair shaved on the sides with a crest on top and a single feather, wary stern expression; deerskin mantle over one shoulder, copper bead necklace.
+- THE SECOTAN CHIEF (original character, about 40): round head with warm medium-brown skin, black crest hairstyle with several upright feathers, a large flat copper pendant on his chest, painted deerskin mantle, dignified commanding expression.
+- THE COURTIER-EXPLORER (original character, dashing Elizabethan nobleman): round beige head, dark hair, dark pointed beard and upturned mustache, single pearl earring, silver-grey slashed doublet with a white ruff, black hat with a white feather.
+- THE QUEEN (original character, Elizabethan English monarch): round very pale head, tightly curled red-orange hair, small jewelled crown, huge fan-shaped white lace ruff, jewelled cream-and-gold gown covered in pearls.
+- THE SOLDIER-COMMANDER (original character): round beige head, brown beard, steel crested morion helmet, steel breastplate over a brown doublet, sword at the hip.
+- THE FAMOUS SEA CAPTAIN (original character, Elizabethan privateer): round beige head, reddish-brown hair and short reddish beard, black doublet with gold buttons, heavy gold chain, captain's black hat.
+- THE SHIP'S PILOT (original character): round tanned-beige head, dark curly hair and stubbly black beard, small gold hoop earring, salt-stained navy sea coat, smug narrow eyes.
+- THE SPANISH KING (original character, 16th-century monarch): round beige head, short grey-blond beard, prominent jaw, all-black clothing with a small white ruff, gold chain, stern face.
+- THE PARAMOUNT CHIEF (original character, elderly Algonquian leader): round head with warm medium-brown skin, grey-streaked black hair, a large deerskin mantle decorated with white shell patterns, strings of pearls, stern powerful expression.
+- THE EXPLORER (original character, English traveller in 1701): round beige head, long curly brown periwig, black tricorn hat, long dark-green coat, notebook and quill.
 
 
 ---
@@ -44,7 +44,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
 SCENE: Chapter title card. Flat dusky violet background filling the frame, a simple hand-drawn carved wooden post illustrated small and centred under the title, generous empty space, gentle subtle vignette in a slightly darker flat shade at the corners.
 
@@ -68,7 +68,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
 SCENE: Colonists looking worried at a nearly empty food store.
 
@@ -95,7 +95,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
 SCENE: Golden late-summer light over dry fields.
 
@@ -119,7 +119,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
 SCENE: A colonist holding seeds over dry ground.
 
@@ -146,7 +146,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
 SCENE: Nearly empty barrels.
 
@@ -170,12 +170,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
-SCENE: Wanchese watching the settlement from the trees.
+SCENE: The Roanoke warrior watching the settlement from the trees.
 
 CHARACTERS IN FRAME:
-- WANCHESE (Roanoke man, about 25): round head with warm medium-brown skin and one darker cel-shade crescent, black hair shaved on the sides with a crest on top and a single feather, wary stern expression; deerskin mantle over one shoulder, copper bead necklace.
+- THE ROANOKE WARRIOR (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker cel-shade crescent, black hair shaved on the sides with a crest on top and a single feather, wary stern expression; deerskin mantle over one shoulder, copper bead necklace.
 
 ON-SCREEN TEXT: none.
 
@@ -197,7 +197,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
 SCENE: Colonists in a meeting circle. Wide/establishing framing.
 
@@ -224,7 +224,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Colonists in a meeting circle.
 
@@ -251,7 +251,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
 SCENE: Icons of bread, tools, and people.
 
@@ -275,7 +275,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
 SCENE: Colonists all pointing at one person. Wide/establishing framing.
 
@@ -302,7 +302,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Colonists all pointing at one person.
 
@@ -329,12 +329,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
-SCENE: John White surprised, hand on chest.
+SCENE: The governor surprised, hand on chest.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -356,12 +356,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
-SCENE: John White shaking his head.
+SCENE: The governor shaking his head.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -383,13 +383,13 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
-SCENE: Eleanor holding Virginia.
+SCENE: The governor's daughter holding the baby girl.
 
 CHARACTERS IN FRAME:
-- ELEANOR DARE (John White's daughter, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
-- VIRGINIA DARE (newborn baby): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
+- THE GOVERNOR'S DAUGHTER (original character, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
+- THE BABY GIRL (newborn): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
 
 ON-SCREEN TEXT: none.
 
@@ -411,7 +411,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
 SCENE: Dark forest surrounding the small settlement. Wide/establishing framing.
 
@@ -435,7 +435,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Dark forest surrounding the small settlement.
 
@@ -459,13 +459,13 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
 SCENE: Colonists urging him.
 
 CHARACTERS IN FRAME:
 - ENGLISH COLONISTS: generic bean-people in plain Elizabethan clothes: men in brown jerkins, breeches and felt hats; women in coifs, bodices and long skirts; children in small versions of the same.
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -487,12 +487,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
-SCENE: John White and colonists around a table.
+SCENE: The governor and colonists around a table.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 - ENGLISH COLONISTS: generic bean-people in plain Elizabethan clothes: men in brown jerkins, breeches and felt hats; women in coifs, bodices and long skirts; children in small versions of the same.
 
 ON-SCREEN TEXT: none.
@@ -515,9 +515,9 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
-SCENE: Diagram: a post with a carved place name. Wide/establishing framing.
+SCENE: Diagram: A post with a carved place name. Wide/establishing framing.
 
 ON-SCREEN TEXT: none.
 
@@ -539,9 +539,9 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 4), small change in pose/expression to show the moment progressing: Diagram: a post with a carved place name.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 4), small change in pose/expression to show the moment progressing: Diagram: A post with a carved place name.
 
 ON-SCREEN TEXT: none.
 
@@ -563,9 +563,9 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 4), small change in pose/expression to show the moment progressing: Diagram: a post with a carved place name.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 4), small change in pose/expression to show the moment progressing: Diagram: A post with a carved place name.
 
 ON-SCREEN TEXT: none.
 
@@ -587,9 +587,9 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 4 of 4), small change in pose/expression to show the moment progressing: Diagram: a post with a carved place name.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 4 of 4), small change in pose/expression to show the moment progressing: Diagram: A post with a carved place name.
 
 ON-SCREEN TEXT: none.
 
@@ -611,7 +611,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
 SCENE: The post with a cross carved above the name. Wide/establishing framing.
 
@@ -635,7 +635,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The post with a cross carved above the name.
 
@@ -659,7 +659,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
 SCENE: Close-up of the carved cross.
 
@@ -683,14 +683,14 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
-SCENE: John White on the ship's deck waving to Eleanor holding Virginia on the shore. Wide/establishing framing.
+SCENE: The governor on the ship's deck waving to the governor's daughter holding the baby girl on the shore. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
-- ELEANOR DARE (John White's daughter, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
-- VIRGINIA DARE (newborn baby): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR'S DAUGHTER (original character, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
+- THE BABY GIRL (newborn): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
 
 ON-SCREEN TEXT: "9 days" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -712,14 +712,14 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: John White on the ship's deck waving to Eleanor holding Virginia on the shore.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: The governor on the ship's deck waving to the governor's daughter holding the baby girl on the shore.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
-- ELEANOR DARE (John White's daughter, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
-- VIRGINIA DARE (newborn baby): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR'S DAUGHTER (original character, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
+- THE BABY GIRL (newborn): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
 
 ON-SCREEN TEXT: "9 days" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -741,14 +741,14 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: John White on the ship's deck waving to Eleanor holding Virginia on the shore.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: The governor on the ship's deck waving to the governor's daughter holding the baby girl on the shore.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
-- ELEANOR DARE (John White's daughter, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
-- VIRGINIA DARE (newborn baby): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR'S DAUGHTER (original character, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
+- THE BABY GIRL (newborn): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
 
 ON-SCREEN TEXT: "9 days" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -770,12 +770,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
-SCENE: John White's thought bubble with a calendar showing a few months.
+SCENE: The governor's thought bubble with a calendar showing a few months.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -797,7 +797,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke settlement, late August 1587: a small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
+HISTORICAL CONTEXT: Roanoke settlement, late August 1587: A small English village of timber cottages in a forest clearing, worried settlers, a ship waiting offshore, late-summer golden light.
 
 SCENE: Calendar pages flying away.
 
@@ -852,10 +852,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: England 1587-1590: busy Elizabethan harbours, the Spanish Armada of 1588 with towering galleons and fire ships, royal court, privateer ships at sea.
 
-SCENE: John White stepping off a ship into a busy panicked dock. Wide/establishing framing.
+SCENE: The governor stepping off a ship into a busy panicked dock. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 - ENGLISH COLONISTS: generic bean-people in plain Elizabethan clothes: men in brown jerkins, breeches and felt hats; women in coifs, bodices and long skirts; children in small versions of the same.
 
 ON-SCREEN TEXT: none.
@@ -880,10 +880,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: England 1587-1590: busy Elizabethan harbours, the Spanish Armada of 1588 with towering galleons and fire ships, royal court, privateer ships at sea.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: John White stepping off a ship into a busy panicked dock.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The governor stepping off a ship into a busy panicked dock.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 - ENGLISH COLONISTS: generic bean-people in plain Elizabethan clothes: men in brown jerkins, breeches and felt hats; women in coifs, bodices and long skirts; children in small versions of the same.
 
 ON-SCREEN TEXT: none.
@@ -932,10 +932,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: England 1587-1590: busy Elizabethan harbours, the Spanish Armada of 1588 with towering galleons and fire ships, royal court, privateer ships at sea.
 
-SCENE: King Philip pointing at a huge fleet of galleons. Wide/establishing framing.
+SCENE: The Spanish king pointing at a huge fleet of galleons. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- KING PHILIP II OF SPAIN (simplified caricature): round beige head, short grey-blond beard, prominent jaw, all-black clothing with a small white ruff, gold chain, stern face.
+- THE SPANISH KING (original character, 16th-century monarch): round beige head, short grey-blond beard, prominent jaw, all-black clothing with a small white ruff, gold chain, stern face.
 
 ON-SCREEN TEXT: "The Spanish Armada" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -959,10 +959,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: England 1587-1590: busy Elizabethan harbours, the Spanish Armada of 1588 with towering galleons and fire ships, royal court, privateer ships at sea.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 4), small change in pose/expression to show the moment progressing: King Philip pointing at a huge fleet of galleons.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 4), small change in pose/expression to show the moment progressing: The Spanish king pointing at a huge fleet of galleons.
 
 CHARACTERS IN FRAME:
-- KING PHILIP II OF SPAIN (simplified caricature): round beige head, short grey-blond beard, prominent jaw, all-black clothing with a small white ruff, gold chain, stern face.
+- THE SPANISH KING (original character, 16th-century monarch): round beige head, short grey-blond beard, prominent jaw, all-black clothing with a small white ruff, gold chain, stern face.
 
 ON-SCREEN TEXT: "The Spanish Armada" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -986,10 +986,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: England 1587-1590: busy Elizabethan harbours, the Spanish Armada of 1588 with towering galleons and fire ships, royal court, privateer ships at sea.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 4), small change in pose/expression to show the moment progressing: King Philip pointing at a huge fleet of galleons.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 4), small change in pose/expression to show the moment progressing: The Spanish king pointing at a huge fleet of galleons.
 
 CHARACTERS IN FRAME:
-- KING PHILIP II OF SPAIN (simplified caricature): round beige head, short grey-blond beard, prominent jaw, all-black clothing with a small white ruff, gold chain, stern face.
+- THE SPANISH KING (original character, 16th-century monarch): round beige head, short grey-blond beard, prominent jaw, all-black clothing with a small white ruff, gold chain, stern face.
 
 ON-SCREEN TEXT: "The Spanish Armada" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -1013,10 +1013,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: England 1587-1590: busy Elizabethan harbours, the Spanish Armada of 1588 with towering galleons and fire ships, royal court, privateer ships at sea.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 4 of 4), small change in pose/expression to show the moment progressing: King Philip pointing at a huge fleet of galleons.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 4 of 4), small change in pose/expression to show the moment progressing: The Spanish king pointing at a huge fleet of galleons.
 
 CHARACTERS IN FRAME:
-- KING PHILIP II OF SPAIN (simplified caricature): round beige head, short grey-blond beard, prominent jaw, all-black clothing with a small white ruff, gold chain, stern face.
+- THE SPANISH KING (original character, 16th-century monarch): round beige head, short grey-blond beard, prominent jaw, all-black clothing with a small white ruff, gold chain, stern face.
 
 ON-SCREEN TEXT: "The Spanish Armada" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -1040,10 +1040,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: England 1587-1590: busy Elizabethan harbours, the Spanish Armada of 1588 with towering galleons and fire ships, royal court, privateer ships at sea.
 
-SCENE: Queen Elizabeth standing, raising her hand.
+SCENE: The queen standing, raising her hand.
 
 CHARACTERS IN FRAME:
-- QUEEN ELIZABETH I (simplified caricature): round very pale head, tightly curled red-orange hair, small jewelled crown, huge fan-shaped white lace ruff, jewelled cream-and-gold gown covered in pearls.
+- THE QUEEN (original character, Elizabethan English monarch): round very pale head, tightly curled red-orange hair, small jewelled crown, huge fan-shaped white lace ruff, jewelled cream-and-gold gown covered in pearls.
 
 ON-SCREEN TEXT: none.
 
@@ -1145,10 +1145,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: England 1587-1590: busy Elizabethan harbours, the Spanish Armada of 1588 with towering galleons and fire ships, royal court, privateer ships at sea.
 
-SCENE: John White sitting on a dock, head in hands.
+SCENE: The governor sitting on a dock, head in hands.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -1175,7 +1175,7 @@ HISTORICAL CONTEXT: England 1587-1590: busy Elizabethan harbours, the Spanish Ar
 SCENE: Two small ships sailing out. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 - ENGLISH SAILORS: generic bean-men in loose white shirts, striped or plain baggy breeches, red knitted caps, bare feet or simple shoes.
 
 ON-SCREEN TEXT: "1588" in the handwritten marker font, clearly legible, spelled exactly.
@@ -1203,7 +1203,7 @@ HISTORICAL CONTEXT: England 1587-1590: busy Elizabethan harbours, the Spanish Ar
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Two small ships sailing out.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 - ENGLISH SAILORS: generic bean-men in loose white shirts, striped or plain baggy breeches, red knitted caps, bare feet or simple shoes.
 
 ON-SCREEN TEXT: "1588" in the handwritten marker font, clearly legible, spelled exactly.
@@ -1228,10 +1228,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: England 1587-1590: busy Elizabethan harbours, the Spanish Armada of 1588 with towering galleons and fire ships, royal court, privateer ships at sea.
 
-SCENE: Pirates boarding the ship; John White's supplies carried off. Wide/establishing framing.
+SCENE: Pirates boarding the ship; the governor's supplies carried off. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 - ENGLISH SAILORS: generic bean-men in loose white shirts, striped or plain baggy breeches, red knitted caps, bare feet or simple shoes.
 
 ON-SCREEN TEXT: none.
@@ -1256,10 +1256,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: England 1587-1590: busy Elizabethan harbours, the Spanish Armada of 1588 with towering galleons and fire ships, royal court, privateer ships at sea.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Pirates boarding the ship; John White's supplies carried off.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Pirates boarding the ship; the governor's supplies carried off.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 - ENGLISH SAILORS: generic bean-men in loose white shirts, striped or plain baggy breeches, red knitted caps, bare feet or simple shoes.
 
 ON-SCREEN TEXT: none.
@@ -1308,10 +1308,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: England 1587-1590: busy Elizabethan harbours, the Spanish Armada of 1588 with towering galleons and fire ships, royal court, privateer ships at sea.
 
-SCENE: Raleigh yawning, pushing the Roanoke map aside. Wide/establishing framing.
+SCENE: The courtier-explorer yawning, pushing the Roanoke map aside. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- SIR WALTER RALEIGH (simplified caricature): round beige head, dark hair, dark pointed beard and upturned mustache, single pearl earring, silver-grey slashed doublet with a white ruff, black hat with a white feather.
+- THE COURTIER-EXPLORER (original character, dashing Elizabethan nobleman): round beige head, dark hair, dark pointed beard and upturned mustache, single pearl earring, silver-grey slashed doublet with a white ruff, black hat with a white feather.
 
 ON-SCREEN TEXT: none.
 
@@ -1335,10 +1335,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: England 1587-1590: busy Elizabethan harbours, the Spanish Armada of 1588 with towering galleons and fire ships, royal court, privateer ships at sea.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Raleigh yawning, pushing the Roanoke map aside.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The courtier-explorer yawning, pushing the Roanoke map aside.
 
 CHARACTERS IN FRAME:
-- SIR WALTER RALEIGH (simplified caricature): round beige head, dark hair, dark pointed beard and upturned mustache, single pearl earring, silver-grey slashed doublet with a white ruff, black hat with a white feather.
+- THE COURTIER-EXPLORER (original character, dashing Elizabethan nobleman): round beige head, dark hair, dark pointed beard and upturned mustache, single pearl earring, silver-grey slashed doublet with a white ruff, black hat with a white feather.
 
 ON-SCREEN TEXT: none.
 
@@ -1362,10 +1362,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: England 1587-1590: busy Elizabethan harbours, the Spanish Armada of 1588 with towering galleons and fire ships, royal court, privateer ships at sea.
 
-SCENE: John White pleading at doors, calendar pages flipping.
+SCENE: The governor pleading at doors, calendar pages flipping.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -1392,7 +1392,7 @@ HISTORICAL CONTEXT: England 1587-1590: busy Elizabethan harbours, the Spanish Ar
 SCENE: Ships with privateers boarding. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 - ENGLISH SAILORS: generic bean-men in loose white shirts, striped or plain baggy breeches, red knitted caps, bare feet or simple shoes.
 
 ON-SCREEN TEXT: "1590" in the handwritten marker font, clearly legible, spelled exactly.
@@ -1420,7 +1420,7 @@ HISTORICAL CONTEXT: England 1587-1590: busy Elizabethan harbours, the Spanish Ar
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Ships with privateers boarding.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 - ENGLISH SAILORS: generic bean-men in loose white shirts, striped or plain baggy breeches, red knitted caps, bare feet or simple shoes.
 
 ON-SCREEN TEXT: "1590" in the handwritten marker font, clearly legible, spelled exactly.
@@ -1595,10 +1595,10 @@ SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day
 
 HISTORICAL CONTEXT: England 1587-1590: busy Elizabethan harbours, the Spanish Armada of 1588 with towering galleons and fire ships, royal court, privateer ships at sea.
 
-SCENE: John White walking up the beach.
+SCENE: The governor walking up the beach.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -1625,7 +1625,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Chapter title card. Flat parchment tan background filling the frame, a simple hand-drawn magnifying glass illustrated small and centred under the title, generous empty space, gentle subtle vignette in a slightly darker flat shade at the corners.
 
@@ -1649,7 +1649,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: A magnifying glass sweeping across the island map.
 
@@ -1673,7 +1673,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Detective-style corkboard with pins.
 
@@ -1697,12 +1697,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: A large tree on the shoreline with carved letters. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -1724,12 +1724,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A large tree on the shoreline with carved letters.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -1751,7 +1751,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Close-up of the carved letters.
 
@@ -1775,12 +1775,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
-SCENE: John White walking into the clearing.
+SCENE: The governor walking into the clearing.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -1802,7 +1802,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Empty house spaces with no ash or rubble.
 
@@ -1826,7 +1826,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Neat empty spaces where houses were dismantled.
 
@@ -1850,7 +1850,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: A neat pile of removed nails.
 
@@ -1874,7 +1874,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Ghostly colonists carrying planks away.
 
@@ -1901,7 +1901,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: A tall wooden palisade wall of sharpened logs around the site. Wide/establishing framing.
 
@@ -1925,7 +1925,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: A tall wooden palisade wall of sharpened logs around the site.
 
@@ -1949,7 +1949,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: A tall wooden palisade wall of sharpened logs around the site.
 
@@ -1973,12 +1973,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
-SCENE: John White approaching the entrance post. Wide/establishing framing.
+SCENE: The governor approaching the entrance post. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -2000,12 +2000,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: John White approaching the entrance post.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: The governor approaching the entrance post.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -2027,12 +2027,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: John White approaching the entrance post.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: The governor approaching the entrance post.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -2054,7 +2054,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Close-up of the carved word.
 
@@ -2078,7 +2078,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: A spotlight on the post.
 
@@ -2102,7 +2102,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: The space above the carved word is empty; a cross icon crossed out.
 
@@ -2126,12 +2126,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
-SCENE: John White exhaling with relief.
+SCENE: The governor exhaling with relief.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -2153,12 +2153,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
-SCENE: Flashback: the planning meeting. Wide/establishing framing.
+SCENE: Flashback: The planning meeting. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 - ENGLISH COLONISTS: generic bean-people in plain Elizabethan clothes: men in brown jerkins, breeches and felt hats; women in coifs, bodices and long skirts; children in small versions of the same.
 
 ON-SCREEN TEXT: none.
@@ -2181,12 +2181,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Flashback: the planning meeting.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Flashback: The planning meeting.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 - ENGLISH COLONISTS: generic bean-people in plain Elizabethan clothes: men in brown jerkins, breeches and felt hats; women in coifs, bodices and long skirts; children in small versions of the same.
 
 ON-SCREEN TEXT: none.
@@ -2209,7 +2209,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: The empty space above the word.
 
@@ -2233,12 +2233,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
-SCENE: John White smiling softly.
+SCENE: The governor smiling softly.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -2260,12 +2260,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Map showing Croatoan 50 miles south. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- MANTEO (Croatoan man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace. In England and later scenes he may wear a plain English doublet over his deerskin.
+- THE CROATOAN GUIDE (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace; in England and later scenes he may wear a plain English doublet over his deerskin.
 
 ON-SCREEN TEXT: "~50 miles" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -2287,12 +2287,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Map showing Croatoan 50 miles south.
 
 CHARACTERS IN FRAME:
-- MANTEO (Croatoan man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace. In England and later scenes he may wear a plain English doublet over his deerskin.
+- THE CROATOAN GUIDE (original character, Carolina Algonquian man, about 25): round head with warm medium-brown skin and one darker brown cel-shade crescent, black hair shaved on the sides with a short crest along the top and a small knot at the back, calm friendly expression; deerskin apron and mantle, white shell bead necklace; in England and later scenes he may wear a plain English doublet over his deerskin.
 
 ON-SCREEN TEXT: "~50 miles" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -2314,7 +2314,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Croatoan villagers waving.
 
@@ -2341,14 +2341,14 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
-SCENE: John White's thought bubble with Eleanor and Virginia smiling.
+SCENE: The governor's thought bubble with the governor's daughter and the baby girl smiling.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
-- ELEANOR DARE (John White's daughter, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
-- VIRGINIA DARE (newborn baby): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR'S DAUGHTER (original character, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
+- THE BABY GIRL (newborn): tiny round beige face wrapped in a white linen swaddle with a small white bonnet, sleepy dot eyes.
 
 ON-SCREEN TEXT: none.
 
@@ -2370,12 +2370,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
-SCENE: John White frowning at something on the ground.
+SCENE: The governor frowning at something on the ground.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -2397,7 +2397,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Broken wooden chests in a dug-up pit. Wide/establishing framing.
 
@@ -2421,7 +2421,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Broken wooden chests in a dug-up pit.
 
@@ -2445,7 +2445,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Broken wooden chests in a dug-up pit.
 
@@ -2469,7 +2469,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Torn pages scattered.
 
@@ -2493,7 +2493,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Rain-soaked paintings with running colours.
 
@@ -2517,7 +2517,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Rusty armour.
 
@@ -2541,7 +2541,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Huge storm clouds with lightning over the sea.
 
@@ -2565,7 +2565,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Anchor ropes snapping.
 
@@ -2592,7 +2592,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: A ship tilting dangerously near rocks.
 
@@ -2619,7 +2619,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Captain shouting orders.
 
@@ -2646,7 +2646,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Map showing the ships heading south. Wide/establishing framing.
 
@@ -2670,7 +2670,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Map showing the ships heading south.
 
@@ -2694,7 +2694,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: The empty sea with distant ships disappearing.
 
@@ -2718,7 +2718,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Ships arriving at an English harbour.
 
@@ -2745,12 +2745,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
-SCENE: John White standing at an English shoreline, looking west.
+SCENE: The governor standing at an English shoreline, looking west.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -2772,12 +2772,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
-SCENE: Old John White writing a letter by candlelight. Wide/establishing framing.
+SCENE: Old the governor writing a letter by candlelight. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -2799,12 +2799,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Old John White writing a letter by candlelight.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Old the governor writing a letter by candlelight.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -2826,12 +2826,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Old John White writing a letter by candlelight.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Old the governor writing a letter by candlelight.
 
 CHARACTERS IN FRAME:
-- JOHN WHITE (recurring, English artist and colony governor, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
+- THE GOVERNOR (original character, English artist and colony leader, about 50): round beige head, grey hair reaching the ears, neat grey pointed beard and mustache, kind tired eyes; black Elizabethan doublet with a small white ruff collar, dark-brown cloak, black breeches, tall black brimmed hat.
 
 ON-SCREEN TEXT: none.
 
@@ -2853,12 +2853,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
-SCENE: A faded portrait of Eleanor on his desk.
+SCENE: A faded portrait of the governor's daughter on his desk.
 
 CHARACTERS IN FRAME:
-- ELEANOR DARE (John White's daughter, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
+- THE GOVERNOR'S DAUGHTER (original character, about 25): round beige head, auburn hair mostly tucked under a white linen coif cap, dark-red laced bodice with a white collar, long brown skirt, gentle brave expression.
 
 ON-SCREEN TEXT: none.
 
@@ -2880,7 +2880,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: A tiny wooden doll on the desk. Wide/establishing framing.
 
@@ -2904,7 +2904,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: A tiny wooden doll on the desk.
 
@@ -2928,7 +2928,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Map with a huge question mark over the coast.
 
@@ -2952,7 +2952,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: Corkboard with pinned theory cards.
 
@@ -2976,7 +2976,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: the abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
+HISTORICAL CONTEXT: Roanoke Island, 18 August 1590: The abandoned settlement site in a forest clearing, a tall log palisade, a carved tree and post, dug-up wooden chests, rain and a violent Atlantic storm.
 
 SCENE: A scale from 'Least likely' to 'Most likely'.
 
@@ -3005,7 +3005,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Chapter title card. Flat near-black navy background filling the frame, a simple hand-drawn skull-shaped storm cloud illustrated small and centred under the title, generous empty space, gentle subtle vignette in a slightly darker flat shade at the corners.
 
@@ -3029,7 +3029,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Theory card with a Spanish galleon icon.
 
@@ -3053,12 +3053,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
-SCENE: King Philip scowling at a map. Wide/establishing framing.
+SCENE: The Spanish king scowling at a map. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- KING PHILIP II OF SPAIN (simplified caricature): round beige head, short grey-blond beard, prominent jaw, all-black clothing with a small white ruff, gold chain, stern face.
+- THE SPANISH KING (original character, 16th-century monarch): round beige head, short grey-blond beard, prominent jaw, all-black clothing with a small white ruff, gold chain, stern face.
 
 ON-SCREEN TEXT: none.
 
@@ -3080,12 +3080,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: King Philip scowling at a map.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: The Spanish king scowling at a map.
 
 CHARACTERS IN FRAME:
-- KING PHILIP II OF SPAIN (simplified caricature): round beige head, short grey-blond beard, prominent jaw, all-black clothing with a small white ruff, gold chain, stern face.
+- THE SPANISH KING (original character, 16th-century monarch): round beige head, short grey-blond beard, prominent jaw, all-black clothing with a small white ruff, gold chain, stern face.
 
 ON-SCREEN TEXT: none.
 
@@ -3107,12 +3107,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: King Philip scowling at a map.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: The Spanish king scowling at a map.
 
 CHARACTERS IN FRAME:
-- KING PHILIP II OF SPAIN (simplified caricature): round beige head, short grey-blond beard, prominent jaw, all-black clothing with a small white ruff, gold chain, stern face.
+- THE SPANISH KING (original character, 16th-century monarch): round beige head, short grey-blond beard, prominent jaw, all-black clothing with a small white ruff, gold chain, stern face.
 
 ON-SCREEN TEXT: none.
 
@@ -3134,7 +3134,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Spanish ships sailing along the coast. Wide/establishing framing.
 
@@ -3158,7 +3158,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Spanish ships sailing along the coast.
 
@@ -3182,7 +3182,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Red question mark.
 
@@ -3206,7 +3206,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Huge stacks of Spanish archive documents.
 
@@ -3230,7 +3230,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Spanish officials celebrating in a dream bubble. Wide/establishing framing.
 
@@ -3254,7 +3254,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Spanish officials celebrating in a dream bubble.
 
@@ -3278,7 +3278,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Empty archive page.
 
@@ -3302,7 +3302,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Theory card stamped 'UNLIKELY'.
 
@@ -3326,7 +3326,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Theory card with a small boat in a storm. Wide/establishing framing.
 
@@ -3350,7 +3350,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Theory card with a small boat in a storm.
 
@@ -3374,7 +3374,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Theory card with a small boat in a storm.
 
@@ -3398,7 +3398,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: A small pinnace boat with a few colonists.
 
@@ -3425,7 +3425,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: An overloaded tiny boat with dozens of people, comically impossible. Wide/establishing framing.
 
@@ -3452,7 +3452,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: An overloaded tiny boat with dozens of people, comically impossible.
 
@@ -3479,7 +3479,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Theory card with crossed arrows.
 
@@ -3503,7 +3503,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Dark background.
 
@@ -3527,7 +3527,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Jamestown fort with colonists listening to rumours. Wide/establishing framing.
 
@@ -3554,7 +3554,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Jamestown fort with colonists listening to rumours.
 
@@ -3581,7 +3581,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Jamestown fort with colonists listening to rumours.
 
@@ -3608,14 +3608,14 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
-SCENE: Powhatan seated on a raised platform in a longhouse, speaking. Wide/establishing framing.
+SCENE: The paramount chief seated on a raised platform in a longhouse, speaking. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- POWHATAN (paramount chief, elderly): round head with warm medium-brown skin, grey-streaked black hair, a large deerskin mantle decorated with white shell patterns, strings of pearls, stern powerful expression.
+- THE PARAMOUNT CHIEF (original character, elderly Algonquian leader): round head with warm medium-brown skin, grey-streaked black hair, a large deerskin mantle decorated with white shell patterns, strings of pearls, stern powerful expression.
 
-ON-SCREEN TEXT: "Powhatan" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Ominous.
 
@@ -3635,14 +3635,14 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Powhatan seated on a raised platform in a longhouse, speaking.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: The paramount chief seated on a raised platform in a longhouse, speaking.
 
 CHARACTERS IN FRAME:
-- POWHATAN (paramount chief, elderly): round head with warm medium-brown skin, grey-streaked black hair, a large deerskin mantle decorated with white shell patterns, strings of pearls, stern powerful expression.
+- THE PARAMOUNT CHIEF (original character, elderly Algonquian leader): round head with warm medium-brown skin, grey-streaked black hair, a large deerskin mantle decorated with white shell patterns, strings of pearls, stern powerful expression.
 
-ON-SCREEN TEXT: "Powhatan" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Ominous.
 
@@ -3662,14 +3662,14 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Powhatan seated on a raised platform in a longhouse, speaking.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: The paramount chief seated on a raised platform in a longhouse, speaking.
 
 CHARACTERS IN FRAME:
-- POWHATAN (paramount chief, elderly): round head with warm medium-brown skin, grey-streaked black hair, a large deerskin mantle decorated with white shell patterns, strings of pearls, stern powerful expression.
+- THE PARAMOUNT CHIEF (original character, elderly Algonquian leader): round head with warm medium-brown skin, grey-streaked black hair, a large deerskin mantle decorated with white shell patterns, strings of pearls, stern powerful expression.
 
-ON-SCREEN TEXT: "Powhatan" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Ominous.
 
@@ -3689,7 +3689,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Map pointing north to the Chesapeake. Wide/establishing framing.
 
@@ -3713,7 +3713,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Map pointing north to the Chesapeake.
 
@@ -3737,7 +3737,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Map pointing north to the Chesapeake.
 
@@ -3761,7 +3761,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Historians debating. Wide/establishing framing.
 
@@ -3788,7 +3788,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Historians debating.
 
@@ -3815,7 +3815,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Dotted route to the Chesapeake. Wide/establishing framing.
 
@@ -3839,7 +3839,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Dotted route to the Chesapeake.
 
@@ -3863,7 +3863,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Dotted route to the Chesapeake.
 
@@ -3887,7 +3887,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Empty evidence box. Wide/establishing framing.
 
@@ -3911,7 +3911,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Empty evidence box.
 
@@ -3935,7 +3935,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Shadowy figure of a dead tree.
 
@@ -3959,7 +3959,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Dry cracked land under a blazing sun.
 
@@ -3983,7 +3983,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Modern scientists taking core samples from huge bald cypress trees in a swamp. Wide/establishing framing.
 
@@ -4010,7 +4010,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Modern scientists taking core samples from huge bald cypress trees in a swamp.
 
@@ -4037,7 +4037,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Close-up of tree rings with a narrow band highlighted. Wide/establishing framing.
 
@@ -4061,7 +4061,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Close-up of tree rings with a narrow band highlighted.
 
@@ -4085,7 +4085,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Tree rings labelled '1587–1589' with tiny thin rings. Wide/establishing framing.
 
@@ -4109,7 +4109,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 4), small change in pose/expression to show the moment progressing: Tree rings labelled '1587–1589' with tiny thin rings.
 
@@ -4133,7 +4133,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 4), small change in pose/expression to show the moment progressing: Tree rings labelled '1587–1589' with tiny thin rings.
 
@@ -4157,7 +4157,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 4 of 4), small change in pose/expression to show the moment progressing: Tree rings labelled '1587–1589' with tiny thin rings.
 
@@ -4181,7 +4181,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Withered cornfields.
 
@@ -4205,7 +4205,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Both colonists and Native villagers staring at dead crops.
 
@@ -4233,7 +4233,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Empty baskets in both camps. Wide/establishing framing.
 
@@ -4261,7 +4261,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Empty baskets in both camps.
 
@@ -4289,7 +4289,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Empty baskets in both camps.
 
@@ -4317,7 +4317,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Colonists sitting around an empty pot. Wide/establishing framing.
 
@@ -4344,7 +4344,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: Elizabethan period, 1584-1590, England and the coast of present-day North Carolina, unless the scene says otherwise (some scenes are 1701 or the present day); accurate period clothing, ships and buildings, all simplified into the flat cartoon style.
 
-HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, Powhatan's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
+HISTORICAL CONTEXT: Investigative montage: Spanish ships along the Atlantic coast, Jamestown fort in 1607, the paramount chief's longhouse, Chesapeake Bay, ancient bald cypress trees in a blackwater swamp, drought-cracked fields.
 
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Colonists sitting around an empty pot.
 

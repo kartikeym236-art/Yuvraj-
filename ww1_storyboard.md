@@ -2,7 +2,7 @@
 
 Each line of the voiceover is one shot of about 1–3 seconds. Each prompt box is **self-contained**: paste it on its own into any image model (Midjourney, GPT-Image, Flux, Ideogram, etc.) and it carries the full style, characters and scene.
 
-**Style target:** the reference frames, i.e. a flat hand-drawn 2D explainer cartoon with big round heads, stick limbs, thick wobbly black outlines, one cel-shade tone, a muted palette and handwritten captions.
+**Style target:** the reference frames, i.e. A flat hand-drawn 2D explainer cartoon with big round heads, stick limbs, thick wobbly black outlines, one cel-shade tone, a muted palette and handwritten captions.
 
 **Tips:** use 16:9 (e.g. `--ar 16:9`). To keep characters consistent, generate a character sheet first and pass it as a reference image together with these prompts. Durations assume about 2.7 spoken words per second.
 
@@ -15,14 +15,14 @@ Each line of the voiceover is one shot of about 1–3 seconds. Each prompt box i
 - FRENCH SOLDIER (poilu): round beige head, big bushy black mustache. 1914: dark-blue greatcoat, bright red trousers, red-and-blue kepi cap. From 1915: horizon-blue greatcoat and the crested blue-grey Adrian steel helmet.
 - GERMAN SOLDIER: round beige head, blond mustache. Field-grey uniform and greatcoat, black leather boots; 1914: spiked leather Pickelhaube helmet with grey cloth cover; from 1916: coal-scuttle-shaped grey Stahlhelm steel helmet.
 - RUSSIAN SOLDIER: round beige head, brown beard, khaki-olive gymnastyorka tunic belted at the waist, soft peaked khaki cap, rolled greatcoat over one shoulder.
-- ARCHDUKE FRANZ FERDINAND (heir to Austria-Hungary, simplified caricature in this style): round beige head, short dark hair, large upturned dark mustache, pale-blue Austrian general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
-- SOPHIE, DUCHESS OF HOHENBERG (Franz Ferdinand's wife, simplified caricature): round beige head, dark hair up, long white Edwardian dress, wide white hat with a white ostrich feather, small bouquet of red roses.
-- GAVRILO PRINCIP (19-year-old Bosnian Serb, simplified caricature): thin small body, round pale-beige head, messy dark hair, faint dark mustache shadow, sunken intense eyes, plain dark suit and white shirt.
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
-- TSAR NICHOLAS II (Russian Emperor, simplified caricature): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
-- VLADIMIR LENIN (simplified caricature): round beige head, bald domed top with reddish-brown hair at the sides, short reddish-brown goatee and mustache, dark three-piece suit, flat cap held in one hand.
-- MANFRED VON RICHTHOFEN, 'THE RED BARON' (simplified caricature): young, round beige head, light-brown slicked hair, brown leather flying helmet with goggles pushed up, long brown leather flying coat, plain white scarf.
-- WOODROW WILSON (28th US President, simplified caricature): round beige head, grey hair, rimless pince-nez glasses, long serious face shape within the round head, dark suit.
+- THE ARCHDUKE (original character, heir to a central-European empire, 1914): round beige head, short dark hair, large upturned dark mustache, pale-blue general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
+- THE ARCHDUKE'S WIFE (original character, 1914): round beige head, dark hair up, long white Edwardian dress, wide white hat with a white ostrich feather, small bouquet of red roses.
+- THE YOUNG ASSASSIN (original character, 19-year-old revolutionary): thin small body, round pale-beige head, messy dark hair, faint dark mustache shadow, sunken intense eyes, plain dark suit and white shirt.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
+- THE RUSSIAN EMPEROR (original character, 1914 monarch): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
+- THE REVOLUTIONARY LEADER (original character, 1917): round beige head, bald domed top with reddish-brown hair at the sides, short reddish-brown goatee and mustache, dark three-piece suit, flat cap held in one hand.
+- THE ACE PILOT (original character, young WWI fighter pilot): round beige head, light-brown slicked hair, brown leather flying helmet with goggles pushed up, long brown leather flying coat, plain white scarf.
+- THE AMERICAN PRESIDENT (original character, 1917): round beige head, grey hair, rimless pince-nez glasses, long serious face shape within the round head, dark suit.
 
 
 ---
@@ -362,7 +362,7 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: England and Europe, summer 1914, everyday Edwardian life suddenly interrupted by war.
 
-SCENE: Line-up on a plain grey background: a machine gun, a rhomboid-shaped early tank, a gas mask and a biplane.
+SCENE: Line-up on a plain grey background: A machine gun, a rhomboid-shaped early tank, a gas mask and a biplane.
 
 ON-SCREEN TEXT: none.
 
@@ -485,7 +485,7 @@ HISTORICAL CONTEXT: England and Europe, summer 1914, everyday Edwardian life sud
 SCENE: A single small figure in a pale-blue uniform with a feathered cap standing alone in a spotlight on a dark stage.
 
 CHARACTERS IN FRAME:
-- ARCHDUKE FRANZ FERDINAND (heir to Austria-Hungary, simplified caricature in this style): round beige head, short dark hair, large upturned dark mustache, pale-blue Austrian general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
+- THE ARCHDUKE (original character, heir to a central-European empire, 1914): round beige head, short dark hair, large upturned dark mustache, pale-blue general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
 
 ON-SCREEN TEXT: none.
 
@@ -1271,10 +1271,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Europe around 1900-1914 at the height of its imperial power: grand capitals, factories, colonial maps, top-hatted statesmen.
 
-SCENE: Kaiser Wilhelm II holding a tiny slice of map, looking enviously at the big piles. Wide/establishing framing.
+SCENE: The German emperor holding a tiny slice of map, looking enviously at the big piles. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
 - DIPLOMATS / POLITICIANS: generic bean-men in black frock coats or morning suits, white wing collars, top hats or bowler hats, varied mustaches.
 
 ON-SCREEN TEXT: none.
@@ -1299,10 +1299,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Europe around 1900-1914 at the height of its imperial power: grand capitals, factories, colonial maps, top-hatted statesmen.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Kaiser Wilhelm II holding a tiny slice of map, looking enviously at the big piles.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: The German emperor holding a tiny slice of map, looking enviously at the big piles.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
 - DIPLOMATS / POLITICIANS: generic bean-men in black frock coats or morning suits, white wing collars, top hats or bowler hats, varied mustaches.
 
 ON-SCREEN TEXT: none.
@@ -1327,10 +1327,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Europe around 1900-1914 at the height of its imperial power: grand capitals, factories, colonial maps, top-hatted statesmen.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Kaiser Wilhelm II holding a tiny slice of map, looking enviously at the big piles.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: The German emperor holding a tiny slice of map, looking enviously at the big piles.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
 - DIPLOMATS / POLITICIANS: generic bean-men in black frock coats or morning suits, white wing collars, top hats or bowler hats, varied mustaches.
 
 ON-SCREEN TEXT: none.
@@ -1358,7 +1358,7 @@ HISTORICAL CONTEXT: Europe around 1900-1914 at the height of its imperial power:
 SCENE: The three figures glare at each other, lightning bolts crackling between them.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
 - DIPLOMATS / POLITICIANS: generic bean-men in black frock coats or morning suits, white wing collars, top hats or bowler hats, varied mustaches.
 
 ON-SCREEN TEXT: none.
@@ -2123,10 +2123,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Pre-war European diplomacy: maps of Europe split into two colour-coded alliance blocs, national flags, uniformed soldiers of each power.
 
-SCENE: Kaiser Wilhelm II and an elderly Austrian emperor with white side-whiskers shaking hands warmly.
+SCENE: The German emperor and an elderly Austrian emperor with white side-whiskers shaking hands warmly.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
 
 ON-SCREEN TEXT: none.
 
@@ -2646,10 +2646,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: The Balkan peninsula around 1900-1914: mountainous terrain, small towns with red-tiled roofs, minarets and church domes, national rivalries.
 
-SCENE: Tsar Nicholas II standing protectively behind a small Serbian figure, hand on shoulder. Wide/establishing framing.
+SCENE: The Russian emperor standing protectively behind a small Serbian figure, hand on shoulder. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- TSAR NICHOLAS II (Russian Emperor, simplified caricature): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
+- THE RUSSIAN EMPEROR (original character, 1914 monarch): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
 
 ON-SCREEN TEXT: none.
 
@@ -2673,10 +2673,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: The Balkan peninsula around 1900-1914: mountainous terrain, small towns with red-tiled roofs, minarets and church domes, national rivalries.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 4), small change in pose/expression to show the moment progressing: Tsar Nicholas II standing protectively behind a small Serbian figure, hand on shoulder.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 4), small change in pose/expression to show the moment progressing: The Russian emperor standing protectively behind a small Serbian figure, hand on shoulder.
 
 CHARACTERS IN FRAME:
-- TSAR NICHOLAS II (Russian Emperor, simplified caricature): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
+- THE RUSSIAN EMPEROR (original character, 1914 monarch): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
 
 ON-SCREEN TEXT: none.
 
@@ -2700,10 +2700,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: The Balkan peninsula around 1900-1914: mountainous terrain, small towns with red-tiled roofs, minarets and church domes, national rivalries.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 4), small change in pose/expression to show the moment progressing: Tsar Nicholas II standing protectively behind a small Serbian figure, hand on shoulder.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 4), small change in pose/expression to show the moment progressing: The Russian emperor standing protectively behind a small Serbian figure, hand on shoulder.
 
 CHARACTERS IN FRAME:
-- TSAR NICHOLAS II (Russian Emperor, simplified caricature): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
+- THE RUSSIAN EMPEROR (original character, 1914 monarch): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
 
 ON-SCREEN TEXT: none.
 
@@ -2727,10 +2727,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: The Balkan peninsula around 1900-1914: mountainous terrain, small towns with red-tiled roofs, minarets and church domes, national rivalries.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 4 of 4), small change in pose/expression to show the moment progressing: Tsar Nicholas II standing protectively behind a small Serbian figure, hand on shoulder.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 4 of 4), small change in pose/expression to show the moment progressing: The Russian emperor standing protectively behind a small Serbian figure, hand on shoulder.
 
 CHARACTERS IN FRAME:
-- TSAR NICHOLAS II (Russian Emperor, simplified caricature): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
+- THE RUSSIAN EMPEROR (original character, 1914 monarch): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
 
 ON-SCREEN TEXT: none.
 
@@ -2754,10 +2754,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: The Balkan peninsula around 1900-1914: mountainous terrain, small towns with red-tiled roofs, minarets and church domes, national rivalries.
 
-SCENE: Kaiser Wilhelm II standing behind the Austro-Hungarian official, arms crossed.
+SCENE: The German emperor standing behind the Austro-Hungarian official, arms crossed.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
 - DIPLOMATS / POLITICIANS: generic bean-men in black frock coats or morning suits, white wing collars, top hats or bowler hats, varied mustaches.
 
 ON-SCREEN TEXT: none.
@@ -2782,11 +2782,11 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: The Balkan peninsula around 1900-1914: mountainous terrain, small towns with red-tiled roofs, minarets and church domes, national rivalries.
 
-SCENE: Strings from the Kaiser, the Tsar, Britain and France all tied to the tiny Balkans on the map. Wide/establishing framing.
+SCENE: Strings from the the German emperor, the the Russian emperor, Britain and France all tied to the tiny Balkans on the map. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
-- TSAR NICHOLAS II (Russian Emperor, simplified caricature): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
+- THE RUSSIAN EMPEROR (original character, 1914 monarch): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
 
 ON-SCREEN TEXT: none.
 
@@ -2810,11 +2810,11 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: The Balkan peninsula around 1900-1914: mountainous terrain, small towns with red-tiled roofs, minarets and church domes, national rivalries.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Strings from the Kaiser, the Tsar, Britain and France all tied to the tiny Balkans on the map.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Strings from the the German emperor, the the Russian emperor, Britain and France all tied to the tiny Balkans on the map.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
-- TSAR NICHOLAS II (Russian Emperor, simplified caricature): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
+- THE RUSSIAN EMPEROR (original character, 1914 monarch): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
 
 ON-SCREEN TEXT: none.
 
@@ -2939,12 +2939,12 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Sarajevo, Bosnia, sunny morning of 28 June 1914: riverside streets, Latin Bridge, low Austro-Hungarian and Ottoman-style buildings, open-top black motorcar, onlookers lining the pavements.
 
-SCENE: Franz Ferdinand standing proudly in uniform, a golden throne behind him. Wide/establishing framing.
+SCENE: The archduke standing proudly in uniform, a golden throne behind him. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- ARCHDUKE FRANZ FERDINAND (heir to Austria-Hungary, simplified caricature in this style): round beige head, short dark hair, large upturned dark mustache, pale-blue Austrian general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
+- THE ARCHDUKE (original character, heir to a central-European empire, 1914): round beige head, short dark hair, large upturned dark mustache, pale-blue general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
 
-ON-SCREEN TEXT: "Archduke Franz Ferdinand" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Regal.
 
@@ -2966,12 +2966,12 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Sarajevo, Bosnia, sunny morning of 28 June 1914: riverside streets, Latin Bridge, low Austro-Hungarian and Ottoman-style buildings, open-top black motorcar, onlookers lining the pavements.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Franz Ferdinand standing proudly in uniform, a golden throne behind him.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The archduke standing proudly in uniform, a golden throne behind him.
 
 CHARACTERS IN FRAME:
-- ARCHDUKE FRANZ FERDINAND (heir to Austria-Hungary, simplified caricature in this style): round beige head, short dark hair, large upturned dark mustache, pale-blue Austrian general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
+- THE ARCHDUKE (original character, heir to a central-European empire, 1914): round beige head, short dark hair, large upturned dark mustache, pale-blue general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
 
-ON-SCREEN TEXT: "Archduke Franz Ferdinand" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Regal.
 
@@ -3098,7 +3098,7 @@ HISTORICAL CONTEXT: Sarajevo, Bosnia, sunny morning of 28 June 1914: riverside s
 SCENE: Dim back room: young men around a table with a map of the route, candle light. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- GAVRILO PRINCIP (19-year-old Bosnian Serb, simplified caricature): thin small body, round pale-beige head, messy dark hair, faint dark mustache shadow, sunken intense eyes, plain dark suit and white shirt.
+- THE YOUNG ASSASSIN (original character, 19-year-old revolutionary): thin small body, round pale-beige head, messy dark hair, faint dark mustache shadow, sunken intense eyes, plain dark suit and white shirt.
 
 ON-SCREEN TEXT: none.
 
@@ -3125,7 +3125,7 @@ HISTORICAL CONTEXT: Sarajevo, Bosnia, sunny morning of 28 June 1914: riverside s
 SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Dim back room: young men around a table with a map of the route, candle light.
 
 CHARACTERS IN FRAME:
-- GAVRILO PRINCIP (19-year-old Bosnian Serb, simplified caricature): thin small body, round pale-beige head, messy dark hair, faint dark mustache shadow, sunken intense eyes, plain dark suit and white shirt.
+- THE YOUNG ASSASSIN (original character, 19-year-old revolutionary): thin small body, round pale-beige head, messy dark hair, faint dark mustache shadow, sunken intense eyes, plain dark suit and white shirt.
 
 ON-SCREEN TEXT: none.
 
@@ -3149,12 +3149,12 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Sarajevo, Bosnia, sunny morning of 28 June 1914: riverside streets, Latin Bridge, low Austro-Hungarian and Ottoman-style buildings, open-top black motorcar, onlookers lining the pavements.
 
-SCENE: Close-up of Princip, intense eyes, dim light.
+SCENE: Close-up of the young assassin, intense eyes, dim light.
 
 CHARACTERS IN FRAME:
-- GAVRILO PRINCIP (19-year-old Bosnian Serb, simplified caricature): thin small body, round pale-beige head, messy dark hair, faint dark mustache shadow, sunken intense eyes, plain dark suit and white shirt.
+- THE YOUNG ASSASSIN (original character, 19-year-old revolutionary): thin small body, round pale-beige head, messy dark hair, faint dark mustache shadow, sunken intense eyes, plain dark suit and white shirt.
 
-ON-SCREEN TEXT: "Gavrilo Princip, 19" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Tense.
 
@@ -3176,11 +3176,11 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Sarajevo, Bosnia, sunny morning of 28 June 1914: riverside streets, Latin Bridge, low Austro-Hungarian and Ottoman-style buildings, open-top black motorcar, onlookers lining the pavements.
 
-SCENE: Open-top black car with Franz and Sophie; a small round bomb arcs through the air toward it. Wide/establishing framing.
+SCENE: Open-top black car with the archduke and the archduke's wife; a small round bomb arcs through the air toward it. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- ARCHDUKE FRANZ FERDINAND (heir to Austria-Hungary, simplified caricature in this style): round beige head, short dark hair, large upturned dark mustache, pale-blue Austrian general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
-- SOPHIE, DUCHESS OF HOHENBERG (Franz Ferdinand's wife, simplified caricature): round beige head, dark hair up, long white Edwardian dress, wide white hat with a white ostrich feather, small bouquet of red roses.
+- THE ARCHDUKE (original character, heir to a central-European empire, 1914): round beige head, short dark hair, large upturned dark mustache, pale-blue general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
+- THE ARCHDUKE'S WIFE (original character, 1914): round beige head, dark hair up, long white Edwardian dress, wide white hat with a white ostrich feather, small bouquet of red roses.
 - BACKGROUND CIVILIANS: generic bean-people in Edwardian clothes: long dresses, wide hats, flat caps, bowler hats, waistcoats, simple expressions.
 
 ON-SCREEN TEXT: none.
@@ -3205,11 +3205,11 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Sarajevo, Bosnia, sunny morning of 28 June 1914: riverside streets, Latin Bridge, low Austro-Hungarian and Ottoman-style buildings, open-top black motorcar, onlookers lining the pavements.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Open-top black car with Franz and Sophie; a small round bomb arcs through the air toward it.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Open-top black car with the archduke and the archduke's wife; a small round bomb arcs through the air toward it.
 
 CHARACTERS IN FRAME:
-- ARCHDUKE FRANZ FERDINAND (heir to Austria-Hungary, simplified caricature in this style): round beige head, short dark hair, large upturned dark mustache, pale-blue Austrian general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
-- SOPHIE, DUCHESS OF HOHENBERG (Franz Ferdinand's wife, simplified caricature): round beige head, dark hair up, long white Edwardian dress, wide white hat with a white ostrich feather, small bouquet of red roses.
+- THE ARCHDUKE (original character, heir to a central-European empire, 1914): round beige head, short dark hair, large upturned dark mustache, pale-blue general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
+- THE ARCHDUKE'S WIFE (original character, 1914): round beige head, dark hair up, long white Edwardian dress, wide white hat with a white ostrich feather, small bouquet of red roses.
 - BACKGROUND CIVILIANS: generic bean-people in Edwardian clothes: long dresses, wide hats, flat caps, bowler hats, waistcoats, simple expressions.
 
 ON-SCREEN TEXT: none.
@@ -3234,11 +3234,11 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Sarajevo, Bosnia, sunny morning of 28 June 1914: riverside streets, Latin Bridge, low Austro-Hungarian and Ottoman-style buildings, open-top black motorcar, onlookers lining the pavements.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Open-top black car with Franz and Sophie; a small round bomb arcs through the air toward it.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Open-top black car with the archduke and the archduke's wife; a small round bomb arcs through the air toward it.
 
 CHARACTERS IN FRAME:
-- ARCHDUKE FRANZ FERDINAND (heir to Austria-Hungary, simplified caricature in this style): round beige head, short dark hair, large upturned dark mustache, pale-blue Austrian general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
-- SOPHIE, DUCHESS OF HOHENBERG (Franz Ferdinand's wife, simplified caricature): round beige head, dark hair up, long white Edwardian dress, wide white hat with a white ostrich feather, small bouquet of red roses.
+- THE ARCHDUKE (original character, heir to a central-European empire, 1914): round beige head, short dark hair, large upturned dark mustache, pale-blue general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
+- THE ARCHDUKE'S WIFE (original character, 1914): round beige head, dark hair up, long white Edwardian dress, wide white hat with a white ostrich feather, small bouquet of red roses.
 - BACKGROUND CIVILIANS: generic bean-people in Edwardian clothes: long dresses, wide hats, flat caps, bowler hats, waistcoats, simple expressions.
 
 ON-SCREEN TEXT: none.
@@ -3317,11 +3317,11 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Sarajevo, Bosnia, sunny morning of 28 June 1914: riverside streets, Latin Bridge, low Austro-Hungarian and Ottoman-style buildings, open-top black motorcar, onlookers lining the pavements.
 
-SCENE: Franz at a town-hall balcony giving a speech, Sophie beside him.
+SCENE: The archduke at a town-hall balcony giving a speech, the archduke's wife beside him.
 
 CHARACTERS IN FRAME:
-- ARCHDUKE FRANZ FERDINAND (heir to Austria-Hungary, simplified caricature in this style): round beige head, short dark hair, large upturned dark mustache, pale-blue Austrian general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
-- SOPHIE, DUCHESS OF HOHENBERG (Franz Ferdinand's wife, simplified caricature): round beige head, dark hair up, long white Edwardian dress, wide white hat with a white ostrich feather, small bouquet of red roses.
+- THE ARCHDUKE (original character, heir to a central-European empire, 1914): round beige head, short dark hair, large upturned dark mustache, pale-blue general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
+- THE ARCHDUKE'S WIFE (original character, 1914): round beige head, dark hair up, long white Edwardian dress, wide white hat with a white ostrich feather, small bouquet of red roses.
 
 ON-SCREEN TEXT: none.
 
@@ -3396,8 +3396,8 @@ HISTORICAL CONTEXT: Sarajevo, Bosnia, sunny morning of 28 June 1914: riverside s
 SCENE: The car stopped at a corner beside a small delicatessen shop.
 
 CHARACTERS IN FRAME:
-- ARCHDUKE FRANZ FERDINAND (heir to Austria-Hungary, simplified caricature in this style): round beige head, short dark hair, large upturned dark mustache, pale-blue Austrian general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
-- SOPHIE, DUCHESS OF HOHENBERG (Franz Ferdinand's wife, simplified caricature): round beige head, dark hair up, long white Edwardian dress, wide white hat with a white ostrich feather, small bouquet of red roses.
+- THE ARCHDUKE (original character, heir to a central-European empire, 1914): round beige head, short dark hair, large upturned dark mustache, pale-blue general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
+- THE ARCHDUKE'S WIFE (original character, 1914): round beige head, dark hair up, long white Edwardian dress, wide white hat with a white ostrich feather, small bouquet of red roses.
 
 ON-SCREEN TEXT: none.
 
@@ -3421,10 +3421,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Sarajevo, Bosnia, sunny morning of 28 June 1914: riverside streets, Latin Bridge, low Austro-Hungarian and Ottoman-style buildings, open-top black motorcar, onlookers lining the pavements.
 
-SCENE: Princip standing outside the shop, eyes widening as he spots the car.
+SCENE: The young assassin standing outside the shop, eyes widening as he spots the car.
 
 CHARACTERS IN FRAME:
-- GAVRILO PRINCIP (19-year-old Bosnian Serb, simplified caricature): thin small body, round pale-beige head, messy dark hair, faint dark mustache shadow, sunken intense eyes, plain dark suit and white shirt.
+- THE YOUNG ASSASSIN (original character, 19-year-old revolutionary): thin small body, round pale-beige head, messy dark hair, faint dark mustache shadow, sunken intense eyes, plain dark suit and white shirt.
 
 ON-SCREEN TEXT: none.
 
@@ -3448,12 +3448,12 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Sarajevo, Bosnia, sunny morning of 28 June 1914: riverside streets, Latin Bridge, low Austro-Hungarian and Ottoman-style buildings, open-top black motorcar, onlookers lining the pavements.
 
-SCENE: Princip raises a small pistol toward the car; two jagged 'BANG' bubbles. No blood.
+SCENE: The young assassin raises a small pistol toward the car; two jagged 'BANG' bubbles. No blood.
 
 CHARACTERS IN FRAME:
-- GAVRILO PRINCIP (19-year-old Bosnian Serb, simplified caricature): thin small body, round pale-beige head, messy dark hair, faint dark mustache shadow, sunken intense eyes, plain dark suit and white shirt.
-- ARCHDUKE FRANZ FERDINAND (heir to Austria-Hungary, simplified caricature in this style): round beige head, short dark hair, large upturned dark mustache, pale-blue Austrian general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
-- SOPHIE, DUCHESS OF HOHENBERG (Franz Ferdinand's wife, simplified caricature): round beige head, dark hair up, long white Edwardian dress, wide white hat with a white ostrich feather, small bouquet of red roses.
+- THE YOUNG ASSASSIN (original character, 19-year-old revolutionary): thin small body, round pale-beige head, messy dark hair, faint dark mustache shadow, sunken intense eyes, plain dark suit and white shirt.
+- THE ARCHDUKE (original character, heir to a central-European empire, 1914): round beige head, short dark hair, large upturned dark mustache, pale-blue general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
+- THE ARCHDUKE'S WIFE (original character, 1914): round beige head, dark hair up, long white Edwardian dress, wide white hat with a white ostrich feather, small bouquet of red roses.
 
 ON-SCREEN TEXT: "BANG! BANG!" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -3477,10 +3477,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Sarajevo, Bosnia, sunny morning of 28 June 1914: riverside streets, Latin Bridge, low Austro-Hungarian and Ottoman-style buildings, open-top black motorcar, onlookers lining the pavements.
 
-SCENE: Franz Ferdinand slumps in the car seat, eyes closed; feathered cap falling. No blood.
+SCENE: The archduke slumps in the car seat, eyes closed; feathered cap falling. No blood.
 
 CHARACTERS IN FRAME:
-- ARCHDUKE FRANZ FERDINAND (heir to Austria-Hungary, simplified caricature in this style): round beige head, short dark hair, large upturned dark mustache, pale-blue Austrian general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
+- THE ARCHDUKE (original character, heir to a central-European empire, 1914): round beige head, short dark hair, large upturned dark mustache, pale-blue general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
 
 ON-SCREEN TEXT: none.
 
@@ -3504,11 +3504,11 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Sarajevo, Bosnia, sunny morning of 28 June 1914: riverside streets, Latin Bridge, low Austro-Hungarian and Ottoman-style buildings, open-top black motorcar, onlookers lining the pavements.
 
-SCENE: Sophie slumps against him; her roses fall to the car floor.
+SCENE: The archduke's wife slumps against him; her roses fall to the car floor.
 
 CHARACTERS IN FRAME:
-- SOPHIE, DUCHESS OF HOHENBERG (Franz Ferdinand's wife, simplified caricature): round beige head, dark hair up, long white Edwardian dress, wide white hat with a white ostrich feather, small bouquet of red roses.
-- ARCHDUKE FRANZ FERDINAND (heir to Austria-Hungary, simplified caricature in this style): round beige head, short dark hair, large upturned dark mustache, pale-blue Austrian general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
+- THE ARCHDUKE'S WIFE (original character, 1914): round beige head, dark hair up, long white Edwardian dress, wide white hat with a white ostrich feather, small bouquet of red roses.
+- THE ARCHDUKE (original character, heir to a central-European empire, 1914): round beige head, short dark hair, large upturned dark mustache, pale-blue general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
 
 ON-SCREEN TEXT: none.
 
@@ -3744,10 +3744,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: July-August 1914: diplomats in ornate government offices, telegrams, declarations of war, mobilising armies and crowded railway stations.
 
-SCENE: Kaiser Wilhelm II pats the Austrian official on the back.
+SCENE: The German emperor pats the Austrian official on the back.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
 - DIPLOMATS / POLITICIANS: generic bean-men in black frock coats or morning suits, white wing collars, top hats or bowler hats, varied mustaches.
 
 ON-SCREEN TEXT: none.
@@ -3772,7 +3772,7 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: July-August 1914: diplomats in ornate government offices, telegrams, declarations of war, mobilising armies and crowded railway stations.
 
-SCENE: A blank cheque signed by the Kaiser with the amount left empty.
+SCENE: A blank cheque signed by the the German emperor with the amount left empty.
 
 ON-SCREEN TEXT: "The Blank Cheque" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -3796,10 +3796,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: July-August 1914: diplomats in ornate government offices, telegrams, declarations of war, mobilising armies and crowded railway stations.
 
-SCENE: The Kaiser hands over the blank cheque; Austria grins. Wide/establishing framing.
+SCENE: The the German emperor hands over the blank cheque; Austria grins. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
 - DIPLOMATS / POLITICIANS: generic bean-men in black frock coats or morning suits, white wing collars, top hats or bowler hats, varied mustaches.
 
 ON-SCREEN TEXT: none.
@@ -3824,10 +3824,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: July-August 1914: diplomats in ornate government offices, telegrams, declarations of war, mobilising armies and crowded railway stations.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The Kaiser hands over the blank cheque; Austria grins.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The the German emperor hands over the blank cheque; Austria grins.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
 - DIPLOMATS / POLITICIANS: generic bean-men in black frock coats or morning suits, white wing collars, top hats or bowler hats, varied mustaches.
 
 ON-SCREEN TEXT: none.
@@ -4011,11 +4011,11 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: July-August 1914: diplomats in ornate government offices, telegrams, declarations of war, mobilising armies and crowded railway stations.
 
-SCENE: Russian soldiers boarding trains with the Tsar watching.
+SCENE: Russian soldiers boarding trains with the the Russian emperor watching.
 
 CHARACTERS IN FRAME:
 - RUSSIAN SOLDIER: round beige head, brown beard, khaki-olive gymnastyorka tunic belted at the waist, soft peaked khaki cap, rolled greatcoat over one shoulder.
-- TSAR NICHOLAS II (Russian Emperor, simplified caricature): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
+- THE RUSSIAN EMPEROR (original character, 1914 monarch): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
 - GENERIC SOLDIERS: many identical-style bean-soldiers in period uniforms (khaki British, blue French, field-grey German as appropriate), helmets, rifles, packs.
 
 ON-SCREEN TEXT: none.
@@ -4040,10 +4040,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: July-August 1914: diplomats in ornate government offices, telegrams, declarations of war, mobilising armies and crowded railway stations.
 
-SCENE: Kaiser pointing east angrily; text.
+SCENE: The German emperor pointing east angrily; text.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
 
 ON-SCREEN TEXT: "Aug 1" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -4067,10 +4067,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: July-August 1914: diplomats in ornate government offices, telegrams, declarations of war, mobilising armies and crowded railway stations.
 
-SCENE: Kaiser pointing west.
+SCENE: The German emperor pointing west.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
 
 ON-SCREEN TEXT: "Aug 3" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -4583,7 +4583,7 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Western Front, August-September 1914: German, Belgian, French and British armies in early-war uniforms (spiked helmets, French red trousers, British khaki caps), open countryside and roads.
 
-SCENE: Map: a huge curved red arrow sweeps from Germany through Belgium and down toward Paris. Wide/establishing framing.
+SCENE: Map: A huge curved red arrow sweeps from Germany through Belgium and down toward Paris. Wide/establishing framing.
 
 ON-SCREEN TEXT: none.
 
@@ -4607,7 +4607,7 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Western Front, August-September 1914: German, Belgian, French and British armies in early-war uniforms (spiked helmets, French red trousers, British khaki caps), open countryside and roads.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Map: a huge curved red arrow sweeps from Germany through Belgium and down toward Paris.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Map: A huge curved red arrow sweeps from Germany through Belgium and down toward Paris.
 
 ON-SCREEN TEXT: none.
 
@@ -4631,7 +4631,7 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Western Front, August-September 1914: German, Belgian, French and British armies in early-war uniforms (spiked helmets, French red trousers, British khaki caps), open countryside and roads.
 
-SCENE: Map: a train full of German soldiers racing from France across Germany toward Russia.
+SCENE: Map: A train full of German soldiers racing from France across Germany toward Russia.
 
 CHARACTERS IN FRAME:
 - GERMAN SOLDIER: round beige head, blond mustache. Field-grey uniform and greatcoat, black leather boots; 1914: spiked leather Pickelhaube helmet with grey cloth cover; from 1916: coal-scuttle-shaped grey Stahlhelm steel helmet.
@@ -5034,10 +5034,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Western Front, August-September 1914: German, Belgian, French and British armies in early-war uniforms (spiked helmets, French red trousers, British khaki caps), open countryside and roads.
 
-SCENE: The Kaiser's thought bubble of a victory parade fades away like smoke. Wide/establishing framing.
+SCENE: The the German emperor's thought bubble of a victory parade fades away like smoke. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
 
 ON-SCREEN TEXT: none.
 
@@ -5061,10 +5061,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Western Front, August-September 1914: German, Belgian, French and British armies in early-war uniforms (spiked helmets, French red trousers, British khaki caps), open countryside and roads.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The Kaiser's thought bubble of a victory parade fades away like smoke.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The the German emperor's thought bubble of a victory parade fades away like smoke.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
 
 ON-SCREEN TEXT: none.
 
@@ -6245,7 +6245,7 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Verdun, France, 1916: cratered hills, ruined forts, splintered forests, French soldiers in horizon blue with Adrian helmets, German soldiers in field grey with Stahlhelm helmets.
 
-SCENE: Before/after: a green village with a church on the left, a heap of rubble and stumps on the right.
+SCENE: Before/after: A green village with a church on the left, a heap of rubble and stumps on the right.
 
 ON-SCREEN TEXT: none.
 
@@ -7110,12 +7110,12 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: First World War technology 1914-1918: machine guns, heavy artillery, poison-gas clouds, gas masks, biplanes and triplanes, U-boats, munitions factories.
 
-SCENE: The Red Baron standing next to his bright red triplane on a grass airfield. Wide/establishing framing.
+SCENE: The ace pilot standing next to his bright red triplane on a grass airfield. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- MANFRED VON RICHTHOFEN, 'THE RED BARON' (simplified caricature): young, round beige head, light-brown slicked hair, brown leather flying helmet with goggles pushed up, long brown leather flying coat, plain white scarf.
+- THE ACE PILOT (original character, young WWI fighter pilot): round beige head, light-brown slicked hair, brown leather flying helmet with goggles pushed up, long brown leather flying coat, plain white scarf.
 
-ON-SCREEN TEXT: "The Red Baron" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Legendary.
 
@@ -7137,12 +7137,12 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: First World War technology 1914-1918: machine guns, heavy artillery, poison-gas clouds, gas masks, biplanes and triplanes, U-boats, munitions factories.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The Red Baron standing next to his bright red triplane on a grass airfield.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The ace pilot standing next to his bright red triplane on a grass airfield.
 
 CHARACTERS IN FRAME:
-- MANFRED VON RICHTHOFEN, 'THE RED BARON' (simplified caricature): young, round beige head, light-brown slicked hair, brown leather flying helmet with goggles pushed up, long brown leather flying coat, plain white scarf.
+- THE ACE PILOT (original character, young WWI fighter pilot): round beige head, light-brown slicked hair, brown leather flying helmet with goggles pushed up, long brown leather flying coat, plain white scarf.
 
-ON-SCREEN TEXT: "The Red Baron" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Legendary.
 
@@ -7188,7 +7188,7 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: First World War technology 1914-1918: machine guns, heavy artillery, poison-gas clouds, gas masks, biplanes and triplanes, U-boats, munitions factories.
 
-SCENE: Underwater cutaway: a U-boat firing a torpedo at a cargo ship. Wide/establishing framing.
+SCENE: Underwater cutaway: A U-boat firing a torpedo at a cargo ship. Wide/establishing framing.
 
 ON-SCREEN TEXT: none.
 
@@ -7212,7 +7212,7 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: First World War technology 1914-1918: machine guns, heavy artillery, poison-gas clouds, gas masks, biplanes and triplanes, U-boats, munitions factories.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Underwater cutaway: a U-boat firing a torpedo at a cargo ship.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Underwater cutaway: A U-boat firing a torpedo at a cargo ship.
 
 ON-SCREEN TEXT: none.
 
@@ -7794,10 +7794,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: United States and the Atlantic, 1915-1917: ocean liners, U-boats, American newspapers and crowds, the White House, American soldiers in wide-brimmed campaign hats.
 
-SCENE: Woodrow Wilson at his desk with a sign 'NEUTRAL' and a calm face.
+SCENE: The American president at his desk with a sign 'NEUTRAL' and a calm face.
 
 CHARACTERS IN FRAME:
-- WOODROW WILSON (28th US President, simplified caricature): round beige head, grey hair, rimless pince-nez glasses, long serious face shape within the round head, dark suit.
+- THE AMERICAN PRESIDENT (original character, 1917): round beige head, grey hair, rimless pince-nez glasses, long serious face shape within the round head, dark suit.
 
 ON-SCREEN TEXT: "NEUTRAL" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -8202,10 +8202,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: United States and the Atlantic, 1915-1917: ocean liners, U-boats, American newspapers and crowds, the White House, American soldiers in wide-brimmed campaign hats.
 
-SCENE: Wilson signing a document; text. Wide/establishing framing.
+SCENE: The American president signing a document; text. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- WOODROW WILSON (28th US President, simplified caricature): round beige head, grey hair, rimless pince-nez glasses, long serious face shape within the round head, dark suit.
+- THE AMERICAN PRESIDENT (original character, 1917): round beige head, grey hair, rimless pince-nez glasses, long serious face shape within the round head, dark suit.
 
 ON-SCREEN TEXT: "April 6, 1917" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -8229,10 +8229,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: United States and the Atlantic, 1915-1917: ocean liners, U-boats, American newspapers and crowds, the White House, American soldiers in wide-brimmed campaign hats.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Wilson signing a document; text.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The American president signing a document; text.
 
 CHARACTERS IN FRAME:
-- WOODROW WILSON (28th US President, simplified caricature): round beige head, grey hair, rimless pince-nez glasses, long serious face shape within the round head, dark suit.
+- THE AMERICAN PRESIDENT (original character, 1917): round beige head, grey hair, rimless pince-nez glasses, long serious face shape within the round head, dark suit.
 
 ON-SCREEN TEXT: "April 6, 1917" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -8462,10 +8462,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Russia 1917-1918: snowy Petrograd streets, onion-domed churches, bread queues, workers and soldiers with red banners, exhausted troops at the front.
 
-SCENE: The Tsar's portrait on a wall being frowned at by a crowd. Wide/establishing framing.
+SCENE: The the Russian emperor's portrait on a wall being frowned at by a crowd. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- TSAR NICHOLAS II (Russian Emperor, simplified caricature): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
+- THE RUSSIAN EMPEROR (original character, 1914 monarch): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
 - BACKGROUND CIVILIANS: generic bean-people in Edwardian clothes: long dresses, wide hats, flat caps, bowler hats, waistcoats, simple expressions.
 
 ON-SCREEN TEXT: none.
@@ -8490,10 +8490,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Russia 1917-1918: snowy Petrograd streets, onion-domed churches, bread queues, workers and soldiers with red banners, exhausted troops at the front.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The Tsar's portrait on a wall being frowned at by a crowd.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The the Russian emperor's portrait on a wall being frowned at by a crowd.
 
 CHARACTERS IN FRAME:
-- TSAR NICHOLAS II (Russian Emperor, simplified caricature): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
+- THE RUSSIAN EMPEROR (original character, 1914 monarch): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
 - BACKGROUND CIVILIANS: generic bean-people in Edwardian clothes: long dresses, wide hats, flat caps, bowler hats, waistcoats, simple expressions.
 
 ON-SCREEN TEXT: none.
@@ -8518,10 +8518,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Russia 1917-1918: snowy Petrograd streets, onion-domed churches, bread queues, workers and soldiers with red banners, exhausted troops at the front.
 
-SCENE: The Tsar removing his crown, a crowd with red banners outside.
+SCENE: The the Russian emperor removing his crown, a crowd with red banners outside.
 
 CHARACTERS IN FRAME:
-- TSAR NICHOLAS II (Russian Emperor, simplified caricature): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
+- THE RUSSIAN EMPEROR (original character, 1914 monarch): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
 - BACKGROUND CIVILIANS: generic bean-people in Edwardian clothes: long dresses, wide hats, flat caps, bowler hats, waistcoats, simple expressions.
 
 ON-SCREEN TEXT: "March 1917" in the handwritten marker font, clearly legible, spelled exactly.
@@ -8627,10 +8627,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Russia 1917-1918: snowy Petrograd streets, onion-domed churches, bread queues, workers and soldiers with red banners, exhausted troops at the front.
 
-SCENE: Lenin speaking to a crowd of workers and soldiers with red flags. Wide/establishing framing.
+SCENE: The revolutionary leader speaking to a crowd of workers and soldiers with red flags. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- VLADIMIR LENIN (simplified caricature): round beige head, bald domed top with reddish-brown hair at the sides, short reddish-brown goatee and mustache, dark three-piece suit, flat cap held in one hand.
+- THE REVOLUTIONARY LEADER (original character, 1917): round beige head, bald domed top with reddish-brown hair at the sides, short reddish-brown goatee and mustache, dark three-piece suit, flat cap held in one hand.
 - BACKGROUND CIVILIANS: generic bean-people in Edwardian clothes: long dresses, wide hats, flat caps, bowler hats, waistcoats, simple expressions.
 
 ON-SCREEN TEXT: "October Revolution" in the handwritten marker font, clearly legible, spelled exactly.
@@ -8655,10 +8655,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Russia 1917-1918: snowy Petrograd streets, onion-domed churches, bread queues, workers and soldiers with red banners, exhausted troops at the front.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: Lenin speaking to a crowd of workers and soldiers with red flags.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 3), small change in pose/expression to show the moment progressing: The revolutionary leader speaking to a crowd of workers and soldiers with red flags.
 
 CHARACTERS IN FRAME:
-- VLADIMIR LENIN (simplified caricature): round beige head, bald domed top with reddish-brown hair at the sides, short reddish-brown goatee and mustache, dark three-piece suit, flat cap held in one hand.
+- THE REVOLUTIONARY LEADER (original character, 1917): round beige head, bald domed top with reddish-brown hair at the sides, short reddish-brown goatee and mustache, dark three-piece suit, flat cap held in one hand.
 - BACKGROUND CIVILIANS: generic bean-people in Edwardian clothes: long dresses, wide hats, flat caps, bowler hats, waistcoats, simple expressions.
 
 ON-SCREEN TEXT: "October Revolution" in the handwritten marker font, clearly legible, spelled exactly.
@@ -8683,10 +8683,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Russia 1917-1918: snowy Petrograd streets, onion-domed churches, bread queues, workers and soldiers with red banners, exhausted troops at the front.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: Lenin speaking to a crowd of workers and soldiers with red flags.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 3 of 3), small change in pose/expression to show the moment progressing: The revolutionary leader speaking to a crowd of workers and soldiers with red flags.
 
 CHARACTERS IN FRAME:
-- VLADIMIR LENIN (simplified caricature): round beige head, bald domed top with reddish-brown hair at the sides, short reddish-brown goatee and mustache, dark three-piece suit, flat cap held in one hand.
+- THE REVOLUTIONARY LEADER (original character, 1917): round beige head, bald domed top with reddish-brown hair at the sides, short reddish-brown goatee and mustache, dark three-piece suit, flat cap held in one hand.
 - BACKGROUND CIVILIANS: generic bean-people in Edwardian clothes: long dresses, wide hats, flat caps, bowler hats, waistcoats, simple expressions.
 
 ON-SCREEN TEXT: "October Revolution" in the handwritten marker font, clearly legible, spelled exactly.
@@ -8711,10 +8711,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Russia 1917-1918: snowy Petrograd streets, onion-domed churches, bread queues, workers and soldiers with red banners, exhausted troops at the front.
 
-SCENE: Lenin raising a fist.
+SCENE: The revolutionary leader raising a fist.
 
 CHARACTERS IN FRAME:
-- VLADIMIR LENIN (simplified caricature): round beige head, bald domed top with reddish-brown hair at the sides, short reddish-brown goatee and mustache, dark three-piece suit, flat cap held in one hand.
+- THE REVOLUTIONARY LEADER (original character, 1917): round beige head, bald domed top with reddish-brown hair at the sides, short reddish-brown goatee and mustache, dark three-piece suit, flat cap held in one hand.
 
 ON-SCREEN TEXT: none.
 
@@ -8738,7 +8738,7 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Russia 1917-1918: snowy Petrograd streets, onion-domed churches, bread queues, workers and soldiers with red banners, exhausted troops at the front.
 
-SCENE: Three icons: a dove, a field, a loaf of bread.
+SCENE: Three icons: A dove, a field, a loaf of bread.
 
 ON-SCREEN TEXT: "Peace · Land · Bread" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -8926,10 +8926,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Russia 1917-1918: snowy Petrograd streets, onion-domed churches, bread queues, workers and soldiers with red banners, exhausted troops at the front.
 
-SCENE: The Kaiser studying a map, determined.
+SCENE: The the German emperor studying a map, determined.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
 
 ON-SCREEN TEXT: none.
 
@@ -9548,10 +9548,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Autumn 1918: collapsing empires, white flags, signing of the armistice, silent battlefields on 11 November, joyful reunions.
 
-SCENE: The Kaiser walking away from his throne with a suitcase. Wide/establishing framing.
+SCENE: The the German emperor walking away from his throne with a suitcase. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
 
 ON-SCREEN TEXT: "Nov 9, 1918" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -9575,10 +9575,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Autumn 1918: collapsing empires, white flags, signing of the armistice, silent battlefields on 11 November, joyful reunions.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The Kaiser walking away from his throne with a suitcase.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The the German emperor walking away from his throne with a suitcase.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
 
 ON-SCREEN TEXT: "Nov 9, 1918" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -9819,7 +9819,7 @@ SCENE: Grand Parisian conference room with tall windows and chandeliers: diploma
 
 CHARACTERS IN FRAME:
 - DIPLOMATS / POLITICIANS: generic bean-men in black frock coats or morning suits, white wing collars, top hats or bowler hats, varied mustaches.
-- WOODROW WILSON (28th US President, simplified caricature): round beige head, grey hair, rimless pince-nez glasses, long serious face shape within the round head, dark suit.
+- THE AMERICAN PRESIDENT (original character, 1917): round beige head, grey hair, rimless pince-nez glasses, long serious face shape within the round head, dark suit.
 
 ON-SCREEN TEXT: "Paris, 1919" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -9847,7 +9847,7 @@ SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), s
 
 CHARACTERS IN FRAME:
 - DIPLOMATS / POLITICIANS: generic bean-men in black frock coats or morning suits, white wing collars, top hats or bowler hats, varied mustaches.
-- WOODROW WILSON (28th US President, simplified caricature): round beige head, grey hair, rimless pince-nez glasses, long serious face shape within the round head, dark suit.
+- THE AMERICAN PRESIDENT (original character, 1917): round beige head, grey hair, rimless pince-nez glasses, long serious face shape within the round head, dark suit.
 
 ON-SCREEN TEXT: "Paris, 1919" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -10060,7 +10060,7 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Paris and Versailles, 1919: gilded halls, chandeliers, long negotiation tables, statesmen in frock coats, maps being redrawn.
 
-SCENE: Dark ominous scene: a gloomy German city at dusk with a long shadow of a small mustached figure stretching over the crowd; plain dark banners with NO symbols. Wide/establishing framing.
+SCENE: Dark ominous scene: A gloomy German city at dusk with a long shadow of a small mustached figure stretching over the crowd; plain dark banners with NO symbols. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
 - BACKGROUND CIVILIANS: generic bean-people in Edwardian clothes: long dresses, wide hats, flat caps, bowler hats, waistcoats, simple expressions.
@@ -10087,7 +10087,7 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Paris and Versailles, 1919: gilded halls, chandeliers, long negotiation tables, statesmen in frock coats, maps being redrawn.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Dark ominous scene: a gloomy German city at dusk with a long shadow of a small mustached figure stretching over the crowd; plain dark banners with NO symbols.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Dark ominous scene: A gloomy German city at dusk with a long shadow of a small mustached figure stretching over the crowd; plain dark banners with NO symbols.
 
 CHARACTERS IN FRAME:
 - BACKGROUND CIVILIANS: generic bean-people in Edwardian clothes: long dresses, wide hats, flat caps, bowler hats, waistcoats, simple expressions.
@@ -10191,7 +10191,7 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Post-war Europe 1918-1920s: war cemeteries with white crosses and poppies, veterans' hospitals, village war memorials, collapsing imperial crowns, a new map of Europe.
 
-SCENE: Veterans in a hospital garden: a soldier on crutches, another in a wheelchair, nurses in white veils helping them.
+SCENE: Veterans in a hospital garden: A soldier on crutches, another in a wheelchair, nurses in white veils helping them.
 
 CHARACTERS IN FRAME:
 - GENERIC SOLDIERS: many identical-style bean-soldiers in period uniforms (khaki British, blue French, field-grey German as appropriate), helmets, rifles, packs.
@@ -10443,7 +10443,7 @@ SCENE: A grand white building in Geneva with many flags out front; diplomats sha
 
 CHARACTERS IN FRAME:
 - DIPLOMATS / POLITICIANS: generic bean-men in black frock coats or morning suits, white wing collars, top hats or bowler hats, varied mustaches.
-- WOODROW WILSON (28th US President, simplified caricature): round beige head, grey hair, rimless pince-nez glasses, long serious face shape within the round head, dark suit.
+- THE AMERICAN PRESIDENT (original character, 1917): round beige head, grey hair, rimless pince-nez glasses, long serious face shape within the round head, dark suit.
 
 ON-SCREEN TEXT: "League of Nations" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -10471,7 +10471,7 @@ SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), s
 
 CHARACTERS IN FRAME:
 - DIPLOMATS / POLITICIANS: generic bean-men in black frock coats or morning suits, white wing collars, top hats or bowler hats, varied mustaches.
-- WOODROW WILSON (28th US President, simplified caricature): round beige head, grey hair, rimless pince-nez glasses, long serious face shape within the round head, dark suit.
+- THE AMERICAN PRESIDENT (original character, 1917): round beige head, grey hair, rimless pince-nez glasses, long serious face shape within the round head, dark suit.
 
 ON-SCREEN TEXT: "League of Nations" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -11136,7 +11136,7 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Reflective epilogue spanning 1918-1939 and beyond: symbolic imagery, poppies, memorials, storm clouds of the coming Second World War.
 
-SCENE: Split frame: an Edwardian street in 1914 on the left, a changed 1920s street on the right. Wide/establishing framing.
+SCENE: Split frame: An Edwardian street in 1914 on the left, a changed 1920s street on the right. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
 - BACKGROUND CIVILIANS: generic bean-people in Edwardian clothes: long dresses, wide hats, flat caps, bowler hats, waistcoats, simple expressions.
@@ -11163,7 +11163,7 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Reflective epilogue spanning 1918-1939 and beyond: symbolic imagery, poppies, memorials, storm clouds of the coming Second World War.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Split frame: an Edwardian street in 1914 on the left, a changed 1920s street on the right.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Split frame: An Edwardian street in 1914 on the left, a changed 1920s street on the right.
 
 CHARACTERS IN FRAME:
 - BACKGROUND CIVILIANS: generic bean-people in Edwardian clothes: long dresses, wide hats, flat caps, bowler hats, waistcoats, simple expressions.
@@ -11190,7 +11190,7 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Reflective epilogue spanning 1918-1939 and beyond: symbolic imagery, poppies, memorials, storm clouds of the coming Second World War.
 
-SCENE: Title card on dark olive: a single helmet on a cross with a poppy.
+SCENE: Title card on dark olive: A single helmet on a cross with a poppy.
 
 ON-SCREEN TEXT: "This was the First World War." in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -11214,7 +11214,7 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Reflective epilogue spanning 1918-1939 and beyond: symbolic imagery, poppies, memorials, storm clouds of the coming Second World War.
 
-SCENE: Final wide shot: the old Western Front at dusk now covered in green grass and poppies, a lone memorial standing, birds flying into the sunset. Wide/establishing framing.
+SCENE: Final wide shot: The old Western Front at dusk now covered in green grass and poppies, a lone memorial standing, birds flying into the sunset. Wide/establishing framing.
 
 ON-SCREEN TEXT: none.
 
@@ -11238,7 +11238,7 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Reflective epilogue spanning 1918-1939 and beyond: symbolic imagery, poppies, memorials, storm clouds of the coming Second World War.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Final wide shot: the old Western Front at dusk now covered in green grass and poppies, a lone memorial standing, birds flying into the sunset.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Final wide shot: The old Western Front at dusk now covered in green grass and poppies, a lone memorial standing, birds flying into the sunset.
 
 ON-SCREEN TEXT: none.
 

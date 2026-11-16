@@ -2,7 +2,7 @@
 
 Each line of the voiceover is one shot of about 1–3 seconds. Each prompt box is **self-contained**: paste it on its own into any image model (Midjourney, GPT-Image, Flux, Ideogram, etc.) and it carries the full style, characters and scene.
 
-**Style target:** the reference frames, i.e. a flat hand-drawn 2D explainer cartoon with big round heads, stick limbs, thick wobbly black outlines, one cel-shade tone, a muted palette and handwritten captions.
+**Style target:** the reference frames, i.e. A flat hand-drawn 2D explainer cartoon with big round heads, stick limbs, thick wobbly black outlines, one cel-shade tone, a muted palette and handwritten captions.
 
 **Tips:** use 16:9 (e.g. `--ar 16:9`). To keep characters consistent, generate a character sheet first and pass it as a reference image together with these prompts. Durations assume about 2.7 spoken words per second.
 
@@ -17,14 +17,14 @@ Each line of the voiceover is one shot of about 1–3 seconds. Each prompt box i
 - FRENCH SOLDIER (poilu): round beige head, big bushy black mustache. 1914: dark-blue greatcoat, bright red trousers, red-and-blue kepi cap. From 1915: horizon-blue greatcoat and the crested blue-grey Adrian steel helmet.
 - GERMAN SOLDIER: round beige head, blond mustache. Field-grey uniform and greatcoat, black leather boots; 1914: spiked leather Pickelhaube helmet with grey cloth cover; from 1916: coal-scuttle-shaped grey Stahlhelm steel helmet.
 - RUSSIAN SOLDIER: round beige head, brown beard, khaki-olive gymnastyorka tunic belted at the waist, soft peaked khaki cap, rolled greatcoat over one shoulder.
-- ARCHDUKE FRANZ FERDINAND (heir to Austria-Hungary, simplified caricature in this style): round beige head, short dark hair, large upturned dark mustache, pale-blue Austrian general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
-- SOPHIE, DUCHESS OF HOHENBERG (Franz Ferdinand's wife, simplified caricature): round beige head, dark hair up, long white Edwardian dress, wide white hat with a white ostrich feather, small bouquet of red roses.
-- GAVRILO PRINCIP (19-year-old Bosnian Serb, simplified caricature): thin small body, round pale-beige head, messy dark hair, faint dark mustache shadow, sunken intense eyes, plain dark suit and white shirt.
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
-- TSAR NICHOLAS II (Russian Emperor, simplified caricature): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
-- VLADIMIR LENIN (simplified caricature): round beige head, bald domed top with reddish-brown hair at the sides, short reddish-brown goatee and mustache, dark three-piece suit, flat cap held in one hand.
-- MANFRED VON RICHTHOFEN, 'THE RED BARON' (simplified caricature): young, round beige head, light-brown slicked hair, brown leather flying helmet with goggles pushed up, long brown leather flying coat, plain white scarf.
-- WOODROW WILSON (28th US President, simplified caricature): round beige head, grey hair, rimless pince-nez glasses, long serious face shape within the round head, dark suit.
+- THE ARCHDUKE (original character, heir to a central-European empire, 1914): round beige head, short dark hair, large upturned dark mustache, pale-blue general's tunic with gold collar, red sash, tall dark cap topped with a tuft of green feathers.
+- THE ARCHDUKE'S WIFE (original character, 1914): round beige head, dark hair up, long white Edwardian dress, wide white hat with a white ostrich feather, small bouquet of red roses.
+- THE YOUNG ASSASSIN (original character, 19-year-old revolutionary): thin small body, round pale-beige head, messy dark hair, faint dark mustache shadow, sunken intense eyes, plain dark suit and white shirt.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
+- THE RUSSIAN EMPEROR (original character, 1914 monarch): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
+- THE REVOLUTIONARY LEADER (original character, 1917): round beige head, bald domed top with reddish-brown hair at the sides, short reddish-brown goatee and mustache, dark three-piece suit, flat cap held in one hand.
+- THE ACE PILOT (original character, young WWI fighter pilot): round beige head, light-brown slicked hair, brown leather flying helmet with goggles pushed up, long brown leather flying coat, plain white scarf.
+- THE AMERICAN PRESIDENT (original character, 1917): round beige head, grey hair, rimless pince-nez glasses, long serious face shape within the round head, dark suit.
 
 
 ---
@@ -176,10 +176,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: July-August 1914: diplomats in ornate government offices, telegrams, declarations of war, mobilising armies and crowded railway stations.
 
-SCENE: Kaiser Wilhelm II pats the Austrian official on the back.
+SCENE: The German emperor pats the Austrian official on the back.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
 - DIPLOMATS / POLITICIANS: generic bean-men in black frock coats or morning suits, white wing collars, top hats or bowler hats, varied mustaches.
 
 ON-SCREEN TEXT: none.
@@ -204,7 +204,7 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: July-August 1914: diplomats in ornate government offices, telegrams, declarations of war, mobilising armies and crowded railway stations.
 
-SCENE: A blank cheque signed by the Kaiser with the amount left empty.
+SCENE: A blank cheque signed by the the German emperor with the amount left empty.
 
 ON-SCREEN TEXT: "The Blank Cheque" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -228,10 +228,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: July-August 1914: diplomats in ornate government offices, telegrams, declarations of war, mobilising armies and crowded railway stations.
 
-SCENE: The Kaiser hands over the blank cheque; Austria grins. Wide/establishing framing.
+SCENE: The the German emperor hands over the blank cheque; Austria grins. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
 - DIPLOMATS / POLITICIANS: generic bean-men in black frock coats or morning suits, white wing collars, top hats or bowler hats, varied mustaches.
 
 ON-SCREEN TEXT: none.
@@ -256,10 +256,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: July-August 1914: diplomats in ornate government offices, telegrams, declarations of war, mobilising armies and crowded railway stations.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The Kaiser hands over the blank cheque; Austria grins.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The the German emperor hands over the blank cheque; Austria grins.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
 - DIPLOMATS / POLITICIANS: generic bean-men in black frock coats or morning suits, white wing collars, top hats or bowler hats, varied mustaches.
 
 ON-SCREEN TEXT: none.
@@ -443,11 +443,11 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: July-August 1914: diplomats in ornate government offices, telegrams, declarations of war, mobilising armies and crowded railway stations.
 
-SCENE: Russian soldiers boarding trains with the Tsar watching.
+SCENE: Russian soldiers boarding trains with the the Russian emperor watching.
 
 CHARACTERS IN FRAME:
 - RUSSIAN SOLDIER: round beige head, brown beard, khaki-olive gymnastyorka tunic belted at the waist, soft peaked khaki cap, rolled greatcoat over one shoulder.
-- TSAR NICHOLAS II (Russian Emperor, simplified caricature): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
+- THE RUSSIAN EMPEROR (original character, 1914 monarch): round beige head, neat short brown beard and mustache, olive-khaki military tunic with a few medals, khaki peaked cap.
 - GENERIC SOLDIERS: many identical-style bean-soldiers in period uniforms (khaki British, blue French, field-grey German as appropriate), helmets, rifles, packs.
 
 ON-SCREEN TEXT: none.
@@ -472,10 +472,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: July-August 1914: diplomats in ornate government offices, telegrams, declarations of war, mobilising armies and crowded railway stations.
 
-SCENE: Kaiser pointing east angrily; text.
+SCENE: The German emperor pointing east angrily; text.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
 
 ON-SCREEN TEXT: "Aug 1" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -499,10 +499,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: July-August 1914: diplomats in ornate government offices, telegrams, declarations of war, mobilising armies and crowded railway stations.
 
-SCENE: Kaiser pointing west.
+SCENE: The German emperor pointing west.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
 
 ON-SCREEN TEXT: "Aug 3" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -1015,7 +1015,7 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Western Front, August-September 1914: German, Belgian, French and British armies in early-war uniforms (spiked helmets, French red trousers, British khaki caps), open countryside and roads.
 
-SCENE: Map: a huge curved red arrow sweeps from Germany through Belgium and down toward Paris. Wide/establishing framing.
+SCENE: Map: A huge curved red arrow sweeps from Germany through Belgium and down toward Paris. Wide/establishing framing.
 
 ON-SCREEN TEXT: none.
 
@@ -1039,7 +1039,7 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Western Front, August-September 1914: German, Belgian, French and British armies in early-war uniforms (spiked helmets, French red trousers, British khaki caps), open countryside and roads.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Map: a huge curved red arrow sweeps from Germany through Belgium and down toward Paris.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Map: A huge curved red arrow sweeps from Germany through Belgium and down toward Paris.
 
 ON-SCREEN TEXT: none.
 
@@ -1063,7 +1063,7 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Western Front, August-September 1914: German, Belgian, French and British armies in early-war uniforms (spiked helmets, French red trousers, British khaki caps), open countryside and roads.
 
-SCENE: Map: a train full of German soldiers racing from France across Germany toward Russia.
+SCENE: Map: A train full of German soldiers racing from France across Germany toward Russia.
 
 CHARACTERS IN FRAME:
 - GERMAN SOLDIER: round beige head, blond mustache. Field-grey uniform and greatcoat, black leather boots; 1914: spiked leather Pickelhaube helmet with grey cloth cover; from 1916: coal-scuttle-shaped grey Stahlhelm steel helmet.
@@ -1466,10 +1466,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Western Front, August-September 1914: German, Belgian, French and British armies in early-war uniforms (spiked helmets, French red trousers, British khaki caps), open countryside and roads.
 
-SCENE: The Kaiser's thought bubble of a victory parade fades away like smoke. Wide/establishing framing.
+SCENE: The the German emperor's thought bubble of a victory parade fades away like smoke. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
 
 ON-SCREEN TEXT: none.
 
@@ -1493,10 +1493,10 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Western Front, August-September 1914: German, Belgian, French and British armies in early-war uniforms (spiked helmets, French red trousers, British khaki caps), open countryside and roads.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The Kaiser's thought bubble of a victory parade fades away like smoke.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The the German emperor's thought bubble of a victory parade fades away like smoke.
 
 CHARACTERS IN FRAME:
-- KAISER WILHELM II (German Emperor, simplified caricature): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked Pickelhaube helmet.
+- THE GERMAN EMPEROR (original character, 1914 monarch): round beige head, huge sharply upturned waxed mustache, grey military greatcoat with medals, silver-topped spiked helmet.
 
 ON-SCREEN TEXT: none.
 
@@ -2677,7 +2677,7 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: Verdun, France, 1916: cratered hills, ruined forts, splintered forests, French soldiers in horizon blue with Adrian helmets, German soldiers in field grey with Stahlhelm helmets.
 
-SCENE: Before/after: a green village with a church on the left, a heap of rubble and stumps on the right.
+SCENE: Before/after: A green village with a church on the left, a heap of rubble and stumps on the right.
 
 ON-SCREEN TEXT: none.
 
@@ -3542,12 +3542,12 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: First World War technology 1914-1918: machine guns, heavy artillery, poison-gas clouds, gas masks, biplanes and triplanes, U-boats, munitions factories.
 
-SCENE: The Red Baron standing next to his bright red triplane on a grass airfield. Wide/establishing framing.
+SCENE: The ace pilot standing next to his bright red triplane on a grass airfield. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- MANFRED VON RICHTHOFEN, 'THE RED BARON' (simplified caricature): young, round beige head, light-brown slicked hair, brown leather flying helmet with goggles pushed up, long brown leather flying coat, plain white scarf.
+- THE ACE PILOT (original character, young WWI fighter pilot): round beige head, light-brown slicked hair, brown leather flying helmet with goggles pushed up, long brown leather flying coat, plain white scarf.
 
-ON-SCREEN TEXT: "The Red Baron" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Legendary.
 
@@ -3569,12 +3569,12 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: First World War technology 1914-1918: machine guns, heavy artillery, poison-gas clouds, gas masks, biplanes and triplanes, U-boats, munitions factories.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The Red Baron standing next to his bright red triplane on a grass airfield.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The ace pilot standing next to his bright red triplane on a grass airfield.
 
 CHARACTERS IN FRAME:
-- MANFRED VON RICHTHOFEN, 'THE RED BARON' (simplified caricature): young, round beige head, light-brown slicked hair, brown leather flying helmet with goggles pushed up, long brown leather flying coat, plain white scarf.
+- THE ACE PILOT (original character, young WWI fighter pilot): round beige head, light-brown slicked hair, brown leather flying helmet with goggles pushed up, long brown leather flying coat, plain white scarf.
 
-ON-SCREEN TEXT: "The Red Baron" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Legendary.
 
@@ -3620,7 +3620,7 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: First World War technology 1914-1918: machine guns, heavy artillery, poison-gas clouds, gas masks, biplanes and triplanes, U-boats, munitions factories.
 
-SCENE: Underwater cutaway: a U-boat firing a torpedo at a cargo ship. Wide/establishing framing.
+SCENE: Underwater cutaway: A U-boat firing a torpedo at a cargo ship. Wide/establishing framing.
 
 ON-SCREEN TEXT: none.
 
@@ -3644,7 +3644,7 @@ SETTING ERA: Europe and the wider world, 1900-1919 unless the scene says otherwi
 
 HISTORICAL CONTEXT: First World War technology 1914-1918: machine guns, heavy artillery, poison-gas clouds, gas masks, biplanes and triplanes, U-boats, munitions factories.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Underwater cutaway: a U-boat firing a torpedo at a cargo ship.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Underwater cutaway: A U-boat firing a torpedo at a cargo ship.
 
 ON-SCREEN TEXT: none.
 

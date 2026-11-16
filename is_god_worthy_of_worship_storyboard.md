@@ -2,7 +2,7 @@
 
 Each line of the voiceover is one shot of about 1–3 seconds. Each prompt box is **self-contained**: paste it on its own into any image model (Midjourney, GPT-Image, Flux, Ideogram, etc.) and it carries the full style, characters and scene.
 
-**Style target:** the reference frames, i.e. a flat hand-drawn 2D explainer cartoon with big round heads, stick limbs, thick wobbly black outlines, one cel-shade tone, a muted palette and handwritten captions.
+**Style target:** the reference frames, i.e. A flat hand-drawn 2D explainer cartoon with big round heads, stick limbs, thick wobbly black outlines, one cel-shade tone, a muted palette and handwritten captions.
 
 **Tips:** use 16:9 (e.g. `--ar 16:9`). To keep characters consistent, generate a character sheet first and pass it as a reference image together with these prompts. Durations assume about 2.7 spoken words per second.
 
@@ -11,12 +11,12 @@ Each line of the voiceover is one shot of about 1–3 seconds. Each prompt box i
 ## Character sheet (reference)
 
 - THE THINKER (recurring host/narrator, about 25): round beige head, messy jet-black hair with a fringe falling over the forehead, short neat black beard drawn as a flat dark shape around the jaw and mouth, dark forest-green hoodie, grey trousers; thoughtful, calm, slightly sceptical expression.
-- THE CREATOR (abstract, never shown as a person): a vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
+- THE CREATOR (abstract, never shown as a person): A vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
 - THE CHILD (recurring, about 8): small body, round beige head, short black hair, big dark dot eyes, oversized faded mustard-yellow t-shirt, brown shorts, bare stick legs.
 - THE FATHER: large round beige head, heavy black eyebrows, thick black mustache, slicked-back black hair, white sleeveless undershirt, brown trousers, big round belly.
 - THE MOTHER: round beige head, black hair tied in a low bun, maroon dress, thin pursed lips.
 - THE DEBATER (person arguing for worship): middle-aged man, round beige head, neat grey side-parted hair, grey suit with a navy tie, holding a closed book, confident stern face; no religious symbols.
-- JOHN STUART MILL (19th-century British philosopher, simplified caricature in this style): round beige head with a very high bald forehead, brown hair only at the sides, long brown side-whiskers, black Victorian frock coat, tall white collar, black cravat, calm serious eyes.
+- THE VICTORIAN PHILOSOPHER (original character, 19th-century British thinker): round beige head with a very high bald forehead, brown hair only at the sides, long brown side-whiskers, black Victorian frock coat, tall white collar, black cravat, calm serious eyes.
 
 
 ---
@@ -32,7 +32,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING: timeless present day unless the scene says otherwise; simple everyday modern clothes, plain flat interiors and landscapes.
 
-SCENE: Medium shot: the Thinker sits on a simple wooden stool against a plain dusty-purple wall, one palm raised toward the camera in a calm 'hold on' gesture, one eyebrow slightly raised.
+SCENE: Medium shot: The Thinker sits on a simple wooden stool against a plain dusty-purple wall, one palm raised toward the camera in a calm 'hold on' gesture, one eyebrow slightly raised.
 
 CHARACTERS IN FRAME:
 - THE THINKER (recurring host/narrator, about 25): round beige head, messy jet-black hair with a fringe falling over the forehead, short neat black beard drawn as a flat dark shape around the jaw and mouth, dark forest-green hoodie, grey trousers; thoughtful, calm, slightly sceptical expression.
@@ -56,7 +56,7 @@ SETTING: timeless present day unless the scene says otherwise; simple everyday m
 SCENE: Deep navy space filled with flat stars, swirling galaxies and ringed planets; from a golden glow behind clouds at the top, the enormous glowing hand releases a spiral galaxy like scattering seeds.
 
 CHARACTERS IN FRAME:
-- THE CREATOR (abstract, never shown as a person): a vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
+- THE CREATOR (abstract, never shown as a person): A vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
 
 ON-SCREEN TEXT: none.
 
@@ -98,7 +98,7 @@ SETTING: timeless present day unless the scene says otherwise; simple everyday m
 SCENE: A cartoon Earth globe (flat blue oceans, olive continents, thick outline) floating in space, warm golden beams falling on it from clouds above.
 
 CHARACTERS IN FRAME:
-- THE CREATOR (abstract, never shown as a person): a vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
+- THE CREATOR (abstract, never shown as a person): A vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
 
 ON-SCREEN TEXT: none.
 
@@ -119,7 +119,7 @@ SETTING: timeless present day unless the scene says otherwise; simple everyday m
 SCENE: One wide flat landscape packed with everything: snowy mountains, a blue ocean with a whale, green trees, birds, a lion, a small city and tiny people, all under a golden glow pouring from the clouds.
 
 CHARACTERS IN FRAME:
-- THE CREATOR (abstract, never shown as a person): a vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
+- THE CREATOR (abstract, never shown as a person): A vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted modern clothes, simple expressions.
 
 ON-SCREEN TEXT: none.
@@ -138,7 +138,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING: timeless present day unless the scene says otherwise; simple everyday modern clothes, plain flat interiors and landscapes.
 
-SCENE: Back on the purple wall: the Thinker leans forward on his stool, one finger raised, eyes narrowed thoughtfully.
+SCENE: Back on the purple wall: The Thinker leans forward on his stool, one finger raised, eyes narrowed thoughtfully.
 
 CHARACTERS IN FRAME:
 - THE THINKER (recurring host/narrator, about 25): round beige head, messy jet-black hair with a fringe falling over the forehead, short neat black beard drawn as a flat dark shape around the jaw and mouth, dark forest-green hoodie, grey trousers; thoughtful, calm, slightly sceptical expression.
@@ -159,10 +159,10 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING: timeless present day unless the scene says otherwise; simple everyday modern clothes, plain flat interiors and landscapes.
 
-SCENE: Wide shot: a long row of tiny people kneeling and bowing on flat grey ground toward the glowing clouds; a large hand-drawn question mark floats in the sky between them.
+SCENE: Wide shot: A long row of tiny people kneeling and bowing on flat grey ground toward the glowing clouds; a large hand-drawn question mark floats in the sky between them.
 
 CHARACTERS IN FRAME:
-- THE CREATOR (abstract, never shown as a person): a vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
+- THE CREATOR (abstract, never shown as a person): A vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted modern clothes, simple expressions.
 
 ON-SCREEN TEXT: "Should we worship God?" in the handwritten marker font, clearly legible, spelled exactly.
@@ -207,7 +207,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING: timeless present day unless the scene says otherwise; simple everyday modern clothes, plain flat interiors and landscapes.
 
-SCENE: A simple hospital room with pale-blue walls: the Mother in bed holds a newborn wrapped in a blue blanket; the Father stands beside her with a shy proud smile.
+SCENE: A simple hospital room with pale-blue walls: The Mother in bed holds a newborn wrapped in a blue blanket; the Father stands beside her with a shy proud smile.
 
 CHARACTERS IN FRAME:
 - THE MOTHER: round beige head, black hair tied in a low bun, maroon dress, thin pursed lips.
@@ -229,7 +229,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING: timeless present day unless the scene says otherwise; simple everyday modern clothes, plain flat interiors and landscapes.
 
-SCENE: Family portrait framed on a plain beige wall: the Father and Mother standing behind the Child, all smiling stiffly.
+SCENE: Family portrait framed on a plain beige wall: The Father and Mother standing behind the Child, all smiling stiffly.
 
 CHARACTERS IN FRAME:
 - THE FATHER: large round beige head, heavy black eyebrows, thick black mustache, slicked-back black hair, white sleeveless undershirt, brown trousers, big round belly.
@@ -298,7 +298,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING: timeless present day unless the scene says otherwise; simple everyday modern clothes, plain flat interiors and landscapes.
 
-SCENE: Same living room turned dim grey-blue: the Father's huge dark shadow on the wall with a raised arm holding a belt, the Child cowering in the corner with hands over his head. No contact or injury shown.
+SCENE: Same living room turned dim grey-blue: The Father's huge dark shadow on the wall with a raised arm holding a belt, the Child cowering in the corner with hands over his head. No contact or injury shown.
 
 CHARACTERS IN FRAME:
 - THE FATHER: large round beige head, heavy black eyebrows, thick black mustache, slicked-back black hair, white sleeveless undershirt, brown trousers, big round belly.
@@ -320,7 +320,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING: timeless present day unless the scene says otherwise; simple everyday modern clothes, plain flat interiors and landscapes.
 
-SCENE: Dinner table: the Father and Mother eat from full plates of food; at the end of the table the Child sits in front of a completely empty plate, looking at their food with sad eyes.
+SCENE: Dinner table: The Father and Mother eat from full plates of food; at the end of the table the Child sits in front of a completely empty plate, looking at their food with sad eyes.
 
 CHARACTERS IN FRAME:
 - THE FATHER: large round beige head, heavy black eyebrows, thick black mustache, slicked-back black hair, white sleeveless undershirt, brown trousers, big round belly.
@@ -391,7 +391,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING: timeless present day unless the scene says otherwise; simple everyday modern clothes, plain flat interiors and landscapes.
 
-SCENE: Close-up: the Father and Mother sip tea from cups with arms relaxed, flat bored eyes, completely unbothered.
+SCENE: Close-up: The Father and Mother sip tea from cups with arms relaxed, flat bored eyes, completely unbothered.
 
 CHARACTERS IN FRAME:
 - THE FATHER: large round beige head, heavy black eyebrows, thick black mustache, slicked-back black hair, white sleeveless undershirt, brown trousers, big round belly.
@@ -566,7 +566,7 @@ SCENE: The Thinker on the ground looks up at the sky, where the golden glow shin
 
 CHARACTERS IN FRAME:
 - THE THINKER (recurring host/narrator, about 25): round beige head, messy jet-black hair with a fringe falling over the forehead, short neat black beard drawn as a flat dark shape around the jaw and mouth, dark forest-green hoodie, grey trousers; thoughtful, calm, slightly sceptical expression.
-- THE CREATOR (abstract, never shown as a person): a vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
+- THE CREATOR (abstract, never shown as a person): A vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
 
 ON-SCREEN TEXT: none.
 
@@ -587,7 +587,7 @@ SETTING: timeless present day unless the scene says otherwise; simple everyday m
 SCENE: The cartoon Earth globe sits under the glowing clouds, bright and peaceful.
 
 CHARACTERS IN FRAME:
-- THE CREATOR (abstract, never shown as a person): a vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
+- THE CREATOR (abstract, never shown as a person): A vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
 
 ON-SCREEN TEXT: none.
 
@@ -605,7 +605,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING: timeless present day unless the scene says otherwise; simple everyday modern clothes, plain flat interiors and landscapes.
 
-SCENE: Camera dives down to the Earth's surface: a grey rainy city street with dim streetlights.
+SCENE: Camera dives down to the Earth's surface: A grey rainy city street with dim streetlights.
 
 CHARACTERS IN FRAME:
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted modern clothes, simple expressions.
@@ -626,7 +626,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING: timeless present day unless the scene says otherwise; simple everyday modern clothes, plain flat interiors and landscapes.
 
-SCENE: Dim hospital room: a small bald child in a hospital bed with an IV drip, eyes half-closed; a parent's hand holds the child's hand from the bedside. Muted blue-grey light.
+SCENE: Dim hospital room: A small bald child in a hospital bed with an IV drip, eyes half-closed; a parent's hand holds the child's hand from the bedside. Muted blue-grey light.
 
 CHARACTERS IN FRAME:
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted modern clothes, simple expressions.
@@ -647,7 +647,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING: timeless present day unless the scene says otherwise; simple everyday modern clothes, plain flat interiors and landscapes.
 
-SCENE: A neonatal ward: an empty hospital bassinet with a small folded blue blanket; a mother's hand rests gently on its edge. Soft grey light, nothing graphic.
+SCENE: A neonatal ward: An empty hospital bassinet with a small folded blue blanket; a mother's hand rests gently on its edge. Soft grey light, nothing graphic.
 
 CHARACTERS IN FRAME:
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted modern clothes, simple expressions.
@@ -689,7 +689,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING: timeless present day unless the scene says otherwise; simple everyday modern clothes, plain flat interiors and landscapes.
 
-SCENE: Handled implicitly: a woman sits alone on the floor of a dark room hugging her knees, face hidden, a cracked mirror on the wall and a single shaft of cold light. No other person shown.
+SCENE: Handled implicitly: A woman sits alone on the floor of a dark room hugging her knees, face hidden, a cracked mirror on the wall and a single shaft of cold light. No other person shown.
 
 CHARACTERS IN FRAME:
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted modern clothes, simple expressions.
@@ -710,7 +710,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING: timeless present day unless the scene says otherwise; simple everyday modern clothes, plain flat interiors and landscapes.
 
-SCENE: Night silhouette: a village with flat orange flames and grey smoke on the horizon, a line of tiny refugees with bundles walking away in the foreground.
+SCENE: Night silhouette: A village with flat orange flames and grey smoke on the horizon, a line of tiny refugees with bundles walking away in the foreground.
 
 CHARACTERS IN FRAME:
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted modern clothes, simple expressions.
@@ -734,7 +734,7 @@ SETTING: timeless present day unless the scene says otherwise; simple everyday m
 SCENE: High above the dark Earth, the golden glow behind the clouds shines a single beam downward like a watching eye; the Earth below is grey and stormy.
 
 CHARACTERS IN FRAME:
-- THE CREATOR (abstract, never shown as a person): a vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
+- THE CREATOR (abstract, never shown as a person): A vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
 
 ON-SCREEN TEXT: none.
 
@@ -755,7 +755,7 @@ SETTING: timeless present day unless the scene says otherwise; simple everyday m
 SCENE: The enormous glowing hand reaches out of the clouds and hovers right above the dark Earth, crackling with golden sparks of power.
 
 CHARACTERS IN FRAME:
-- THE CREATOR (abstract, never shown as a person): a vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
+- THE CREATOR (abstract, never shown as a person): A vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
 
 ON-SCREEN TEXT: none.
 
@@ -776,7 +776,7 @@ SETTING: timeless present day unless the scene says otherwise; simple everyday m
 SCENE: The glowing hand slowly withdraws back into the clouds; the Earth below stays dark and stormy.
 
 CHARACTERS IN FRAME:
-- THE CREATOR (abstract, never shown as a person): a vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
+- THE CREATOR (abstract, never shown as a person): A vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
 
 ON-SCREEN TEXT: none.
 
@@ -930,7 +930,7 @@ SCENE: Small people kneel trembling with sweat drops while an enormous dark shad
 
 CHARACTERS IN FRAME:
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted modern clothes, simple expressions.
-- THE CREATOR (abstract, never shown as a person): a vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
+- THE CREATOR (abstract, never shown as a person): A vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
 
 ON-SCREEN TEXT: "Fear" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -990,10 +990,10 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING: timeless present day unless the scene says otherwise; simple everyday modern clothes, plain flat interiors and landscapes.
 
-SCENE: 1930s scene: a crowd with raised arms faces a distant podium where a small stern figure speaks; plain dark banners with no symbols, muted grey-brown tones.
+SCENE: 1930s scene: A crowd with raised arms faces a distant podium where a small stern figure speaks; plain dark banners with no symbols, muted grey-brown tones.
 
 CHARACTERS IN FRAME:
-- a 1930s German political leader (Adolf Hitler, simplified caricature in this style, kept small and distant): round beige head, dark hair combed to one side, small square dark mustache, plain brown uniform with NO symbols, insignia or armbands.
+- A 1930s DICTATOR (original character, kept small and distant): round beige head, dark hair combed to one side, small square dark mustache, plain brown uniform with NO symbols, insignia or armbands.
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted modern clothes, simple expressions.
 
 ON-SCREEN TEXT: none.
@@ -1006,7 +1006,7 @@ AVOID: photorealism, 3D render, anime/manga, chibi sparkle eyes, gradients, airb
 
 ---
 
-## Part 5 – Mill's Defiance
+## Part 5 – the philosopher's Defiance
 
 ### Shot 046 · ~2s
 
@@ -1035,12 +1035,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING: timeless present day unless the scene says otherwise; simple everyday modern clothes, plain flat interiors and landscapes.
 
-SCENE: 19th-century study with bookshelves: John Stuart Mill writes with a quill pen by candlelight.
+SCENE: 19th-century study with bookshelves: The Victorian philosopher writes with a quill pen by candlelight.
 
 CHARACTERS IN FRAME:
-- JOHN STUART MILL (19th-century British philosopher, simplified caricature in this style): round beige head with a very high bald forehead, brown hair only at the sides, long brown side-whiskers, black Victorian frock coat, tall white collar, black cravat, calm serious eyes.
+- THE VICTORIAN PHILOSOPHER (original character, 19th-century British thinker): round beige head with a very high bald forehead, brown hair only at the sides, long brown side-whiskers, black Victorian frock coat, tall white collar, black cravat, calm serious eyes.
 
-ON-SCREEN TEXT: "John Stuart Mill" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Scholarly.
 
@@ -1056,11 +1056,11 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING: timeless present day unless the scene says otherwise; simple everyday modern clothes, plain flat interiors and landscapes.
 
-SCENE: Mill stands outside on a hilltop at dusk, looking up calmly at towering grey storm clouds glowing gold from within.
+SCENE: The philosopher stands outside on a hilltop at dusk, looking up calmly at towering grey storm clouds glowing gold from within.
 
 CHARACTERS IN FRAME:
-- JOHN STUART MILL (19th-century British philosopher, simplified caricature in this style): round beige head with a very high bald forehead, brown hair only at the sides, long brown side-whiskers, black Victorian frock coat, tall white collar, black cravat, calm serious eyes.
-- THE CREATOR (abstract, never shown as a person): a vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
+- THE VICTORIAN PHILOSOPHER (original character, 19th-century British thinker): round beige head with a very high bald forehead, brown hair only at the sides, long brown side-whiskers, black Victorian frock coat, tall white collar, black cravat, calm serious eyes.
+- THE CREATOR (abstract, never shown as a person): A vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
 
 ON-SCREEN TEXT: none.
 
@@ -1078,11 +1078,11 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING: timeless present day unless the scene says otherwise; simple everyday modern clothes, plain flat interiors and landscapes.
 
-SCENE: Lightning flickers inside the clouds above Mill; he stands still, hands behind his back, chin raised. Wide/establishing framing.
+SCENE: Lightning flickers inside the clouds above the philosopher; he stands still, hands behind his back, chin raised. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JOHN STUART MILL (19th-century British philosopher, simplified caricature in this style): round beige head with a very high bald forehead, brown hair only at the sides, long brown side-whiskers, black Victorian frock coat, tall white collar, black cravat, calm serious eyes.
-- THE CREATOR (abstract, never shown as a person): a vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
+- THE VICTORIAN PHILOSOPHER (original character, 19th-century British thinker): round beige head with a very high bald forehead, brown hair only at the sides, long brown side-whiskers, black Victorian frock coat, tall white collar, black cravat, calm serious eyes.
+- THE CREATOR (abstract, never shown as a person): A vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
 
 ON-SCREEN TEXT: none.
 
@@ -1100,11 +1100,11 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING: timeless present day unless the scene says otherwise; simple everyday modern clothes, plain flat interiors and landscapes.
 
-SCENE: Same scene, slightly closer camera (gentle push-in), small change in pose/expression to show the moment progressing: Lightning flickers inside the clouds above Mill; he stands still, hands behind his back, chin raised.
+SCENE: Same scene, slightly closer camera (gentle push-in), small change in pose/expression to show the moment progressing: Lightning flickers inside the clouds above the philosopher; he stands still, hands behind his back, chin raised.
 
 CHARACTERS IN FRAME:
-- JOHN STUART MILL (19th-century British philosopher, simplified caricature in this style): round beige head with a very high bald forehead, brown hair only at the sides, long brown side-whiskers, black Victorian frock coat, tall white collar, black cravat, calm serious eyes.
-- THE CREATOR (abstract, never shown as a person): a vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
+- THE VICTORIAN PHILOSOPHER (original character, 19th-century British thinker): round beige head with a very high bald forehead, brown hair only at the sides, long brown side-whiskers, black Victorian frock coat, tall white collar, black cravat, calm serious eyes.
+- THE CREATOR (abstract, never shown as a person): A vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
 
 ON-SCREEN TEXT: none.
 
@@ -1122,10 +1122,10 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING: timeless present day unless the scene says otherwise; simple everyday modern clothes, plain flat interiors and landscapes.
 
-SCENE: Close-up of Mill's face, steady serious eyes, wind blowing his side-whiskers.
+SCENE: Close-up of the philosopher's face, steady serious eyes, wind blowing his side-whiskers.
 
 CHARACTERS IN FRAME:
-- JOHN STUART MILL (19th-century British philosopher, simplified caricature in this style): round beige head with a very high bald forehead, brown hair only at the sides, long brown side-whiskers, black Victorian frock coat, tall white collar, black cravat, calm serious eyes.
+- THE VICTORIAN PHILOSOPHER (original character, 19th-century British thinker): round beige head with a very high bald forehead, brown hair only at the sides, long brown side-whiskers, black Victorian frock coat, tall white collar, black cravat, calm serious eyes.
 
 ON-SCREEN TEXT: none.
 
@@ -1143,11 +1143,11 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING: timeless present day unless the scene says otherwise; simple everyday modern clothes, plain flat interiors and landscapes.
 
-SCENE: Mill stands firm, arms crossed, as lightning bolts strike the ground around him without moving him.
+SCENE: The philosopher stands firm, arms crossed, as lightning bolts strike the ground around him without moving him.
 
 CHARACTERS IN FRAME:
-- JOHN STUART MILL (19th-century British philosopher, simplified caricature in this style): round beige head with a very high bald forehead, brown hair only at the sides, long brown side-whiskers, black Victorian frock coat, tall white collar, black cravat, calm serious eyes.
-- THE CREATOR (abstract, never shown as a person): a vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
+- THE VICTORIAN PHILOSOPHER (original character, 19th-century British thinker): round beige head with a very high bald forehead, brown hair only at the sides, long brown side-whiskers, black Victorian frock coat, tall white collar, black cravat, calm serious eyes.
+- THE CREATOR (abstract, never shown as a person): A vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
 
 ON-SCREEN TEXT: none.
 
@@ -1165,10 +1165,10 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING: timeless present day unless the scene says otherwise; simple everyday modern clothes, plain flat interiors and landscapes.
 
-SCENE: Quote card: dark slate background, hand-lettered white quote, small Mill portrait in the corner.
+SCENE: Quote card: dark slate background, hand-lettered white quote, small the philosopher portrait in the corner.
 
 CHARACTERS IN FRAME:
-- JOHN STUART MILL (19th-century British philosopher, simplified caricature in this style): round beige head with a very high bald forehead, brown hair only at the sides, long brown side-whiskers, black Victorian frock coat, tall white collar, black cravat, calm serious eyes.
+- THE VICTORIAN PHILOSOPHER (original character, 19th-century British thinker): round beige head with a very high bald forehead, brown hair only at the sides, long brown side-whiskers, black Victorian frock coat, tall white collar, black cravat, calm serious eyes.
 
 ON-SCREEN TEXT: ""...but I will not call Him good."" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -1215,7 +1215,7 @@ SETTING: timeless present day unless the scene says otherwise; simple everyday m
 SCENE: Infinite space with countless galaxies, the golden glow at the centre, vast and complete.
 
 CHARACTERS IN FRAME:
-- THE CREATOR (abstract, never shown as a person): a vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
+- THE CREATOR (abstract, never shown as a person): A vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
 
 ON-SCREEN TEXT: none.
 
@@ -1236,7 +1236,7 @@ SETTING: timeless present day unless the scene says otherwise; simple everyday m
 SCENE: The golden glow alone in serene empty space, perfectly still and complete, a soft halo.
 
 CHARACTERS IN FRAME:
-- THE CREATOR (abstract, never shown as a person): a vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
+- THE CREATOR (abstract, never shown as a person): A vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
 
 ON-SCREEN TEXT: none.
 
@@ -1259,7 +1259,7 @@ SCENE: Tiny people bowing in rows toward the glow; in the foreground the Thinker
 CHARACTERS IN FRAME:
 - THE THINKER (recurring host/narrator, about 25): round beige head, messy jet-black hair with a fringe falling over the forehead, short neat black beard drawn as a flat dark shape around the jaw and mouth, dark forest-green hoodie, grey trousers; thoughtful, calm, slightly sceptical expression.
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted modern clothes, simple expressions.
-- THE CREATOR (abstract, never shown as a person): a vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
+- THE CREATOR (abstract, never shown as a person): A vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
 
 ON-SCREEN TEXT: none.
 
@@ -1282,7 +1282,7 @@ SCENE: Same scene, slightly closer camera (gentle push-in), small change in pose
 CHARACTERS IN FRAME:
 - THE THINKER (recurring host/narrator, about 25): round beige head, messy jet-black hair with a fringe falling over the forehead, short neat black beard drawn as a flat dark shape around the jaw and mouth, dark forest-green hoodie, grey trousers; thoughtful, calm, slightly sceptical expression.
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted modern clothes, simple expressions.
-- THE CREATOR (abstract, never shown as a person): a vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
+- THE CREATOR (abstract, never shown as a person): A vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
 
 ON-SCREEN TEXT: none.
 
@@ -1342,7 +1342,7 @@ SETTING: timeless present day unless the scene says otherwise; simple everyday m
 SCENE: The golden glow behind the clouds, quiet and distant.
 
 CHARACTERS IN FRAME:
-- THE CREATOR (abstract, never shown as a person): a vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
+- THE CREATOR (abstract, never shown as a person): A vast warm golden light glowing from behind thick flat white-and-grey clouds high in the sky, sometimes with an enormous softly glowing hand outlined in thick black line reaching out of the clouds; no face, no body, no religious symbols of any faith.
 
 ON-SCREEN TEXT: none.
 

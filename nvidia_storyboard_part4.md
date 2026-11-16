@@ -2,7 +2,7 @@
 
 Each line of the voiceover is one shot of about 1–3 seconds. Each prompt box is **self-contained**: paste it on its own into any image model (Midjourney, GPT-Image, Flux, Ideogram, etc.) and it carries the full style, characters and scene.
 
-**Style target:** the reference frames, i.e. a flat hand-drawn 2D explainer cartoon with big round heads, stick limbs, thick wobbly black outlines, one cel-shade tone, a muted palette and handwritten captions.
+**Style target:** the reference frames, i.e. A flat hand-drawn 2D explainer cartoon with big round heads, stick limbs, thick wobbly black outlines, one cel-shade tone, a muted palette and handwritten captions.
 
 **Tips:** use 16:9 (e.g. `--ar 16:9`). To keep characters consistent, generate a character sheet first and pass it as a reference image together with these prompts. Durations assume about 2.7 spoken words per second.
 
@@ -12,17 +12,17 @@ Each line of the voiceover is one shot of about 1–3 seconds. Each prompt box i
 
 ## Character sheet (reference)
 
-- YOUNG JENSEN HUANG (age about 9, 1970s): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
-- TEENAGE JENSEN HUANG (about 15, 1970s): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
-- JENSEN HUANG in the 1990s (about 30, simplified caricature): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
-- CHRIS MALACHOWSKY (Nvidia co-founder, 1990s, simplified caricature): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
-- CURTIS PRIEM (Nvidia co-founder, 1990s, simplified caricature): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful engineer look.
-- DON VALENTINE (venture capitalist, simplified caricature): older, round beige head, slicked white hair, dark grey suit, white shirt, red tie, sceptical eyebrows.
-- IAN BUCK (young researcher, mid-2000s, simplified caricature): round beige head, short messy brown hair, grey hoodie, laptop under arm, eager smile.
-- ALEX KRIZHEVSKY (university student, 2012, simplified caricature): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
-- ILYA SUTSKEVER (researcher, 2012, simplified caricature): round beige head, short dark hair receding at the temples, intense eyes, grey t-shirt.
-- GEOFFREY HINTON (professor, simplified caricature): older, round beige head, white receding hair, kind smile, grey sweater over a collared shirt.
+- THE FOUNDER AS A BOY (original character, about 9, 1970s, East Asian boy): small body, round beige head, glossy black bowl-cut hair, big curious dot eyes, oversized plain white t-shirt, brown shorts, white sneakers.
+- THE FOUNDER AS A TEENAGER (original character, about 15, 1970s, East Asian teen): round beige head, black bowl-cut hair, large round glasses, diner busboy uniform: white short-sleeve shirt, small black bow tie, white apron.
+- THE FOUNDER IN THE 1990s (original character, about 30, East Asian man): round beige head, neat side-parted black hair, large square-ish 1990s glasses, friendly determined smile, light-blue button-up shirt with rolled sleeves, khaki trousers.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FIRST CO-FOUNDER (original character, 1990s engineer): round beige head, short brown hair, short brown beard, navy polo shirt, jeans, friendly calm face.
+- THE SECOND CO-FOUNDER (original character, 1990s engineer): round beige head, light-brown hair, brown mustache, round wire glasses, grey crew-neck sweater, thoughtful look.
+- THE VETERAN INVESTOR (original character, older venture capitalist): round beige head, slicked white hair, dark grey suit, white shirt, red tie, sceptical eyebrows.
+- THE YOUNG RESEARCHER (original character, mid-2000s grad student): round beige head, short messy brown hair, grey hoodie, laptop under arm, eager smile.
+- THE STUDENT (original character, 2012 university student): round beige head, short dark-brown hair, light stubble, plain dark-blue t-shirt, focused tired eyes.
+- THE LAB PARTNER (original character, 2012 researcher): round beige head, short dark hair receding at the temples, intense eyes, grey t-shirt.
+- THE PROFESSOR (original character, older computer-science professor): round beige head, white receding hair, kind smile, grey sweater over a collared shirt.
 
 
 ---
@@ -588,10 +588,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2016-2022: modern RGB-lit gaming rigs, crypto-mining basements full of graphics cards, empty store shelves, corporate merger negotiations, regulators, falling tech stocks.
 
-SCENE: Jensen at a chess board making a big move. Wide/establishing framing.
+SCENE: The founder at a chess board making a big move. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: "2020" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -615,10 +615,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2016-2022: modern RGB-lit gaming rigs, crypto-mining basements full of graphics cards, empty store shelves, corporate merger negotiations, regulators, falling tech stocks.
 
-SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: Jensen at a chess board making a big move.
+SCENE: Same scene, camera moved slightly closer (gentle push-in, beat 2 of 2), small change in pose/expression to show the moment progressing: The founder at a chess board making a big move.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: "2020" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -993,10 +993,10 @@ SETTING ERA: 1970s to 2025 as the scene and context state; accurate period detai
 
 HISTORICAL CONTEXT: 2016-2022: modern RGB-lit gaming rigs, crypto-mining basements full of graphics cards, empty store shelves, corporate merger negotiations, regulators, falling tech stocks.
 
-SCENE: A sly grin from Jensen.
+SCENE: A sly grin from the founder.
 
 CHARACTERS IN FRAME:
-- JENSEN HUANG today (simplified caricature): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
+- THE FOUNDER TODAY (original character, East Asian man in his 60s, charismatic tech CEO): round beige head, swept-back silver-grey and black hair, confident warm grin, signature black leather jacket over a black t-shirt, black jeans, black shoes.
 
 ON-SCREEN TEXT: none.
 

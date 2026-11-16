@@ -2,7 +2,7 @@
 
 Each line of the voiceover is one shot of about 1–3 seconds. Each prompt box is **self-contained**: paste it on its own into any image model (Midjourney, GPT-Image, Flux, Ideogram, etc.) and it carries the full style, characters and scene.
 
-**Style target:** the reference frames, i.e. a flat hand-drawn 2D explainer cartoon with big round heads, stick limbs, thick wobbly black outlines, one cel-shade tone, a muted palette and handwritten captions.
+**Style target:** the reference frames, i.e. A flat hand-drawn 2D explainer cartoon with big round heads, stick limbs, thick wobbly black outlines, one cel-shade tone, a muted palette and handwritten captions.
 
 **Tips:** use 16:9 (e.g. `--ar 16:9`). To keep characters consistent, generate a character sheet first and pass it as a reference image together with these prompts. Durations assume about 2.7 spoken words per second.
 
@@ -19,8 +19,8 @@ Each line of the voiceover is one shot of about 1–3 seconds. Each prompt box i
 - THE SHOESHINE BOY (about 12): small body, round beige head, grey newsboy cap, brown vest over a white shirt with rolled sleeves, polishing rag in hand.
 - THE RICH BUSINESSMAN: round beige head, slicked-back black hair, dark charcoal pinstripe suit, white pocket square, polished black shoes.
 - THE CANDY SHOPKEEPER: round beige head, big curly black handlebar mustache, small white paper cap, white apron over a pink-striped shirt.
-- HERBERT HOOVER (31st US president, simplified caricature in this style): round beige head with chubby cheeks, dark hair parted near the centre and slicked flat, tall stiff white high collar, dark navy three-piece suit, serious reserved expression.
-- FRANKLIN D. ROOSEVELT (32nd US president, simplified caricature in this style): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
+- THE PRESIDENT OF 1930 (original character, reserved American president): round beige head with chubby cheeks, dark hair parted near the centre and slicked flat, tall stiff white high collar, dark navy three-piece suit, serious reserved expression.
+- THE NEW PRESIDENT OF 1933 (original character, warm confident American president): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
 
 
 ---
@@ -79,7 +79,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Close-up at a teller window with brass bars: a nervous teller pulls out a completely empty wooden cash drawer. In the foreground Walter's face is shocked: eyebrows shot up, dot eyes wide, mouth a small open oval.
+SCENE: Close-up at a teller window with brass bars: A nervous teller pulls out a completely empty wooden cash drawer. In the foreground Walter's face is shocked: eyebrows shot up, dot eyes wide, mouth a small open oval.
 
 CHARACTERS IN FRAME:
 - WALTER (recurring father, 30s): round beige head, short dark-brown hair neatly side-parted with a small swoop over the forehead, thin dark-brown mustache, light-blue collared shirt under a brown button vest, grey trousers; sometimes a grey fedora.
@@ -158,7 +158,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Bird's-eye wide shot over a city street: a sea of hundreds of tiny round-headed people packed shoulder to shoulder in front of a columned bank, all looking up.
+SCENE: Bird's-eye wide shot over a city street: A sea of hundreds of tiny round-headed people packed shoulder to shoulder in front of a columned bank, all looking up.
 
 CHARACTERS IN FRAME:
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted 1920s-30s outfits (fedoras, newsboy caps, cloche hats, long coats), simple expressions.
@@ -263,7 +263,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Rural dirt road beside a fence: the Farmer tips a large steel milk can, a wide white puddle of milk spreading across the brown road; more full cans stacked on a flatbed truck behind him. Angry frown.
+SCENE: Rural dirt road beside a fence: The Farmer tips a large steel milk can, a wide white puddle of milk spreading across the brown road; more full cans stacked on a flatbed truck behind him. Angry frown.
 
 CHARACTERS IN FRAME:
 - THE FARMER: round tanned-beige head, wide straw hat, grey stubble shading on the jaw, white shirt with rolled sleeves, faded denim-blue overalls.
@@ -479,7 +479,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Sam stands beside a wooden easel holding a large paper pad with a simple timeline drawn on it (a party icon, a falling arrow, a bank, a sunrise); Sam points at it with a long wooden pointer.
+SCENE: Sam stands beside a wooden easel holding a large paper pad with a simple timeline drawn on it (A party icon, a falling arrow, a bank, a sunrise); Sam points at it with a long wooden pointer.
 
 CHARACTERS IN FRAME:
 - SAM (recurring kid explainer/host, about 10): round beige head, bushy orange curly hair, three tiny brown freckle dots on each cheek, olive-green t-shirt, navy shorts.
@@ -563,7 +563,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: A big open storybook lying on a table, tiny flat scenes popping up out of its pages like a pop-up book: a jazz trumpet, a bank, a dust cloud, a radio.
+SCENE: A big open storybook lying on a table, tiny flat scenes popping up out of its pages like a pop-up book: A jazz trumpet, a bank, a dust cloud, a radio.
 
 ON-SCREEN TEXT: "Just a story." in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -625,7 +625,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Plain beige background: a single domino tipping over, hand-lettered text above it.
+SCENE: Plain beige background: A single domino tipping over, hand-lettered text above it.
 
 ON-SCREEN TEXT: "Why it happened." in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -997,7 +997,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Small smoky club stage: a trumpet player puffing his cheeks, a stand-up bass player, a pianist; music notes floating up; warm dim lighting.
+SCENE: Small smoky club stage: A trumpet player puffing his cheeks, a stand-up bass player, a pianist; music notes floating up; warm dim lighting.
 
 CHARACTERS IN FRAME:
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted 1920s-30s outfits (fedoras, newsboy caps, cloche hats, long coats), simple expressions.
@@ -1775,7 +1775,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Rainy day: the lemonade stand empty, a puddle of spilled lemonade, a dark cloud above, Sam sad under a tiny umbrella.
+SCENE: Rainy day: The lemonade stand empty, a puddle of spilled lemonade, a dark cloud above, Sam sad under a tiny umbrella.
 
 CHARACTERS IN FRAME:
 - SAM (recurring kid explainer/host, about 10): round beige head, bushy orange curly hair, three tiny brown freckle dots on each cheek, olive-green t-shirt, navy shorts.
@@ -1857,7 +1857,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Split frame: the little lemonade stand on the left, a tiny version of the busy trading floor on the right, an equals sign between them.
+SCENE: Split frame: The little lemonade stand on the left, a tiny version of the busy trading floor on the right, an equals sign between them.
 
 ON-SCREEN TEXT: "=" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -2247,7 +2247,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Low angle: the Banker towers over a small Tommy, holding a paper reading 'YOU OWE $9', stern face.
+SCENE: Low angle: The Banker towers over a small Tommy, holding a paper reading 'YOU OWE $9', stern face.
 
 CHARACTERS IN FRAME:
 - THE BANKER: round beige head, bald on top with grey side tufts, small round wire glasses, bushy grey mustache, black three-piece suit, white shirt, red tie, gold watch chain.
@@ -2350,7 +2350,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Street corner: the Rich Businessman sits high on a wooden shoeshine chair reading a newspaper; the Shoeshine Boy kneels polishing his shoe.
+SCENE: Street corner: The Rich Businessman sits high on a wooden shoeshine chair reading a newspaper; the Shoeshine Boy kneels polishing his shoe.
 
 CHARACTERS IN FRAME:
 - THE RICH BUSINESSMAN: round beige head, slicked-back black hair, dark charcoal pinstripe suit, white pocket square, polished black shoes.
@@ -2724,7 +2724,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Wood-panelled boardroom: the Banker and several other bankers in black suits around a long table, serious faces.
+SCENE: Wood-panelled boardroom: The Banker and several other bankers in black suits around a long table, serious faces.
 
 CHARACTERS IN FRAME:
 - THE BANKER: round beige head, bald on top with grey side tufts, small round wire glasses, bushy grey mustache, black three-piece suit, white shirt, red tie, gold watch chain.
@@ -3886,7 +3886,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Wide shot: a very long line of people snakes around the block outside the bank. Wide/establishing framing.
+SCENE: Wide shot: A very long line of people snakes around the block outside the bank. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted 1920s-30s outfits (fedoras, newsboy caps, cloche hats, long coats), simple expressions.
@@ -3907,7 +3907,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Same scene, slightly closer camera (gentle push-in), small change in pose/expression to show the moment progressing: Wide shot: a very long line of people snakes around the block outside the bank.
+SCENE: Same scene, slightly closer camera (gentle push-in), small change in pose/expression to show the moment progressing: Wide shot: A very long line of people snakes around the block outside the bank.
 
 CHARACTERS IN FRAME:
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted 1920s-30s outfits (fedoras, newsboy caps, cloche hats, long coats), simple expressions.
@@ -5941,12 +5941,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Hoover standing in an office with flags, hands behind his back.
+SCENE: The president standing in an office with flags, hands behind his back.
 
 CHARACTERS IN FRAME:
-- HERBERT HOOVER (31st US president, simplified caricature in this style): round beige head with chubby cheeks, dark hair parted near the centre and slicked flat, tall stiff white high collar, dark navy three-piece suit, serious reserved expression.
+- THE PRESIDENT OF 1930 (original character, reserved American president): round beige head with chubby cheeks, dark hair parted near the centre and slicked flat, tall stiff white high collar, dark navy three-piece suit, serious reserved expression.
 
-ON-SCREEN TEXT: "Herbert Hoover" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Formal.
 
@@ -5962,10 +5962,10 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Hoover sits at a desk signing papers.
+SCENE: The president sits at a desk signing papers.
 
 CHARACTERS IN FRAME:
-- HERBERT HOOVER (31st US president, simplified caricature in this style): round beige head with chubby cheeks, dark hair parted near the centre and slicked flat, tall stiff white high collar, dark navy three-piece suit, serious reserved expression.
+- THE PRESIDENT OF 1930 (original character, reserved American president): round beige head with chubby cheeks, dark hair parted near the centre and slicked flat, tall stiff white high collar, dark navy three-piece suit, serious reserved expression.
 
 ON-SCREEN TEXT: none.
 
@@ -5983,10 +5983,10 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Hoover pats a bandaged cartoon character labelled 'Economy', waiting patiently. Wide/establishing framing.
+SCENE: The president pats a bandaged cartoon character labelled 'Economy', waiting patiently. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- HERBERT HOOVER (31st US president, simplified caricature in this style): round beige head with chubby cheeks, dark hair parted near the centre and slicked flat, tall stiff white high collar, dark navy three-piece suit, serious reserved expression.
+- THE PRESIDENT OF 1930 (original character, reserved American president): round beige head with chubby cheeks, dark hair parted near the centre and slicked flat, tall stiff white high collar, dark navy three-piece suit, serious reserved expression.
 
 ON-SCREEN TEXT: none.
 
@@ -6004,10 +6004,10 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Same scene, slightly closer camera (gentle push-in), small change in pose/expression to show the moment progressing: Hoover pats a bandaged cartoon character labelled 'Economy', waiting patiently.
+SCENE: Same scene, slightly closer camera (gentle push-in), small change in pose/expression to show the moment progressing: The president pats a bandaged cartoon character labelled 'Economy', waiting patiently.
 
 CHARACTERS IN FRAME:
-- HERBERT HOOVER (31st US president, simplified caricature in this style): round beige head with chubby cheeks, dark hair parted near the centre and slicked flat, tall stiff white high collar, dark navy three-piece suit, serious reserved expression.
+- THE PRESIDENT OF 1930 (original character, reserved American president): round beige head with chubby cheeks, dark hair parted near the centre and slicked flat, tall stiff white high collar, dark navy three-piece suit, serious reserved expression.
 
 ON-SCREEN TEXT: none.
 
@@ -6025,10 +6025,10 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Hoover takes a step back from a line on the floor, hands raised.
+SCENE: The president takes a step back from a line on the floor, hands raised.
 
 CHARACTERS IN FRAME:
-- HERBERT HOOVER (31st US president, simplified caricature in this style): round beige head with chubby cheeks, dark hair parted near the centre and slicked flat, tall stiff white high collar, dark navy three-piece suit, serious reserved expression.
+- THE PRESIDENT OF 1930 (original character, reserved American president): round beige head with chubby cheeks, dark hair parted near the centre and slicked flat, tall stiff white high collar, dark navy three-piece suit, serious reserved expression.
 
 ON-SCREEN TEXT: none.
 
@@ -6322,7 +6322,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Close-up at a soup-kitchen counter: a volunteer in an apron ladles steaming soup into a tin bowl; a slice of bread is placed in a man's mitten hand; small grateful look. Wide/establishing framing.
+SCENE: Close-up at a soup-kitchen counter: A volunteer in an apron ladles steaming soup into a tin bowl; a slice of bread is placed in a man's mitten hand; small grateful look. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted 1920s-30s outfits (fedoras, newsboy caps, cloche hats, long coats), simple expressions.
@@ -6343,7 +6343,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Same scene, slightly closer camera (gentle push-in), small change in pose/expression to show the moment progressing: Close-up at a soup-kitchen counter: a volunteer in an apron ladles steaming soup into a tin bowl; a slice of bread is placed in a man's mitten hand; small grateful look.
+SCENE: Same scene, slightly closer camera (gentle push-in), small change in pose/expression to show the moment progressing: Close-up at a soup-kitchen counter: A volunteer in an apron ladles steaming soup into a tin bowl; a slice of bread is placed in a man's mitten hand; small grateful look.
 
 CHARACTERS IN FRAME:
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted 1920s-30s outfits (fedoras, newsboy caps, cloche hats, long coats), simple expressions.
@@ -6385,7 +6385,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Wide shot at sunset: the freight train crossing flat golden plains, teenagers sitting in the open boxcar door with legs dangling, looking out at the horizon. Wide/establishing framing.
+SCENE: Wide shot at sunset: The freight train crossing flat golden plains, teenagers sitting in the open boxcar door with legs dangling, looking out at the horizon. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted 1920s-30s outfits (fedoras, newsboy caps, cloche hats, long coats), simple expressions.
@@ -6406,7 +6406,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Same scene, slightly closer camera (gentle push-in), small change in pose/expression to show the moment progressing: Wide shot at sunset: the freight train crossing flat golden plains, teenagers sitting in the open boxcar door with legs dangling, looking out at the horizon.
+SCENE: Same scene, slightly closer camera (gentle push-in), small change in pose/expression to show the moment progressing: Wide shot at sunset: The freight train crossing flat golden plains, teenagers sitting in the open boxcar door with legs dangling, looking out at the horizon.
 
 CHARACTERS IN FRAME:
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted 1920s-30s outfits (fedoras, newsboy caps, cloche hats, long coats), simple expressions.
@@ -6493,7 +6493,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Wide farm shot: a lonely red barn and windmill on flat land; the sky darkens to brown-grey and thick clouds gather.
+SCENE: Wide farm shot: A lonely red barn and windmill on flat land; the sky darkens to brown-grey and thick clouds gather.
 
 ON-SCREEN TEXT: none.
 
@@ -6787,10 +6787,10 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: The distant podium: a small figure gesturing forcefully, the crowd cheering; muted grey-red tones.
+SCENE: The distant podium: A small figure gesturing forcefully, the crowd cheering; muted grey-red tones.
 
 CHARACTERS IN FRAME:
-- a 1930s German political leader (Adolf Hitler, simplified caricature in this style, kept small and distant): round beige head, dark hair combed to one side, small square dark mustache, plain brown uniform with NO symbols, insignia or armbands, stern face.
+- A 1930s GERMAN DICTATOR (original character, kept small and distant): round beige head, dark hair combed to one side, small square dark mustache, plain brown uniform with NO symbols, insignia or armbands, stern face.
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted 1920s-30s outfits (fedoras, newsboy caps, cloche hats, long coats), simple expressions.
 
 ON-SCREEN TEXT: none.
@@ -6812,9 +6812,9 @@ SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period 
 SCENE: Medium-distance shot of the figure at the podium, arm raised mid-speech, stern face; plain dark curtain behind, no symbols or flags.
 
 CHARACTERS IN FRAME:
-- a 1930s German political leader (Adolf Hitler, simplified caricature in this style, kept small and distant): round beige head, dark hair combed to one side, small square dark mustache, plain brown uniform with NO symbols, insignia or armbands, stern face.
+- A 1930s GERMAN DICTATOR (original character, kept small and distant): round beige head, dark hair combed to one side, small square dark mustache, plain brown uniform with NO symbols, insignia or armbands, stern face.
 
-ON-SCREEN TEXT: "Adolf Hitler" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Ominous.
 
@@ -6946,12 +6946,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Medium shot of FDR standing behind a podium, waving one hand to the crowd, confident upturned smile.
+SCENE: Medium shot of the new president standing behind a podium, waving one hand to the crowd, confident upturned smile.
 
 CHARACTERS IN FRAME:
-- FRANKLIN D. ROOSEVELT (32nd US president, simplified caricature in this style): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
+- THE NEW PRESIDENT OF 1933 (original character, warm confident American president): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
 
-ON-SCREEN TEXT: "Franklin D. Roosevelt" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Confident.
 
@@ -6967,12 +6967,12 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Plain warm-beige background with FDR's head-and-shoulders portrait on the right and big hand-lettered initials on the left.
+SCENE: Plain warm-beige background with the new president's head-and-shoulders portrait on the right and big hand-lettered initials on the left.
 
 CHARACTERS IN FRAME:
-- FRANKLIN D. ROOSEVELT (32nd US president, simplified caricature in this style): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
+- THE NEW PRESIDENT OF 1933 (original character, warm confident American president): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
 
-ON-SCREEN TEXT: "FDR" in the handwritten marker font, clearly legible, spelled exactly.
+ON-SCREEN TEXT: none.
 
 MOOD: Friendly.
 
@@ -6988,10 +6988,10 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: FDR at the inaugural podium with three old metal microphones, papers in front of him, crowd below.
+SCENE: The new president at the inaugural podium with three old metal microphones, papers in front of him, crowd below.
 
 CHARACTERS IN FRAME:
-- FRANKLIN D. ROOSEVELT (32nd US president, simplified caricature in this style): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
+- THE NEW PRESIDENT OF 1933 (original character, warm confident American president): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted 1920s-30s outfits (fedoras, newsboy caps, cloche hats, long coats), simple expressions.
 
 ON-SCREEN TEXT: none.
@@ -7052,10 +7052,10 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Close-up of FDR speaking firmly into the microphones, one finger raised, determined eyebrows.
+SCENE: Close-up of the new president speaking firmly into the microphones, one finger raised, determined eyebrows.
 
 CHARACTERS IN FRAME:
-- FRANKLIN D. ROOSEVELT (32nd US president, simplified caricature in this style): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
+- THE NEW PRESIDENT OF 1933 (original character, warm confident American president): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
 
 ON-SCREEN TEXT: ""The only thing we have to fear..."" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -7073,10 +7073,10 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Quote card: deep navy background, hand-lettered white quote centred, a small FDR portrait in the bottom corner.
+SCENE: Quote card: deep navy background, hand-lettered white quote centred, a small the new president portrait in the bottom corner.
 
 CHARACTERS IN FRAME:
-- FRANKLIN D. ROOSEVELT (32nd US president, simplified caricature in this style): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
+- THE NEW PRESIDENT OF 1933 (original character, warm confident American president): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
 
 ON-SCREEN TEXT: ""...is fear itself."" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -7115,7 +7115,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Flashback panel with a wobbly sepia frame: the long line of panicked people outside the bank from earlier.
+SCENE: Flashback panel with a wobbly sepia frame: The long line of panicked people outside the bank from earlier.
 
 CHARACTERS IN FRAME:
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted 1920s-30s outfits (fedoras, newsboy caps, cloche hats, long coats), simple expressions.
@@ -7232,10 +7232,10 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: FDR seated at a big wooden desk in an oval office, leaning forward with a determined look, pen ready.
+SCENE: The new president seated at a big wooden desk in an oval office, leaning forward with a determined look, pen ready.
 
 CHARACTERS IN FRAME:
-- FRANKLIN D. ROOSEVELT (32nd US president, simplified caricature in this style): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
+- THE NEW PRESIDENT OF 1933 (original character, warm confident American president): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
 
 ON-SCREEN TEXT: none.
 
@@ -7346,10 +7346,10 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: FDR's desk with a large vintage radio microphone placed on it; FDR adjusts his pince-nez glasses. Wide/establishing framing.
+SCENE: The new president's desk with a large vintage radio microphone placed on it; the new president adjusts his pince-nez glasses. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- FRANKLIN D. ROOSEVELT (32nd US president, simplified caricature in this style): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
+- THE NEW PRESIDENT OF 1933 (original character, warm confident American president): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
 
 ON-SCREEN TEXT: none.
 
@@ -7367,10 +7367,10 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Same scene, slightly closer camera (gentle push-in), small change in pose/expression to show the moment progressing: FDR's desk with a large vintage radio microphone placed on it; FDR adjusts his pince-nez glasses.
+SCENE: Same scene, slightly closer camera (gentle push-in), small change in pose/expression to show the moment progressing: The new president's desk with a large vintage radio microphone placed on it; the new president adjusts his pince-nez glasses.
 
 CHARACTERS IN FRAME:
-- FRANKLIN D. ROOSEVELT (32nd US president, simplified caricature in this style): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
+- THE NEW PRESIDENT OF 1933 (original character, warm confident American president): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
 
 ON-SCREEN TEXT: none.
 
@@ -7388,10 +7388,10 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Close-up: FDR speaking warmly into a chrome microphone labelled with a small radio-station plate; sound wave lines.
+SCENE: Close-up: The new president speaking warmly into a chrome microphone labelled with a small radio-station plate; sound wave lines.
 
 CHARACTERS IN FRAME:
-- FRANKLIN D. ROOSEVELT (32nd US president, simplified caricature in this style): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
+- THE NEW PRESIDENT OF 1933 (original character, warm confident American president): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
 
 ON-SCREEN TEXT: none.
 
@@ -7432,7 +7432,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Wide cosy living room: a crackling fireplace with flat orange flames, the family on a sofa around the radio, warm orange light.
+SCENE: Wide cosy living room: A crackling fireplace with flat orange flames, the family on a sofa around the radio, warm orange light.
 
 CHARACTERS IN FRAME:
 - WALTER (recurring father, 30s): round beige head, short dark-brown hair neatly side-parted with a small swoop over the forehead, thin dark-brown mustache, light-blue collared shirt under a brown button vest, grey trousers; sometimes a grey fedora.
@@ -7660,10 +7660,10 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: FDR rolls up his shirt sleeves at his desk, energetic grin.
+SCENE: The new president rolls up his shirt sleeves at his desk, energetic grin.
 
 CHARACTERS IN FRAME:
-- FRANKLIN D. ROOSEVELT (32nd US president, simplified caricature in this style): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
+- THE NEW PRESIDENT OF 1933 (original character, warm confident American president): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
 
 ON-SCREEN TEXT: none.
 
@@ -7681,10 +7681,10 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: FDR pulls a cord unveiling a giant banner reading 'THE NEW DEAL' on a building; a crowd below cheers with hats in the air. Wide/establishing framing.
+SCENE: The new president pulls a cord unveiling a giant banner reading 'THE NEW DEAL' on a building; a crowd below cheers with hats in the air. Wide/establishing framing.
 
 CHARACTERS IN FRAME:
-- FRANKLIN D. ROOSEVELT (32nd US president, simplified caricature in this style): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
+- THE NEW PRESIDENT OF 1933 (original character, warm confident American president): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted 1920s-30s outfits (fedoras, newsboy caps, cloche hats, long coats), simple expressions.
 
 ON-SCREEN TEXT: "THE NEW DEAL" in the handwritten marker font, clearly legible, spelled exactly.
@@ -7703,10 +7703,10 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Same scene, slightly closer camera (gentle push-in), small change in pose/expression to show the moment progressing: FDR pulls a cord unveiling a giant banner reading 'THE NEW DEAL' on a building; a crowd below cheers with hats in the air.
+SCENE: Same scene, slightly closer camera (gentle push-in), small change in pose/expression to show the moment progressing: The new president pulls a cord unveiling a giant banner reading 'THE NEW DEAL' on a building; a crowd below cheers with hats in the air.
 
 CHARACTERS IN FRAME:
-- FRANKLIN D. ROOSEVELT (32nd US president, simplified caricature in this style): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
+- THE NEW PRESIDENT OF 1933 (original character, warm confident American president): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted 1920s-30s outfits (fedoras, newsboy caps, cloche hats, long coats), simple expressions.
 
 ON-SCREEN TEXT: "THE NEW DEAL" in the handwritten marker font, clearly legible, spelled exactly.
@@ -8964,7 +8964,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: Two wall calendars side by side on a plain beige wall: an old yellowed one reading '1929' with a torn corner and a clean modern one reading '2026'; a dotted arrow connects them.
+SCENE: Two wall calendars side by side on a plain beige wall: An old yellowed one reading '1929' with a torn corner and a clean modern one reading '2026'; a dotted arrow connects them.
 
 ON-SCREEN TEXT: none.
 
@@ -9000,7 +9000,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: MODERN ERA (2008): a skyline of flat-coloured glass skyscrapers with jagged cracks running down them; small modern office workers in suits holding cardboard boxes on the sidewalk.
+SCENE: MODERN ERA (2008): A skyline of flat-coloured glass skyscrapers with jagged cracks running down them; small modern office workers in suits holding cardboard boxes on the sidewalk.
 
 CHARACTERS IN FRAME:
 - BACKGROUND EXTRAS: generic bean-people in the same style, varied muted 1920s-30s outfits (fedoras, newsboy caps, cloche hats, long coats), simple expressions.
@@ -9099,7 +9099,7 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: MODERN ERA (2020): an empty city street, every shop door has a 'CLOSED' sign, a lone pigeon on the sidewalk, quiet grey light.
+SCENE: MODERN ERA (2020): An empty city street, every shop door has a 'CLOSED' sign, a lone pigeon on the sidewalk, quiet grey light.
 
 ON-SCREEN TEXT: "2020" in the handwritten marker font, clearly legible, spelled exactly.
 
@@ -9441,10 +9441,10 @@ STYLE: 2D flat vector cartoon frame in a hand-drawn educational YouTube explaine
 
 SETTING ERA: United States, late 1920s to 1930s unless stated otherwise; period clothing (fedoras, newsboy caps, cloche hats, suspenders, vests, long coats), boxy period cars and buildings.
 
-SCENE: FDR speaking warmly into a chrome radio microphone at his desk.
+SCENE: The new president speaking warmly into a chrome radio microphone at his desk.
 
 CHARACTERS IN FRAME:
-- FRANKLIN D. ROOSEVELT (32nd US president, simplified caricature in this style): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
+- THE NEW PRESIDENT OF 1933 (original character, warm confident American president): round beige head, grey-brown receding hair slicked back, small round pince-nez glasses, confident upturned smile, dark navy suit; usually shown seated or standing behind a podium/desk.
 
 ON-SCREEN TEXT: none.
 

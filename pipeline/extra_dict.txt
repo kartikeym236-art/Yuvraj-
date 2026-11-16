@@ -197,3 +197,32 @@ ultron AH L T R AA N
 zha ZH AA
 voo V UW
 zelenskyy Z EH L EH N S K IY
+alexnet AE L EH K S N EH T
+ati's EY T IY AY Z
+ceos S IY IY OW Z
+chatbot CH AE T B AA T
+chatgpt CH AE T JH IY P IY T IY
+cryptocurrencies K R IH P T OW K ER AH N S IY Z
+cuda K UW D AH
+directx D ER EH K T EH K S
+ethereum IH TH IH R IY AH M
+fx EH F EH K S
+geforce JH IY F AO R S
+gpu JH IY P IY Y UW
+gpus JH IY P IY Y UW Z
+imagenet IH M IH JH N EH T
+invidia IH N V IH D IY AH
+ipo AY P IY OW
+jensen's JH EH N S AH N Z
+krizhevsky K R IH Z EH V S K IY
+lsi EH L EH S AY
+malachowsky M AE L AH K AW S K IY
+nvidia's EH N V IH D IY AH Z
+openai OW P AH N EY AY
+radeon R EY D IY AA N
+rtx AA R T IY EH K S
+stwenty S T W EH N T IY
+sutskever S UW T S K EH V ER
+tegra T EH G R AH
+toolset T UW L S EH T
+nvidia EH N V IH D IY AH

@@ -18,7 +18,7 @@ Follow CLAUDE.md for repo rules (branch, commits, Drive, Composio). This skill i
 | Pause cap | `max_gap 0.1` |
 | Captions | `"yellow"`: one word at a time, bold yellow, black outline, centred on the image, original casing |
 | Title | user's title in CAPS, key word in `*yellow*`; wraps to 2 lines automatically |
-| Music | the track the user names (copy from an earlier project's music.mp3 or their upload); `"start"` unless they say a segment |
+| Music | the track the user names (copy from an earlier project's music.mp3 or their upload); `"start"` unless they say a segment. **If no track is given, pick one from earlier projects that suits the topic** (user, Nov 2026); find them with ffprobe title tags, e.g. Girlfriends - New Computers (barbers), Can You Hear The Music (chess), Cornfield Chase (brain), No Time for Caution (nov13), biting bullets (avoid), Experience (catholic), Paris (jensen), Goodbye (dark3) |
 | Scene length | ~0.6–1.1 s each (about 2–3 words), scene 1 = dramatic hook |
 | Image style | flat 2D cartoon, thick black outlines, caricature big heads, warm orange-tan skin, dot eyes, muted teal/slate + warm orange, detailed illustrated backgrounds, NO text in images |
 

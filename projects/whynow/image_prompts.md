@@ -33,7 +33,7 @@ THE TECH BOSS: older man with swept-back grey hair, black leather jacket, black 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
 
-Scene: A shadowy stick figure in a trench coat and sunglasses peeking around a corner.
+Scene: A shadowy person in a trench coat and sunglasses peeking around a corner.
 ```
 
 ## 005  ·  "But ask yourself,"
@@ -41,7 +41,7 @@ Scene: A shadowy stick figure in a trench coat and sunglasses peeking around a c
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
 
-Scene: THE NARRATOR turning to the viewer, raising one finger.
+Scene: THE GUY turning to the viewer, raising one finger.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans, white sneakers, wristwatch.
 ```
 
@@ -50,7 +50,7 @@ THE GUY: young man with big curly black hair, teal-grey button-up shirt with rol
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
 
-Scene: THE NARRATOR with narrowed eyes, a big question mark drawn faintly behind him (no text).
+Scene: THE GUY with narrowed eyes, a big question mark drawn faintly behind him (no text).
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans, white sneakers, wristwatch.
 ```
 
@@ -67,7 +67,7 @@ Scene: A wall calendar with two weeks circled in red pencil (no numbers).
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
 
-Scene: A tiny bank icon glowing on a phone screen held by THE PERSON.
+Scene: A tiny bank icon glowing on a phone screen held by THE GUY.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans, white sneakers, wristwatch.
 ```
 
@@ -92,7 +92,7 @@ Scene: A bank building crumbling into dust.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
 
-Scene: Long queues of worried stick figures outside closed bank doors.
+Scene: Long queues of worried people outside closed bank doors.
 ```
 
 ## 012  ·  "of people's savings"
@@ -108,7 +108,7 @@ Scene: A piggy bank cracking open, coins spilling into a dark hole.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
 
-Scene: THE PERSON staring at an empty wallet, shocked.
+Scene: THE GUY staring at an empty wallet, shocked.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans, white sneakers, wristwatch.
 ```
 
@@ -133,7 +133,7 @@ Scene: A mountain of gold coins dissolving into pixels and flying away.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
 
-Scene: A hooded hacker stick figure at a glowing laptop in a dark room.
+Scene: A hooded hacker person at a glowing laptop in a dark room.
 ```
 
 ## 017  ·  "And when no one"
@@ -141,7 +141,7 @@ Scene: A hooded hacker stick figure at a glowing laptop in a dark room.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
 
-Scene: A crowd of stick figures all looking at their phones, heads down.
+Scene: A crowd of people all looking at their phones, heads down.
 ```
 
 ## 018  ·  "was watching,"
@@ -199,7 +199,7 @@ Scene: Glowing digital coins popping out of a phone like a slot machine.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
 
-Scene: THE PERSON finally looking up from his phone, eyes widening.
+Scene: THE GUY finally looking up from his phone, eyes widening.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans, white sneakers, wristwatch.
 ```
 
@@ -208,7 +208,7 @@ THE GUY: young man with big curly black hair, teal-grey button-up shirt with rol
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
 
-Scene: THE PERSON pulling back a curtain revealing gears and wires behind a wall.
+Scene: THE GUY pulling back a curtain revealing gears and wires behind a wall.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans, white sneakers, wristwatch.
 ```
 
@@ -217,7 +217,7 @@ THE GUY: young man with big curly black hair, teal-grey button-up shirt with rol
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
 
-Scene: Paper banknotes in THE PERSON's hands.
+Scene: Paper banknotes in THE GUY's hands.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans, white sneakers, wristwatch.
 ```
 
@@ -242,7 +242,7 @@ Scene: A glowing coin with a tiny padlock and circuit lines, a remote control po
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
 
-Scene: THE NARRATOR shrugging, unimpressed.
+Scene: THE GUY shrugging, unimpressed.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans, white sneakers, wristwatch.
 ```
 
@@ -275,7 +275,7 @@ Scene: A sleepy crowd sitting on couches in front of TVs.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
 
-Scene: THE PERSON yawning in an armchair, half asleep.
+Scene: THE GUY yawning in an armchair, half asleep.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans, white sneakers, wristwatch.
 ```
 
@@ -324,7 +324,7 @@ Scene: Tabloid newspapers flying, reporters crowding with cameras (no readable t
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
 
-Scene: THE PERSON nodding, eating popcorn.
+Scene: THE GUY nodding, eating popcorn.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans, white sneakers, wristwatch.
 ```
 
@@ -341,7 +341,7 @@ Scene: A huge complicated machine of pipes and gears with money flowing through 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
 
-Scene: THE PERSON scratching his head, confused, tangled lines above.
+Scene: THE GUY scratching his head, confused, tangled lines above.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans, white sneakers, wristwatch.
 ```
 
@@ -366,7 +366,7 @@ Scene: Loudspeakers blaring at a crowd, sound waves everywhere.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
 
-Scene: THE NARRATOR holding a magnifying glass.
+Scene: THE GUY holding a magnifying glass.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans, white sneakers, wristwatch.
 ```
 
@@ -408,7 +408,7 @@ Scene: A dazzling spotlight stage with dancing puppets.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
 
-Scene: THE PERSON in the audience, eyes fixed on the stage.
+Scene: THE GUY in the audience, eyes fixed on the stage.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans, white sneakers, wristwatch.
 ```
 
@@ -425,7 +425,7 @@ Scene: Behind the curtain, workers quietly dismantling and rebuilding the stage.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
 
-Scene: THE NARRATOR at a desk with trading charts glowing on monitors (no numbers).
+Scene: THE GUY at a desk with trading charts glowing on monitors (no numbers).
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans, white sneakers, wristwatch.
 ```
 
@@ -434,6 +434,6 @@ THE GUY: young man with big curly black hair, teal-grey button-up shirt with rol
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
 
-Scene: THE NARRATOR walking alone along a quiet path at dusk while the crowd watches screens far behind.
+Scene: THE GUY walking alone along a quiet path at dusk while the crowd watches screens far behind.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans, white sneakers, wristwatch.
 ```

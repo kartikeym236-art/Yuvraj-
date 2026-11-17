@@ -1,0 +1,74 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat ExtraBold,62,&H001BE0FF,&H001BE0FF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,5,2,5,0,0,0,1
+Style: Title,Inter Display Black,66,&H00FFFFFF,&H00FFFFFF,&H00000000,&H99000000,-1,0,0,0,100,100,-1,0,1,0,4,2,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.01,0:00:00.11,Cap,,0,0,0,,{\pos(540,960)}Why
+Dialogue: 1,0:00:00.11,0:00:00.33,Cap,,0,0,0,,{\pos(540,960)}can't
+Dialogue: 1,0:00:00.33,0:00:00.43,Cap,,0,0,0,,{\pos(540,960)}we
+Dialogue: 1,0:00:00.43,0:00:00.74,Cap,,0,0,0,,{\pos(540,960)}tax
+Dialogue: 1,0:00:00.74,0:00:01.40,Cap,,0,0,0,,{\pos(540,960)}billionaires?
+Dialogue: 1,0:00:01.40,0:00:01.80,Cap,,0,0,0,,{\pos(540,960)}Because
+Dialogue: 1,0:00:01.80,0:00:02.30,Cap,,0,0,0,,{\pos(540,960)}technically
+Dialogue: 1,0:00:02.30,0:00:02.41,Cap,,0,0,0,,{\pos(540,960)}they
+Dialogue: 1,0:00:02.41,0:00:02.55,Cap,,0,0,0,,{\pos(540,960)}don't
+Dialogue: 1,0:00:02.55,0:00:02.71,Cap,,0,0,0,,{\pos(540,960)}have
+Dialogue: 1,0:00:02.71,0:00:02.96,Cap,,0,0,0,,{\pos(540,960)}much
+Dialogue: 1,0:00:02.96,0:00:03.42,Cap,,0,0,0,,{\pos(540,960)}money
+Dialogue: 1,0:00:03.42,0:00:03.71,Cap,,0,0,0,,{\pos(540,960)}Elon
+Dialogue: 1,0:00:03.71,0:00:04.01,Cap,,0,0,0,,{\pos(540,960)}Musk
+Dialogue: 1,0:00:04.01,0:00:04.17,Cap,,0,0,0,,{\pos(540,960)}isn't
+Dialogue: 1,0:00:04.17,0:00:04.44,Cap,,0,0,0,,{\pos(540,960)}sitting
+Dialogue: 1,0:00:04.44,0:00:04.58,Cap,,0,0,0,,{\pos(540,960)}on
+Dialogue: 1,0:00:04.58,0:00:05.81,Cap,,0,0,0,,{\pos(540,960)}$300 billion
+Dialogue: 1,0:00:05.81,0:00:05.91,Cap,,0,0,0,,{\pos(540,960)}in
+Dialogue: 1,0:00:05.91,0:00:06.49,Cap,,0,0,0,,{\pos(540,960)}cash
+Dialogue: 1,0:00:06.49,0:00:06.87,Cap,,0,0,0,,{\pos(540,960)}Instead
+Dialogue: 1,0:00:06.87,0:00:07.00,Cap,,0,0,0,,{\pos(540,960)}he
+Dialogue: 1,0:00:07.00,0:00:07.24,Cap,,0,0,0,,{\pos(540,960)}owns
+Dialogue: 1,0:00:07.24,0:00:07.56,Cap,,0,0,0,,{\pos(540,960)}shares
+Dialogue: 1,0:00:07.56,0:00:07.66,Cap,,0,0,0,,{\pos(540,960)}in
+Dialogue: 1,0:00:07.66,0:00:08.20,Cap,,0,0,0,,{\pos(540,960)}companies
+Dialogue: 1,0:00:08.20,0:00:08.30,Cap,,0,0,0,,{\pos(540,960)}and
+Dialogue: 1,0:00:08.30,0:00:08.35,Cap,,0,0,0,,{\pos(540,960)}the
+Dialogue: 1,0:00:08.35,0:00:08.76,Cap,,0,0,0,,{\pos(540,960)}government
+Dialogue: 1,0:00:08.76,0:00:09.02,Cap,,0,0,0,,{\pos(540,960)}can't
+Dialogue: 1,0:00:09.02,0:00:09.33,Cap,,0,0,0,,{\pos(540,960)}tax
+Dialogue: 1,0:00:09.33,0:00:09.68,Cap,,0,0,0,,{\pos(540,960)}shares
+Dialogue: 1,0:00:09.68,0:00:09.88,Cap,,0,0,0,,{\pos(540,960)}until
+Dialogue: 1,0:00:09.88,0:00:09.94,Cap,,0,0,0,,{\pos(540,960)}he
+Dialogue: 1,0:00:09.94,0:00:10.30,Cap,,0,0,0,,{\pos(540,960)}sells
+Dialogue: 1,0:00:10.30,0:00:10.61,Cap,,0,0,0,,{\pos(540,960)}them
+Dialogue: 1,0:00:10.61,0:00:10.72,Cap,,0,0,0,,{\pos(540,960)}So
+Dialogue: 1,0:00:10.72,0:00:10.84,Cap,,0,0,0,,{\pos(540,960)}when
+Dialogue: 1,0:00:10.84,0:00:10.90,Cap,,0,0,0,,{\pos(540,960)}he
+Dialogue: 1,0:00:10.90,0:00:11.13,Cap,,0,0,0,,{\pos(540,960)}wants
+Dialogue: 1,0:00:11.13,0:00:11.21,Cap,,0,0,0,,{\pos(540,960)}to
+Dialogue: 1,0:00:11.21,0:00:11.44,Cap,,0,0,0,,{\pos(540,960)}buy
+Dialogue: 1,0:00:11.44,0:00:11.87,Cap,,0,0,0,,{\pos(540,960)}something
+Dialogue: 1,0:00:11.87,0:00:11.96,Cap,,0,0,0,,{\pos(540,960)}he
+Dialogue: 1,0:00:11.96,0:00:12.20,Cap,,0,0,0,,{\pos(540,960)}gets
+Dialogue: 1,0:00:12.20,0:00:12.23,Cap,,0,0,0,,{\pos(540,960)}a
+Dialogue: 1,0:00:12.23,0:00:12.50,Cap,,0,0,0,,{\pos(540,960)}loan
+Dialogue: 1,0:00:12.50,0:00:12.66,Cap,,0,0,0,,{\pos(540,960)}from
+Dialogue: 1,0:00:12.66,0:00:12.72,Cap,,0,0,0,,{\pos(540,960)}the
+Dialogue: 1,0:00:12.72,0:00:13.18,Cap,,0,0,0,,{\pos(540,960)}bank
+Dialogue: 1,0:00:13.18,0:00:13.39,Cap,,0,0,0,,{\pos(540,960)}giving
+Dialogue: 1,0:00:13.39,0:00:13.54,Cap,,0,0,0,,{\pos(540,960)}him
+Dialogue: 1,0:00:13.54,0:00:13.92,Cap,,0,0,0,,{\pos(540,960)}millions
+Dialogue: 1,0:00:13.92,0:00:14.02,Cap,,0,0,0,,{\pos(540,960)}to
+Dialogue: 1,0:00:14.02,0:00:14.41,Cap,,0,0,0,,{\pos(540,960)}spend
+Dialogue: 1,0:00:14.41,0:00:14.53,Cap,,0,0,0,,{\pos(540,960)}and
+Dialogue: 1,0:00:14.53,0:00:14.72,Cap,,0,0,0,,{\pos(540,960)}no
+Dialogue: 1,0:00:14.72,0:00:15.06,Cap,,0,0,0,,{\pos(540,960)}tax
+Dialogue: 1,0:00:15.06,0:00:15.16,Cap,,0,0,0,,{\pos(540,960)}to
+Dialogue: 1,0:00:15.16,0:00:15.58,Cap,,0,0,0,,{\pos(540,960)}pay
+Dialogue: 0,0:00:00.00,0:00:16.58,Title,,0,0,0,,{\pos(540,392)\fs66}WHY BILLIONAIRES\NDON'T PAY {\c&H0016C8FF}TAX{\c&H00FFFFFF}

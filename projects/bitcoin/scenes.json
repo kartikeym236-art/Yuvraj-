@@ -1,0 +1,1746 @@
+[
+ {
+  "line": "On May {twenty-second|twenty second}, {2010|twenty ten},",
+  "image": "001.jpg"
+ },
+ {
+  "line": "a programmer in Florida named",
+  "image": "002.jpg"
+ },
+ {
+  "line": "Laszlo Hanyecz bought two pizzas.",
+  "image": "003.jpg"
+ },
+ {
+  "line": "He paid for them with ten thousand bitcoins.",
+  "image": "004.jpg"
+ },
+ {
+  "line": "At the time, that was worth about forty dollars.",
+  "image": "005.jpg"
+ },
+ {
+  "line": "A pretty normal price for two large pizzas.",
+  "image": "006.jpg"
+ },
+ {
+  "line": "But a few years later,",
+  "image": "007.jpg"
+ },
+ {
+  "line": "those same ten thousand bitcoins would",
+  "image": "008.jpg"
+ },
+ {
+  "line": "have been worth millions of dollars.",
+  "image": "009.jpg"
+ },
+ {
+  "line": "And at bitcoin's peak, more than one billion dollars.",
+  "image": "010.jpg"
+ },
+ {
+  "line": "The most expensive pizza in history.",
+  "image": "011.jpg"
+ },
+ {
+  "line": "So what exactly is bitcoin?",
+  "image": "012.jpg"
+ },
+ {
+  "line": "Who invented it?",
+  "image": "013.jpg"
+ },
+ {
+  "line": "Why is it worth so much?",
+  "image": "014.jpg"
+ },
+ {
+  "line": "And why do some people think",
+  "image": "015.jpg"
+ },
+ {
+  "line": "it's the future of money,",
+  "image": "016.jpg"
+ },
+ {
+  "line": "while others think it's a giant bubble?",
+  "image": "017.jpg"
+ },
+ {
+  "line": "Today, I'm going to explain",
+  "image": "018.jpg"
+ },
+ {
+  "line": "bitcoin from the very beginning.",
+  "image": "019.jpg"
+ },
+ {
+  "line": "In simple words.",
+  "image": "020.jpg"
+ },
+ {
+  "line": "No confusing tech talk.",
+  "image": "021.jpg"
+ },
+ {
+  "line": "Just the story, and how it actually works.",
+  "image": "022.jpg"
+ },
+ {
+  "line": "By the end of this video,",
+  "image": "023.jpg"
+ },
+ {
+  "line": "you'll understand bitcoin better than",
+  "image": "024.jpg"
+ },
+ {
+  "line": "most people who own it.",
+  "image": "025.jpg"
+ },
+ {
+  "line": "Let's go.",
+  "image": "026.jpg"
+ },
+ {
+  "line": "Chapter one. The problem with money.",
+  "image": "027.jpg"
+ },
+ {
+  "line": "To understand bitcoin,",
+  "image": "028.jpg"
+ },
+ {
+  "line": "we first need to talk about regular money.",
+  "image": "029.jpg"
+ },
+ {
+  "line": "Think about the money in a bank account.",
+  "image": "030.jpg"
+ },
+ {
+  "line": "It's not really sitting in a",
+  "image": "031.jpg"
+ },
+ {
+  "line": "vault with your name on it.",
+  "image": "032.jpg"
+ },
+ {
+  "line": "It's just a number,",
+  "image": "033.jpg"
+ },
+ {
+  "line": "in a computer, owned by a bank.",
+  "image": "034.jpg"
+ },
+ {
+  "line": "And for that number to work,",
+  "image": "035.jpg"
+ },
+ {
+  "line": "we have to trust a lot of people.",
+  "image": "036.jpg"
+ },
+ {
+  "line": "We trust the bank to",
+  "image": "037.jpg"
+ },
+ {
+  "line": "keep track of it correctly.",
+  "image": "038.jpg"
+ },
+ {
+  "line": "We trust the bank not to lose it.",
+  "image": "039.jpg"
+ },
+ {
+  "line": "And we trust the government",
+  "image": "040.jpg"
+ },
+ {
+  "line": "not to print so much",
+  "image": "041.jpg"
+ },
+ {
+  "line": "new money that the money",
+  "image": "042.jpg"
+ },
+ {
+  "line": "we have becomes worth less.",
+  "image": "043.jpg"
+ },
+ {
+  "line": "Most of the time, that system works pretty well.",
+  "image": "044.jpg"
+ },
+ {
+  "line": "But in {2008|two thousand eight},",
+  "image": "045.jpg"
+ },
+ {
+  "line": "the world got a scary reminder",
+  "image": "046.jpg"
+ },
+ {
+  "line": "of what happens when that trust breaks.",
+  "image": "047.jpg"
+ },
+ {
+  "line": "The global financial crisis hit.",
+  "image": "048.jpg"
+ },
+ {
+  "line": "Huge banks had made reckless bets,",
+  "image": "049.jpg"
+ },
+ {
+  "line": "and when those bets went bad,",
+  "image": "050.jpg"
+ },
+ {
+  "line": "the whole system started to wobble.",
+  "image": "051.jpg"
+ },
+ {
+  "line": "Governments stepped in and used trillions",
+  "image": "052.jpg"
+ },
+ {
+  "line": "of dollars to rescue the banks.",
+  "image": "053.jpg"
+ },
+ {
+  "line": "Meanwhile, millions of regular people lost",
+  "image": "054.jpg"
+ },
+ {
+  "line": "their homes and their jobs.",
+  "image": "055.jpg"
+ },
+ {
+  "line": "A lot of people were angry.",
+  "image": "056.jpg"
+ },
+ {
+  "line": "And one person, somewhere in the world,",
+  "image": "057.jpg"
+ },
+ {
+  "line": "decided to build an alternative.",
+  "image": "058.jpg"
+ },
+ {
+  "line": "Chapter two. The mysterious inventor.",
+  "image": "059.jpg"
+ },
+ {
+  "line": "On October {thirty-first|thirty first}, {2008|two thousand eight},",
+  "image": "060.jpg"
+ },
+ {
+  "line": "right in the middle of the crisis,",
+  "image": "061.jpg"
+ },
+ {
+  "line": "someone posted a short paper to",
+  "image": "062.jpg"
+ },
+ {
+  "line": "an online mailing list for cryptography fans.",
+  "image": "063.jpg"
+ },
+ {
+  "line": "It was only nine pages long.",
+  "image": "064.jpg"
+ },
+ {
+  "line": "And its title was \"Bitcoin:",
+  "image": "065.jpg"
+ },
+ {
+  "line": "A {Peer-to-Peer|Peer to Peer} Electronic Cash System.\"",
+  "image": "066.jpg"
+ },
+ {
+  "line": "The author's name was Satoshi Nakamoto.",
+  "image": "067.jpg"
+ },
+ {
+  "line": "The idea was simple, but revolutionary.",
+  "image": "068.jpg"
+ },
+ {
+  "line": "A kind of digital money",
+  "image": "069.jpg"
+ },
+ {
+  "line": "that doesn't need a bank.",
+  "image": "070.jpg"
+ },
+ {
+  "line": "No company in charge.",
+  "image": "071.jpg"
+ },
+ {
+  "line": "No government in charge.",
+  "image": "072.jpg"
+ },
+ {
+  "line": "Just people, all over the world,",
+  "image": "073.jpg"
+ },
+ {
+  "line": "sending money directly to each other.",
+  "image": "074.jpg"
+ },
+ {
+  "line": "On January third, {2009|two thousand nine}, Satoshi launched the bitcoin network.",
+  "image": "075.jpg"
+ },
+ {
+  "line": "And hidden inside the very first block of data,",
+  "image": "076.jpg"
+ },
+ {
+  "line": "Satoshi left a message.",
+  "image": "077.jpg"
+ },
+ {
+  "line": "A newspaper headline from that day,",
+  "image": "078.jpg"
+ },
+ {
+  "line": "from The Times in London.",
+  "image": "079.jpg"
+ },
+ {
+  "line": "\"Chancellor on brink of second bailout for banks.\"",
+  "image": "080.jpg"
+ },
+ {
+  "line": "It was like a timestamp.",
+  "image": "081.jpg"
+ },
+ {
+  "line": "And a statement.",
+  "image": "082.jpg"
+ },
+ {
+  "line": "This is why bitcoin exists.",
+  "image": "083.jpg"
+ },
+ {
+  "line": "A few days later,",
+  "image": "084.jpg"
+ },
+ {
+  "line": "Satoshi sent ten bitcoins to a",
+  "image": "085.jpg"
+ },
+ {
+  "line": "computer scientist named Hal Finney.",
+  "image": "086.jpg"
+ },
+ {
+  "line": "The first bitcoin transaction in history.",
+  "image": "087.jpg"
+ },
+ {
+  "line": "For the next two years,",
+  "image": "088.jpg"
+ },
+ {
+  "line": "Satoshi kept working on bitcoin with",
+  "image": "089.jpg"
+ },
+ {
+  "line": "a small group of volunteers.",
+  "image": "090.jpg"
+ },
+ {
+  "line": "Writing code. Answering questions. Fixing problems.",
+  "image": "091.jpg"
+ },
+ {
+  "line": "And then, in {2011|twenty eleven}, Satoshi simply disappeared.",
+  "image": "092.jpg"
+ },
+ {
+  "line": "A few final messages, and then nothing.",
+  "image": "093.jpg"
+ },
+ {
+  "line": "Never heard from again.",
+  "image": "094.jpg"
+ },
+ {
+  "line": "To this day,",
+  "image": "095.jpg"
+ },
+ {
+  "line": "nobody knows who Satoshi Nakamoto really is.",
+  "image": "096.jpg"
+ },
+ {
+  "line": "It could be one person.",
+  "image": "097.jpg"
+ },
+ {
+  "line": "It could be a group.",
+  "image": "098.jpg"
+ },
+ {
+  "line": "Many people have been suspected.",
+  "image": "099.jpg"
+ },
+ {
+  "line": "Some have even claimed to be Satoshi.",
+  "image": "100.jpg"
+ },
+ {
+  "line": "But none of them has ever proven it.",
+  "image": "101.jpg"
+ },
+ {
+  "line": "And here's the wildest part.",
+  "image": "102.jpg"
+ },
+ {
+  "line": "Satoshi is believed to have mined around",
+  "image": "103.jpg"
+ },
+ {
+  "line": "one million bitcoins in the early days.",
+  "image": "104.jpg"
+ },
+ {
+  "line": "Those coins have never moved.",
+  "image": "105.jpg"
+ },
+ {
+  "line": "Not one.",
+  "image": "106.jpg"
+ },
+ {
+  "line": "At today's prices,",
+  "image": "107.jpg"
+ },
+ {
+  "line": "that would make Satoshi one of",
+  "image": "108.jpg"
+ },
+ {
+  "line": "the richest people on Earth.",
+  "image": "109.jpg"
+ },
+ {
+  "line": "Someone, somewhere, is sitting on a",
+  "image": "110.jpg"
+ },
+ {
+  "line": "fortune worth many billions of dollars.",
+  "image": "111.jpg"
+ },
+ {
+  "line": "And they have never touched it.",
+  "image": "112.jpg"
+ },
+ {
+  "line": "Chapter three. The magic notebook.",
+  "image": "113.jpg"
+ },
+ {
+  "line": "So how does bitcoin actually work?",
+  "image": "114.jpg"
+ },
+ {
+  "line": "Let's make it simple.",
+  "image": "115.jpg"
+ },
+ {
+  "line": "Imagine a small village.",
+  "image": "116.jpg"
+ },
+ {
+  "line": "Instead of using cash,",
+  "image": "117.jpg"
+ },
+ {
+  "line": "everyone in the village keeps track",
+  "image": "118.jpg"
+ },
+ {
+  "line": "of money in a big notebook.",
+  "image": "119.jpg"
+ },
+ {
+  "line": "Every time someone pays someone else,",
+  "image": "120.jpg"
+ },
+ {
+  "line": "it gets written down.",
+  "image": "121.jpg"
+ },
+ {
+  "line": "Alice paid Bob five coins.",
+  "image": "122.jpg"
+ },
+ {
+  "line": "Bob paid Carol two coins.",
+  "image": "123.jpg"
+ },
+ {
+  "line": "Now, if only one person holds that notebook,",
+  "image": "124.jpg"
+ },
+ {
+  "line": "you have to trust them completely.",
+  "image": "125.jpg"
+ },
+ {
+  "line": "What if they cheat?",
+  "image": "126.jpg"
+ },
+ {
+  "line": "What if they erase a page?",
+  "image": "127.jpg"
+ },
+ {
+  "line": "What if they lose it?",
+  "image": "128.jpg"
+ },
+ {
+  "line": "So the village has a better idea.",
+  "image": "129.jpg"
+ },
+ {
+  "line": "Everyone gets their own copy of the notebook.",
+  "image": "130.jpg"
+ },
+ {
+  "line": "Every time a payment happens,",
+  "image": "131.jpg"
+ },
+ {
+  "line": "it's announced to the whole village,",
+  "image": "132.jpg"
+ },
+ {
+  "line": "and everybody writes it down in their copy.",
+  "image": "133.jpg"
+ },
+ {
+  "line": "Now, if one person tries to",
+  "image": "134.jpg"
+ },
+ {
+  "line": "cheat and change their notebook,",
+  "image": "135.jpg"
+ },
+ {
+  "line": "it won't match everyone else's.",
+  "image": "136.jpg"
+ },
+ {
+  "line": "The village instantly knows it's fake.",
+  "image": "137.jpg"
+ },
+ {
+  "line": "That notebook is basically what bitcoin is.",
+  "image": "138.jpg"
+ },
+ {
+  "line": "It's called the blockchain.",
+  "image": "139.jpg"
+ },
+ {
+  "line": "The blockchain is a giant public",
+  "image": "140.jpg"
+ },
+ {
+  "line": "record of every bitcoin transaction ever made.",
+  "image": "141.jpg"
+ },
+ {
+  "line": "And copies of it are stored on",
+  "image": "142.jpg"
+ },
+ {
+  "line": "thousands of computers all around the world.",
+  "image": "143.jpg"
+ },
+ {
+  "line": "No single person controls it.",
+  "image": "144.jpg"
+ },
+ {
+  "line": "No single company can change it.",
+  "image": "145.jpg"
+ },
+ {
+  "line": "And anyone can look at it.",
+  "image": "146.jpg"
+ },
+ {
+  "line": "Payments get grouped together into pages, called blocks.",
+  "image": "147.jpg"
+ },
+ {
+  "line": "Every block is linked to the block before it,",
+  "image": "148.jpg"
+ },
+ {
+  "line": "like a chain.",
+  "image": "149.jpg"
+ },
+ {
+  "line": "Hence, blockchain.",
+  "image": "150.jpg"
+ },
+ {
+  "line": "And because each block is linked",
+  "image": "151.jpg"
+ },
+ {
+  "line": "to the one before it,",
+  "image": "152.jpg"
+ },
+ {
+  "line": "changing an old page would mean",
+  "image": "153.jpg"
+ },
+ {
+  "line": "rewriting every page that came after it,",
+  "image": "154.jpg"
+ },
+ {
+  "line": "on most of the computers",
+  "image": "155.jpg"
+ },
+ {
+  "line": "in the world at once.",
+  "image": "156.jpg"
+ },
+ {
+  "line": "Practically impossible.",
+  "image": "157.jpg"
+ },
+ {
+  "line": "Chapter four. Who writes in the notebook?",
+  "image": "158.jpg"
+ },
+ {
+  "line": "Now here's the clever part.",
+  "image": "159.jpg"
+ },
+ {
+  "line": "In our village,",
+  "image": "160.jpg"
+ },
+ {
+  "line": "who actually gets to write the",
+  "image": "161.jpg"
+ },
+ {
+  "line": "next page in the notebook?",
+  "image": "162.jpg"
+ },
+ {
+  "line": "And why would anyone bother doing that work?",
+  "image": "163.jpg"
+ },
+ {
+  "line": "This is where mining comes in.",
+  "image": "164.jpg"
+ },
+ {
+  "line": "Bitcoin miners are computers that compete to",
+  "image": "165.jpg"
+ },
+ {
+  "line": "add the next block to the blockchain.",
+  "image": "166.jpg"
+ },
+ {
+  "line": "To win, they have to solve",
+  "image": "167.jpg"
+ },
+ {
+  "line": "a really hard math puzzle.",
+  "image": "168.jpg"
+ },
+ {
+  "line": "Well, it's less of a puzzle",
+  "image": "169.jpg"
+ },
+ {
+  "line": "and more of a guessing game.",
+  "image": "170.jpg"
+ },
+ {
+  "line": "The computers make trillions of guesses, over and over,",
+  "image": "171.jpg"
+ },
+ {
+  "line": "until one of them gets lucky",
+  "image": "172.jpg"
+ },
+ {
+  "line": "and finds the right answer.",
+  "image": "173.jpg"
+ },
+ {
+  "line": "Whoever finds it first gets to",
+  "image": "174.jpg"
+ },
+ {
+  "line": "add the next page to the notebook.",
+  "image": "175.jpg"
+ },
+ {
+  "line": "And as a reward, they get brand new bitcoins.",
+  "image": "176.jpg"
+ },
+ {
+  "line": "That's how new bitcoins are created.",
+  "image": "177.jpg"
+ },
+ {
+  "line": "Not printed by a government.",
+  "image": "178.jpg"
+ },
+ {
+  "line": "Earned by miners.",
+  "image": "179.jpg"
+ },
+ {
+  "line": "Why make it so hard?",
+  "image": "180.jpg"
+ },
+ {
+  "line": "Because it protects the system.",
+  "image": "181.jpg"
+ },
+ {
+  "line": "If someone wanted to cheat and rewrite the notebook,",
+  "image": "182.jpg"
+ },
+ {
+  "line": "they would need more computing power than most",
+  "image": "183.jpg"
+ },
+ {
+  "line": "of the rest of the network combined.",
+  "image": "184.jpg"
+ },
+ {
+  "line": "That would cost an unbelievable",
+  "image": "185.jpg"
+ },
+ {
+  "line": "amount of money and electricity.",
+  "image": "186.jpg"
+ },
+ {
+  "line": "So in bitcoin, honesty isn't just a good idea.",
+  "image": "187.jpg"
+ },
+ {
+  "line": "It's the cheapest option.",
+  "image": "188.jpg"
+ },
+ {
+  "line": "A new block is added roughly every ten minutes.",
+  "image": "189.jpg"
+ },
+ {
+  "line": "And here's something smart.",
+  "image": "190.jpg"
+ },
+ {
+  "line": "If more miners join and they",
+  "image": "191.jpg"
+ },
+ {
+  "line": "start solving blocks too quickly,",
+  "image": "192.jpg"
+ },
+ {
+  "line": "the puzzle automatically gets harder.",
+  "image": "193.jpg"
+ },
+ {
+  "line": "If miners leave, it gets easier.",
+  "image": "194.jpg"
+ },
+ {
+  "line": "It's like a thermostat that keeps",
+  "image": "195.jpg"
+ },
+ {
+  "line": "bitcoin running at a steady pace.",
+  "image": "196.jpg"
+ },
+ {
+  "line": "Chapter five. Only {twenty-one|twenty one} million. Ever.",
+  "image": "197.jpg"
+ },
+ {
+  "line": "Now we get to the",
+  "image": "198.jpg"
+ },
+ {
+  "line": "reason many people love bitcoin.",
+  "image": "199.jpg"
+ },
+ {
+  "line": "There will only ever be {twenty-one|twenty one} million bitcoins.",
+  "image": "200.jpg"
+ },
+ {
+  "line": "Ever.",
+  "image": "201.jpg"
+ },
+ {
+  "line": "That rule is written into bitcoin's code.",
+  "image": "202.jpg"
+ },
+ {
+  "line": "Compare that to regular money.",
+  "image": "203.jpg"
+ },
+ {
+  "line": "Governments can print more dollars, euros,",
+  "image": "204.jpg"
+ },
+ {
+  "line": "or rupees whenever they decide to.",
+  "image": "205.jpg"
+ },
+ {
+  "line": "And when there's more money around,",
+  "image": "206.jpg"
+ },
+ {
+  "line": "each piece of it usually buys a little less.",
+  "image": "207.jpg"
+ },
+ {
+  "line": "That's inflation.",
+  "image": "208.jpg"
+ },
+ {
+  "line": "It's why a candy bar costs more today",
+  "image": "209.jpg"
+ },
+ {
+  "line": "than it did when your parents were kids.",
+  "image": "210.jpg"
+ },
+ {
+  "line": "Bitcoin works differently.",
+  "image": "211.jpg"
+ },
+ {
+  "line": "The supply is fixed.",
+  "image": "212.jpg"
+ },
+ {
+  "line": "And the new supply gets smaller over time.",
+  "image": "213.jpg"
+ },
+ {
+  "line": "In the beginning,",
+  "image": "214.jpg"
+ },
+ {
+  "line": "miners earned fifty bitcoins for every block.",
+  "image": "215.jpg"
+ },
+ {
+  "line": "Then, about every four years,",
+  "image": "216.jpg"
+ },
+ {
+  "line": "that reward gets cut in half.",
+  "image": "217.jpg"
+ },
+ {
+  "line": "This is called the halving.",
+  "image": "218.jpg"
+ },
+ {
+  "line": "Fifty became {twenty-five|twenty five} in {2012|twenty twelve}.",
+  "image": "219.jpg"
+ },
+ {
+  "line": "Then twelve and a half in {2016|twenty sixteen}.",
+  "image": "220.jpg"
+ },
+ {
+  "line": "Then six and a quarter in {2020|twenty twenty}.",
+  "image": "221.jpg"
+ },
+ {
+  "line": "And in April {2024|twenty twenty four},",
+  "image": "222.jpg"
+ },
+ {
+  "line": "it dropped to just over three bitcoins per block.",
+  "image": "223.jpg"
+ },
+ {
+  "line": "It keeps going like this, getting smaller and smaller,",
+  "image": "224.jpg"
+ },
+ {
+  "line": "until roughly the year {2140|twenty one forty},",
+  "image": "225.jpg"
+ },
+ {
+  "line": "when the last tiny fraction of",
+  "image": "226.jpg"
+ },
+ {
+  "line": "a bitcoin will be mined.",
+  "image": "227.jpg"
+ },
+ {
+  "line": "That's why some people call bitcoin \"digital gold.\"",
+  "image": "228.jpg"
+ },
+ {
+  "line": "Gold is valuable partly because it's rare,",
+  "image": "229.jpg"
+ },
+ {
+  "line": "and you can't just make more of it.",
+  "image": "230.jpg"
+ },
+ {
+  "line": "Bitcoin was designed to be even more rare.",
+  "image": "231.jpg"
+ },
+ {
+  "line": "And you don't need to buy a whole bitcoin.",
+  "image": "232.jpg"
+ },
+ {
+  "line": "Each one can be split into",
+  "image": "233.jpg"
+ },
+ {
+  "line": "one hundred million tiny pieces.",
+  "image": "234.jpg"
+ },
+ {
+  "line": "The smallest piece is called a satoshi,",
+  "image": "235.jpg"
+ },
+ {
+  "line": "named after its creator.",
+  "image": "236.jpg"
+ },
+ {
+  "line": "Chapter six. Your keys, your coins.",
+  "image": "237.jpg"
+ },
+ {
+  "line": "So where do your bitcoins actually live?",
+  "image": "238.jpg"
+ },
+ {
+  "line": "Here's something surprising.",
+  "image": "239.jpg"
+ },
+ {
+  "line": "Bitcoins don't really live anywhere.",
+  "image": "240.jpg"
+ },
+ {
+  "line": "They're just entries on the blockchain.",
+  "image": "241.jpg"
+ },
+ {
+  "line": "What you actually own is a key.",
+  "image": "242.jpg"
+ },
+ {
+  "line": "Think of it like a",
+  "image": "243.jpg"
+ },
+ {
+  "line": "mailbox with a glass front.",
+  "image": "244.jpg"
+ },
+ {
+  "line": "Everyone can see the mailbox.",
+  "image": "245.jpg"
+ },
+ {
+  "line": "Everyone can see what's inside.",
+  "image": "246.jpg"
+ },
+ {
+  "line": "And anyone can drop something in through the slot.",
+  "image": "247.jpg"
+ },
+ {
+  "line": "That's your public address.",
+  "image": "248.jpg"
+ },
+ {
+  "line": "But only one person has the key",
+  "image": "249.jpg"
+ },
+ {
+  "line": "to open it and take things out.",
+  "image": "250.jpg"
+ },
+ {
+  "line": "That's your private key.",
+  "image": "251.jpg"
+ },
+ {
+  "line": "Whoever holds the private key controls the bitcoin. Period.",
+  "image": "252.jpg"
+ },
+ {
+  "line": "There's no bank to call.",
+  "image": "253.jpg"
+ },
+ {
+  "line": "No password reset button.",
+  "image": "254.jpg"
+ },
+ {
+  "line": "No customer service.",
+  "image": "255.jpg"
+ },
+ {
+  "line": "And that has led to some heartbreaking stories.",
+  "image": "256.jpg"
+ },
+ {
+  "line": "In {2013|twenty thirteen}, a man in Wales named James",
+  "image": "257.jpg"
+ },
+ {
+  "line": "Howells accidentally threw away an old hard drive.",
+  "image": "258.jpg"
+ },
+ {
+  "line": "On it was the key",
+  "image": "259.jpg"
+ },
+ {
+  "line": "to around eight thousand bitcoins.",
+  "image": "260.jpg"
+ },
+ {
+  "line": "That hard drive is believed to",
+  "image": "261.jpg"
+ },
+ {
+  "line": "be buried somewhere in a landfill.",
+  "image": "262.jpg"
+ },
+ {
+  "line": "For years, he has tried to",
+  "image": "263.jpg"
+ },
+ {
+  "line": "get permission to dig it up.",
+  "image": "264.jpg"
+ },
+ {
+  "line": "And he's never succeeded.",
+  "image": "265.jpg"
+ },
+ {
+  "line": "He's not alone.",
+  "image": "266.jpg"
+ },
+ {
+  "line": "Experts estimate that millions of bitcoins are lost forever.",
+  "image": "267.jpg"
+ },
+ {
+  "line": "Forgotten passwords.",
+  "image": "268.jpg"
+ },
+ {
+  "line": "Lost hard drives.",
+  "image": "269.jpg"
+ },
+ {
+  "line": "People who passed away without telling anyone their keys.",
+  "image": "270.jpg"
+ },
+ {
+  "line": "Those coins still exist on the blockchain.",
+  "image": "271.jpg"
+ },
+ {
+  "line": "But nobody will ever be",
+  "image": "272.jpg"
+ },
+ {
+  "line": "able to use them again.",
+  "image": "273.jpg"
+ },
+ {
+  "line": "Chapter seven. The wild west years.",
+  "image": "274.jpg"
+ },
+ {
+  "line": "In the early days,",
+  "image": "275.jpg"
+ },
+ {
+  "line": "bitcoin was a toy for computer nerds.",
+  "image": "276.jpg"
+ },
+ {
+  "line": "It was worth almost nothing.",
+  "image": "277.jpg"
+ },
+ {
+  "line": "A fraction of a penny.",
+  "image": "278.jpg"
+ },
+ {
+  "line": "Which is why Laszlo's pizza deal",
+  "image": "279.jpg"
+ },
+ {
+  "line": "seemed perfectly reasonable at the time.",
+  "image": "280.jpg"
+ },
+ {
+  "line": "But slowly, people started to notice it.",
+  "image": "281.jpg"
+ },
+ {
+  "line": "Unfortunately, some of the first people to",
+  "image": "282.jpg"
+ },
+ {
+  "line": "really use bitcoin weren't the best crowd.",
+  "image": "283.jpg"
+ },
+ {
+  "line": "An illegal online marketplace called Silk",
+  "image": "284.jpg"
+ },
+ {
+  "line": "Road used bitcoin for payments,",
+  "image": "285.jpg"
+ },
+ {
+  "line": "because people thought it was anonymous.",
+  "image": "286.jpg"
+ },
+ {
+  "line": "In {2013|twenty thirteen}, the FBI shut it down.",
+  "image": "287.jpg"
+ },
+ {
+  "line": "And that taught the world an important lesson.",
+  "image": "288.jpg"
+ },
+ {
+  "line": "Bitcoin isn't actually anonymous.",
+  "image": "289.jpg"
+ },
+ {
+  "line": "Every transaction is public, forever, on the blockchain.",
+  "image": "290.jpg"
+ },
+ {
+  "line": "Investigators have gotten very,",
+  "image": "291.jpg"
+ },
+ {
+  "line": "very good at following the trail.",
+  "image": "292.jpg"
+ },
+ {
+  "line": "Then came the first big disaster.",
+  "image": "293.jpg"
+ },
+ {
+  "line": "A company called {Mt. Gox|mount gox}, based in Japan,",
+  "image": "294.jpg"
+ },
+ {
+  "line": "was once the biggest bitcoin exchange in the world,",
+  "image": "295.jpg"
+ },
+ {
+  "line": "handling most of the bitcoin trading on the planet.",
+  "image": "296.jpg"
+ },
+ {
+  "line": "In {2014|twenty fourteen}, it suddenly collapsed.",
+  "image": "297.jpg"
+ },
+ {
+  "line": "Around eight hundred and fifty thousand bitcoins were missing,",
+  "image": "298.jpg"
+ },
+ {
+  "line": "mostly stolen by hackers over time.",
+  "image": "299.jpg"
+ },
+ {
+  "line": "Thousands of customers lost their money.",
+  "image": "300.jpg"
+ },
+ {
+  "line": "It took around ten years before many of",
+  "image": "301.jpg"
+ },
+ {
+  "line": "them started getting some of it back.",
+  "image": "302.jpg"
+ },
+ {
+  "line": "Many people thought that was the end of bitcoin.",
+  "image": "303.jpg"
+ },
+ {
+  "line": "It wasn't.",
+  "image": "304.jpg"
+ },
+ {
+  "line": "Chapter eight. The roller coaster.",
+  "image": "305.jpg"
+ },
+ {
+  "line": "If there's one thing bitcoin is famous for,",
+  "image": "306.jpg"
+ },
+ {
+  "line": "it's wild price swings.",
+  "image": "307.jpg"
+ },
+ {
+  "line": "In {2017|twenty seventeen}, bitcoin mania hit the mainstream.",
+  "image": "308.jpg"
+ },
+ {
+  "line": "Prices shot from about a thousand dollars to",
+  "image": "309.jpg"
+ },
+ {
+  "line": "nearly twenty thousand dollars in one year.",
+  "image": "310.jpg"
+ },
+ {
+  "line": "People were talking about it at dinner tables everywhere.",
+  "image": "311.jpg"
+ },
+ {
+  "line": "And then it crashed.",
+  "image": "312.jpg"
+ },
+ {
+  "line": "Over the next year,",
+  "image": "313.jpg"
+ },
+ {
+  "line": "it lost more than eighty percent of its value.",
+  "image": "314.jpg"
+ },
+ {
+  "line": "Then in {2021|twenty twenty one}, it climbed again,",
+  "image": "315.jpg"
+ },
+ {
+  "line": "all the way to around {sixty-nine|sixty nine} thousand dollars.",
+  "image": "316.jpg"
+ },
+ {
+  "line": "Big companies like Tesla bought bitcoin.",
+  "image": "317.jpg"
+ },
+ {
+  "line": "In September {2021|twenty twenty one},",
+  "image": "318.jpg"
+ },
+ {
+  "line": "El Salvador became the first country",
+  "image": "319.jpg"
+ },
+ {
+  "line": "to make bitcoin official money,",
+  "image": "320.jpg"
+ },
+ {
+  "line": "alongside the US dollar.",
+  "image": "321.jpg"
+ },
+ {
+  "line": "Then came another crash in {2022|twenty twenty two}.",
+  "image": "322.jpg"
+ },
+ {
+  "line": "And the crypto world was rocked by another scandal.",
+  "image": "323.jpg"
+ },
+ {
+  "line": "A huge crypto exchange called FTX, run by a young billionaire named Sam {Bankman-Fried|Bankman Fried}, collapsed almost overnight. Billions of dollars of customer money had been misused. He was later convicted of fraud",
+  "image": "324.jpg"
+ },
+ {
+  "line": "and sentenced to {twenty-five|twenty five} years in prison.",
+  "image": "325.jpg"
+ },
+ {
+  "line": "Once again, people said bitcoin was dead.",
+  "image": "326.jpg"
+ },
+ {
+  "line": "And once again, it came back.",
+  "image": "327.jpg"
+ },
+ {
+  "line": "In January {2024|twenty twenty four},",
+  "image": "328.jpg"
+ },
+ {
+  "line": "US regulators approved bitcoin investment funds called ETFs.",
+  "image": "329.jpg"
+ },
+ {
+  "line": "That meant regular investors could buy",
+  "image": "330.jpg"
+ },
+ {
+  "line": "into bitcoin through their normal stock accounts,",
+  "image": "331.jpg"
+ },
+ {
+  "line": "just like buying a share of a company.",
+  "image": "332.jpg"
+ },
+ {
+  "line": "Huge Wall Street firms jumped in.",
+  "image": "333.jpg"
+ },
+ {
+  "line": "In December {2024|twenty twenty four},",
+  "image": "334.jpg"
+ },
+ {
+  "line": "bitcoin crossed one hundred thousand",
+  "image": "335.jpg"
+ },
+ {
+  "line": "dollars for the first time.",
+  "image": "336.jpg"
+ },
+ {
+  "line": "In {2025|twenty twenty five}, it climbed even higher,",
+  "image": "337.jpg"
+ },
+ {
+  "line": "at one point above one",
+  "image": "338.jpg"
+ },
+ {
+  "line": "hundred and twenty thousand dollars.",
+  "image": "339.jpg"
+ },
+ {
+  "line": "And the United States government announced it",
+  "image": "340.jpg"
+ },
+ {
+  "line": "would hold a national reserve of bitcoin.",
+  "image": "341.jpg"
+ },
+ {
+  "line": "The thing that started as a {nine-page|nine page} paper by",
+  "image": "342.jpg"
+ },
+ {
+  "line": "an anonymous stranger was now being discussed by presidents.",
+  "image": "343.jpg"
+ },
+ {
+  "line": "Chapter nine. The case against bitcoin.",
+  "image": "344.jpg"
+ },
+ {
+  "line": "Now, to be fair,",
+  "image": "345.jpg"
+ },
+ {
+  "line": "not everyone is a fan. Far from it.",
+  "image": "346.jpg"
+ },
+ {
+  "line": "Let's look at the biggest criticisms.",
+  "image": "347.jpg"
+ },
+ {
+  "line": "First, the price swings.",
+  "image": "348.jpg"
+ },
+ {
+  "line": "Bitcoin can drop thirty, fifty, even eighty percent.",
+  "image": "349.jpg"
+ },
+ {
+  "line": "That makes it really hard",
+  "image": "350.jpg"
+ },
+ {
+  "line": "to use as everyday money.",
+  "image": "351.jpg"
+ },
+ {
+  "line": "Imagine getting paid on Monday and your paycheck",
+  "image": "352.jpg"
+ },
+ {
+  "line": "being worth half as much by Friday.",
+  "image": "353.jpg"
+ },
+ {
+  "line": "Second, energy.",
+  "image": "354.jpg"
+ },
+ {
+  "line": "All that mining uses a massive amount of electricity.",
+  "image": "355.jpg"
+ },
+ {
+  "line": "By some estimates,",
+  "image": "356.jpg"
+ },
+ {
+  "line": "the bitcoin network uses about as",
+  "image": "357.jpg"
+ },
+ {
+  "line": "much electricity as an entire {medium-sized|medium sized} country.",
+  "image": "358.jpg"
+ },
+ {
+  "line": "Supporters argue that more and more",
+  "image": "359.jpg"
+ },
+ {
+  "line": "of it comes from renewable energy,",
+  "image": "360.jpg"
+ },
+ {
+  "line": "and from power that would otherwise go to waste.",
+  "image": "361.jpg"
+ },
+ {
+  "line": "Critics say it's still far too much.",
+  "image": "362.jpg"
+ },
+ {
+  "line": "Third, it's slow and limited.",
+  "image": "363.jpg"
+ },
+ {
+  "line": "The main bitcoin network can only",
+  "image": "364.jpg"
+ },
+ {
+  "line": "handle a handful of transactions per second.",
+  "image": "365.jpg"
+ },
+ {
+  "line": "Visa can handle thousands.",
+  "image": "366.jpg"
+ },
+ {
+  "line": "Developers have built extra systems on",
+  "image": "367.jpg"
+ },
+ {
+  "line": "top of bitcoin to make it faster,",
+  "image": "368.jpg"
+ },
+ {
+  "line": "but it's still a work in progress.",
+  "image": "369.jpg"
+ },
+ {
+  "line": "Fourth, scams.",
+  "image": "370.jpg"
+ },
+ {
+  "line": "Because bitcoin payments can't be reversed, scammers love it.",
+  "image": "371.jpg"
+ },
+ {
+  "line": "Fake investment schemes.",
+  "image": "372.jpg"
+ },
+ {
+  "line": "Fake celebrity giveaways.",
+  "image": "373.jpg"
+ },
+ {
+  "line": "People pretending to be someone they're not.",
+  "image": "374.jpg"
+ },
+ {
+  "line": "Once bitcoin is sent,",
+  "image": "375.jpg"
+ },
+ {
+  "line": "there's no bank to get it back.",
+  "image": "376.jpg"
+ },
+ {
+  "line": "That's why so many experts say, be extremely careful,",
+  "image": "377.jpg"
+ },
+ {
+  "line": "and never trust anyone who promises guaranteed profits.",
+  "image": "378.jpg"
+ },
+ {
+  "line": "And fifth, the big question.",
+  "image": "379.jpg"
+ },
+ {
+  "line": "What is bitcoin actually worth?",
+  "image": "380.jpg"
+ },
+ {
+  "line": "It doesn't make products.",
+  "image": "381.jpg"
+ },
+ {
+  "line": "It doesn't pay a dividend.",
+  "image": "382.jpg"
+ },
+ {
+  "line": "Its value depends entirely on",
+  "image": "383.jpg"
+ },
+ {
+  "line": "what people believe it's worth.",
+  "image": "384.jpg"
+ },
+ {
+  "line": "Some famous investors have called it worthless.",
+  "image": "385.jpg"
+ },
+ {
+  "line": "Others call it the most important",
+  "image": "386.jpg"
+ },
+ {
+  "line": "invention in finance since paper money.",
+  "image": "387.jpg"
+ },
+ {
+  "line": "Chapter ten. So what is bitcoin, really?",
+  "image": "388.jpg"
+ },
+ {
+  "line": "So let's put it all together, simply.",
+  "image": "389.jpg"
+ },
+ {
+  "line": "Bitcoin is digital money that",
+  "image": "390.jpg"
+ },
+ {
+  "line": "no government or bank controls.",
+  "image": "391.jpg"
+ },
+ {
+  "line": "It runs on a giant",
+  "image": "392.jpg"
+ },
+ {
+  "line": "shared notebook called the blockchain,",
+  "image": "393.jpg"
+ },
+ {
+  "line": "copied on thousands of computers all over the world.",
+  "image": "394.jpg"
+ },
+ {
+  "line": "Miners keep the notebook honest",
+  "image": "395.jpg"
+ },
+ {
+  "line": "by competing to solve puzzles,",
+  "image": "396.jpg"
+ },
+ {
+  "line": "and they're rewarded with new bitcoins.",
+  "image": "397.jpg"
+ },
+ {
+  "line": "There will only ever be {twenty-one|twenty one} million of them.",
+  "image": "398.jpg"
+ },
+ {
+  "line": "And whoever holds the private key, controls the coins.",
+  "image": "399.jpg"
+ },
+ {
+  "line": "It was born from the {2008|two thousand eight} financial crisis.",
+  "image": "400.jpg"
+ },
+ {
+  "line": "It was created by someone",
+  "image": "401.jpg"
+ },
+ {
+  "line": "who vanished without a trace.",
+  "image": "402.jpg"
+ },
+ {
+  "line": "It survived hacks, scandals, crashes,",
+  "image": "403.jpg"
+ },
+ {
+  "line": "and countless predictions of its death.",
+  "image": "404.jpg"
+ },
+ {
+  "line": "And somehow, it went from paying for two pizzas,",
+  "image": "405.jpg"
+ },
+ {
+  "line": "to being held by Wall Street giants and governments.",
+  "image": "406.jpg"
+ },
+ {
+  "line": "Will it become the money of the future?",
+  "image": "407.jpg"
+ },
+ {
+  "line": "Digital gold?",
+  "image": "408.jpg"
+ },
+ {
+  "line": "Or one of the biggest bubbles in history?",
+  "image": "409.jpg"
+ },
+ {
+  "line": "Honestly, nobody knows for sure.",
+  "image": "410.jpg"
+ },
+ {
+  "line": "And anyone who tells you they",
+  "image": "411.jpg"
+ },
+ {
+  "line": "know for certain is probably selling something.",
+  "image": "412.jpg"
+ },
+ {
+  "line": "But one thing is clear.",
+  "image": "413.jpg"
+ },
+ {
+  "line": "Bitcoin changed how the world thinks about money.",
+  "image": "414.jpg"
+ },
+ {
+  "line": "It showed that a group of strangers,",
+  "image": "415.jpg"
+ },
+ {
+  "line": "spread across the planet,",
+  "image": "416.jpg"
+ },
+ {
+  "line": "could agree on a shared record of value,",
+  "image": "417.jpg"
+ },
+ {
+  "line": "without needing anyone in charge.",
+  "image": "418.jpg"
+ },
+ {
+  "line": "And somewhere out there, maybe, Satoshi Nakamoto is watching.",
+  "image": "419.jpg"
+ },
+ {
+  "line": "With a million untouched coins.",
+  "image": "420.jpg"
+ },
+ {
+  "line": "Saying nothing at all.",
+  "image": "421.jpg"
+ },
+ {
+  "line": "And Laszlo? He's said he doesn't regret the pizzas.",
+  "image": "422.jpg"
+ },
+ {
+  "line": "He was helping prove that bitcoin could",
+  "image": "423.jpg"
+ },
+ {
+  "line": "actually be used to buy something real.",
+  "image": "424.jpg"
+ },
+ {
+  "line": "Every year, on May {twenty-second|twenty second},",
+  "image": "425.jpg"
+ },
+ {
+  "line": "people around the world celebrate Bitcoin Pizza Day.",
+  "image": "426.jpg"
+ },
+ {
+  "line": "Just a quick reminder,",
+  "image": "427.jpg"
+ },
+ {
+  "line": "this video is for education, not financial advice.",
+  "image": "428.jpg"
+ },
+ {
+  "line": "Always do your own research.",
+  "image": "429.jpg"
+ },
+ {
+  "line": "If you finally understand bitcoin,",
+  "image": "430.jpg"
+ },
+ {
+  "line": "share this with a friend who still doesn't.",
+  "image": "431.jpg"
+ },
+ {
+  "line": "Subscribe for more big ideas explained simply.",
+  "image": "432.jpg"
+ },
+ {
+  "line": "And tell me in the comments,",
+  "image": "433.jpg"
+ },
+ {
+  "line": "would you have spent ten",
+  "image": "434.jpg"
+ },
+ {
+  "line": "thousand bitcoins on those pizzas?",
+  "image": "435.jpg"
+ },
+ {
+  "line": "See you in the next one.",
+  "image": "436.jpg"
+ }
+]

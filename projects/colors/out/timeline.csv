@@ -1,0 +1,33 @@
+scene,start,end,duration,line,image
+1,0.0,1.0,1.0,The sky is blue.,001.png
+2,1.0,1.9,0.9,Grass is green.,002.png
+3,1.9,3.0,1.1,Fire is orange.,003.png
+4,3.0,4.2,1.2,"Everyone agrees, right?",004.png
+5,4.2,4.92,0.72,But here's something,005.png
+6,4.92,5.96,1.04,no one can prove.,006.png
+7,5.96,6.76,0.8,What if the blue you see,007.png
+8,6.76,7.98,1.22,is not the blue I see?,008.png
+9,7.98,9.76,1.78,This is the colorblind paradox.,009.png
+10,9.76,10.43,0.67,"Since we were kids,",010.png
+11,10.43,11.5,1.07,someone pointed at the sky,011.png
+12,11.5,12.59,1.09,"and said, ""That's blue.""",012.png
+13,12.59,14.04,1.45,So we all learned the same word.,013.png
+14,14.04,15.68,1.64,But what that color actually looks like,014.png
+15,15.68,16.42,0.74,"inside your head,",015.png
+16,16.42,18.01,1.59,nobody else can ever see it.,016.png
+17,18.01,19.17,1.16,Your blue could be my green.,017.png
+18,19.17,20.39,1.22,Your red could be my purple.,018.png
+19,20.39,21.81,1.42,We'd still agree on everything,019.png
+20,21.81,22.86,1.05,and never find out.,020.png
+21,22.86,23.66,0.8,Here's the twist.,021.png
+22,23.66,24.83,1.17,It's not just colors.,022.png
+23,24.83,26.59,1.76,Maybe nobody experiences the world,023.png
+24,26.59,27.91,1.32,exactly the way you do.,024.png
+25,27.91,28.58,0.67,"Your sunset,",025.png
+26,28.58,29.6,1.02,"your favorite song,",026.png
+27,29.6,30.63,1.03,"the way rain feels,",027.png
+28,30.63,31.3,0.67,"all yours,",028.png
+29,31.3,33.42,2.12,and no one else will ever see it quite the same.,029.png
+30,33.42,34.17,0.75,So what do you think?,030.png
+31,34.17,35.81,1.64,Do we all see the same colors?,031.png
+32,35.81,37.05,1.24,Comment yes or no.,032.png

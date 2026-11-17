@@ -2,18 +2,17 @@
 import json, re
 from pathlib import Path
 HERE = Path(__file__).parent; ROOT = HERE.parent.parent; NAME = "whynow"
-STYLE = ("Original fictional characters only, not real people. Hand-drawn pencil sketch illustration, square 1:1, full-bleed, no border. Simple stick figures: big round "
-         "pale-yellow heads with a few messy hair strands, tiny dot eyes, expressive eyebrows, thin black single-line "
-         "bodies, arms and legs. Soft muted colouring: warm beige, sand, sage green, dusty blue-grey, with light pencil "
-         "hatching and shading. Simple scenery: towns, offices, rolling hills, dirt paths, or plain interiors. "
-         "No text, letters or numbers anywhere.")
-C = {"P": "THE PERSON: ordinary stick figure, round pale-yellow head with a small tuft of hair, worried kind eyes.",
-     "T": "THE NARRATOR: calm stick figure, round pale-yellow head, neat side-parted hair, knowing half-smile, dark hoodie.",
-     "E": "THE TECH BOSS: stick figure, round pale-yellow head with swept-back grey hair, black leather jacket.",
-     "B": "THE BANKER: stick figure, round pale-yellow head, slicked hair, grey suit, sly smirk."}
+STYLE = ("Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black "
+         "outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot "
+         "eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted "
+         "colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.")
+C = {"P": "THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans, white sneakers, wristwatch.",
+     "T": "THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans, white sneakers, wristwatch.",
+     "E": "THE TECH BOSS: older man with swept-back grey hair, black leather jacket, black t-shirt.",
+     "B": "THE BANKER: man with slicked black hair, thin moustache, grey suit, sly smile."}
 S = lambda line, desc, ch="": (line, desc, ch)
 SCENES = [
- S("Everyone's talking", "HOOK, DRAMATIC: a huge crowd of stick figures staring up at a giant glowing billboard screen showing a stick figure in a leather jacket under a red spotlight, while behind them, in shadow, giant hands quietly move pieces on a city-sized chessboard.", "E"),
+ S("Everyone's talking", "THE GUY standing in a living room holding his phone, looking at it with a puzzled frown, a TV on in the background.", "P"),
  S("about Nvidia:", "A sleek glass tech headquarters with a green glow, reporters with cameras outside.", ""),
  S("the affair,", "THE TECH BOSS walking quickly, shielding his face from camera flashes.", "E"),
  S("the Chinese spy.", "A shadowy stick figure in a trench coat and sunglasses peeking around a corner.", ""),

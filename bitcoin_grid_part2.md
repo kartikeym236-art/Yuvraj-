@@ -8,7 +8,7 @@ Each prompt makes **one 16:9 image containing a 2x2 grid of four 16:9 frames**: 
 
 **Total:** 110 grid prompts · 440 shots · ~16 min 9 s
 
-**This part:** Chapter 6 – Your Keys, Your Coins → Chapter 8 – The Roller Coaster · 51 grid prompts
+**This part:** Chapter 6 – Your Keys, Your Coins → Chapter 10 – So What Is Bitcoin, Really? · 51 grid prompts
 
 ## Character sheet (reference)
 
@@ -441,6 +441,11 @@ AVOID: photorealism, 3D render, anime/manga, coloured or skin-toned faces (heads
 
 ASPECT RATIO: 16:9 overall (2x2 grid of 16:9 panels) --ar 16:9
 ```
+
+
+---
+
+## Chapter 7 – The Wild West Years
 
 ### Grid 069 · Shots 273–276 · ~8s total
 
@@ -1284,6 +1289,11 @@ AVOID: photorealism, 3D render, anime/manga, coloured or skin-toned faces (heads
 ASPECT RATIO: 16:9 overall (2x2 grid of 16:9 panels) --ar 16:9
 ```
 
+
+---
+
+## Chapter 9 – The Case Against Bitcoin
+
 ### Grid 087 · Shots 345–348 · ~11.5s total
 
 > **Panel 1 (top-left) · Shot 345 · ~2.5s · VO:** would hold a national reserve of bitcoin.
@@ -1795,6 +1805,11 @@ AVOID: photorealism, 3D render, anime/manga, coloured or skin-toned faces (heads
 
 ASPECT RATIO: 16:9 overall (2x2 grid of 16:9 panels) --ar 16:9
 ```
+
+
+---
+
+## Chapter 10 – So What Is Bitcoin, Really?
 
 ### Grid 098 · Shots 389–392 · ~9s total
 

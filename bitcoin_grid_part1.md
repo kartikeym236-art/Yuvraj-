@@ -308,6 +308,11 @@ AVOID: photorealism, 3D render, anime/manga, coloured or skin-toned faces (heads
 ASPECT RATIO: 16:9 overall (2x2 grid of 16:9 panels) --ar 16:9
 ```
 
+
+---
+
+## Chapter 1 – The Problem With Money
+
 ### Grid 007 · Shots 025–028 · ~6s total
 
 > **Panel 1 (top-left) · Shot 025 · ~2s · VO:** most people who own it.
@@ -687,6 +692,11 @@ AVOID: photorealism, 3D render, anime/manga, coloured or skin-toned faces (heads
 
 ASPECT RATIO: 16:9 overall (2x2 grid of 16:9 panels) --ar 16:9
 ```
+
+
+---
+
+## Chapter 2 – The Mysterious Inventor
 
 ### Grid 015 · Shots 057–060 · ~8.5s total
 
@@ -1852,6 +1862,11 @@ AVOID: photorealism, 3D render, anime/manga, coloured or skin-toned faces (heads
 
 ASPECT RATIO: 16:9 overall (2x2 grid of 16:9 panels) --ar 16:9
 ```
+
+
+---
+
+## Chapter 4 – Who Writes in the Notebook?
 
 ### Grid 040 · Shots 157–160 · ~6.5s total
 

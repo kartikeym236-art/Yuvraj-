@@ -51,11 +51,19 @@ SCENES = [
  S("who's been lying a little too close?", "A dark bed with the blanket slowly lifting beside an empty pillow, cold moonlight.", ""),
 ]
 if __name__ == "__main__":
-    (ROOT/f"projects/{NAME}/scenes.json").write_text(json.dumps([{"line": l, "image": f"{k:03d}.png"} for k,(l,_,_) in enumerate(SCENES,1)], indent=1))
     import re
     disp = lambda l: re.sub(r"\{([^|{}]+)\|[^{}]+\}", r"\1", l)
-    out = [f"# The Python Story: 1:1 image prompts ({len(SCENES)})", "", "Generate each as a square 1:1 image. Save as `001.png`, `002.png`, ... in order.", ""]
-    for k,(l,d,c) in enumerate(SCENES,1):
-        p = STYLE + ("" if c else " NO people unless described.") + "\n\nScene: " + d + ("\n" + " ".join(C[x] for x in c) if c else "")
-        out += [f"## {k:03d}  ·  \"{disp(l)}\"", "", "```", p, "```", ""]
+    (ROOT/f"projects/{NAME}/scenes.json").write_text(json.dumps([{"line": l, "image": f"{k:03d}.png"} for k,(l,_,_) in enumerate(SCENES,1)], indent=1))
+    pos = ["TOP-LEFT", "TOP-RIGHT", "BOTTOM-LEFT", "BOTTOM-RIGHT"]
+    out = [f"# The Python Story: 2x2 grid prompts ({len(SCENES)//4} images = {len(SCENES)} scenes)", "",
+           "Each prompt makes ONE square 1:1 image split into a 2x2 grid of four square panels. Save as `01.png`, `02.png`, ... in order.", ""]
+    for g in range(len(SCENES)//4):
+        chars = "".join(dict.fromkeys("".join(SCENES[g*4+k][2] for k in range(4))))
+        p = ["FORMAT: ONE single square 1:1 image divided into a 2x2 GRID of FOUR equal square panels, separated only by thin straight uniform white "
+             "gutter lines; no outer border, no panel numbers. Each panel is a separate full-bleed illustration with its own composition. All four "
+             "panels share exactly the same art style, character designs, colours and lighting.", "", "STYLE: " + STYLE.replace("Square 1:1 flat", "Flat"), ""]
+        if chars: p += ["CHARACTERS (identical in every panel):"] + ["- " + C[c] for c in chars] + [""]
+        for k in range(4):
+            l, d, c = SCENES[g*4+k]; p.append(f"PANEL {k+1} ({pos[k]}): {d}" + ("" if c else " No people unless described."))
+        out += [f"## {g+1:02d}  ·  scenes {g*4+1}-{g*4+4}", ""] + [f"- {pos[k].lower()}: \"{disp(SCENES[g*4+k][0])}\"" for k in range(4)] + ["", "```", "\n".join(p), "```", ""]
     (ROOT/f"projects/{NAME}/image_prompts.md").write_text("\n".join(out)); print(len(SCENES))

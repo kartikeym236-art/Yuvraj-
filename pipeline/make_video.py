@@ -16,7 +16,7 @@ Steps: forced-align script to audio -> cap long pauses -> remove sparkle waterma
 timeline -> 9:16 render with title, one-word captions and ducked music.
 Outputs go to <project>/out/.
 """
-import argparse, csv, json, re, subprocess
+import argparse, csv, json, os, re, subprocess
 from pathlib import Path
 
 import cv2
@@ -377,6 +377,7 @@ def build_ass(title, script, al, speed, dur, out, captions="classic", font=None,
     centre = captions == "centre"       # School=Prison reel style: small lowercase word in the middle of the image
     yellow = captions == "yellow"       # Jensen reel style: bold yellow word, black outline, original casing, centred
     cap_size = 44 if centre else 60     # Montserrat ExtraBold; reel style is half the reference-reel size (user asked 50%)
+    cap_size = round(cap_size * float(os.environ.get("CAP_SCALE", "1")))
     ev, srt, i = [], [], 0
     for disp, ws in tokens(script):
         s, e = al[i][1] / speed, al[i + len(ws) - 1][2] / speed
@@ -569,6 +570,7 @@ def main():
     speed = a.speed or settings.get("speed", 1.0)
     dur = duration(voice) / speed
     rows = timeline(scenes, al, duration(voice), out)   # original-audio seconds; setpts speeds video
+    os.environ["CAP_SCALE"] = str(settings.get("caption_scale", 1))
     ass = build_ass(title, script, al, speed, dur, out, settings.get("captions", "classic"), settings.get("font"), settings.get("caption_position"))
     music_from = a.music_from or settings.get("music", "start")
     mp4 = render(rows, clean_dir, voice, music, ass, speed, dur, out, proj.name, music_from, settings.get("layout", "short"))

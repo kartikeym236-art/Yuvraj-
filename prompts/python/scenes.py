@@ -2,12 +2,15 @@
 import json
 from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]; NAME = "python"
-STYLE = ("16:9 widescreen cinematic digital illustration, full-bleed, no borders. Semi-realistic painterly style with clean soft edges, "
-         "moody film lighting, deep shadows, cool blue moonlight mixed with warm lamp glow, subtle film grain, muted desaturated palette. "
-         "Characters are original fictional people, simple stylised faces. NO text, letters, numbers or logos anywhere.")
-C = {"W": "THE WOMAN: woman in her 30s, long dark hair, soft grey pyjamas.",
-     "S": "THE PYTHON: very long (10 ft) Burmese python, cream-and-golden-brown patterned scales.",
-     "V": "THE VET: older man with grey beard, glasses, green scrubs."}
+STYLE = ("Square 1:1 flat 2D cartoon illustration, full-bleed. Clean, smooth black ink outlines of even medium thickness, flat colours "
+         "with soft simple shading. Characters are simple stick-figure people: a large perfectly round SOLID WHITE head with no skin colour, "
+         "two small black oval dot eyes, short simple eyebrows for emotion, a tiny mouth line, NO nose; thin black stick arms and legs, small "
+         "white mitten hands; simple flat clothes on a small torso. Backgrounds are detailed, clean flat-colour cartoon environments (bedroom, "
+         "clinic, office, park) with simple perspective; night scenes use a dusky blue-purple palette with warm yellow lamp glow. "
+         "NO text, letters, numbers or logos anywhere.")
+C = {"W": "THE WOMAN: stick-figure woman with a solid white round head, long dark-brown hair, light pink t-shirt and grey pyjama pants.",
+     "S": "THE PYTHON: a very long (10 ft) cartoon python with cream and golden-brown patterned scales, simple friendly-looking eyes.",
+     "V": "THE VET: stick-figure man with a solid white round head, short grey hair, round glasses, green scrubs."}
 S = lambda l, d, c="": (l, d, c)
 SCENES = [
  S("A woman let her pet python", "THE WOMAN gently lifting THE PYTHON in a cosy apartment living room at dusk.", "WS"),
@@ -51,7 +54,7 @@ if __name__ == "__main__":
     (ROOT/f"projects/{NAME}/scenes.json").write_text(json.dumps([{"line": l, "image": f"{k:03d}.png"} for k,(l,_,_) in enumerate(SCENES,1)], indent=1))
     import re
     disp = lambda l: re.sub(r"\{([^|{}]+)\|[^{}]+\}", r"\1", l)
-    out = [f"# The Python Story: 16:9 image prompts ({len(SCENES)})", "", "Generate each as a 16:9 widescreen image. Save as `001.png`, `002.png`, ... in order.", ""]
+    out = [f"# The Python Story: 1:1 image prompts ({len(SCENES)})", "", "Generate each as a square 1:1 image. Save as `001.png`, `002.png`, ... in order.", ""]
     for k,(l,d,c) in enumerate(SCENES,1):
         p = STYLE + ("" if c else " NO people unless described.") + "\n\nScene: " + d + ("\n" + " ".join(C[x] for x in c) if c else "")
         out += [f"## {k:03d}  ·  \"{disp(l)}\"", "", "```", p, "```", ""]

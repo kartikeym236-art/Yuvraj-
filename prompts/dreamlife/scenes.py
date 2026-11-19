@@ -53,5 +53,5 @@ if __name__ == "__main__":
     out = [f"# Life Is a Dream: Self-Contained Image Prompts, No Heading, Muted Creamy Theme ({len(SCENES)} scenes)", "",
            "Each prompt is complete on its own. Copy the whole prompt, nothing else needed.", "", "---", ""]
     for k,(l,d) in enumerate(SCENES,1):
-        out += [f"### {k}. \"{l}\"", "", STYLE + d + NOTEXT, ""]
+        out += [f"### {k}. \"{l}\"", "", "```", STYLE + d + NOTEXT, "```", ""]
     (ROOT/f"projects/{NAME}/image_prompts.md").write_text("\n".join(out)); print(len(SCENES))

@@ -1,0 +1,309 @@
+In 1968, at a private school in Seattle, a group of mothers held a rummage sale. They used the money to do something unusual for the time. They rented time on a computer, so the students could learn to use it.
+
+One of those students was a skinny, hyperactive thirteen-year-old named Bill Gates. Another was an older boy named Paul Allen.
+
+They became obsessed. They skipped classes. They snuck out at night to use computers. They even got caught hacking the system to get more free computer time.
+
+Less than twenty years later, Bill Gates would become a billionaire. And the company the two of them built would put its software on almost every personal computer on the planet.
+
+That company is Microsoft.
+
+It's one of the most powerful companies in history. It was almost broken up by the United States government. It missed the internet. It missed smartphones. It was called a dinosaur. Its stock went nowhere for more than a decade.
+
+And then, it came back. Bigger than ever. Becoming one of the most valuable companies on Earth, and placing one of the biggest bets on artificial intelligence.
+
+This is the entire history of Microsoft. From two teenagers in Seattle, to a company worth trillions. And trust me, the full story is so much crazier than you think.
+
+Let's go.
+
+Chapter one. Two kids and a teletype.
+
+Bill Gates was born in Seattle in 1955. His father was a lawyer. His mother was a teacher and businesswoman who served on the boards of major companies and charities. He grew up comfortable, competitive, and extremely curious.
+
+At Lakeside School, that rummage sale money paid for a teletype machine. Basically, a keyboard and printer connected by phone line to a distant computer. For most kids, it was a curiosity. For Bill and Paul, it was everything.
+
+Paul Allen was two years older. Calm, creative, and always thinking about the future. Bill was intense, brilliant, and fiercely competitive. Together, they were the perfect team.
+
+As teenagers, they started taking on real programming jobs. They even created a small company called Traf-O-Data, which used a computer to analyze traffic data for local governments. It wasn't a huge success. But it taught them something important. They could build a business from software.
+
+In 1973, Bill went off to Harvard. Paul moved to Boston too, working as a programmer nearby.
+
+And then, one cold day in December 1974, Paul Allen walked through Harvard Square and saw something on a newsstand that would change both their lives forever.
+
+Chapter two. The bluff.
+
+It was the January 1975 issue of Popular Electronics magazine. And on the cover was a machine called the Altair 8800.
+
+The Altair was one of the first personal computers. It was a do-it-yourself kit, made by a tiny company in Albuquerque, New Mexico, called MITS. No screen. No keyboard. Just a box with switches and blinking lights.
+
+But Paul and Bill saw what it meant. Computers were about to become small and cheap enough for regular people. And those computers would need software.
+
+So they did something bold. They contacted MITS and said they had built a version of a programming language called BASIC that could run on the Altair.
+
+There was just one problem.
+
+They hadn't written it yet. They didn't even have an Altair.
+
+So for about eight weeks, they worked like crazy. They used a Harvard computer to simulate how the Altair worked, and they wrote the software for that simulation. Bill barely slept. A Harvard friend named Monte Davidoff helped with some of the math.
+
+Then Paul flew to Albuquerque to show it off. And on the plane, he realized they'd forgotten one small piece of code needed to load the program into the machine. So he wrote it, by hand, right there on the flight.
+
+At MITS, they loaded the software into a real Altair for the very first time.
+
+It worked.
+
+The computer printed one word. "READY."
+
+On April fourth, 1975, Bill and Paul officially started their own company. They named it after two words. Microcomputer. And software.
+
+Micro-Soft.
+
+Chapter three. Software isn't free.
+
+The early days were scrappy. The company was based in Albuquerque, near MITS. Bill dropped out of Harvard to run it full-time.
+
+And right away, there was a problem. Computer hobbyists were copying Microsoft's BASIC and sharing it for free.
+
+In 1976, a twenty-year-old Bill Gates wrote an angry public letter to the hobbyist community. In it, he basically said, who can afford to do professional work for nothing? If people keep copying software without paying, nobody will be able to make good software.
+
+A lot of hobbyists hated him for it. Back then, many people believed software should just be shared freely.
+
+But that letter laid out the idea that would make Microsoft one of the richest companies in history. Software has value. And people should pay for it.
+
+Microsoft started selling its programming languages to lots of different computer makers. In 1979, Bill and Paul moved the company back home, to the Seattle area.
+
+And in 1980, a giant came knocking.
+
+Chapter four. The deal of the century.
+
+In 1980, IBM, the biggest and most powerful computer company in the world, decided to build a personal computer.
+
+IBM was in a hurry. So instead of building everything itself, it went shopping for parts and software. It came to Microsoft for programming languages.
+
+But IBM also needed something even more important. An operating system. The core software that runs the computer, and lets every other program work.
+
+Microsoft didn't have one. So Bill Gates pointed IBM to another company, Digital Research, which made a popular operating system called CP/M.
+
+What happened next has become one of the most famous stories in tech. The meeting between IBM and Digital Research didn't produce a deal. Exactly why is still debated. But the result was clear. IBM came back to Microsoft.
+
+And Microsoft spotted an opportunity.
+
+A small Seattle company had built an operating system called QDOS. The name literally stood for "Quick and Dirty Operating System." Microsoft bought the rights to it for a relatively small amount of money, reportedly in the tens of thousands of dollars. Then it improved it, and licensed it to IBM as PC DOS.
+
+But here's the genius move. Microsoft didn't sell the operating system to IBM outright. It kept the right to license its version, called MS-DOS, to other computer makers too.
+
+IBM didn't think that mattered much. IBM thought the money was in the hardware.
+
+IBM was wrong.
+
+The IBM PC launched in 1981, and it was a hit. And then, other companies started building cheaper copies of the IBM PC. They were called "clones." And every single one of them needed an operating system.
+
+Who were they going to buy it from?
+
+Microsoft.
+
+Over the next few years, as the PC exploded, MS-DOS ended up on millions and millions of computers. Microsoft collected money on almost every one.
+
+It may have been the most important business deal of the twentieth century.
+
+Chapter five. Windows.
+
+Around this time, Microsoft gained one important person, and lost another.
+
+In 1980, Bill brought in an old friend from Harvard, Steve Ballmer. Ballmer was loud, energetic, and incredibly passionate. He became Microsoft's first business manager, and eventually, much more.
+
+But in 1982, Paul Allen was diagnosed with Hodgkin's lymphoma, a type of cancer. He recovered with treatment, but he decided to leave his day-to-day role at Microsoft the following year. He stayed a major shareholder, and became a billionaire investor and philanthropist.
+
+Meanwhile, the future of computing was changing.
+
+MS-DOS still made you type commands. But Apple had shown the world something better. A graphical interface. Windows, icons, a mouse, and a pointer. You could just click on things.
+
+Microsoft wanted that for PCs. So in 1985, it released Windows 1.0.
+
+Honestly? It wasn't great. It was slow, clunky, and not very popular. Windows 2.0 wasn't much better.
+
+But Microsoft kept going. And Apple was not happy. In 1988, Apple sued Microsoft, claiming Windows copied the look and feel of the Mac. After years in court, Apple lost.
+
+In March 1986, Microsoft went public on the stock market. The next year, at just thirty-one, Bill Gates became a billionaire. One of the youngest self-made billionaires in history at the time.
+
+Then, in 1990, came Windows 3.0. And this time, Microsoft got it right. It was fast enough, good-looking enough, and ran on the cheap PCs that millions of people already owned. It sold millions of copies.
+
+Around the same time, Microsoft also bundled its word processor, spreadsheet, and presentation programs together into one package.
+
+They called it Microsoft Office.
+
+Word. Excel. PowerPoint. Names that would become part of daily life for billions of people.
+
+Chapter six. Start me up.
+
+By the mid-1990s, Microsoft was unstoppable. And then, it threw the biggest party in the history of software.
+
+On August twenty-fourth, 1995, Microsoft launched Windows 95.
+
+It introduced the Start button and the taskbar. Things we still use today. And the launch was like a rock concert. Microsoft reportedly paid millions for the rights to use the Rolling Stones song "Start Me Up" in its ads. The Empire State Building was lit up in Windows colors. Stores opened at midnight, and people lined up around the block. To buy an operating system!
+
+Windows 95 sold millions of copies in its first weeks. Microsoft now dominated the PC world. The vast majority of personal computers ran Windows.
+
+That same year, Bill Gates became the richest person in the world, according to Forbes. A title he would hold for many years.
+
+But there was one thing Microsoft had almost missed. The internet.
+
+In May 1995, Bill Gates wrote a famous memo to his executives called "The Internet Tidal Wave." He told the company the internet was the most important development since the IBM PC. And Microsoft needed to go all in. Immediately.
+
+The leader of the internet at that moment was a company called Netscape, whose web browser was used by most people online.
+
+So Microsoft built its own browser, Internet Explorer. And it did something very powerful. It included Internet Explorer for free with Windows. Since almost every PC already had Windows, almost every PC now had Internet Explorer.
+
+Netscape couldn't compete with free. Within a few years, Internet Explorer had crushed Netscape.
+
+And there's one more twist from this era. In 1997, Microsoft's longtime rival Apple was in deep trouble, close to collapse. And Microsoft invested one hundred and fifty million dollars in Apple, and promised to keep making Office for the Mac. When Steve Jobs announced it on stage, Bill Gates appeared on a giant screen behind him. Parts of the audience booed.
+
+But that deal helped keep Apple alive.
+
+Microsoft was now the king of tech. And that was about to become a problem.
+
+Chapter seven. The United States versus Microsoft.
+
+Remember how Microsoft beat Netscape by giving away Internet Explorer with Windows?
+
+The United States government thought that wasn't fair.
+
+In 1998, the US Department of Justice, along with many states, sued Microsoft. They argued that Microsoft was using its monopoly in Windows to crush competitors illegally.
+
+The trial was a disaster for Microsoft's image. Videotaped testimony of Bill Gates showed him being evasive and argumentative, quibbling over the meanings of simple words. It made him look arrogant to many people.
+
+And in 2000, the judge delivered a shocking ruling. Microsoft should be split into two separate companies. One for Windows. And one for everything else.
+
+It was one of the biggest antitrust cases in American history.
+
+But Microsoft appealed. And in 2001, a higher court overturned the breakup order. Microsoft eventually reached a settlement with the government, agreeing to new rules about how it did business.
+
+Microsoft survived in one piece. But the battle changed the company. It became more cautious. More careful. Some say, less bold.
+
+And at the same time, something else changed.
+
+In January 2000, Bill Gates stepped down as CEO. He handed the job to Steve Ballmer.
+
+Chapter eight. The Ballmer years.
+
+Steve Ballmer is one of the most famous, and most debated, CEOs in tech history.
+
+He was all energy. There's a legendary video of him on stage at a Microsoft event, sweating, and shouting "Developers! Developers! Developers!" over and over again.
+
+And here's what many people forget. Under Ballmer, Microsoft made a lot of money. Its yearly revenue roughly tripled. Its profits roughly doubled.
+
+He also launched some big wins.
+
+In 2001, Windows XP became one of the most loved versions of Windows ever.
+
+That same year, Microsoft entered the video game world with the Xbox. A huge gamble against Sony and Nintendo. It worked. Xbox became one of the biggest names in gaming. Even after the Xbox 360 had a famous hardware problem, known as the "Red Ring of Death," which cost Microsoft over a billion dollars to fix.
+
+And quietly, in 2010, Microsoft launched a cloud computing service. It would later be called Azure. Remember that name.
+
+But while Microsoft was making money, it kept missing the future.
+
+In search, Google became the king of the internet. Microsoft's answer, eventually called Bing, never came close.
+
+In music, Apple's iPod dominated. Microsoft's answer, the Zune, flopped.
+
+And then came the biggest miss of all. In 2007, Apple launched the iPhone. In an interview, Ballmer laughed at it. He called it the most expensive phone in the world, and said it wouldn't appeal to business customers because it didn't have a keyboard.
+
+That clip became one of the most famous bad predictions in tech history.
+
+Microsoft's own phone software fell further and further behind. In 2013, Microsoft agreed to buy the phone business of Nokia for billions of dollars, trying to catch up. It didn't work. Microsoft later wrote off almost the entire value of the deal, and cut thousands of jobs.
+
+Then there was Windows Vista in 2007. Slow, buggy, and widely disliked. And Windows 8 in 2012, which removed the beloved Start button, and confused millions of people.
+
+Meanwhile, Microsoft's stock price barely moved for more than a decade. Many people called it Microsoft's "lost decade." Critics said the company had become slow, bureaucratic, and full of internal fighting.
+
+In 2013, Ballmer announced he would retire.
+
+The question was, who could possibly fix Microsoft?
+
+Chapter nine. The quiet engineer.
+
+On February fourth, 2014, Microsoft announced its third CEO in history.
+
+Satya Nadella.
+
+Nadella was born in Hyderabad, India, in 1967. He studied electrical engineering in India, then moved to the United States for his master's degree. He joined Microsoft in 1992, and spent more than twenty years working his way up.
+
+Most recently, he had been running one of the least flashy parts of Microsoft. The servers and cloud business. The part most regular people never even thought about.
+
+Nadella was the opposite of Ballmer. Calm. Thoughtful. Soft-spoken. And he had a very different philosophy.
+
+Part of that came from his personal life. His son, Zain, was born with cerebral palsy. Nadella has said that raising Zain taught him empathy. To see the world from other people's point of view.
+
+And he brought that idea into Microsoft.
+
+He pushed something called a "growth mindset." The idea that you don't need to be a know-it-all. You need to be a learn-it-all. Be curious. Admit mistakes. Keep learning.
+
+And then, he started breaking Microsoft's old rules.
+
+For years, Microsoft treated other platforms as enemies. Within weeks of becoming CEO, Nadella released Microsoft Office for the iPad. Something Microsoft had resisted for years.
+
+Microsoft had once been hostile to Linux, a free, open-source operating system. But under Nadella, Microsoft stood on stage with a slide that said, "Microsoft loves Linux."
+
+The message was clear. Microsoft would no longer try to force everyone to use Windows. Instead, it would put its software and services everywhere. On any device. On any platform.
+
+Chapter ten. The cloud.
+
+Nadella's biggest bet was the cloud.
+
+So what is the cloud? Imagine instead of every company buying and running its own computers, servers, and storage, it just rents them from a giant company, over the internet. You pay for what you use. That's cloud computing.
+
+Amazon had been the early leader, with Amazon Web Services. But Microsoft had a secret weapon. Almost every big business in the world already used Microsoft products. Windows. Office. Business software.
+
+So Microsoft went to its customers and said, let us move all of that to the cloud for you.
+
+Azure grew massively. Office became Office 365, and later Microsoft 365. Instead of buying it once, businesses and people paid for it as a subscription, every month or every year. Steady, reliable money, coming in again and again.
+
+Nadella also made a series of smart acquisitions.
+
+In 2014, Microsoft bought Minecraft, one of the most popular video games of all time, for two and a half billion dollars.
+
+In 2016, it bought LinkedIn, the professional social network, for about twenty-six billion dollars.
+
+In 2018, it bought GitHub, the website where millions of programmers store and share their code, for seven and a half billion dollars. A move that would have been unthinkable in the old Microsoft.
+
+And in 2023, after a long fight with regulators, Microsoft completed its biggest deal ever. It bought Activision Blizzard, the company behind Call of Duty, for nearly sixty-nine billion dollars.
+
+And the results? Incredible.
+
+In 2019, Microsoft's value crossed one trillion dollars. In 2021, two trillion. In early 2024, three trillion. At one point, it became the most valuable company in the world, again.
+
+The company everyone called a dinosaur had come back to life.
+
+Chapter eleven. The AI bet.
+
+And then, Nadella made the boldest move of all.
+
+In 2019, Microsoft invested one billion dollars in a small, unusual AI research lab in San Francisco.
+
+It was called OpenAI.
+
+At the time, many people didn't understand the deal. But Microsoft didn't just give OpenAI money. It built giant supercomputers in its Azure cloud to train OpenAI's AI models.
+
+Then, on November thirtieth, 2022, OpenAI released ChatGPT. And the world changed overnight.
+
+Suddenly, Microsoft was at the center of the biggest technology shift since the internet. In early 2023, Microsoft announced a new, multi-year investment in OpenAI, reportedly worth around ten billion dollars.
+
+Within weeks, Microsoft added AI chat to Bing, its search engine. For the first time in years, people were actually talking about Bing. Then Microsoft added AI assistants, which it called Copilot, to Windows, Office, GitHub, and much more.
+
+But there was drama too.
+
+In November 2023, OpenAI's board suddenly fired its CEO, Sam Altman. The tech world was stunned. And in the chaos, Satya Nadella moved fast. He announced Altman would join Microsoft to lead a new AI team. Within days, after a huge revolt by OpenAI's employees, Altman returned to OpenAI as CEO.
+
+Through it all, Microsoft stayed right at the center.
+
+In October 2025, Microsoft and OpenAI announced a new agreement, as OpenAI reorganized its business. Microsoft ended up with a stake of roughly twenty-seven percent of OpenAI's new for-profit company, valued at well over one hundred billion dollars at the time.
+
+And in July 2025, Microsoft became only the second company in history to be worth four trillion dollars, right after Nvidia.
+
+Two teenagers who once snuck around for extra computer time had built a company that would help shape the age of artificial intelligence.
+
+Chapter twelve. The founders.
+
+So, what happened to the people who started it all?
+
+Paul Allen spent his later years as a billionaire investor and philanthropist. He owned the Seattle Seahawks football team and the Portland Trail Blazers basketball team. He funded brain science research, explored the ocean, and his teams even found sunken World War Two warships. In 2018, Paul Allen died from complications of non-Hodgkin lymphoma.

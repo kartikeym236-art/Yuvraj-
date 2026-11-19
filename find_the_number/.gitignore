@@ -2,3 +2,4 @@ output/*.mp4
 __pycache__/
 output/images/
 output/with_layer/
+output/with_layer_more/

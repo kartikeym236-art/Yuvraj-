@@ -1,0 +1,37 @@
+scene,start,end,duration,line,image
+1,0.0,1.99,1.99,"You must definitely get dreams, right?",001.png
+2,1.99,2.93,0.94,But do you ever remember,002.png
+3,2.93,4.44,1.51,where that dream started from?,003.png
+4,4.44,6.74,2.3,"Those people who have watched the movie Inception,",004.png
+5,6.74,8.99,2.25,those people will be able to relate to this thing.,005.png
+6,8.99,10.26,1.27,"In that, Cobb says,",006.png
+7,10.26,12.37,2.11,"""We never remember the beginning of a dream.",007.png
+8,12.37,14.23,1.86,"We are always in the middle of a dream.""",008.png
+9,14.23,15.84,1.61,Now let's come to the main point.,009.png
+10,15.84,17.93,2.09,Do you remember how you came into this world?,010.png
+11,17.93,19.66,1.73,"I mean, do you remember being born?",011.png
+12,19.66,20.64,0.98,"You don't, right?",012.png
+13,20.64,22.57,1.93,The first three or four years of your life,013.png
+14,22.57,23.84,1.27,aren't even in your mind.,014.png
+15,23.84,25.86,2.02,Your mom must have told you when you were born.,015.png
+16,25.86,29.13,3.27,"Your dad must have told you, ""Beta, you learned to walk like this.""",016.png
+17,29.13,32.98,3.85,"Your grandma must have told you, ""Beta, you used to cry a lot in your childhood.""",017.png
+18,32.98,36.09,3.11,"Just like our dreams, we don't remember where it started from,",018.png
+19,36.09,38.32,2.23,"life is also something like that, isn't it?",019.png
+20,38.32,40.72,2.4,We don't even remember where our life started from.,020.png
+21,40.72,43.76,3.04,"Now think that if our life was also a dream, suppose,",021.png
+22,43.76,46.09,2.33,"then who are those people who are telling us stories,",022.png
+23,46.09,48.29,2.2,who are making us believe in all these things?,023.png
+24,48.29,51.2,2.91,They became characters of our dream which we built ourselves.,024.png
+25,51.2,54.23,3.03,"And in a dream, we don't get the option to choose a character.",025.png
+26,54.23,56.55,2.32,"With that same logic, if we look at our life,",026.png
+27,56.55,59.26,2.71,then here too we didn't get any option to choose.,027.png
+28,59.26,61.97,2.71,Did you get an option to choose your family? No.,028.png
+29,61.97,64.51,2.54,Did you get an option to choose your name? No.,029.png
+30,64.51,67.57,3.06,"You didn't even have the option to check, just like your dreams.",030.png
+31,67.57,70.65,3.08,"And finally, there is only one way to get out of a dream:",031.png
+32,70.65,71.81,1.16,"either you fall down,",032.png
+33,71.81,72.76,0.95,"or you get a jolt,",033.png
+34,72.76,73.68,0.92,or you end.,034.png
+35,73.68,75.06,1.38,So maybe what we call death,035.png
+36,75.06,76.896009,1.836,is just an alarm for us waking up.,036.png

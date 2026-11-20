@@ -1,4 +1,4 @@
-# Why India Isn't Worried: image prompts (154)
+# Why India Isn't Worried: image prompts (131)
 
 Generate each as a square (1:1) image. Save as `001.png`, `002.png`, ... in order.
 
@@ -493,7 +493,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Wider view of the same scene from a different angle: Three giant missile silos lined up in a desert at sunset.
 ```
 
-## 061  ·  "weapons. According"
+## 061  ·  "weapons."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -501,23 +501,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Aides in suits standing outside the closed door, holding folders, shut out.
 ```
 
-## 062  ·  "to the Kremlin, even"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
-
-Scene: Close-up of the same moment: Aides in suits standing outside the closed door, holding folders, shut out.
-```
-
-## 063  ·  "aides were not"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
-
-Scene: Wider view of the same scene from a different angle: Aides in suits standing outside the closed door, holding folders, shut out.
-```
-
-## 064  ·  "permitted inside. In"
+## 062  ·  "In"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -525,7 +509,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A calendar page with February circled in red (no numbers).
 ```
 
-## 065  ·  "February 2026 ,"
+## 063  ·  "February 2026 ,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -533,7 +517,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Close-up of the same moment: A calendar page with February circled in red (no numbers).
 ```
 
-## 066  ·  "the final remaining nuclear"
+## 064  ·  "the final remaining nuclear"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -541,7 +525,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A treaty paper being torn in half.
 ```
 
-## 067  ·  "treaty between the United"
+## 065  ·  "treaty between the United"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -549,7 +533,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Close-up of the same moment: A treaty paper being torn in half.
 ```
 
-## 068  ·  "States and Russia"
+## 066  ·  "States and Russia"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -557,7 +541,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Wider view of the same scene from a different angle: A treaty paper being torn in half.
 ```
 
-## 069  ·  "expired, meaning"
+## 067  ·  "expired, meaning"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -565,7 +549,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A broken fence with no boundary, missiles behind it.
 ```
 
-## 070  ·  "there are now no limits."
+## 068  ·  "there are now no limits."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -573,7 +557,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Close-up of the same moment: A broken fence with no boundary, missiles behind it.
 ```
 
-## 071  ·  "So, what does the declaration"
+## 069  ·  "So, what does the declaration"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
@@ -582,7 +566,7 @@ Scene: THE GUY holding a document and raising an eyebrow.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
-## 072  ·  "actually state?"
+## 070  ·  "actually state?"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
@@ -591,7 +575,7 @@ Scene: Close-up of the same moment: THE GUY holding a document and raising an ey
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
-## 073  ·  "First, that a nuclear"
+## 071  ·  "First, that a nuclear"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -599,7 +583,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A cracked mushroom cloud drawing crossed out with a big X.
 ```
 
-## 074  ·  "war can never be won;"
+## 072  ·  "war can never be won;"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -607,7 +591,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Close-up of the same moment: A cracked mushroom cloud drawing crossed out with a big X.
 ```
 
-## 075  ·  "therefore, talks will take place"
+## 073  ·  "therefore, talks will take place"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -615,7 +599,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Diplomats sitting around a small table talking with notepads.
 ```
 
-## 076  ·  "regarding nuclear risks."
+## 074  ·  "regarding nuclear risks."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -623,7 +607,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Close-up of the same moment: Diplomats sitting around a small table talking with notepads.
 ```
 
-## 077  ·  "Yet, by how much will"
+## 075  ·  "Yet, by how much will"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -631,7 +615,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A ruler and a pile of missiles, a question mark above.
 ```
 
-## 078  ·  "weapons be reduced?"
+## 076  ·  "weapons be reduced?"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -639,7 +623,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Close-up of the same moment: A ruler and a pile of missiles, a question mark above.
 ```
 
-## 079  ·  "Not a single figure is mentioned."
+## 077  ·  "Not a single figure is mentioned. ,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -647,47 +631,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: An empty page with a magnifying glass over it.
 ```
 
-## 080  ·  "On the contrary,"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
-
-Scene: Close-up of the same moment: An empty page with a magnifying glass over it.
-```
-
-## 081  ·  "according to SIPRI , China"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
-
-Scene: A factory building more and more missiles on a conveyor.
-```
-
-## 082  ·  "is expanding its nuclear"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
-
-Scene: Close-up of the same moment: A factory building more and more missiles on a conveyor.
-```
-
-## 083  ·  "arsenal"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
-
-Scene: Wider view of the same scene from a different angle: A factory building more and more missiles on a conveyor.
-```
-
-## 084  ·  "faster than anyone else."
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
-
-Scene: A missile racing ahead of others on a track.
-```
-
-## 085  ·  "Second,"
+## 078  ·  "Second,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -695,7 +639,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Close-up of the same moment: A missile racing ahead of others on a track.
 ```
 
-## 086  ·  "that the International Criminal Court"
+## 079  ·  "that the International Criminal Court"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -703,7 +647,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A courthouse with tall columns, a judge's gavel on the steps.
 ```
 
-## 087  ·  "should not abuse its authority,"
+## 080  ·  "should not abuse its authority,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -711,7 +655,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Close-up of the same moment: A courthouse with tall columns, a judge's gavel on the steps.
 ```
 
-## 088  ·  "the very ICC that issued"
+## 081  ·  "the very ICC that issued"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -719,7 +663,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A wanted poster with a silhouette (no text) pinned to a wall.
 ```
 
-## 089  ·  "an arrest warrant for Putin."
+## 082  ·  "an arrest warrant for Putin."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -727,47 +671,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Close-up of the same moment: A wanted poster with a silhouette (no text) pinned to a wall.
 ```
 
-## 090  ·  "Along with that came promises"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
-
-Scene: A big glass building with flags of many nations, workers repairing it.
-```
-
-## 091  ·  "of UN reform and"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
-
-Scene: Close-up of the same moment: A big glass building with flags of many nations, workers repairing it.
-```
-
-## 092  ·  "increased"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
-
-Scene: Wider view of the same scene from a different angle: A big glass building with flags of many nations, workers repairing it.
-```
-
-## 093  ·  "supplies of petroleum products"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
-
-Scene: Oil tankers and fuel trucks lined up at a port.
-```
-
-## 094  ·  "like petrol and diesel."
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
-
-Scene: Close-up of the same moment: Oil tankers and fuel trucks lined up at a port.
-```
-
-## 095  ·  "But throughout the declaration, Ukraine"
+## 083  ·  "But throughout the declaration, Ukraine"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -775,7 +679,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A long document with a blank space where a country is missing.
 ```
 
-## 096  ·  "is not mentioned once."
+## 084  ·  "is not mentioned once."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -783,65 +687,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Close-up of the same moment: A long document with a blank space where a country is missing.
 ```
 
-## 097  ·  "This encapsulates the real"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
-
-Scene: THE GUY pointing at the document, frowning.
-THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
-```
-
-## 098  ·  "fear of Japan,"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
-
-Scene: Close-up of the same moment: THE GUY pointing at the document, frowning.
-THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
-```
-
-## 099  ·  "Korea, and Europe:"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
-
-Scene: Three small figures outside a window watching big leaders inside.
-```
-
-## 100  ·  "major powers meeting"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
-
-Scene: Close-up of the same moment: Three small figures outside a window watching big leaders inside.
-```
-
-## 101  ·  "behind closed"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
-
-Scene: Wider view of the same scene from a different angle: Three small figures outside a window watching big leaders inside.
-```
-
-## 102  ·  "doors while other nations"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
-
-Scene: Small countries as little houses left outside a big locked gate.
-```
-
-## 103  ·  "are completely omitted."
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
-
-Scene: Close-up of the same moment: Small countries as little houses left outside a big locked gate.
-```
-
-## 104  ·  "Now, regarding India."
+## 085  ·  "Now, regarding India."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
@@ -850,7 +696,7 @@ Scene: THE INDIAN LEADER walking confidently along a garden path in Delhi.
 THE INDIAN LEADER: older man with a neat white beard and white hair, cream kurta and sleeveless vest.
 ```
 
-## 105  ·  "Last year,"
+## 086  ·  "Last year,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
@@ -859,7 +705,7 @@ Scene: Close-up of the same moment: THE INDIAN LEADER walking confidently along 
 THE INDIAN LEADER: older man with a neat white beard and white hair, cream kurta and sleeveless vest.
 ```
 
-## 106  ·  "after sharing a photo of Modi,"
+## 087  ·  "after sharing a photo of Modi,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
@@ -868,7 +714,7 @@ Scene: THE INDIAN LEADER, THE EASTERN LEADER and THE NORTHERN LEADER laughing to
 THE INDIAN LEADER: older man with a neat white beard and white hair, cream kurta and sleeveless vest. THE EASTERN LEADER: older man with neatly combed black hair, round face, dark grey suit. THE NORTHERN LEADER: older man with thinning light hair, pale skin, stern face, dark suit.
 ```
 
-## 107  ·  "Xi Jinping,"
+## 088  ·  "Xi Jinping,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
@@ -877,7 +723,7 @@ Scene: Close-up of the same moment: THE INDIAN LEADER, THE EASTERN LEADER and TH
 THE INDIAN LEADER: older man with a neat white beard and white hair, cream kurta and sleeveless vest. THE EASTERN LEADER: older man with neatly combed black hair, round face, dark grey suit. THE NORTHERN LEADER: older man with thinning light hair, pale skin, stern face, dark suit.
 ```
 
-## 108  ·  "and Putin, Trump"
+## 089  ·  "and Putin, Trump"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
@@ -886,7 +732,7 @@ Scene: THE BLOND LEADER looking at a phone showing a photo of three leaders, fro
 THE BLOND LEADER: older man with swooping blond hair, dark navy suit, very long red tie.
 ```
 
-## 109  ·  "remarked that it seemed the U.S."
+## 090  ·  "remarked that it seemed the U.S."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
@@ -895,7 +741,7 @@ Scene: Close-up of the same moment: THE BLOND LEADER looking at a phone showing 
 THE BLOND LEADER: older man with swooping blond hair, dark navy suit, very long red tie.
 ```
 
-## 110  ·  "had lost India"
+## 091  ·  "had lost India"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
@@ -904,7 +750,7 @@ Scene: Wider view of the same scene from a different angle: THE BLOND LEADER loo
 THE BLOND LEADER: older man with swooping blond hair, dark navy suit, very long red tie.
 ```
 
-## 111  ·  "and Russia to China. This"
+## 092  ·  "and Russia to China."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -912,33 +758,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A map with arrows from two countries pointing toward a third.
 ```
 
-## 112  ·  "week,"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
-
-Scene: Close-up of the same moment: A map with arrows from two countries pointing toward a third.
-```
-
-## 113  ·  "Trump sat down with those very"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
-
-Scene: THE BLOND LEADER sitting down at a table with THE EASTERN LEADER and THE NORTHERN LEADER.
-THE BLOND LEADER: older man with swooping blond hair, dark navy suit, very long red tie. THE EASTERN LEADER: older man with neatly combed black hair, round face, dark grey suit. THE NORTHERN LEADER: older man with thinning light hair, pale skin, stern face, dark suit.
-```
-
-## 114  ·  "two leaders himself."
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
-
-Scene: Close-up of the same moment: THE BLOND LEADER sitting down at a table with THE EASTERN LEADER and THE NORTHERN LEADER.
-THE BLOND LEADER: older man with swooping blond hair, dark navy suit, very long red tie. THE EASTERN LEADER: older man with neatly combed black hair, round face, dark grey suit. THE NORTHERN LEADER: older man with thinning light hair, pale skin, stern face, dark suit.
-```
-
-## 115  ·  "Yet, just a day before"
+## 093  ·  "Yet, just a day before"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -946,7 +766,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: An airplane landing at a big airport at night.
 ```
 
-## 116  ·  "arriving in China,"
+## 094  ·  "arriving in China,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -954,7 +774,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Close-up of the same moment: An airplane landing at a big airport at night.
 ```
 
-## 117  ·  "he said of Modi in Manila:"
+## 095  ·  "he said of Modi in Manila:"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
@@ -963,7 +783,7 @@ Scene: THE BLOND LEADER speaking at a podium in a tropical city, palm trees behi
 THE BLOND LEADER: older man with swooping blond hair, dark navy suit, very long red tie.
 ```
 
-## 118  ·  ""And by the way,"
+## 096  ·  ""And by the way,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
@@ -972,7 +792,7 @@ Scene: Close-up of the same moment: THE BLOND LEADER speaking at a podium in a t
 THE BLOND LEADER: older man with swooping blond hair, dark navy suit, very long red tie.
 ```
 
-## 119  ·  "he's a very tough man,"
+## 097  ·  "he's a very tough man,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
@@ -981,7 +801,7 @@ Scene: THE BLOND LEADER grinning and making a tough-guy fist.
 THE BLOND LEADER: older man with swooping blond hair, dark navy suit, very long red tie.
 ```
 
-## 120  ·  "just in case.""
+## 098  ·  "just in case.""
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
@@ -990,16 +810,7 @@ Scene: Close-up of the same moment: THE BLOND LEADER grinning and making a tough
 THE BLOND LEADER: older man with swooping blond hair, dark navy suit, very long red tie.
 ```
 
-## 121  ·  "Here is what often goes unsaid:"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
-
-Scene: THE GUY leaning in, whispering to the viewer.
-THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
-```
-
-## 122  ·  "Japan,"
+## 099  ·  "Japan,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
@@ -1008,7 +819,7 @@ Scene: Close-up of the same moment: THE GUY leaning in, whispering to the viewer
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
-## 123  ·  "South Korea, and Germany"
+## 100  ·  "South Korea, and Germany"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1016,7 +827,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Three small houses with no roofs in the rain.
 ```
 
-## 124  ·  "do not possess their own"
+## 101  ·  "do not possess their own"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1024,7 +835,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Close-up of the same moment: Three small houses with no roofs in the rain.
 ```
 
-## 125  ·  "nuclear weapons."
+## 102  ·  "nuclear weapons."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1032,7 +843,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Wider view of the same scene from a different angle: Three small houses with no roofs in the rain.
 ```
 
-## 126  ·  "Their security rests beneath the"
+## 103  ·  "Their security rests beneath the"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1040,7 +851,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A huge umbrella held over three small houses by a giant hand.
 ```
 
-## 127  ·  "American nuclear umbrella,"
+## 104  ·  "American nuclear umbrella,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1048,7 +859,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Close-up of the same moment: A huge umbrella held over three small houses by a giant hand.
 ```
 
-## 128  ·  "relying on the premise that"
+## 105  ·  "relying on the premise that"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1056,7 +867,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A giant hand holding the umbrella over a small figure.
 ```
 
-## 129  ·  "if attacked, the U.S."
+## 106  ·  "if attacked, the U.S."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1064,7 +875,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Close-up of the same moment: A giant hand holding the umbrella over a small figure.
 ```
 
-## 130  ·  "will step in to defend"
+## 107  ·  "will step in to defend"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1072,7 +883,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Wider view of the same scene from a different angle: A giant hand holding the umbrella over a small figure.
 ```
 
-## 131  ·  "them. But that"
+## 108  ·  "them. But that"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1080,7 +891,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A rented umbrella with a price tag hanging from it.
 ```
 
-## 132  ·  "umbrella is borrowed."
+## 109  ·  "umbrella is borrowed."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1088,7 +899,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Close-up of the same moment: A rented umbrella with a price tag hanging from it.
 ```
 
-## 133  ·  "If the provider changes"
+## 110  ·  "If the provider changes"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1096,7 +907,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A small figure standing alone in the rain as the giant umbrella is pulled away.
 ```
 
-## 134  ·  "their mind, you are left"
+## 111  ·  "their mind, you are left"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1104,7 +915,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Close-up of the same moment: A small figure standing alone in the rain as the giant umbrella is pulled away.
 ```
 
-## 135  ·  "standing alone in the"
+## 112  ·  "standing alone in the"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1112,7 +923,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Wider view of the same scene from a different angle: A small figure standing alone in the rain as the giant umbrella is pulled away.
 ```
 
-## 136  ·  "rain. India's"
+## 113  ·  "rain. India's"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1120,7 +931,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A strong umbrella standing firmly on its own over a small figure, sunny behind.
 ```
 
-## 137  ·  "umbrella is its own."
+## 114  ·  "umbrella is its own."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1128,7 +939,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Close-up of the same moment: A strong umbrella standing firmly on its own over a small figure, sunny behind.
 ```
 
-## 138  ·  "With approximately 190"
+## 115  ·  "With approximately 190"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1136,7 +947,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Rows of missiles standing in a secure hangar.
 ```
 
-## 139  ·  "nuclear warheads"
+## 116  ·  "nuclear warheads"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1144,7 +955,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Close-up of the same moment: Rows of missiles standing in a secure hangar.
 ```
 
-## 140  ·  "and"
+## 117  ·  "and"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1152,7 +963,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Wider view of the same scene from a different angle: Rows of missiles standing in a secure hangar.
 ```
 
-## 141  ·  "the capability to deploy"
+## 118  ·  "the capability to deploy"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1160,7 +971,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A missile launcher truck on a desert road.
 ```
 
-## 142  ·  "them across land,"
+## 119  ·  "them across land,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1168,7 +979,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Close-up of the same moment: A missile launcher truck on a desert road.
 ```
 
-## 143  ·  "air, and sea, India"
+## 120  ·  "air, and sea, India"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1176,7 +987,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A fighter jet in the sky and a submarine in the sea.
 ```
 
-## 144  ·  "maintains a complete nuclear"
+## 121  ·  "maintains a complete nuclear"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1184,7 +995,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Close-up of the same moment: A fighter jet in the sky and a submarine in the sea.
 ```
 
-## 145  ·  "triad."
+## 122  ·  "triad."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1192,7 +1003,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Wider view of the same scene from a different angle: A fighter jet in the sky and a submarine in the sea.
 ```
 
-## 146  ·  "India belongs to no military"
+## 123  ·  "India belongs to no military"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
@@ -1201,7 +1012,7 @@ Scene: THE INDIAN LEADER standing alone, no alliance flags around him.
 THE INDIAN LEADER: older man with a neat white beard and white hair, cream kurta and sleeveless vest.
 ```
 
-## 147  ·  "alliance and maintains"
+## 124  ·  "alliance and maintains"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
@@ -1210,7 +1021,7 @@ Scene: Close-up of the same moment: THE INDIAN LEADER standing alone, no allianc
 THE INDIAN LEADER: older man with a neat white beard and white hair, cream kurta and sleeveless vest.
 ```
 
-## 148  ·  "diplomatic"
+## 125  ·  "diplomatic"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
@@ -1219,7 +1030,7 @@ Scene: Wider view of the same scene from a different angle: THE INDIAN LEADER st
 THE INDIAN LEADER: older man with a neat white beard and white hair, cream kurta and sleeveless vest.
 ```
 
-## 149  ·  "ties with all three powers."
+## 126  ·  "ties with all three powers."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
@@ -1228,7 +1039,7 @@ Scene: THE INDIAN LEADER shaking hands with three different leaders in a row.
 THE INDIAN LEADER: older man with a neat white beard and white hair, cream kurta and sleeveless vest. THE BLOND LEADER: older man with swooping blond hair, dark navy suit, very long red tie. THE EASTERN LEADER: older man with neatly combed black hair, round face, dark grey suit.
 ```
 
-## 150  ·  "While Japan,"
+## 127  ·  "While Japan,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
@@ -1237,7 +1048,7 @@ Scene: Close-up of the same moment: THE INDIAN LEADER shaking hands with three d
 THE INDIAN LEADER: older man with a neat white beard and white hair, cream kurta and sleeveless vest. THE BLOND LEADER: older man with swooping blond hair, dark navy suit, very long red tie. THE EASTERN LEADER: older man with neatly combed black hair, round face, dark grey suit.
 ```
 
-## 151  ·  "Korea, and Germany stand"
+## 128  ·  "Korea, and Germany stand"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1245,7 +1056,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Three small figures under someone else's umbrella in the rain.
 ```
 
-## 152  ·  "under someone else's umbrella,"
+## 129  ·  "under someone else's umbrella,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1253,7 +1064,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Close-up of the same moment: Three small figures under someone else's umbrella in the rain.
 ```
 
-## 153  ·  "India built its own."
+## 130  ·  "India built its own."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -1261,7 +1072,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A small figure holding its own sturdy umbrella, smiling, then pointing at the viewer.
 ```
 
-## 154  ·  "Share this."
+## 131  ·  "Share this."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.

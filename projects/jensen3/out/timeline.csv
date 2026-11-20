@@ -1,149 +1,149 @@
 scene,start,end,duration,line,image
-1,0.0,1.29,1.29,Jensen Huang is making,001.png
-2,1.29,2.23,0.94,his homecoming.,002.png
-3,2.23,4.42,2.19,"It hasn't even been a week since he resigned,",003.png
-4,4.42,6.58,2.16,and the game for him to return as Nvidia's,004.png
-5,6.58,7.71,1.13,{CEO|c e o} has already,005.png
-6,7.71,8.56,0.85,begun. It's,006.png
-7,8.56,9.8,1.24,"not confirmed yet,",007.png
-8,9.8,10.84,1.04,but the signals are so,008.png
-9,10.84,12.2,1.36,"strong that everywhere,",009.png
-10,12.2,13.78,1.58,"on Twitter and across the board,",010.png
-11,13.78,15.18,1.4,this is all people are talking,011.png
-12,15.18,16.09,0.91,about. But let's,012.png
-13,16.09,17.11,1.02,look at the facts.,013.png
-14,17.11,19.28,2.17,"According to Financial Times reports,",014.png
-15,19.28,21.11,1.83,Jensen is meeting with his close friends,015.png
-16,21.11,22.14,1.03,to discuss and plan,016.png
-17,22.14,23.77,1.63,how his comeback can happen. His,017.png
-18,23.77,24.94,1.17,"strong allies,",018.png
-19,24.94,26.26,1.32,the top executives across,019.png
-20,26.26,27.3,1.04,"Silicon Valley,",020.png
-21,27.3,28.75,1.45,"are setting up a ""war room"" to",021.png
-22,28.75,30.71,1.96,put pressure on both the Board and,022.png
-23,30.71,32.2,1.49,the White House to bring Jensen,023.png
-24,32.2,33.86,1.66,Huang back as {CEO|c e o} .,024.png
-25,33.86,35.93,2.07,"This would be good for everyone, including",025.png
-26,35.93,37.47,1.54,those top executives.,026.png
-27,37.47,38.55,1.08,There is also a petition,027.png
-28,38.55,39.8,1.25,circulating titled,028.png
-29,39.8,41.23,1.43,"""Stand with Jensen,""",029.png
-30,41.23,43.78,2.55,"which has already gathered over {180,000|one hundred eighty thousand}",030.png
-31,43.78,44.67,0.89,signatures.,031.png
-32,44.67,46.52,1.85,"Out of those, more than {9,000|nine thousand}",032.png
-33,46.52,47.89,1.37,claim to be current Nvidia,033.png
-34,47.89,49.12,1.23,"employees, meaning",034.png
-35,49.12,50.75,1.63,even Nvidia's own staff,035.png
-36,50.75,51.43,0.68,want Jensen,036.png
-37,51.43,52.683,1.253,Huang back. Elon,037.png
-38,52.683,53.9,1.217,"Musk has signed it,",038.png
-39,53.9,55.01,1.11,Tim from Epic Games,039.png
-40,55.01,56.25,1.24,"has signed it, and many",040.png
-41,56.25,57.17,0.92,other {high-profile|high profile},041.png
-42,57.17,59.0,1.83,figures have signed this petition.,042.png
-43,59.0,60.23,1.23,Two major investors,043.png
-44,60.23,61.33,1.1,have already sent letters,044.png
-45,61.33,62.49,1.16,to the Board urging them,045.png
-46,62.49,63.68,1.19,to give Jensen Huang,046.png
-47,63.68,65.3,1.62,another option to return.,047.png
-48,65.3,66.48,1.18,Trump himself stated,048.png
-49,66.48,67.12,0.64,that Jensen,049.png
-50,67.12,68.57,1.45,"is a very nice person,",050.png
-51,68.57,69.77,1.2,one of the biggest and best,051.png
-52,69.77,70.547,0.777,{CEOs|c e o s},052.png
-53,70.547,72.4,1.853,", and that he should be brought back. If",053.png
-54,72.4,73.41,1.01,Nvidia doesn't take him,054.png
-55,73.41,74.28,0.87,"back, Elon Musk",055.png
-56,74.28,75.37,1.09,"has already said,",056.png
-57,75.37,76.21,0.84,"""It will be my honor to",057.png
-58,76.21,77.65,1.44,"hire Jensen Huang.""",058.png
-59,77.65,79.1,1.45,Why? Because Elon Musk,059.png
-60,79.1,80.27,1.17,wants to go to space.,060.png
-61,80.27,81.7,1.43,"You need rockets for space,",061.png
-62,81.7,82.93,1.23,"robots need chips,",062.png
-63,82.93,84.77,1.84,electric cars need chips. The,063.png
-64,84.77,86.02,1.25,entire game revolves,064.png
-65,86.02,87.76,1.74,"around chips, and the undisputed",065.png
-66,87.76,89.18,1.42,leader in chips is Jensen,066.png
-67,89.18,90.57,1.39,Huang. Why is everyone,067.png
-68,90.57,91.82,1.25,so keen on this?,068.png
-69,91.82,93.32,1.5,Let me put it simply: across,069.png
-70,93.32,94.98,1.66,"the entire {AI|a i} race,",070.png
-71,94.98,96.24,1.26,Nvidia's chips are number,071.png
-72,96.24,97.36,1.12,one. Nvidia,072.png
-73,97.36,98.17,0.81,designs over,073.png
-74,98.17,99.53,1.36,{80%|eighty percent} of them. Ever,074.png
-75,99.53,101.69,2.16,"since this period began in October,",075.png
-76,101.69,103.04,1.35,{$2 trillion|two trillion dollars} has been wiped,076.png
-77,103.04,104.7,1.66,out from Nvidia's value.,077.png
-78,104.7,105.83,1.13,This isn't just Nvidia's,078.png
-79,105.83,106.96,1.13,loss; it impacts,079.png
-80,106.96,107.62,0.66,every company,080.png
-81,107.62,109.02,1.4,that relies on their chips:,081.png
-82,109.02,109.91,0.89,"OpenAI,",082.png
-83,109.91,111.063,1.153,"Anthropic, Elon",083.png
-84,111.063,111.9,0.837,"Musk's ventures,",084.png
-85,111.9,113.2,1.3,"Oracle, and anyone needing",085.png
-86,113.2,114.64,1.44,{high-performance|high performance} silicon.,086.png
-87,114.64,116.16,1.52,If Nvidia loses leadership,087.png
-88,116.16,117.22,1.06,"like Jensen's,",088.png
-89,117.22,118.35,1.13,these companies won't get,089.png
-90,118.35,119.41,1.06,their chips as quickly,090.png
-91,119.41,120.88,1.47,"or at the same quality,",091.png
-92,120.88,122.76,1.88,and Nvidia might lose its dominant,092.png
-93,122.76,124.08,1.32,edge to a competitor.,093.png
-94,124.08,125.52,1.44,It hurts everyone. Now,094.png
-95,125.52,126.65,1.13,consider the other side.,095.png
-96,126.65,128.55,1.9,The Board hasn't officially confirmed,096.png
-97,128.55,129.45,0.9,"anything yet,",097.png
-98,129.45,130.99,1.54,only stating that they are searching,098.png
-99,130.99,132.33,1.34,for a new {CEO|c e o} .,099.png
-100,132.33,133.65,1.32,"He has admitted to the affair,",100.png
-101,133.65,135.09,1.44,but investigations are still,101.png
-102,135.09,135.58,0.49,underway,102.png
-103,135.58,136.6,1.02,regarding whether she was,103.png
-104,136.6,137.99,1.39,a spy or not.,104.png
-105,137.99,139.12,1.13,As for the second and third,105.png
-106,139.12,140.36,1.24,"affairs being reported,",106.png
-107,140.36,141.57,1.21,he hasn't admitted to those,107.png
-108,141.57,142.89,1.32,yet. People are discussing,108.png
-109,142.89,143.4,0.51,it all over,109.png
-110,143.4,144.48,1.08,"the internet, but none",110.png
-111,144.48,146.15,1.67,of that is fully confirmed.,111.png
-112,146.15,147.8,1.65,"In my opinion, personal life",112.png
-113,147.8,149.12,1.32,and professional life are two,113.png
-114,149.12,150.47,1.35,separate things. If it,114.png
-115,150.47,152.15,1.68,is proven that she wasn't a Chinese,115.png
-116,152.15,154.47,2.32,"spy, he deserves another chance.",116.png
-117,154.47,155.83,1.36,"Over {33|thirty three} years,",117.png
-118,155.83,157.01,1.18,he built Nvidia into,118.png
-119,157.01,158.2,1.19,a {$5 trillion|five trillion dollars},119.png
-120,158.2,159.61,1.41,"global powerhouse, the",120.png
-121,159.61,160.8,1.19,biggest in the world.,121.png
-122,160.8,161.94,1.14,You shouldn't dismiss someone,122.png
-123,161.94,163.41,1.47,over a single mistake.,123.png
-124,163.41,165.22,1.81,His wife is still seen out with him;,124.png
-125,165.22,166.42,1.2,"if she doesn't have an issue,",125.png
-126,166.42,167.66,1.24,why should anyone else?,126.png
-127,167.66,168.7,1.04,What he eats at home shouldn't,127.png
-128,168.7,169.39,0.69,matter.,128.png
-129,169.39,170.72,1.33,What matters is the value,129.png
-130,170.72,172.04,1.32,"he brings to the company,",130.png
-131,172.04,173.07,1.03,"and within the company,",131.png
-132,173.07,174.6,1.53,everyone is happy with him.,132.png
-133,174.6,175.72,1.12,My theory is that he should,133.png
-134,175.72,176.76,1.04,"make a comeback,",134.png
-135,176.76,178.19,1.43,and major industry players,135.png
-136,178.19,179.86,1.67,want the exact same thing.,136.png
-137,179.86,181.22,1.36,"If that happens, top",137.png
-138,181.22,182.32,1.1,institutional leaders,138.png
-139,182.32,183.33,1.01,will likely position,139.png
-140,183.33,185.39,2.06,themselves early in Nvidia stock,140.png
-141,185.39,186.9,1.51,before retail investors get,141.png
-142,186.9,188.17,1.27,"the news, potentially",142.png
-143,188.17,189.395,1.225,driving a massive pump.,143.png
-144,189.395,191.395,2.0,What do you think? Should Jensen,144.png
-145,191.395,193.0,1.605,Huang return or not?,145.png
-146,193.0,194.55,1.55,"Let us know in the comments, make",146.png
-147,194.55,195.99,1.44,"sure to like and share the video,",147.png
-148,195.99,197.22,1.23,and give us a follow.,148.png
+1,0.0,1.21,1.21,Jensen Huang is making,001.png
+2,1.21,2.19,0.98,his homecoming.,002.png
+3,2.19,4.32,2.13,"It hasn't even been a week since he resigned,",003.png
+4,4.32,6.28,1.96,and the game for him to return as Nvidia's,004.png
+5,6.28,7.54,1.26,{CEO|c e o} has already,005.png
+6,7.54,8.38,0.84,begun. It's,006.png
+7,8.38,9.44,1.06,"not confirmed yet,",007.png
+8,9.44,10.45,1.01,but the signals are so,008.png
+9,10.45,12.0,1.55,"strong that everywhere,",009.png
+10,12.0,13.83,1.83,"on Twitter and across the board,",010.png
+11,13.83,15.15,1.32,this is all people are talking,011.png
+12,15.15,16.01,0.86,about. But let's,012.png
+13,16.01,17.0,0.99,look at the facts.,013.png
+14,17.0,18.98,1.98,"According to Financial Times reports,",014.png
+15,18.98,20.86,1.88,Jensen is meeting with his close friends,015.png
+16,20.86,22.21,1.35,to discuss and plan,016.png
+17,22.21,23.89,1.68,how his comeback can happen. His,017.png
+18,23.89,25.04,1.15,"strong allies,",018.png
+19,25.04,26.36,1.32,the top executives across,019.png
+20,26.36,27.35,0.99,"Silicon Valley,",020.png
+21,27.35,28.74,1.39,"are setting up a ""war room"" to",021.png
+22,28.74,30.4,1.66,put pressure on both the Board and,022.png
+23,30.4,31.83,1.43,the White House to bring Jensen,023.png
+24,31.83,33.32,1.49,Huang back as {CEO|c e o} .,024.png
+25,33.32,35.36,2.04,"This would be good for everyone, including",025.png
+26,35.36,36.69,1.33,those top executives.,026.png
+27,36.69,37.91,1.22,There is also a petition,027.png
+28,37.91,39.11,1.2,circulating titled,028.png
+29,39.11,40.4,1.29,"""Stand with Jensen,""",029.png
+30,40.4,43.02,2.62,"which has already gathered over {180,000|one hundred eighty thousand}",030.png
+31,43.02,43.86,0.84,signatures.,031.png
+32,43.86,45.82,1.96,"Out of those, more than {9,000|nine thousand}",032.png
+33,45.82,47.1,1.28,claim to be current Nvidia,033.png
+34,47.1,48.3,1.2,"employees, meaning",034.png
+35,48.3,49.75,1.45,even Nvidia's own staff,035.png
+36,49.75,50.43,0.68,want Jensen,036.png
+37,50.43,51.52,1.09,Huang back. Elon,037.png
+38,51.52,52.7,1.18,"Musk has signed it,",038.png
+39,52.7,53.8,1.1,Tim from Epic Games,039.png
+40,53.8,55.0,1.2,"has signed it, and many",040.png
+41,55.0,55.89,0.89,other {high-profile|high profile},041.png
+42,55.89,57.63,1.74,figures have signed this petition.,042.png
+43,57.63,58.74,1.11,Two major investors,043.png
+44,58.74,59.78,1.04,have already sent letters,044.png
+45,59.78,60.92,1.14,to the Board urging them,045.png
+46,60.92,61.91,0.99,to give Jensen Huang,046.png
+47,61.91,63.36,1.45,another option to return.,047.png
+48,63.36,64.47,1.11,Trump himself stated,048.png
+49,64.47,65.01,0.54,that Jensen,049.png
+50,65.01,66.47,1.46,"is a very nice person,",050.png
+51,66.47,67.69,1.22,one of the biggest and best,051.png
+52,67.69,68.66,0.97,{CEOs|c e o s},052.png
+53,68.66,70.35,1.69,", and that he should be brought back. If",053.png
+54,70.35,71.49,1.14,Nvidia doesn't take him,054.png
+55,71.49,72.73,1.24,"back, Elon Musk",055.png
+56,72.73,73.85,1.12,"has already said,",056.png
+57,73.85,74.94,1.09,"""It will be my honor to",057.png
+58,74.94,76.2,1.26,"hire Jensen Huang.""",058.png
+59,76.2,77.71,1.51,Why? Because Elon Musk,059.png
+60,77.71,78.96,1.25,wants to go to space.,060.png
+61,78.96,80.48,1.52,"You need rockets for space,",061.png
+62,80.48,81.85,1.37,"robots need chips,",062.png
+63,81.85,83.57,1.72,electric cars need chips. The,063.png
+64,83.57,84.71,1.14,entire game revolves,064.png
+65,84.71,86.61,1.9,"around chips, and the undisputed",065.png
+66,86.61,88.13,1.52,leader in chips is Jensen,066.png
+67,88.13,89.42,1.29,Huang. Why is everyone,067.png
+68,89.42,90.52,1.1,so keen on this?,068.png
+69,90.52,92.15,1.63,Let me put it simply: across,069.png
+70,92.15,93.65,1.5,"the entire {AI|a i} race,",070.png
+71,93.65,94.89,1.24,Nvidia's chips are number,071.png
+72,94.89,95.86,0.97,one. Nvidia,072.png
+73,95.86,96.64,0.78,designs over,073.png
+74,96.64,98.08,1.44,{80%|eighty percent} of them. Ever,074.png
+75,98.08,100.15,2.07,"since this period began in October,",075.png
+76,100.15,101.89,1.74,{$2 trillion|two trillion dollars} has been wiped,076.png
+77,101.89,103.34,1.45,out from Nvidia's value.,077.png
+78,103.34,104.51,1.17,This isn't just Nvidia's,078.png
+79,104.51,105.71,1.2,loss; it impacts,079.png
+80,105.71,106.43,0.72,every company,080.png
+81,106.43,107.89,1.46,that relies on their chips:,081.png
+82,107.89,108.78,0.89,"OpenAI,",082.png
+83,108.78,110.06,1.28,"Anthropic, Elon",083.png
+84,110.06,111.19,1.13,"Musk's ventures,",084.png
+85,111.19,112.79,1.6,"Oracle, and anyone needing",085.png
+86,112.79,114.2,1.41,{high-performance|high performance} silicon.,086.png
+87,114.2,115.67,1.47,If Nvidia loses leadership,087.png
+88,115.67,116.62,0.95,"like Jensen's,",088.png
+89,116.62,117.78,1.16,these companies won't get,089.png
+90,117.78,118.78,1.0,their chips as quickly,090.png
+91,118.78,120.11,1.33,"or at the same quality,",091.png
+92,120.11,121.83,1.72,and Nvidia might lose its dominant,092.png
+93,121.83,123.07,1.24,edge to a competitor.,093.png
+94,123.07,124.44,1.37,It hurts everyone. Now,094.png
+95,124.44,125.78,1.34,consider the other side.,095.png
+96,125.78,127.4,1.62,The Board hasn't officially confirmed,096.png
+97,127.4,128.2,0.8,"anything yet,",097.png
+98,128.2,129.68,1.48,only stating that they are searching,098.png
+99,129.68,130.94,1.26,for a new {CEO|c e o} .,099.png
+100,130.94,132.53,1.59,"He has admitted to the affair,",100.png
+101,132.53,133.98,1.45,but investigations are still,101.png
+102,133.98,134.45,0.47,underway,102.png
+103,134.45,135.55,1.1,regarding whether she was,103.png
+104,135.55,136.49,0.94,a spy or not.,104.png
+105,136.49,137.7,1.21,As for the second and third,105.png
+106,137.7,139.1,1.4,"affairs being reported,",106.png
+107,139.1,140.27,1.17,he hasn't admitted to those,107.png
+108,140.27,141.54,1.27,yet. People are discussing,108.png
+109,141.54,142.06,0.52,it all over,109.png
+110,142.06,143.15,1.09,"the internet, but none",110.png
+111,143.15,144.63,1.48,of that is fully confirmed.,111.png
+112,144.63,146.24,1.61,"In my opinion, personal life",112.png
+113,146.24,147.57,1.33,and professional life are two,113.png
+114,147.57,148.8,1.23,separate things. If it,114.png
+115,148.8,150.48,1.68,is proven that she wasn't a Chinese,115.png
+116,150.48,152.64,2.16,"spy, he deserves another chance.",116.png
+117,152.64,153.96,1.32,"Over {33|thirty three} years,",117.png
+118,153.96,155.26,1.3,he built Nvidia into,118.png
+119,155.26,156.4,1.14,a {$5 trillion|five trillion dollars},119.png
+120,156.4,157.69,1.29,"global powerhouse, the",120.png
+121,157.69,158.83,1.14,biggest in the world.,121.png
+122,158.83,160.09,1.26,You shouldn't dismiss someone,122.png
+123,160.09,161.35,1.26,over a single mistake.,123.png
+124,161.35,163.21,1.86,His wife is still seen out with him;,124.png
+125,163.21,164.55,1.34,"if she doesn't have an issue,",125.png
+126,164.55,165.8,1.25,why should anyone else?,126.png
+127,165.8,167.05,1.25,What he eats at home shouldn't,127.png
+128,167.05,167.63,0.58,matter.,128.png
+129,167.63,168.9,1.27,What matters is the value,129.png
+130,168.9,170.26,1.36,"he brings to the company,",130.png
+131,170.26,171.45,1.19,"and within the company,",131.png
+132,171.45,172.98,1.53,everyone is happy with him.,132.png
+133,172.98,174.16,1.18,My theory is that he should,133.png
+134,174.16,175.18,1.02,"make a comeback,",134.png
+135,175.18,176.57,1.39,and major industry players,135.png
+136,176.57,178.22,1.65,want the exact same thing.,136.png
+137,178.22,179.54,1.32,"If that happens, top",137.png
+138,179.54,180.59,1.05,institutional leaders,138.png
+139,180.59,181.55,0.96,will likely position,139.png
+140,181.55,183.56,2.01,themselves early in Nvidia stock,140.png
+141,183.56,185.11,1.55,before retail investors get,141.png
+142,185.11,186.37,1.26,"the news, potentially",142.png
+143,186.37,187.71,1.34,driving a massive pump.,143.png
+144,187.71,189.13,1.42,What do you think? Should Jensen,144.png
+145,189.13,190.36,1.23,Huang return or not?,145.png
+146,190.36,191.96,1.6,"Let us know in the comments, make",146.png
+147,191.96,193.59,1.63,"sure to like and share the video,",147.png
+148,193.59,194.646009,1.056,and give us a follow.,148.png

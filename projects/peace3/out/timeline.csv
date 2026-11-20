@@ -1,0 +1,132 @@
+scene,start,end,duration,line,image
+1,0.0,1.52,1.52,"For the first time in history,",001.png
+2,1.52,2.76,1.24,the world's three largest,002.png
+3,2.76,3.17,0.41,nuclear,003.png
+4,3.17,5.0,1.83,powers sat at the same table:,004.png
+5,5.0,5.89,0.89,"Donald Trump,",005.png
+6,5.89,7.08,1.19,"Xi Jinping, and",006.png
+7,7.08,8.14,1.06,"Vladimir Putin,",007.png
+8,8.14,9.59,1.45,and that too in China.,008.png
+9,9.59,10.69,1.1,Following a {ninety-minute|ninety minute},009.png
+10,10.69,11.18,0.49,{closed-door|closed door},010.png
+11,11.18,12.31,1.13,"meeting, all three",011.png
+12,12.31,13.58,1.27,jointly issued a statement,012.png
+13,13.58,14.88,1.3,"titled ""Declaration",013.png
+14,14.88,16.32,1.44,"Toward Peace."" Yet,",014.png
+15,16.32,17.62,1.3,this very peace has left,015.png
+16,17.62,18.21,0.59,"Japan,",016.png
+17,18.21,19.68,1.47,"South Korea, and Europe",017.png
+18,19.68,20.89,1.21,deeply concerned.,018.png
+19,20.89,22.08,1.19,And India? India,019.png
+20,22.08,23.42,1.34,has no need to worry.,020.png
+21,23.42,24.52,1.1,The underlying fear,021.png
+22,24.52,25.68,1.16,is named Yalta.,022.png
+23,25.68,27.53,1.85,"In {1945|nineteen forty five} , leaders",023.png
+24,27.53,28.71,1.18,"of the United States,",024.png
+25,28.71,29.92,1.21,"Britain, and the Soviet",025.png
+26,29.92,31.27,1.35,Union met in Yalta,026.png
+27,31.27,31.98,0.71,and partitioned,027.png
+28,31.98,33.03,1.05,Europe behind closed,028.png
+29,33.03,34.26,1.23,"doors, without even",029.png
+30,34.26,35.22,0.96,consulting countries,030.png
+31,35.22,36.37,1.15,like Poland. This is,031.png
+32,36.37,37.97,1.6,why Zelensky made it clear:,032.png
+33,37.97,39.36,1.39,Ukraine's fate will not be,033.png
+34,39.36,40.9,1.54,decided without Ukraine.,034.png
+35,40.9,42.33,1.43,Japan must now realize,035.png
+36,42.33,43.81,1.48,that it cannot rely entirely,036.png
+37,43.81,44.35,0.54,on the United,037.png
+38,44.35,45.53,1.18,States. The Kremlin,038.png
+39,45.53,46.72,1.19,itself stated that this,039.png
+40,46.72,47.65,0.93,meeting would embody,040.png
+41,47.65,48.81,1.16,the spirit of the World War,041.png
+42,48.81,49.9,1.09,Two alliance. And,042.png
+43,49.9,50.8,0.9,who was that alliance,043.png
+44,50.8,52.52,1.72,formed against? Japan,044.png
+45,52.52,53.34,0.82,and Germany.,045.png
+46,53.34,55.0,1.66,South Korea's principal concern,046.png
+47,55.0,56.02,1.02,is North Korea.,047.png
+48,56.02,57.31,1.29,Trump intended to meet Kim,048.png
+49,57.31,58.8,1.49,Jong Un while in China.,049.png
+50,58.8,60.16,1.36,"Kim did not show up,",050.png
+51,60.16,61.38,1.22,yet South Korea fears,051.png
+52,61.38,62.03,0.65,that decisions,052.png
+53,62.03,63.44,1.41,regarding Korea might also,053.png
+54,63.44,64.8,1.36,be made without Korea.,054.png
+55,64.8,66.16,1.36,Consider this: seated,055.png
+56,66.16,67.73,1.57,inside that closed room,056.png
+57,67.73,67.83,0.1,were,057.png
+58,67.83,69.23,1.4,the three countries that control,058.png
+59,69.23,70.3,1.07,over {90%|ninety percent} of the,059.png
+60,70.3,71.06,0.76,world's nuclear,060.png
+61,71.06,71.79,0.73,weapons.,061.png
+62,71.79,71.94,0.15,In,062.png
+63,71.94,73.7,1.76,"February {2026|twenty twenty six} ,",063.png
+64,73.7,75.0,1.3,the final remaining nuclear,064.png
+65,75.0,76.13,1.13,treaty between the United,065.png
+66,76.13,76.88,0.75,States and Russia,066.png
+67,76.88,78.17,1.29,"expired, meaning",067.png
+68,78.17,79.58,1.41,there are now no limits.,068.png
+69,79.58,81.25,1.67,"So, what does the declaration",069.png
+70,81.25,82.3,1.05,actually state?,070.png
+71,82.3,83.59,1.29,"First, that a nuclear",071.png
+72,83.59,85.0,1.41,war can never be won;,072.png
+73,85.0,86.47,1.47,"therefore, talks will take place",073.png
+74,86.47,87.97,1.5,regarding nuclear risks.,074.png
+75,87.97,89.07,1.1,"Yet, by how much will",075.png
+76,89.07,90.28,1.21,weapons be reduced?,076.png
+77,90.28,92.08,1.8,"Not a single figure is mentioned. ,",077.png
+78,92.08,92.62,0.54,"Second,",078.png
+79,92.62,94.12,1.5,that the International Criminal Court,079.png
+80,94.12,95.7,1.58,"should not abuse its authority,",080.png
+81,95.7,97.24,1.54,the very {ICC|i c c} that issued,081.png
+82,97.24,98.69,1.45,an arrest warrant for Putin.,082.png
+83,98.69,100.61,1.92,"But throughout the declaration, Ukraine",083.png
+84,100.61,102.0,1.39,is not mentioned once.,084.png
+85,102.0,103.43,1.43,"Now, regarding India.",085.png
+86,103.43,104.12,0.69,"Last year,",086.png
+87,104.12,105.86,1.74,"after sharing a photo of Modi,",087.png
+88,105.86,106.59,0.73,"Xi Jinping,",088.png
+89,106.59,107.64,1.05,"and Putin, Trump",089.png
+90,107.64,109.1,1.46,remarked that it seemed the {U.S.|u s},090.png
+91,109.1,110.08,0.98,had lost India,091.png
+92,110.08,111.28,1.2,and Russia to China.,092.png
+93,111.28,112.59,1.31,"Yet, just a day before",093.png
+94,112.59,113.7,1.11,"arriving in China,",094.png
+95,113.7,115.23,1.53,he said of Modi in Manila:,095.png
+96,115.23,116.2,0.97,"""And by the way,",096.png
+97,116.2,117.62,1.42,"he's a very tough man,",097.png
+98,117.62,118.59,0.97,"just in case.""",098.png
+99,118.59,119.35,0.76,"Japan,",099.png
+100,119.35,120.8,1.45,"South Korea, and Germany",100.png
+101,120.8,122.07,1.27,do not possess their own,101.png
+102,122.07,123.18,1.11,nuclear weapons.,102.png
+103,123.18,124.59,1.41,Their security rests beneath the,103.png
+104,124.59,126.19,1.6,"American nuclear umbrella,",104.png
+105,126.19,127.33,1.14,relying on the premise that,105.png
+106,127.33,128.62,1.29,"if attacked, the {U.S.|u s}",106.png
+107,128.62,129.67,1.05,will step in to defend,107.png
+108,129.67,130.45,0.78,them. But that,108.png
+109,130.45,131.67,1.22,umbrella is borrowed.,109.png
+110,131.67,132.73,1.06,If the provider changes,110.png
+111,132.73,133.92,1.19,"their mind, you are left",111.png
+112,133.92,134.84,0.92,standing alone in the,112.png
+113,134.84,135.85,1.01,rain. India's,113.png
+114,135.85,137.18,1.33,umbrella is its own.,114.png
+115,137.18,139.04,1.86,With approximately {190|one hundred ninety},115.png
+116,139.04,140.31,1.27,nuclear warheads,116.png
+117,140.31,140.46,0.15,and,117.png
+118,140.46,141.69,1.23,the capability to deploy,118.png
+119,141.69,142.78,1.09,"them across land,",119.png
+120,142.78,144.13,1.35,"air, and sea, India",120.png
+121,144.13,145.63,1.5,maintains a complete nuclear,121.png
+122,145.63,146.38,0.75,triad.,122.png
+123,146.38,147.97,1.59,India belongs to no military,123.png
+124,147.97,149.43,1.46,alliance and maintains,124.png
+125,149.43,149.99,0.56,diplomatic,125.png
+126,149.99,151.74,1.75,ties with all three powers.,126.png
+127,151.74,152.48,0.74,"While Japan,",127.png
+128,152.48,153.99,1.51,"Korea, and Germany stand",128.png
+129,153.99,155.57,1.58,"under someone else's umbrella,",129.png
+130,155.57,156.96,1.39,India built its own.,130.png
+131,156.96,157.774082,0.814,Share this.,131.png

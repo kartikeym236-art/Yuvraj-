@@ -118,6 +118,15 @@ This applies only when Claude writes the scenes. When the user supplies their
 own storyboard or image prompts, generate them as written: no dramatic
 replacement of the first scene (user, Nov 2026).
 
+## New Gemini marks (Nov 2026): ALWAYS run remove_marks.py and LOOK at the corners
+
+Newer Gemini images carry a smaller sparkle at ~(853,853) on 1024px and/or a grey
+"AI" pill badge at the bottom-right (~968,974); clean_images misses both. Before every
+render of square images: `python pipeline/remove_marks.py projects/<name>/images`, then
+view `out/corners.png` (bottom-right corner of every image) and fix anything left by
+hand. A missed "AI" badge on a light floor reached a posted reel once (storage, image 3):
+never skip the visual corner check.
+
 ## Hindi videos
 
 Put the user's Hindi transcript in projects/<name>/transcript.txt and run

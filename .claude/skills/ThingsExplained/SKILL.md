@@ -89,6 +89,8 @@ If the user asks you to generate the images instead: paid ImageRouter `google/na
 
 ## 6. Render, check, deliver
 
+- First: `python pipeline/remove_marks.py $P/images`, then LOOK at `$P/out/corners.png`; no sparkle or "AI" badge may remain (see CLAUDE.md).
+
 ```
 python pipeline/make_short.py $P
 ```

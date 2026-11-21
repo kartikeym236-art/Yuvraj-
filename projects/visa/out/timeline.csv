@@ -1,0 +1,99 @@
+scene,start,end,duration,line,image
+1,0.0,1.13,1.13,World's most profitable,001.png
+2,1.13,2.05,0.92,company is not,002.png
+3,2.05,3.0,0.95,"Apple, Google,",003.png
+4,3.0,3.99,0.99,or even Nvidia.,004.png
+5,3.99,5.02,1.03,It is a company,005.png
+6,5.02,6.17,1.15,that doesn't manufacture,006.png
+7,6.17,7.11,0.94,"any products,",007.png
+8,7.11,8.26,1.15,"doesn't sell anything,",008.png
+9,8.26,9.18,0.92,and doesn't even give,009.png
+10,9.18,10.06,0.88,"loans, but",010.png
+11,10.06,11.06,1.0,they still make double,011.png
+12,11.06,12.0,0.94,the profit margin of,012.png
+13,12.0,12.74,0.74,"Apple, and",013.png
+14,12.74,13.74,1.0,I guarantee you have,014.png
+15,13.74,14.88,1.14,their logo in your pocket,015.png
+16,14.88,15.72,0.84,right now. Let,016.png
+17,15.72,16.61,0.89,me explain.,017.png
+18,16.61,17.61,1.0,If you look at the world's,018.png
+19,17.61,18.95,1.34,"biggest tech companies,",019.png
+20,18.95,19.92,0.97,they spend billions,020.png
+21,19.92,20.85,0.93,"on factories,",021.png
+22,20.85,21.72,0.87,"warehouses,",022.png
+23,21.72,22.93,1.21,and massive data centers,023.png
+24,22.93,23.93,1.0,to make a net profit,024.png
+25,23.93,24.97,1.04,of {25%|twenty five percent},025.png
+26,24.97,25.93,0.96,maximum. But,026.png
+27,25.93,27.21,1.28,this company consistently,027.png
+28,27.21,28.53,1.32,makes over {50%|fifty percent},028.png
+29,28.53,29.84,1.31,"in pure net profit,",029.png
+30,29.84,31.32,1.48,and their name is Visa.,030.png
+31,31.32,32.25,0.93,You might think they work,031.png
+32,32.25,33.26,1.01,like a bank that lends,032.png
+33,33.26,34.11,0.85,money or issue,033.png
+34,34.11,34.94,0.83,"credit cards,",034.png
+35,34.94,35.95,1.01,but you are completely,035.png
+36,35.95,36.96,1.01,wrong. Visa,036.png
+37,36.96,38.04,1.08,is not a bank.,037.png
+38,38.04,38.96,0.92,Their business model,038.png
+39,38.96,39.87,0.91,gives them immunity,039.png
+40,39.87,41.13,1.26,from any kind of financial,040.png
+41,41.13,41.99,0.86,risk. Even,041.png
+42,41.99,42.86,0.87,if you max out your,042.png
+43,42.86,43.97,1.11,card and go completely,043.png
+44,43.97,44.9,0.93,"bankrupt, they",044.png
+45,44.9,45.87,0.97,lose absolutely,045.png
+46,45.87,46.94,1.07,{$0|zero dollars},046.png
+47,46.94,48.1,1.16,. So how do they make billions,047.png
+48,48.1,48.99,0.89,every year? They,048.png
+49,48.99,50.02,1.03,operate the ultimate,049.png
+50,50.02,51.22,1.2,digital toll booth.,050.png
+51,51.22,52.1,0.88,"Decades ago,",051.png
+52,52.1,52.99,0.89,global banks had,052.png
+53,52.99,54.21,1.22,a massive problem.,053.png
+54,54.21,55.25,1.04,"They had no fast,",054.png
+55,55.25,56.46,1.21,secure way to instantly,055.png
+56,56.46,57.38,0.92,verify payments,056.png
+57,57.38,58.75,1.37,across different countries.,057.png
+58,58.75,59.67,0.92,"To fix this,",058.png
+59,59.67,60.79,1.12,they built an invisible,059.png
+60,60.79,62.03,1.24,electronic network,060.png
+61,62.03,63.38,1.35,"that connects every bank,",061.png
+62,63.38,64.61,1.23,"merchant, and customer",062.png
+63,64.61,65.76,1.15,"on the planet. Today,",063.png
+64,65.76,67.21,1.45,that network is terrifyingly,064.png
+65,67.21,68.02,0.81,fast. It,065.png
+66,68.02,69.17,1.15,can process your payments,066.png
+67,69.17,70.11,0.94,across the globe,067.png
+68,70.11,71.5,1.39,in just {0.1|zero point one},068.png
+69,71.5,72.42,0.92,seconds. That,069.png
+70,72.42,73.47,1.05,is literally faster,070.png
+71,73.47,74.47,1.0,than you can blink.,071.png
+72,74.47,75.34,0.87,Every single time,072.png
+73,75.34,76.32,0.98,you tap or swipe,073.png
+74,76.32,77.34,1.02,"to buy a coffee,",074.png
+75,77.34,78.37,1.03,they silently collect,075.png
+76,78.37,79.5,1.13,"a tiny, invisible",076.png
+77,79.5,80.27,0.77,fee. This,077.png
+78,80.27,81.23,0.96,system became so,078.png
+79,81.23,82.16,0.93,powerful that,079.png
+80,82.16,83.1,0.94,"last year alone,",080.png
+81,83.1,84.07,0.97,they processed over,081.png
+82,84.07,85.32,1.25,{257|two hundred fifty seven},082.png
+83,85.32,86.48,1.16,billion transactions,083.png
+84,86.48,88.52,2.04,worth over {$14 trillion|fourteen trillion dollars},084.png
+85,88.52,89.43,0.91,. That is enough money,085.png
+86,89.43,90.33,0.9,to literally buy,086.png
+87,90.33,91.31,0.98,"Apple, Google,",087.png
+88,91.31,92.44,1.13,and Nvidia in,088.png
+89,92.44,93.89,1.45,pure cash combined.,089.png
+90,93.89,94.82,0.93,This infinite loop,090.png
+91,94.82,95.73,0.91,helps them earn more,091.png
+92,95.73,96.74,1.01,than a {50%|fifty percent},092.png
+93,96.74,97.79,1.05,profit margin even,093.png
+94,97.79,98.82,1.03,after taxes.,094.png
+95,98.82,99.84,1.02,Share this with someone,095.png
+96,99.84,100.96,1.12,who always pay using,096.png
+97,100.96,101.87,0.91,"a credit card,",097.png
+98,101.87,102.941995,1.072,and follow for more.,098.png

@@ -381,18 +381,10 @@ Scene: A bankruptcy stamp hitting a paper.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
 
-Scene: The card company executive calmly sipping coffee, unbothered.
-```
-
-## 048  ·  "every year? They"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
-
 Scene: An empty wallet with a big zero floating above it (no text).
 ```
 
-## 049  ·  "operate the ultimate"
+## 048  ·  "every year? They"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
@@ -401,7 +393,7 @@ Scene: THE GUY scratching his head, coins floating with question marks.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
-## 050  ·  "digital toll booth."
+## 049  ·  "operate the ultimate"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -409,7 +401,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Money pouring in every year, calendar pages flying.
 ```
 
-## 051  ·  "Decades ago,"
+## 050  ·  "digital toll booth."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -417,7 +409,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A digital toll booth over a glowing highway of payments.
 ```
 
-## 052  ·  "global banks had"
+## 051  ·  "Decades ago,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -425,7 +417,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Tiny cars made of coins passing through the toll booth, each dropping a coin.
 ```
 
-## 053  ·  "a massive problem."
+## 052  ·  "global banks had"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -433,7 +425,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: An old 1970s bank office with typewriters.
 ```
 
-## 054  ·  "They had no fast,"
+## 053  ·  "a massive problem."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -441,7 +433,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Bankers from different countries looking worried at a world map.
 ```
 
-## 055  ·  "secure way to instantly"
+## 054  ·  "They had no fast,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -449,7 +441,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A giant crack in the map between countries.
 ```
 
-## 056  ·  "verify payments"
+## 055  ·  "secure way to instantly"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -457,7 +449,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A slow snail carrying a payment slip across an ocean.
 ```
 
-## 057  ·  "across different countries."
+## 056  ·  "verify payments"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -465,7 +457,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A rusty broken lock on a payment box.
 ```
 
-## 058  ·  "To fix this,"
+## 057  ·  "across different countries."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -473,7 +465,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Bank clerks phoning each other across time zones, confused.
 ```
 
-## 059  ·  "they built an invisible"
+## 058  ·  "To fix this,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -481,7 +473,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Planes and ships carrying cheques across the world.
 ```
 
-## 060  ·  "electronic network"
+## 059  ·  "they built an invisible"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -489,7 +481,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Engineers building glowing cables connecting banks.
 ```
 
-## 061  ·  "that connects every bank,"
+## 060  ·  "electronic network"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -497,7 +489,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: An invisible network of light lines appearing over a city.
 ```
 
-## 062  ·  "merchant, and customer"
+## 061  ·  "that connects every bank,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -505,7 +497,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Glowing lines linking hundreds of banks on a globe.
 ```
 
-## 063  ·  "on the planet. Today,"
+## 062  ·  "merchant, and customer"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -513,7 +505,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Shops, cafes and people connected by glowing lines.
 ```
 
-## 064  ·  "that network is terrifyingly"
+## 063  ·  "on the planet. Today,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -521,7 +513,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: The whole planet wrapped in a glowing payment net.
 ```
 
-## 065  ·  "fast. It"
+## 064  ·  "that network is terrifyingly"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -529,7 +521,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Lightning-fast light streaking through the network.
 ```
 
-## 066  ·  "can process your payments"
+## 065  ·  "fast. It"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -537,7 +529,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A rocket-speed payment beam crossing the ocean.
 ```
 
-## 067  ·  "across the globe"
+## 066  ·  "can process your payments"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -545,7 +537,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A phone tapping a payment terminal, a light flash.
 ```
 
-## 068  ·  "in just 0.1"
+## 067  ·  "across the globe"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -553,7 +545,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: The beam circling the globe in an instant.
 ```
 
-## 069  ·  "seconds. That"
+## 068  ·  "in just 0.1"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -561,7 +553,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A stopwatch frozen at a tiny fraction of a second.
 ```
 
-## 070  ·  "is literally faster"
+## 069  ·  "seconds. That"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -569,7 +561,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A close-up eye mid-blink.
 ```
 
-## 071  ·  "than you can blink."
+## 070  ·  "is literally faster"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -577,7 +569,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A payment beam racing past a blinking eye.
 ```
 
-## 072  ·  "Every single time"
+## 071  ·  "than you can blink."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -585,7 +577,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A person with eyelids half closed as the payment completes.
 ```
 
-## 073  ·  "you tap or swipe"
+## 072  ·  "Every single time"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -593,7 +585,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A hand tapping a phone on a card reader in a cafe.
 ```
 
-## 074  ·  "to buy a coffee,"
+## 073  ·  "you tap or swipe"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -601,7 +593,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A card being swiped at a supermarket checkout.
 ```
 
-## 075  ·  "they silently collect"
+## 074  ·  "to buy a coffee,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -609,7 +601,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A barista handing over a coffee cup.
 ```
 
-## 076  ·  "a tiny, invisible"
+## 075  ·  "they silently collect"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -617,7 +609,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A tiny invisible hand taking a single coin from the payment.
 ```
 
-## 077  ·  "fee. This"
+## 076  ·  "a tiny, invisible"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -625,7 +617,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Tiny coins floating quietly into a glowing vault.
 ```
 
-## 078  ·  "system became so"
+## 077  ·  "fee. This"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -633,7 +625,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A drop of gold falling into a giant golden lake.
 ```
 
-## 079  ·  "powerful that"
+## 078  ·  "system became so"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -641,7 +633,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A huge glowing control centre with world maps.
 ```
 
-## 080  ·  "last year alone,"
+## 079  ·  "powerful that"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -649,7 +641,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Network lines pulsing with power around the globe.
 ```
 
-## 081  ·  "they processed over"
+## 080  ·  "last year alone,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -657,7 +649,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A calendar with last year highlighted.
 ```
 
-## 082  ·  "257"
+## 081  ·  "they processed over"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -665,7 +657,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Rivers of payment lights flowing into a hub.
 ```
 
-## 083  ·  "billion transactions"
+## 082  ·  "257"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -673,7 +665,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A mountain of tiny receipts reaching the clouds.
 ```
 
-## 084  ·  "worth over $14 trillion"
+## 083  ·  "billion transactions"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -681,7 +673,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A counter rolling up huge numbers (no readable digits).
 ```
 
-## 085  ·  ". That is enough money"
+## 084  ·  "worth over $14 trillion"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -689,7 +681,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Oceans of gold coins filling a giant vault.
 ```
 
-## 086  ·  "to literally buy"
+## 085  ·  ". That is enough money"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -697,7 +689,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Trucks of money lined up to the horizon.
 ```
 
-## 087  ·  "Apple, Google,"
+## 086  ·  "to literally buy"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -705,7 +697,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A giant hand holding a huge pile of cash.
 ```
 
-## 088  ·  "and Nvidia in"
+## 087  ·  "Apple, Google,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -713,7 +705,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Three huge tech towers with price tags on them.
 ```
 
-## 089  ·  "pure cash combined."
+## 088  ·  "and Nvidia in"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -721,7 +713,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: The giant hand buying all three towers at once.
 ```
 
-## 090  ·  "This infinite loop"
+## 089  ·  "pure cash combined."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -729,7 +721,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A huge pile of pure cash next to the towers.
 ```
 
-## 091  ·  "helps them earn more"
+## 090  ·  "This infinite loop"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -737,7 +729,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: An endless golden loop of coins spinning.
 ```
 
-## 092  ·  "than a 50%"
+## 091  ·  "helps them earn more"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -745,7 +737,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: The loop growing bigger and brighter.
 ```
 
-## 093  ·  "profit margin even"
+## 092  ·  "than a 50%"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -753,7 +745,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A pie chart with more than half glowing.
 ```
 
-## 094  ·  "after taxes."
+## 093  ·  "profit margin even"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -761,7 +753,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A tax collector taking a small slice, most of the pie left.
 ```
 
-## 095  ·  "Share this with someone"
+## 094  ·  "after taxes."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
@@ -769,7 +761,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A tall gold profit bar still standing after taxes.
 ```
 
-## 096  ·  "who always pay using"
+## 095  ·  "Share this with someone"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
@@ -778,7 +770,7 @@ Scene: THE GUY showing his phone to a friend, both smiling.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
-## 097  ·  "a credit card,"
+## 096  ·  "who always pay using"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
@@ -787,10 +779,19 @@ Scene: A friend paying with a card at a store, THE GUY pointing.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
-## 098  ·  "and follow for more."
+## 097  ·  "a credit card,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
 
 Scene: A credit card on a cafe table next to a coffee.
+```
+
+## 098  ·  "and follow for more."
+
+```
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere.
+
+Scene: THE GUY waving goodbye, a giant glowing card behind him.
+THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```

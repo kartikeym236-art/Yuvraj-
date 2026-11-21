@@ -55,7 +55,6 @@ D = [
  ('The card maxed out, a red warning light on the terminal.', ''),
  ('A sad person holding empty pockets, bills flying away.', ''),
  ('A bankruptcy stamp hitting a paper.', ''),
- ('The card company executive calmly sipping coffee, unbothered.', ''),
  ('An empty wallet with a big zero floating above it (no text).', ''),
  ('THE GUY scratching his head, coins floating with question marks.', 'G'),
  ('Money pouring in every year, calendar pages flying.', ''),

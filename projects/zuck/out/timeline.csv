@@ -1,0 +1,82 @@
+scene,start,end,duration,line,image
+1,0.0,0.87,0.87,"Like Jensen,",001.png
+2,0.87,1.91,1.04,Mark Zuckerberg can,002.png
+3,1.91,2.86,0.95,never be ousted from,003.png
+4,2.86,4.0,1.14,his company. Because in,004.png
+5,4.0,5.14,1.14,"{2006,|two thousand six}",005.png
+6,5.14,6.15,1.01,Yahoo made an offer,006.png
+7,6.15,7.03,0.88,to buy Facebook,007.png
+8,7.03,8.18,1.15,for {1|one} billion dollars.,008.png
+9,8.18,9.27,1.09,"At that time, all",009.png
+10,9.27,10.21,0.94,the board investors,010.png
+11,10.21,11.22,1.01,pressured Zuckerberg,011.png
+12,11.22,12.15,0.93,to sell Facebook.,012.png
+13,12.15,13.27,1.12,But Zuckerberg understood,013.png
+14,13.27,14.0,0.73,right then,014.png
+15,14.0,14.94,0.94,that if he didn't take,015.png
+16,14.94,15.85,0.91,voting control into,016.png
+17,15.85,16.84,0.99,"his own hands,",017.png
+18,16.84,17.68,0.84,the same thing would,018.png
+19,17.68,18.77,1.09,happen to him as happened,019.png
+20,18.77,19.76,0.99,to Steve Jobs.,020.png
+21,19.76,20.51,0.75,"So, he created",021.png
+22,20.51,21.31,0.8,a system back,022.png
+23,21.31,22.24,0.93,"then, and divided",023.png
+24,22.24,23.11,0.87,all the shares into,024.png
+25,23.11,24.01,0.9,two classes:,025.png
+26,24.01,24.95,0.94,Class {A|a},026.png
+27,24.95,25.86,0.91,and Class {B|b}.,027.png
+28,25.86,26.83,0.97,"In Class {A|a},",028.png
+29,26.83,27.65,0.82,there is the general,029.png
+30,27.65,28.51,0.86,public and big,030.png
+31,28.51,29.38,0.87,"investors, where",031.png
+32,29.38,30.52,1.14,one share is equal,032.png
+33,30.52,31.44,0.92,to one vote.,033.png
+34,31.44,31.99,0.55,Second is,034.png
+35,31.99,32.8,0.81,Class {B|b}.,035.png
+36,32.8,33.69,0.89,"In this, nearly",036.png
+37,33.69,35.54,1.85,{99.8%|ninety nine point eight percent},037.png
+38,35.54,36.74,1.2,of the shares belong to Mark,038.png
+39,36.74,37.71,0.97,"Zuckerberg alone,",039.png
+40,37.71,38.77,1.06,"and in this class,",040.png
+41,38.77,39.8,1.03,one share is worth,041.png
+42,39.8,40.88,1.08,{10|ten} times more.,042.png
+43,40.88,41.67,0.79,Meaning one share,043.png
+44,41.67,42.74,1.07,equals {10|ten} votes.,044.png
+45,42.74,43.53,0.79,"Now, Zuckerberg",045.png
+46,43.53,44.06,0.53,owns only a,046.png
+47,44.06,45.37,1.31,{13.4%|thirteen point four percent},047.png
+48,45.37,46.2,0.83,"stake in Meta,",048.png
+49,46.2,47.34,1.14,but because of the {10|ten},049.png
+50,47.34,48.02,0.68,votes per share,050.png
+51,48.02,48.69,0.67,"structure,",051.png
+52,48.69,49.73,1.04,he holds a total of,052.png
+53,49.73,50.84,1.11,{61%|sixty one percent},053.png
+54,50.84,51.77,0.93,of the voting rights.,054.png
+55,51.77,52.44,0.67,To make any,055.png
+56,52.44,53.26,0.82,major decision,056.png
+57,53.26,54.07,0.81,"in the company,",057.png
+58,54.07,55.19,1.12,more than {50%|fifty percent},058.png
+59,55.19,56.41,1.22,"of the votes are required,",059.png
+60,56.41,57.46,1.05,whereas Zuckerberg,060.png
+61,57.46,58.18,0.72,himself holds,061.png
+62,58.18,59.19,1.01,{61%.|sixty one percent},062.png
+63,59.19,60.14,0.95,This means that even,063.png
+64,60.14,61.05,0.91,if all the investors,064.png
+65,61.05,61.97,0.92,"come together,",065.png
+66,61.97,62.96,0.99,they cannot oust,066.png
+67,62.96,63.77,0.81,Zuckerberg,067.png
+68,63.77,64.37,0.6,from Meta.,068.png
+69,64.37,65.3,0.93,"On the contrary,",069.png
+70,65.3,65.89,0.59,Zuckerberg,070.png
+71,65.89,66.79,0.9,himself decides,071.png
+72,66.79,67.6,0.81,who stays on the board,072.png
+73,67.6,68.48,0.88,and who doesn't.,073.png
+74,68.48,69.2,0.72,And this was his,074.png
+75,69.2,70.06,0.86,brilliant future,075.png
+76,70.06,70.66,0.6,planning.,076.png
+77,70.66,71.33,0.67,Who do you want to learn,077.png
+78,71.33,72.1,0.77,about next?,078.png
+79,72.1,73.3,1.2,Let me know in the comments.,079.png
+80,73.3,74.04,0.74,See you in the next,080.png
+81,74.04,75.16,1.12,"video, bye.",081.png

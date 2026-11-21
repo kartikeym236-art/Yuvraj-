@@ -1,0 +1,105 @@
+scene,start,end,duration,line,image
+1,0.0,1.14,1.14,Season {2|two} ends with,001.png
+2,1.14,2.21,1.07,Adam killing Martha.,002.png
+3,2.21,3.03,0.82,Then another Martha,003.png
+4,3.03,3.91,0.88,appears and pulls,004.png
+5,3.91,4.64,0.73,Jonas into her,005.png
+6,4.64,5.32,0.68,world.,006.png
+7,5.32,6.01,0.69,It's a mirror,007.png
+8,6.01,7.04,1.03,version of Winden,008.png
+9,7.04,7.75,0.71,where Jonas was,009.png
+10,7.75,8.49,0.74,"never born,",010.png
+11,8.49,9.12,0.63,and her world,011.png
+12,9.12,10.06,0.94,is heading toward its own,012.png
+13,10.06,10.89,0.83,apocalypse.,013.png
+14,10.89,11.86,0.97,Jonas learns there are,014.png
+15,11.86,12.79,0.93,two masters.,015.png
+16,12.79,13.79,1.0,"Adam, his future",016.png
+17,13.79,14.45,0.66,"self, wants",017.png
+18,14.45,15.52,1.07,to destroy time.,018.png
+19,15.52,16.46,0.94,"Eva, Martha's",019.png
+20,16.46,17.21,0.75,"future self,",020.png
+21,17.21,18.09,0.88,wants to protect,021.png
+22,18.09,18.95,0.86,the loop at any,022.png
+23,18.95,19.58,0.63,cost.,023.png
+24,19.58,20.49,0.91,Jonas and Martha,024.png
+25,20.49,21.53,1.04,are just their pieces,025.png
+26,21.53,22.18,0.65,on the board.,026.png
+27,22.18,23.14,0.96,Both worlds end,027.png
+28,23.14,24.05,0.91,on the same day.,028.png
+29,24.05,24.98,0.93,Jonas and Martha,029.png
+30,24.98,25.88,0.9,keep jumping through,030.png
+31,25.88,26.67,0.79,"time, from",031.png
+32,26.67,27.73,1.06,{1888|eighteen eighty eight} to,032.png
+33,27.73,28.92,1.19,"{2053,|twenty fifty three}",033.png
+34,28.92,29.67,0.75,and every move they,034.png
+35,29.67,30.8,1.13,make only ties,035.png
+36,30.8,31.66,0.86,the knot tighter.,036.png
+37,31.66,32.98,1.32,"In {1954,|nineteen fifty four}",037.png
+38,32.98,33.78,0.8,Jonas's mother,038.png
+39,33.78,34.83,1.05,"Hannah has a daughter,",039.png
+40,34.83,35.43,0.6,Silja.,040.png
+41,35.43,36.21,0.78,Silja becomes,041.png
+42,36.21,36.89,0.68,the ancestor,042.png
+43,36.89,37.94,1.05,of Noah and Agnes.,043.png
+44,37.94,38.91,0.97,Everyone in Winden,044.png
+45,38.91,39.81,0.9,turns out to be part,045.png
+46,39.81,40.5,0.69,of the loop.,046.png
+47,40.5,41.51,1.01,Martha is pregnant with,047.png
+48,41.51,42.48,0.97,Jonas's child.,048.png
+49,42.48,43.21,0.73,That child grows,049.png
+50,43.21,43.9,0.69,"up to be ""The",050.png
+51,43.9,44.65,0.75,"Unknown,""",051.png
+52,44.65,45.38,0.73,who lives in both,052.png
+53,45.38,46.2,0.82,worlds and keeps,053.png
+54,46.2,47.06,0.86,the loop going.,054.png
+55,47.06,47.79,0.73,Adam goes back,055.png
+56,47.79,48.82,1.03,to {1888|eighteen eighty eight},056.png
+57,48.82,49.66,0.84,and kills the pregnant,057.png
+58,49.66,50.51,0.85,Martha to break,058.png
+59,50.51,51.09,0.58,the cycle.,059.png
+60,51.09,52.12,1.03,It changes nothing.,060.png
+61,52.12,53.38,1.26,The knot survives.,061.png
+62,53.38,54.48,1.1,Claudia shows Adam,062.png
+63,54.48,55.23,0.75,what he's missed.,063.png
+64,55.23,56.07,0.84,"There's a third world,",064.png
+65,56.07,56.93,0.86,the original one.,065.png
+66,56.93,58.07,1.14,"In it, the clockmaker",066.png
+67,58.07,59.25,1.18,Tannhaus loses,067.png
+68,59.25,60.24,0.99,his son and granddaughter,068.png
+69,60.24,61.2,0.96,in a car crash.,069.png
+70,61.2,62.11,0.91,"Out of grief,",070.png
+71,62.11,62.92,0.81,he builds a time,071.png
+72,62.92,63.81,0.89,"machine, and that",072.png
+73,63.81,64.73,0.92,machine split,073.png
+74,64.73,65.53,0.8,reality,074.png
+75,65.53,66.14,0.61,into the two,075.png
+76,66.14,67.08,0.94,broken worlds.,076.png
+77,67.08,67.8,0.72,At the moment,077.png
+78,67.8,68.88,1.08,"of the apocalypse,",078.png
+79,68.88,69.79,0.91,Jonas and Martha,079.png
+80,69.79,70.48,0.69,meet between,080.png
+81,70.48,71.16,0.68,the worlds.,081.png
+82,71.16,71.79,0.63,They travel to,082.png
+83,71.79,72.43,0.64,the origin,083.png
+84,72.43,73.15,0.72,world on the night,084.png
+85,73.15,74.03,0.88,of the crash,085.png
+86,74.03,75.05,1.02,and stop the car.,086.png
+87,75.05,75.88,0.83,Tannhaus never,087.png
+88,75.88,76.85,0.97,"builds the machine,",088.png
+89,76.85,77.68,0.83,so both worlds,089.png
+90,77.68,78.55,0.87,"disappear,",090.png
+91,78.55,79.71,1.16,"along with Jonas,",091.png
+92,79.71,80.77,1.06,"Martha, Adam",092.png
+93,80.77,81.42,0.65,and Eva.,093.png
+94,81.42,82.42,1.0,"In the origin world,",094.png
+95,82.42,83.09,0.67,Hannah sits at,095.png
+96,83.09,84.11,1.02,a dinner party and says,096.png
+97,84.11,84.97,0.86,she always liked,097.png
+98,84.97,85.91,0.94,the name Jonas.,098.png
+99,85.91,86.84,0.93,The lights flicker.,099.png
+100,86.84,87.64,0.8,The beginning was,100.png
+101,87.64,88.33,0.69,"the end,",101.png
+102,88.33,89.17,0.84,and the end was,102.png
+103,89.17,89.96,0.79,the beginning.,103.png
+104,89.96,90.99,1.03,Follow for more.,104.png

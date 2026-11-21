@@ -1,0 +1,441 @@
+scene,start,end,duration,line,image
+1,0.0,1.75,1.75,"On May {twenty-second|twenty second}, {2010|twenty ten},",001.jpg
+2,1.75,3.09,1.34,a programmer in Florida named,002.jpg
+3,3.09,5.35,2.26,Laszlo Hanyecz bought two pizzas.,003.jpg
+4,5.35,7.68,2.33,He paid for them with ten thousand bitcoins.,004.jpg
+5,7.68,9.865,2.185,"At the time, that was worth about forty dollars.",005.jpg
+6,9.865,12.395,2.53,A pretty normal price for two large pizzas.,006.jpg
+7,12.395,13.235,0.84,"But a few years later,",007.jpg
+8,13.235,14.975,1.74,those same ten thousand bitcoins {would have|would've},008.jpg
+9,14.975,16.585,1.61,been worth millions of dollars.,009.jpg
+10,16.585,19.355,2.77,"And at bitcoin's peak, more than one billion dollars.",010.jpg
+11,19.355,21.525,2.17,The most expensive pizza in history.,011.jpg
+12,21.525,22.98,1.455,So what exactly is bitcoin?,012.jpg
+13,22.98,23.73,0.75,Who invented it?,013.jpg
+14,23.73,24.98,1.25,Why is it worth so much?,014.jpg
+15,24.98,26.03,1.05,And why do some people think,015.jpg
+16,26.03,26.91,0.88,"it's the future of money,",016.jpg
+17,26.91,28.545,1.635,while others think it's a giant bubble?,017.jpg
+18,28.545,29.695,1.15,"Today, I'm going to explain",018.jpg
+19,29.695,31.26,1.565,bitcoin from the very beginning.,019.jpg
+20,31.26,32.115,0.855,In simple words.,020.jpg
+21,32.115,33.485,1.37,No confusing tech talk.,021.jpg
+22,33.485,35.685,2.2,"Just the story, and how it actually works.",022.jpg
+23,35.685,36.615,0.93,"By the end of this video,",023.jpg
+24,36.615,38.085,1.47,you'll understand bitcoin better than,024.jpg
+25,38.085,39.355,1.27,most people who own it.,025.jpg
+26,39.355,39.965,0.61,Let's go.,026.jpg
+27,39.965,41.9,1.935,Chapter one. The problem with money.,027.jpg
+28,41.9,43.03,1.13,"To understand bitcoin,",028.jpg
+29,43.03,45.025,1.995,we first need to talk about regular money.,029.jpg
+30,45.025,46.925,1.9,Think about the money in a bank account.,030.jpg
+31,46.925,47.925,1.0,It's not really sitting in a,031.jpg
+32,47.925,49.175,1.25,vault with your name on it.,032.jpg
+33,49.175,49.965,0.79,"It's just a number,",033.jpg
+34,49.965,51.765,1.8,"in a computer, owned by a bank.",034.jpg
+35,51.765,52.845,1.08,"And for that number to work,",035.jpg
+36,52.845,54.475,1.63,we have to trust a lot of people.,036.jpg
+37,54.475,55.325,0.85,We trust the bank to,037.jpg
+38,55.325,56.845,1.52,keep track of it correctly.,038.jpg
+39,56.845,58.66,1.815,We trust the bank not to lose it.,039.jpg
+40,58.66,59.65,0.99,And we trust the government,040.jpg
+41,59.65,60.5,0.85,not to print so much,041.jpg
+42,60.5,61.52,1.02,new money that the money,042.jpg
+43,61.52,62.96,1.44,we have becomes worth less.,043.jpg
+44,62.96,65.46,2.5,"Most of the time, that system works pretty well.",044.jpg
+45,65.46,66.46,1.0,"But in {2008|two thousand eight},",045.jpg
+46,66.46,68.01,1.55,the world got a scary reminder,046.jpg
+47,68.01,69.98,1.97,of what happens when that trust breaks.,047.jpg
+48,69.98,72.19,2.21,The global financial crisis hit.,048.jpg
+49,72.19,73.86,1.67,"Huge banks had made reckless bets,",049.jpg
+50,73.86,75.23,1.37,"and when those bets went bad,",050.jpg
+51,75.23,77.18,1.95,the whole system started to wobble.,051.jpg
+52,77.18,78.93,1.75,Governments stepped in and used trillions,052.jpg
+53,78.93,80.68,1.75,of dollars to rescue the banks.,053.jpg
+54,80.68,82.79,2.11,"Meanwhile, millions of regular people lost",054.jpg
+55,82.79,84.43,1.64,their homes and their jobs.,055.jpg
+56,84.43,85.96,1.53,A lot of people were angry.,056.jpg
+57,85.96,87.65,1.69,"And one person, somewhere in the world,",057.jpg
+58,87.65,89.56,1.91,decided to build an alternative.,058.jpg
+59,89.56,91.743,2.183,Chapter two. The mysterious inventor.,059.jpg
+60,91.743,93.453,1.71,"On October {thirty-first|thirty first}, {2008|two thousand eight},",060.jpg
+61,93.453,94.663,1.21,"right in the middle of the crisis,",061.jpg
+62,94.663,96.003,1.34,someone posted a short paper to,062.jpg
+63,96.003,98.458,2.455,an online mailing list for cryptography fans.,063.jpg
+64,98.458,99.848,1.39,It was only nine pages long.,064.jpg
+65,99.848,101.088,1.24,"And its title was ""Bitcoin:",065.jpg
+66,101.088,103.188,2.1,"A {Peer-to-Peer|Peer to Peer} Electronic Cash System.""",066.jpg
+67,103.188,105.338,2.15,The author's name was Satoshi Nakamoto.,067.jpg
+68,105.338,107.438,2.1,"The idea was simple, but revolutionary.",068.jpg
+69,107.438,108.428,0.99,A kind of digital money,069.jpg
+70,108.428,109.583,1.155,that doesn't need a bank.,070.jpg
+71,109.583,111.093,1.51,No company in charge.,071.jpg
+72,111.093,112.433,1.34,No government in charge.,072.jpg
+73,112.433,113.743,1.31,"Just people, all over the world,",073.jpg
+74,113.743,115.623,1.88,sending money directly to each other.,074.jpg
+75,115.623,119.028,3.405,"On January third, {2009|two thousand nine}, Satoshi launched the bitcoin network.",075.jpg
+76,119.028,121.008,1.98,"And hidden inside the very first block of data,",076.jpg
+77,121.008,122.628,1.62,Satoshi left a message.,077.jpg
+78,122.628,124.178,1.55,"A newspaper headline from that day,",078.jpg
+79,124.178,125.478,1.3,from The Times in London.,079.jpg
+80,125.478,128.118,2.64,"""Chancellor on brink of second bailout for banks.""",080.jpg
+81,128.118,129.148,1.03,It was like a timestamp.,081.jpg
+82,129.148,129.973,0.825,And a statement.,082.jpg
+83,129.973,131.803,1.83,This is why bitcoin exists.,083.jpg
+84,131.803,132.523,0.72,"A few days later,",084.jpg
+85,132.523,134.093,1.57,Satoshi sent ten bitcoins to a,085.jpg
+86,134.093,135.568,1.475,computer scientist named Hal Finney.,086.jpg
+87,135.568,138.118,2.55,The first bitcoin transaction in history.,087.jpg
+88,138.118,138.938,0.82,"For the next two years,",088.jpg
+89,138.938,140.468,1.53,Satoshi kept working on bitcoin with,089.jpg
+90,140.468,142.058,1.59,a small group of volunteers.,090.jpg
+91,142.058,144.593,2.535,Writing code. Answering questions. Fixing problems.,091.jpg
+92,144.593,147.553,2.96,"And then, in {2011|twenty eleven}, Satoshi simply disappeared.",092.jpg
+93,147.553,149.453,1.9,"A few final messages, and then nothing.",093.jpg
+94,149.453,150.783,1.33,Never heard from again.,094.jpg
+95,150.783,151.263,0.48,"To this day,",095.jpg
+96,151.263,154.163,2.9,nobody knows who Satoshi Nakamoto really is.,096.jpg
+97,154.163,155.173,1.01,It could be one person.,097.jpg
+98,155.173,155.873,0.7,It could be a group.,098.jpg
+99,155.873,157.243,1.37,Many people have been suspected.,099.jpg
+100,157.243,158.823,1.58,Some have even claimed to be Satoshi.,100.jpg
+101,158.823,160.163,1.34,But none of them has ever proven it.,101.jpg
+102,160.163,161.673,1.51,And here's the wildest part.,102.jpg
+103,161.673,163.293,1.62,Satoshi is believed to have mined around,103.jpg
+104,163.293,165.298,2.005,one million bitcoins in the early days.,104.jpg
+105,165.298,166.533,1.235,Those coins have never moved.,105.jpg
+106,166.533,167.088,0.555,Not one.,106.jpg
+107,167.088,168.018,0.93,"At today's prices,",107.jpg
+108,168.018,169.168,1.15,that would make Satoshi one of,108.jpg
+109,169.168,170.618,1.45,the richest people on Earth.,109.jpg
+110,170.618,171.898,1.28,"Someone, somewhere, is sitting on a",110.jpg
+111,171.898,174.103,2.205,fortune worth many billions of dollars.,111.jpg
+112,174.103,175.413,1.31,And they have never touched it.,112.jpg
+113,175.413,177.023,1.61,Chapter three. The magic notebook.,113.jpg
+114,177.023,178.728,1.705,So how does bitcoin actually work?,114.jpg
+115,178.728,179.633,0.905,Let's make it simple.,115.jpg
+116,179.633,181.183,1.55,Imagine a small village.,116.jpg
+117,181.183,182.203,1.02,"Instead of using cash,",117.jpg
+118,182.203,183.613,1.41,everyone in the village keeps track,118.jpg
+119,183.613,185.003,1.39,of money in a big notebook.,119.jpg
+120,185.003,186.603,1.6,"Every time someone pays someone else,",120.jpg
+121,186.603,187.893,1.29,it gets written down.,121.jpg
+122,187.893,189.778,1.885,Alice paid Bob five coins.,122.jpg
+123,189.778,191.528,1.75,Bob paid Carol two coins.,123.jpg
+124,191.528,193.688,2.16,"Now, if only one person holds that notebook,",124.jpg
+125,193.688,195.408,1.72,you have to trust them completely.,125.jpg
+126,195.408,196.298,0.89,What if they cheat?,126.jpg
+127,196.298,197.708,1.41,What if they erase a page?,127.jpg
+128,197.708,198.553,0.845,What if they lose it?,128.jpg
+129,198.553,200.513,1.96,So the village has a better idea.,129.jpg
+130,200.513,202.903,2.39,Everyone gets their own copy of the notebook.,130.jpg
+131,202.903,204.393,1.49,"Every time a payment happens,",131.jpg
+132,204.393,205.693,1.3,"it's announced to the whole village,",132.jpg
+133,205.693,207.953,2.26,and everybody writes it down in their copy.,133.jpg
+134,207.953,209.263,1.31,"Now, if one person tries to",134.jpg
+135,209.263,210.513,1.25,"cheat and change their notebook,",135.jpg
+136,210.513,212.113,1.6,it won't match everyone else's.,136.jpg
+137,212.113,214.033,1.92,The village instantly knows it's fake.,137.jpg
+138,214.033,216.088,2.055,That notebook is basically what bitcoin is.,138.jpg
+139,216.088,217.438,1.35,It's called the blockchain.,139.jpg
+140,217.438,219.098,1.66,The blockchain is a giant public,140.jpg
+141,219.098,221.8,2.702,record of every bitcoin transaction ever made.,141.jpg
+142,221.8,223.03,1.23,And copies of it are stored on,142.jpg
+143,223.03,225.4,2.37,thousands of computers all around the world.,143.jpg
+144,225.4,227.21,1.81,No single person controls it.,144.jpg
+145,227.21,228.055,0.845,No single company can change it.,145.jpg
+146,228.055,230.075,2.02,And anyone can look at it.,146.jpg
+147,230.075,232.985,2.91,"Payments get grouped together into pages, called blocks.",147.jpg
+148,232.985,234.715,1.73,"Every block is linked to the block before it,",148.jpg
+149,234.715,235.325,0.61,like a chain.,149.jpg
+150,235.325,236.54,1.215,"Hence, blockchain.",150.jpg
+151,236.54,237.72,1.18,And because each block is linked,151.jpg
+152,237.72,238.54,0.82,"to the one before it,",152.jpg
+153,238.54,239.91,1.37,changing an old page would mean,153.jpg
+154,239.91,241.92,2.01,"rewriting every page that came after it,",154.jpg
+155,241.92,243.04,1.12,on most of the computers,155.jpg
+156,243.04,244.25,1.21,in the world at once.,156.jpg
+157,244.25,245.77,1.52,Practically impossible.,157.jpg
+158,245.77,247.8,2.03,Chapter four. Who writes in the notebook?,158.jpg
+159,247.8,249.29,1.49,Now here's the clever part.,159.jpg
+160,249.29,249.92,0.63,"In our village,",160.jpg
+161,249.92,251.15,1.23,who actually gets to write the,161.jpg
+162,251.15,252.62,1.47,next page in the notebook?,162.jpg
+163,252.62,254.73,2.11,And why would anyone bother doing that work?,163.jpg
+164,254.73,256.5,1.77,This is where mining comes in.,164.jpg
+165,256.5,258.57,2.07,Bitcoin miners are computers that compete to,165.jpg
+166,258.57,260.54,1.97,add the next block to the blockchain.,166.jpg
+167,260.54,261.66,1.12,"To win, they have to solve",167.jpg
+168,261.66,263.45,1.79,a really hard math puzzle.,168.jpg
+169,263.45,264.65,1.2,"Well, it's less of a puzzle",169.jpg
+170,264.65,266.08,1.43,and more of a guessing game.,170.jpg
+171,266.08,268.79,2.71,"The computers make trillions of guesses, over and over,",171.jpg
+172,268.79,270.04,1.25,until one of them gets lucky,172.jpg
+173,270.04,271.65,1.61,and finds the right answer.,173.jpg
+174,271.65,272.97,1.32,Whoever finds it first gets to,174.jpg
+175,272.97,274.91,1.94,add the next page to the notebook.,175.jpg
+176,274.91,277.355,2.445,"And as a reward, they get brand new bitcoins.",176.jpg
+177,277.355,279.395,2.04,That's how new bitcoins are created.,177.jpg
+178,279.395,280.845,1.45,Not printed by a government.,178.jpg
+179,280.845,281.855,1.01,Earned by miners.,179.jpg
+180,281.855,282.92,1.065,Why make it so hard?,180.jpg
+181,282.92,284.5,1.58,Because it protects the system.,181.jpg
+182,284.5,286.71,2.21,"If someone wanted to cheat and rewrite the notebook,",182.jpg
+183,286.71,288.86,2.15,they would need more computing power than most,183.jpg
+184,288.86,290.67,1.81,of the rest of the network combined.,184.jpg
+185,290.67,292.18,1.51,That would cost an unbelievable,185.jpg
+186,292.18,294.09,1.91,amount of money and electricity.,186.jpg
+187,294.09,296.565,2.475,"So in bitcoin, honesty isn't just a good idea.",187.jpg
+188,296.565,297.925,1.36,It's the cheapest option.,188.jpg
+189,297.925,299.995,2.07,A new block is added roughly every ten minutes.,189.jpg
+190,299.995,301.425,1.43,And here's something smart.,190.jpg
+191,301.425,302.815,1.39,If more miners join and they,191.jpg
+192,302.815,304.435,1.62,"start solving blocks too quickly,",192.jpg
+193,304.435,306.485,2.05,the puzzle automatically gets harder.,193.jpg
+194,306.485,308.515,2.03,"If miners leave, it gets easier.",194.jpg
+195,308.515,309.765,1.25,It's like a thermostat that keeps,195.jpg
+196,309.765,311.735,1.97,bitcoin running at a steady pace.,196.jpg
+197,311.735,314.28,2.545,Chapter five. Only {twenty-one|twenty one} million. Ever.,197.jpg
+198,314.28,314.91,0.63,Now we get to the,198.jpg
+199,314.91,316.545,1.635,reason many people love bitcoin.,199.jpg
+200,316.545,318.665,2.12,There will only ever be {twenty-one|twenty one} million bitcoins.,200.jpg
+201,318.665,319.01,0.345,Ever.,201.jpg
+202,319.01,321.01,2.0,That rule is written into bitcoin's code.,202.jpg
+203,321.01,322.73,1.72,Compare that to regular money.,203.jpg
+204,322.73,324.74,2.01,"Governments can print more dollars, euros,",204.jpg
+205,324.74,326.65,1.91,or rupees whenever they decide to.,205.jpg
+206,326.65,328.0,1.35,"And when there's more money around,",206.jpg
+207,328.0,330.38,2.38,each piece of it usually buys a little less.,207.jpg
+208,330.38,331.31,0.93,That's inflation.,208.jpg
+209,331.31,333.14,1.83,It's why a candy bar costs more today,209.jpg
+210,333.14,334.92,1.78,than it did when your parents were kids.,210.jpg
+211,334.92,336.15,1.23,Bitcoin works differently.,211.jpg
+212,336.15,337.195,1.045,The supply is fixed.,212.jpg
+213,337.195,339.455,2.26,And the new supply gets smaller over time.,213.jpg
+214,339.455,340.005,0.55,"In the beginning,",214.jpg
+215,340.005,342.59,2.585,miners earned fifty bitcoins for every block.,215.jpg
+216,342.59,343.84,1.25,"Then, about every four years,",216.jpg
+217,343.84,345.41,1.57,that reward gets cut in half.,217.jpg
+218,345.41,346.69,1.28,This is called the halving.,218.jpg
+219,346.69,348.9,2.21,Fifty became {twenty-five|twenty five} in {2012|twenty twelve}.,219.jpg
+220,348.9,351.05,2.15,Then twelve and a half in {2016|twenty sixteen}.,220.jpg
+221,351.05,353.6,2.55,Then six and a quarter in {2020|twenty twenty}.,221.jpg
+222,353.6,355.19,1.59,"And in April {2024|twenty twenty four},",222.jpg
+223,355.19,357.72,2.53,it dropped to just over three bitcoins per block.,223.jpg
+224,357.72,360.24,2.52,"It keeps going like this, getting smaller and smaller,",224.jpg
+225,360.24,362.72,2.48,"until roughly the year {2140|twenty one forty},",225.jpg
+226,362.72,364.15,1.43,when the last tiny fraction of,226.jpg
+227,364.15,365.58,1.43,a bitcoin will be mined.,227.jpg
+228,365.58,368.46,2.88,"That's why some people call bitcoin ""digital gold.""",228.jpg
+229,368.46,370.59,2.13,"Gold is valuable partly because it's rare,",229.jpg
+230,370.59,372.15,1.56,and you can't just make more of it.,230.jpg
+231,372.15,374.305,2.155,Bitcoin was designed to be even more rare.,231.jpg
+232,374.305,376.295,1.99,And you don't need to buy a whole bitcoin.,232.jpg
+233,376.295,377.255,0.96,Each one can be split into,233.jpg
+234,377.255,379.375,2.12,one hundred million tiny pieces.,234.jpg
+235,379.375,381.345,1.97,"The smallest piece is called a satoshi,",235.jpg
+236,381.345,382.895,1.55,named after its creator.,236.jpg
+237,382.895,384.525,1.63,"Chapter six. Your keys, your coins.",237.jpg
+238,384.525,386.355,1.83,So where do your bitcoins actually live?,238.jpg
+239,386.355,387.735,1.38,Here's something surprising.,239.jpg
+240,387.735,389.085,1.35,Bitcoins don't really live anywhere.,240.jpg
+241,389.085,390.675,1.59,They're just entries on the blockchain.,241.jpg
+242,390.675,391.975,1.3,What you actually own is a key.,242.jpg
+243,391.975,392.505,0.53,Think of it like a,243.jpg
+244,392.505,393.96,1.455,mailbox with a glass front.,244.jpg
+245,393.96,395.365,1.405,Everyone can see the mailbox.,245.jpg
+246,395.365,396.94,1.575,Everyone can see what's inside.,246.jpg
+247,396.94,398.975,2.035,And anyone can drop something in through the slot.,247.jpg
+248,398.975,400.375,1.4,That's your public address.,248.jpg
+249,400.375,401.715,1.34,But only one person has the key,249.jpg
+250,401.715,403.12,1.405,to open it and take things out.,250.jpg
+251,403.12,404.295,1.175,That's your private key.,251.jpg
+252,404.295,407.0,2.705,Whoever holds the private key controls the bitcoin. Period.,252.jpg
+253,407.0,408.005,1.005,There's no bank to call.,253.jpg
+254,408.005,409.115,1.11,No password reset button.,254.jpg
+255,409.115,410.395,1.28,No customer service.,255.jpg
+256,410.395,412.635,2.24,And that has led to some heartbreaking stories.,256.jpg
+257,412.635,414.755,2.12,"In {2013|twenty thirteen}, a man in Wales named James",257.jpg
+258,414.755,417.615,2.86,Howells accidentally threw away an old hard drive.,258.jpg
+259,417.615,418.295,0.68,On it was the key,259.jpg
+260,418.295,420.375,2.08,to around eight thousand bitcoins.,260.jpg
+261,420.375,421.665,1.29,That hard drive is believed to,261.jpg
+262,421.665,423.325,1.66,be buried somewhere in a landfill.,262.jpg
+263,423.325,424.305,0.98,"For years, he has tried to",263.jpg
+264,424.305,425.645,1.34,get permission to dig it up.,264.jpg
+265,425.645,426.72,1.075,And he's never succeeded.,265.jpg
+266,426.72,427.59,0.87,He's not alone.,266.jpg
+267,427.59,430.56,2.97,Experts estimate that millions of bitcoins are lost forever.,267.jpg
+268,430.56,431.54,0.98,Forgotten passwords.,268.jpg
+269,431.54,432.64,1.1,Lost hard drives.,269.jpg
+270,432.64,435.43,2.79,People who passed away without telling anyone their keys.,270.jpg
+271,435.43,437.735,2.305,Those coins still exist on the blockchain.,271.jpg
+272,437.735,438.735,1.0,But nobody will ever be,272.jpg
+273,438.735,439.995,1.26,able to use them again.,273.jpg
+274,439.995,442.245,2.25,Chapter seven. The wild west years.,274.jpg
+275,442.245,442.945,0.7,"In the early days,",275.jpg
+276,442.945,444.935,1.99,bitcoin was a toy for computer nerds.,276.jpg
+277,444.935,446.4,1.465,It was worth almost nothing.,277.jpg
+278,446.4,447.65,1.25,A fraction of a penny.,278.jpg
+279,447.65,449.34,1.69,Which is why Laszlo's pizza deal,279.jpg
+280,449.34,451.445,2.105,seemed perfectly reasonable at the time.,280.jpg
+281,451.445,453.795,2.35,"But slowly, people started to notice it.",281.jpg
+282,453.795,455.635,1.84,"Unfortunately, some of the first people to",282.jpg
+283,455.635,457.995,2.36,really use bitcoin weren't the best crowd.,283.jpg
+284,457.995,460.065,2.07,An illegal online marketplace called Silk,284.jpg
+285,460.065,461.575,1.51,"Road used bitcoin for payments,",285.jpg
+286,461.575,463.535,1.96,because people thought it was anonymous.,286.jpg
+287,463.535,465.79,2.255,"In {2013|twenty thirteen}, the FBI shut it down.",287.jpg
+288,465.79,467.89,2.1,And that taught the world an important lesson.,288.jpg
+289,467.89,469.505,1.615,Bitcoin isn't actually anonymous.,289.jpg
+290,469.505,472.315,2.81,"Every transaction is public, forever, on the blockchain.",290.jpg
+291,472.315,473.715,1.4,"Investigators have gotten very,",291.jpg
+292,473.715,475.495,1.78,very good at following the trail.,292.jpg
+293,475.495,477.355,1.86,Then came the first big disaster.,293.jpg
+294,477.355,479.875,2.52,"A company called {Mt. Gox|mount gox}, based in Japan,",294.jpg
+295,479.875,482.135,2.26,"was once the biggest bitcoin exchange in the world,",295.jpg
+296,482.135,484.535,2.4,handling most of the bitcoin trading on the planet.,296.jpg
+297,484.535,486.875,2.34,"In {2014|twenty fourteen}, it suddenly collapsed.",297.jpg
+298,486.875,489.175,2.3,"Around eight hundred and fifty thousand bitcoins were missing,",298.jpg
+299,489.175,491.415,2.24,mostly stolen by hackers over time.,299.jpg
+300,491.415,493.485,2.07,Thousands of customers lost their money.,300.jpg
+301,493.485,495.105,1.62,It took around ten years before many of,301.jpg
+302,495.105,496.905,1.8,them started getting some of it back.,302.jpg
+303,496.905,498.91,2.005,Many people thought that was the end of bitcoin.,303.jpg
+304,498.91,499.69,0.78,It wasn't.,304.jpg
+305,499.69,501.49,1.8,Chapter eight. The roller coaster.,305.jpg
+306,501.49,503.4,1.91,"If there's one thing bitcoin is famous for,",306.jpg
+307,503.4,505.03,1.63,it's wild price swings.,307.jpg
+308,505.03,508.04,3.01,"In {2017|twenty seventeen}, bitcoin mania hit the mainstream.",308.jpg
+309,508.04,510.11,2.07,Prices shot from about a thousand dollars to,309.jpg
+310,510.11,512.34,2.23,nearly twenty thousand dollars in one year.,310.jpg
+311,512.34,514.965,2.625,People were talking about it at dinner tables everywhere.,311.jpg
+312,514.965,516.095,1.13,And then it crashed.,312.jpg
+313,516.095,516.825,0.73,"Over the next year,",313.jpg
+314,516.825,519.075,2.25,it lost more than eighty percent of its value.,314.jpg
+315,519.075,521.095,2.02,"Then in {2021|twenty twenty one}, it climbed again,",315.jpg
+316,521.095,524.015,2.92,all the way to around {sixty-nine|sixty nine} thousand dollars.,316.jpg
+317,524.015,526.215,2.2,Big companies like Tesla bought bitcoin.,317.jpg
+318,526.215,527.945,1.73,"In September {2021|twenty twenty one},",318.jpg
+319,527.945,529.625,1.68,El Salvador became the first country,319.jpg
+320,529.625,531.205,1.58,"to make bitcoin official money,",320.jpg
+321,531.205,532.945,1.74,alongside the US dollar.,321.jpg
+322,532.945,535.705,2.76,Then came another crash in {2022|twenty twenty two}.,322.jpg
+323,535.705,538.405,2.7,And the crypto world was rocked by another scandal.,323.jpg
+324,538.405,540.705,2.3,"A huge crypto exchange called FTX,",324.jpg
+325,540.705,543.205,2.5,"run by a young billionaire named Sam {Bankman-Fried|Bankman Fried},",325.jpg
+326,543.205,544.925,1.72,collapsed almost overnight.,326.jpg
+327,544.925,547.755,2.83,Billions of dollars of customer money had been misused.,327.jpg
+328,547.755,549.215,1.46,He was later convicted of fraud,328.jpg
+329,549.215,551.585,2.37,and sentenced to {twenty-five|twenty five} years in prison.,329.jpg
+330,551.585,553.87,2.285,"Once again, people said bitcoin was dead.",330.jpg
+331,553.87,555.55,1.68,"And once again, it came back.",331.jpg
+332,555.55,557.38,1.83,"In January {2024|twenty twenty four},",332.jpg
+333,557.38,561.29,3.91,US regulators approved bitcoin investment funds called ETFs.,333.jpg
+334,561.29,562.93,1.64,That meant regular investors could buy,334.jpg
+335,562.93,565.19,2.26,"into bitcoin through their normal stock accounts,",335.jpg
+336,565.19,567.08,1.89,just like buying a share of a company.,336.jpg
+337,567.08,569.16,2.08,Huge Wall Street firms jumped in.,337.jpg
+338,569.16,570.78,1.62,"In December {2024|twenty twenty four},",338.jpg
+339,570.78,572.45,1.67,bitcoin crossed one hundred thousand,339.jpg
+340,572.45,574.017,1.567,dollars for the first time.,340.jpg
+341,574.017,576.857,2.84,"In {2025|twenty twenty five}, it climbed even higher,",341.jpg
+342,576.857,577.947,1.09,at one point above one,342.jpg
+343,577.947,579.987,2.04,hundred and twenty thousand dollars.,343.jpg
+344,579.987,581.887,1.9,And the United States government announced it,344.jpg
+345,581.887,584.197,2.31,would hold a national reserve of bitcoin.,345.jpg
+346,584.197,586.447,2.25,The thing that started as a {nine-page|nine page} paper by,346.jpg
+347,586.447,590.037,3.59,an anonymous stranger was now being discussed by presidents.,347.jpg
+348,590.037,592.172,2.135,Chapter nine. The case against bitcoin.,348.jpg
+349,592.172,592.832,0.66,"Now, to be fair,",349.jpg
+350,592.832,594.547,1.715,not everyone is a fan. Far from it.,350.jpg
+351,594.547,596.022,1.475,Let's look at the biggest criticisms.,351.jpg
+352,596.022,597.417,1.395,"First, the price swings.",352.jpg
+353,597.417,599.882,2.465,"Bitcoin can drop thirty, fifty, even eighty percent.",353.jpg
+354,599.882,600.792,0.91,That makes it really hard,354.jpg
+355,600.792,602.172,1.38,to use as everyday money.,355.jpg
+356,602.172,604.222,2.05,Imagine getting paid on Monday and your paycheck,356.jpg
+357,604.222,606.042,1.82,being worth half as much by Friday.,357.jpg
+358,606.042,607.002,0.96,"Second, energy.",358.jpg
+359,607.002,609.862,2.86,All that mining uses a massive amount of electricity.,359.jpg
+360,609.862,610.702,0.84,"By some estimates,",360.jpg
+361,610.702,612.212,1.51,the bitcoin network uses about as,361.jpg
+362,612.212,615.172,2.96,much electricity as an entire {medium-sized|medium sized} country.,362.jpg
+363,615.172,616.642,1.47,Supporters argue that more and more,363.jpg
+364,616.642,618.172,1.53,"of it comes from renewable energy,",364.jpg
+365,618.172,620.522,2.35,and from power that would otherwise go to waste.,365.jpg
+366,620.522,622.362,1.84,Critics say it's still far too much.,366.jpg
+367,622.362,624.017,1.655,"Third, it's slow and limited.",367.jpg
+368,624.017,625.627,1.61,The main bitcoin network can only,368.jpg
+369,625.627,628.057,2.43,handle a handful of transactions per second.,369.jpg
+370,628.057,629.737,1.68,Visa can handle thousands.,370.jpg
+371,629.737,631.517,1.78,Developers have built extra systems on,371.jpg
+372,631.517,633.077,1.56,"top of bitcoin to make it faster,",372.jpg
+373,633.077,634.787,1.71,but it's still a work in progress.,373.jpg
+374,634.787,635.777,0.99,"Fourth, scams.",374.jpg
+375,635.777,638.752,2.975,"Because bitcoin payments can't be reversed, scammers love it.",375.jpg
+376,638.752,640.042,1.29,Fake investment schemes.,376.jpg
+377,640.042,641.297,1.255,Fake celebrity giveaways.,377.jpg
+378,641.297,643.407,2.11,People pretending to be someone they're not.,378.jpg
+379,643.407,644.507,1.1,"Once bitcoin is sent,",379.jpg
+380,644.507,646.147,1.64,there's no bank to get it back.,380.jpg
+381,646.147,648.717,2.57,"That's why so many experts say, be extremely careful,",381.jpg
+382,648.717,651.657,2.94,and never trust anyone who promises guaranteed profits.,382.jpg
+383,651.657,653.207,1.55,"And fifth, the big question.",383.jpg
+384,653.207,654.652,1.445,What is bitcoin actually worth?,384.jpg
+385,654.652,655.707,1.055,It doesn't make products.,385.jpg
+386,655.707,656.972,1.265,It doesn't pay a dividend.,386.jpg
+387,656.972,658.462,1.49,Its value depends entirely on,387.jpg
+388,658.462,660.062,1.6,what people believe it's worth.,388.jpg
+389,660.062,662.612,2.55,Some famous investors have called it worthless.,389.jpg
+390,662.612,664.002,1.39,Others call it the most important,390.jpg
+391,664.002,666.232,2.23,invention in finance since paper money.,391.jpg
+392,666.232,668.202,1.97,"Chapter ten. So what is bitcoin, really?",392.jpg
+393,668.202,669.942,1.74,"So let's put it all together, simply.",393.jpg
+394,669.942,671.322,1.38,Bitcoin is digital money that,394.jpg
+395,671.322,673.222,1.9,no government or bank controls.,395.jpg
+396,673.222,674.092,0.87,It runs on a giant,396.jpg
+397,674.092,675.632,1.54,"shared notebook called the blockchain,",397.jpg
+398,675.632,678.282,2.65,copied on thousands of computers all over the world.,398.jpg
+399,678.282,679.742,1.46,Miners keep the notebook honest,399.jpg
+400,679.742,681.302,1.56,"by competing to solve puzzles,",400.jpg
+401,681.302,683.252,1.95,and they're rewarded with new bitcoins.,401.jpg
+402,683.252,685.522,2.27,There will only ever be {twenty-one|twenty one} million of them.,402.jpg
+403,685.522,688.332,2.81,"And whoever holds the private key, controls the coins.",403.jpg
+404,688.332,691.192,2.86,It was born from the {2008|two thousand eight} financial crisis.,404.jpg
+405,691.192,692.112,0.92,It was created by someone,405.jpg
+406,692.112,693.662,1.55,who vanished without a trace.,406.jpg
+407,693.662,695.632,1.97,"It survived hacks, scandals, crashes,",407.jpg
+408,695.632,697.422,1.79,and countless predictions of its death.,408.jpg
+409,697.422,699.452,2.03,"And somehow, it went from paying for two pizzas,",409.jpg
+410,699.452,702.142,2.69,to being held by Wall Street giants and governments.,410.jpg
+411,702.142,703.807,1.665,Will it become the money of the future?,411.jpg
+412,703.807,704.867,1.06,Digital gold?,412.jpg
+413,704.867,706.807,1.94,Or one of the biggest bubbles in history?,413.jpg
+414,706.807,708.817,2.01,"Honestly, nobody knows for sure.",414.jpg
+415,708.817,709.817,1.0,And anyone who tells you they,415.jpg
+416,709.817,712.182,2.365,know for certain is probably selling something.,416.jpg
+417,712.182,713.642,1.46,But one thing is clear.,417.jpg
+418,713.642,716.052,2.41,Bitcoin changed how the world thinks about money.,418.jpg
+419,716.052,717.532,1.48,"It showed that a group of strangers,",419.jpg
+420,717.532,718.652,1.12,"spread across the planet,",420.jpg
+421,718.652,720.382,1.73,"could agree on a shared record of value,",421.jpg
+422,720.382,722.222,1.84,without needing anyone in charge.,422.jpg
+423,722.222,725.322,3.1,"And somewhere out there, maybe, Satoshi Nakamoto is watching.",423.jpg
+424,725.322,727.097,1.775,With a million untouched coins.,424.jpg
+425,727.097,728.347,1.25,Saying nothing at all.,425.jpg
+426,728.347,731.047,2.7,And Laszlo? He's said he doesn't regret the pizzas.,426.jpg
+427,731.047,732.647,1.6,He was helping prove that bitcoin could,427.jpg
+428,732.647,734.887,2.24,actually be used to buy something real.,428.jpg
+429,734.887,736.417,1.53,"Every year, on May {twenty-second|twenty second},",429.jpg
+430,736.417,739.237,2.82,people around the world celebrate Bitcoin Pizza Day.,430.jpg
+431,739.237,740.247,1.01,"Just a quick reminder,",431.jpg
+432,740.247,743.177,2.93,"this video is for education, not financial advice.",432.jpg
+433,743.177,744.687,1.51,Always do your own research.,433.jpg
+434,744.687,746.267,1.58,"If you finally understand bitcoin,",434.jpg
+435,746.267,748.307,2.04,share this with a friend who still doesn't.,435.jpg
+436,748.307,751.117,2.81,Subscribe for more big ideas explained simply.,436.jpg
+437,751.117,752.157,1.04,"And tell me in the comments,",437.jpg
+438,752.157,752.997,0.84,would you have spent ten,438.jpg
+439,752.997,754.907,1.91,thousand bitcoins on those pizzas?,439.jpg
+440,754.907,756.215,1.308,See you in the next one.,440.jpg

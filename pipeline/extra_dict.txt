@@ -1,0 +1,322 @@
+# extra pronunciations for pocketsphinx (CMU phone set): word  PHONES
+teleportation T EH L AH P AO R T EY SH AH N
+quadrillion K W AA D R IH L Y AH N
+quintillion K W IH N T IH L Y AH N
+overthink OW V ER TH IH NG K
+spinoza S P IH N OW Z AH
+spinoza's S P IH N OW Z AH Z
+extractive IH K S T R AE K T IH V
+hxek EY K
+hxlaak L AA K
+hxbahattar B AH HH AH T T AH R
+hxhazaar HH AH Z AA R
+hxkoii K OW IY
+hxsvarg S V AH R G
+hxnahiin N AH HH IY N
+hxhotaa HH OW T AA
+hxnark N AH R K
+hxsab S AH B
+hxkuch K UH CH
+hxyahaan Y AH HH AA N
+hxpe P EY
+hxhai HH AE
+hxmaaind M AA IH N D
+hxmen M EY N
+hxaap AA P
+hxis IH S
+hxpuurii P UW R IY
+hxbrahmaand B R AH HH M AA N D
+hxsirf S IH R F
+hxyahii Y AH HH IY
+hxsaalon S AA L OW N
+hxke K EY
+hxlie L IH EY
+hxaae AA EY
+hxhain HH AE N
+hxisake IH S AH K EY
+hxbaad B AA D
+hxaapakaa AA P AH K AA
+hxansh AH N SH
+hxrahegaa R AH HH EY G AA
+hxye Y EY
+hxmain M AE N
+hxbaraa B AH R AA
+hxkaunfident K AO N F IH D EY N T
+hxhuun HH UW N
+hxmainne M AE N N EY
+hxbahut B AH HH UH T
+hxsaains S AA IH N S
+hxkii K IY
+hxkitaaben K IH T AA B EY N
+hxparii P AH R IY
+hxab AH B
+hxvo V OW
+hxkahate K AH HH AH T EY
+hxki K IH
+hxaapake AA P AH K EY
+hxpuraane P UH R AA N EY
+hxkarm K AH R M
+hxachche AH CH CH EY
+hxte T EY
+hxisalie IH S AH L IH EY
+hxjiivan JH IY V AH N
+hxkaraab K AH R AA B
+hxhuaa HH UH AA
+hxus UH S
+hxkaro K AH R OW
+hxagalaa AH G AH L AA
+hxjanm JH AH N M
+hxachchaa AH CH CH AA
+hxhoegaa HH OW EY G AA
+hxpaagalapan P AA G AH L AH P AH N
+hxaur AO R
+hxnaa N AA
+hxaapako AA P AH K OW
+hxdaraane D AH R AA N EY
+hxbanaayaa B AH N AA Y AA
+hxgayaa G AH Y AA
+hxkamplesent K AH M P L EY S EY N T
+hxbanaane B AH N AA N EY
+hxtaaki T AA K IH
+hxekshan EY K SH AH N
+hxmat M AH T
+hxlo L OW
+hxbaat B AA T
+hxagale AH G AH L EY
+hxsaat S AA T
+hxjanmon JH AH N M OW N
+hxkaa K AA
+hxrishtaa R IH SH T AA
+hxare AH R EY
+hxto T OW
+hxlauyaltii L AO Y AH L T IY
+hxapanii AH P AH N IY
+hxvaaif V AA IH F
+hxrah R AH HH
+hxdekenge D EY K EY N G EY
+hxhameshaa HH AH M EY SH AA
+hxkahataa K AH HH AH T AA
+hxhar HH AH R
+hxdin D IH N
+hxsubah S UH B AH HH
+hxutie UH T IH EY
+hxpataa P AH T AA
+hxlog L OW G
+hxsuuraj S UW R AH JH
+hxdekate D EY K AH T EY
+hxmarate M AH R AH T EY
+hxusii UH S IY
+hxkush K UH SH
+hxrahie R AH HH IH EY
+hxnayaa N AH Y AA
+hxdekane D EY K AH N EY
+hxmaukaa M AO K AA
+hxmilaa M IH L AA
+hxend EY N D
+hxusamen UH S AH M EY N
+hxbanaaie B AH N AA IH EY
+hxhogaa HH OW G AA
+fdic EH F D IY AY S IY
+fdr EH F D IY AA R
+hoovervilles HH UW V ER V IH L Z
+smoot S M UW T
+hawley HH AO L IY
+pwan P W AA N
+karay K AA R EY
+soor S UW R
+lah L AA
+reassembling R IY AH S EH M B L IH NG
+flushly F L AH SH L IY
+apni AA P N IY
+bhai B AY
+bohot B OW HH AH T
+chal CH AH L
+doomers D UW M ER Z
+dusron D UH S R OW N
+hai HH AY
+hoga HH OW G AA
+hota HH OW T AA
+inki IH N K IY
+khud K UH D
+liye L IH Y EY
+mushkil M UH SH K IH L
+nahi N AH HH IY
+raha R AH HH AA
+tere T EH R EY
+toh T OW
+chameleons K AH M IY L IY AH N Z
+fakest F EY K AH S T
+transubstantiation T R AE N S AH B S T AE N SH IY EY SH AH N
+gaslighting G AE S L AY T IH NG
+goalposts G OW L P OW S T S
+archduke's AA R CH D UW K S
+defences D IH F EH N S IH Z
+entente AA N T AA N T
+gallipoli G AH L IH P AH L IY
+gavrilo G AA V R IY L OW
+litovsk L IH T AO F S K
+marne M AA R N
+mobilise M OW B AH L AY Z
+mobilising M OW B AH L AY Z IH NG
+princip P R IY N T S IY P
+redrew R IY D R UW
+richthofen R IH K T OW F AH N
+schlieffen SH L IY F AH N
+ypres IY P R AH
+ypres(2) W AY P ER Z
+anthropic AE N TH R AA P IH K
+bezos B EY Z OW S
+deepseek D IY P S IY K
+elon IY L AA N
+kimi K IY M IY
+ananias AE N AH N AY AH S
+croatoan K R OW AH T OW AH N
+manteo M AE N T IY OW
+manteo's M AE N T IY OW Z
+mapmaker M AE P M EY K ER
+powhatan P AW AH T AE N
+privateering P R AY V AH T IH R IH NG
+secotan S EH K AH T AH N
+strachey S T R EY CH IY
+wanchese W AA N CH IY Z
+wingina W IH N JH IY N AH
+clockmaker K L AA K M EY K ER
+jonas's JH OW N AH S IH Z
+silja S IH L Y AH
+tannhaus T AE N HH AW S
+winden W IH N D AH N
+avengers AH V EH N JH ER Z
+chitauri CH IH T AW R IY
+kolkata K OW L K AA T AH
+loki L OW K IY
+restarts R IY S T AA R T S
+scepter S EH P T ER
+tesseract T EH S ER AE K T
+thor's TH AO R Z
+ultron AH L T R AA N
+zha ZH AA
+voo V UW
+zelenskyy Z EH L EH N S K IY
+alexnet AE L EH K S N EH T
+ati's EY T IY AY Z
+ceos S IY IY OW Z
+chatbot CH AE T B AA T
+chatgpt CH AE T JH IY P IY T IY
+cryptocurrencies K R IH P T OW K ER AH N S IY Z
+cuda K UW D AH
+directx D ER EH K T EH K S
+ethereum IH TH IH R IY AH M
+fx EH F EH K S
+geforce JH IY F AO R S
+gpu JH IY P IY Y UW
+gpus JH IY P IY Y UW Z
+imagenet IH M IH JH N EH T
+invidia IH N V IH D IY AH
+ipo AY P IY OW
+jensen's JH EH N S AH N Z
+krizhevsky K R IH Z EH V S K IY
+lsi EH L EH S AY
+malachowsky M AE L AH K AW S K IY
+nvidia's EH N V IH D IY AH Z
+openai OW P AH N EY AY
+radeon R EY D IY AA N
+rtx AA R T IY EH K S
+stwenty S T W EH N T IY
+sutskever S UW T S K EH V ER
+tegra T EH G R AH
+toolset T UW L S EH T
+nvidia EH N V IH D IY AH
+redeposited R IY D IH P AA Z IH T IH D
+reloaned R IY L OW N D
+binance B AY N AE N S
+rubio R UW B IY OW
+altman AO L T M AH N
+epstein's EH P S T AY N Z
+bankman B AE NG K M AH N
+bitcoin's B IH T K OY N Z
+cryptography K R IH P T AA G R AH F IY
+etfs IY T IY EH F S
+ftx EH F T IY EH K S
+gox G AA K S
+hanyecz HH AA N Y EH T S
+laszlo's L AA Z L OW Z
+timestamp T AY M S T AE M P
+bitcoin B IH T K OY N
+bitcoins B IH T K OY N Z
+samskara S AH M S K AA R AH
+dharma D AA R M AH
+artha AA R TH AH
+kama K AA M AH
+moksha M OW K SH AH
+nay N EY
+cart K AA R T
+ruh R AH
+masochistic M AE S AH K IH S T IH K
+leonida L EY OW N IY D AH
+gellhorn G EH L HH AO R N
+kalaga K AH L AA G AH
+grassrivers G R AE S R IH V ER Z
+caminos K AH M IY N OW S
+duval D UW V AA L
+vercetti V ER CH EH T IY
+lapsus L AE P S AH S
+dre'quan D R EY K W AA N
+bautista B AW T IY S T AH
+heder HH EH D ER
+dimez D AY M Z
+bae B EY
+luxe L AH K S
+grifters G R IH F T ER Z
+boobie B UW B IY
+boobie's B UW B IY Z
+clyde's K L AY D Z
+gta JH IY T IY EY
+heists HH AY S T S
+influencers IH N F L UW AH N S ER Z
+leonida's L EY OW N IY D AH Z
+lucia's L UW S IY AH Z
+placeholder P L EY S HH OW L D ER
+playable P L EY AH B AH L
+rockstar's R AA K S T AA R Z
+cobb K AA B
+skyline S K AY L AY N
+chevelle SH AH V EH L
+corvette K AO R V EH T
+cabriolet K AE B R IY OW L EY
+iguanas IH G W AA N AH Z
+bobcats B AA B K AE T S
+chihuahuas CH IH W AA W AA Z
+dobermans D OW B ER M AH N Z
+rottweilers R AA T W AY L ER Z
+buckme B AH K M IY
+ryde R AY D
+snapmatic S N AE P M AE T IH K
+waink W EY NG K
+whatup W AH T AH P
+peekhole P IY K HH OW L
+wakeboarding W EY K B AO R D IH NG
+parasailing P EH R AH S EY L IH NG
+snorkeling S N AO R K AH L IH NG
+mma EH M EH M EY
+gr G IY AA R
+amg EY EH M JH IY
+boars B AO R Z
+bros B R OW Z
+shallows SH AE L OW Z
+shipwrecks SH IH P R EH K S
+supercar S UW P ER K AA R
+supercars S UW P ER K AA R Z
+musk's M AH S K S
+encapsulates IH N K AE P S AH L EY T S
+jinping JH IH N P IH NG
+zelensky Z EH L EH N S K IY
+yalta Y AA L T AH
+sip S IH P
+ree R IY
+kyiv K IY V
+estonia EH S T OW N IY AH
+cyberattack S AY B ER AH T AE K
+cyberattacks S AY B ER AH T AE K S
+kyiv's K IY V Z
+putin's P UW T IH N Z
+terrifyingly T EH R AH F AY IH NG L IY

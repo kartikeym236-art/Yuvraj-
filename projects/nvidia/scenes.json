@@ -1,0 +1,2222 @@
+[
+ {
+  "line": "In {1993|nineteen ninety three}, three engineers sat down in a",
+  "image": "001.jpg"
+ },
+ {
+  "line": "booth at a Denny's restaurant in San Jose, California.",
+  "image": "002.jpg"
+ },
+ {
+  "line": "They ordered coffee.",
+  "image": "003.jpg"
+ },
+ {
+  "line": "They ordered food.",
+  "image": "004.jpg"
+ },
+ {
+  "line": "And over the next few hours,",
+  "image": "005.jpg"
+ },
+ {
+  "line": "they sketched out an idea for a company.",
+  "image": "006.jpg"
+ },
+ {
+  "line": "They had about forty thousand dollars between them.",
+  "image": "007.jpg"
+ },
+ {
+  "line": "No product.",
+  "image": "008.jpg"
+ },
+ {
+  "line": "No customers.",
+  "image": "009.jpg"
+ },
+ {
+  "line": "Not even a name.",
+  "image": "010.jpg"
+ },
+ {
+  "line": "About thirty years later,",
+  "image": "011.jpg"
+ },
+ {
+  "line": "that company became the first in",
+  "image": "012.jpg"
+ },
+ {
+  "line": "history to be worth five trillion dollars.",
+  "image": "013.jpg"
+ },
+ {
+  "line": "More than entire countries' economies.",
+  "image": "014.jpg"
+ },
+ {
+  "line": "More than Apple.",
+  "image": "015.jpg"
+ },
+ {
+  "line": "More than Microsoft.",
+  "image": "016.jpg"
+ },
+ {
+  "line": "At one point,",
+  "image": "017.jpg"
+ },
+ {
+  "line": "it was the most valuable company on planet Earth.",
+  "image": "018.jpg"
+ },
+ {
+  "line": "That company is Nvidia.",
+  "image": "019.jpg"
+ },
+ {
+  "line": "But here's what most people don't know.",
+  "image": "020.jpg"
+ },
+ {
+  "line": "Nvidia almost died.",
+  "image": "021.jpg"
+ },
+ {
+  "line": "Not once.",
+  "image": "022.jpg"
+ },
+ {
+  "line": "Not twice.",
+  "image": "023.jpg"
+ },
+ {
+  "line": "Again and again.",
+  "image": "024.jpg"
+ },
+ {
+  "line": "It bet everything on the wrong technology.",
+  "image": "025.jpg"
+ },
+ {
+  "line": "It ran out of money.",
+  "image": "026.jpg"
+ },
+ {
+  "line": "It was laughed at by Wall Street.",
+  "image": "027.jpg"
+ },
+ {
+  "line": "Its stock crashed more than eighty percent. And for years, it spent billions on an idea that almost nobody believed in.",
+  "image": "028.jpg"
+ },
+ {
+  "line": "And then, one day,",
+  "image": "029.jpg"
+ },
+ {
+  "line": "that crazy idea turned out to",
+  "image": "030.jpg"
+ },
+ {
+  "line": "be the engine behind artificial intelligence.",
+  "image": "031.jpg"
+ },
+ {
+  "line": "This is the entire history of Nvidia.",
+  "image": "032.jpg"
+ },
+ {
+  "line": "From a booth at Denny's,",
+  "image": "033.jpg"
+ },
+ {
+  "line": "to the center of the AI revolution.",
+  "image": "034.jpg"
+ },
+ {
+  "line": "And trust me,",
+  "image": "035.jpg"
+ },
+ {
+  "line": "the real story is way wilder than you think.",
+  "image": "036.jpg"
+ },
+ {
+  "line": "Let's go.",
+  "image": "037.jpg"
+ },
+ {
+  "line": "Chapter one. The boy who cleaned bathrooms.",
+  "image": "038.jpg"
+ },
+ {
+  "line": "To understand Nvidia, you have to understand the man who built it.",
+  "image": "039.jpg"
+ },
+ {
+  "line": "Jensen Huang.",
+  "image": "040.jpg"
+ },
+ {
+  "line": "Jensen was born in Taiwan in {1963|nineteen sixty three}.",
+  "image": "041.jpg"
+ },
+ {
+  "line": "When he was around nine years old,",
+  "image": "042.jpg"
+ },
+ {
+  "line": "his parents sent him and his older brother",
+  "image": "043.jpg"
+ },
+ {
+  "line": "to live with an uncle in the United States.",
+  "image": "044.jpg"
+ },
+ {
+  "line": "The family wanted the boys",
+  "image": "045.jpg"
+ },
+ {
+  "line": "to get a good education.",
+  "image": "046.jpg"
+ },
+ {
+  "line": "But the uncle made a slight mistake.",
+  "image": "047.jpg"
+ },
+ {
+  "line": "He enrolled them at a school in",
+  "image": "048.jpg"
+ },
+ {
+  "line": "rural Kentucky called the Oneida Baptist Institute.",
+  "image": "049.jpg"
+ },
+ {
+  "line": "He thought it was a prestigious boarding school.",
+  "image": "050.jpg"
+ },
+ {
+  "line": "It was actually a school for troubled kids.",
+  "image": "051.jpg"
+ },
+ {
+  "line": "Jensen was one of the youngest students there.",
+  "image": "052.jpg"
+ },
+ {
+  "line": "His roommate was much older.",
+  "image": "053.jpg"
+ },
+ {
+  "line": "And every day, young Jensen had a chore.",
+  "image": "054.jpg"
+ },
+ {
+  "line": "Cleaning the bathrooms.",
+  "image": "055.jpg"
+ },
+ {
+  "line": "Later, his family reunited in Oregon.",
+  "image": "056.jpg"
+ },
+ {
+  "line": "As a teenager, Jensen got a job at,",
+  "image": "057.jpg"
+ },
+ {
+  "line": "you guessed it, Denny's.",
+  "image": "058.jpg"
+ },
+ {
+  "line": "Washing dishes.",
+  "image": "059.jpg"
+ },
+ {
+  "line": "Busing tables.",
+  "image": "060.jpg"
+ },
+ {
+  "line": "Waiting on customers.",
+  "image": "061.jpg"
+ },
+ {
+  "line": "He's said many times that it taught him humility,",
+  "image": "062.jpg"
+ },
+ {
+  "line": "and how to work hard under pressure.",
+  "image": "063.jpg"
+ },
+ {
+  "line": "He was brilliant at school.",
+  "image": "064.jpg"
+ },
+ {
+  "line": "He went on to study electrical",
+  "image": "065.jpg"
+ },
+ {
+  "line": "engineering at Oregon State University,",
+  "image": "066.jpg"
+ },
+ {
+  "line": "where he met his future wife, Lori.",
+  "image": "067.jpg"
+ },
+ {
+  "line": "Then he earned a master's degree from Stanford.",
+  "image": "068.jpg"
+ },
+ {
+  "line": "He worked as a chip designer at AMD,",
+  "image": "069.jpg"
+ },
+ {
+  "line": "and later at a company called LSI Logic.",
+  "image": "070.jpg"
+ },
+ {
+  "line": "By his late twenties, Jensen had a good career.",
+  "image": "071.jpg"
+ },
+ {
+  "line": "A stable job.",
+  "image": "072.jpg"
+ },
+ {
+  "line": "A young family.",
+  "image": "073.jpg"
+ },
+ {
+  "line": "And then two friends came",
+  "image": "074.jpg"
+ },
+ {
+  "line": "to him with an idea.",
+  "image": "075.jpg"
+ },
+ {
+  "line": "Chapter two. The Denny's meeting.",
+  "image": "076.jpg"
+ },
+ {
+  "line": "The two friends were Chris Malachowsky and Curtis Priem.",
+  "image": "077.jpg"
+ },
+ {
+  "line": "Both were engineers at Sun Microsystems,",
+  "image": "078.jpg"
+ },
+ {
+  "line": "one of the biggest computer companies of the time.",
+  "image": "079.jpg"
+ },
+ {
+  "line": "Their idea was simple, but bold.",
+  "image": "080.jpg"
+ },
+ {
+  "line": "Computers were getting more powerful,",
+  "image": "081.jpg"
+ },
+ {
+  "line": "but they were terrible at one thing.",
+  "image": "082.jpg"
+ },
+ {
+  "line": "Graphics.",
+  "image": "083.jpg"
+ },
+ {
+  "line": "Drawing realistic {3D|three d} images on a",
+  "image": "084.jpg"
+ },
+ {
+  "line": "screen takes an insane amount of math.",
+  "image": "085.jpg"
+ },
+ {
+  "line": "Millions of calculations, every single second.",
+  "image": "086.jpg"
+ },
+ {
+  "line": "A regular computer processor, called a CPU,",
+  "image": "087.jpg"
+ },
+ {
+  "line": "is like a genius professor.",
+  "image": "088.jpg"
+ },
+ {
+  "line": "It can solve almost any problem,",
+  "image": "089.jpg"
+ },
+ {
+  "line": "but it does them one",
+  "image": "090.jpg"
+ },
+ {
+  "line": "at a time, really fast.",
+  "image": "091.jpg"
+ },
+ {
+  "line": "But graphics don't need one genius.",
+  "image": "092.jpg"
+ },
+ {
+  "line": "They need thousands of workers doing",
+  "image": "093.jpg"
+ },
+ {
+  "line": "simple math all at once.",
+  "image": "094.jpg"
+ },
+ {
+  "line": "Imagine painting a giant wall.",
+  "image": "095.jpg"
+ },
+ {
+  "line": "One brilliant painter will take forever.",
+  "image": "096.jpg"
+ },
+ {
+  "line": "But a thousand ordinary painters,",
+  "image": "097.jpg"
+ },
+ {
+  "line": "each painting one small square, will finish in minutes.",
+  "image": "098.jpg"
+ },
+ {
+  "line": "That's the idea.",
+  "image": "099.jpg"
+ },
+ {
+  "line": "A special chip, built just for graphics.",
+  "image": "100.jpg"
+ },
+ {
+  "line": "Thousands of tiny workers, doing math in parallel.",
+  "image": "101.jpg"
+ },
+ {
+  "line": "And the biggest market for it?",
+  "image": "102.jpg"
+ },
+ {
+  "line": "Video games.",
+  "image": "103.jpg"
+ },
+ {
+  "line": "So on April fifth, {1993|nineteen ninety three},",
+  "image": "104.jpg"
+ },
+ {
+  "line": "the three of them officially started the company.",
+  "image": "105.jpg"
+ },
+ {
+  "line": "For the name, they used the letters N V,",
+  "image": "106.jpg"
+ },
+ {
+  "line": "short for \"next version,\" because they",
+  "image": "107.jpg"
+ },
+ {
+  "line": "were saving all their files that way.",
+  "image": "108.jpg"
+ },
+ {
+  "line": "Then they found the Latin",
+  "image": "109.jpg"
+ },
+ {
+  "line": "word \"invidia,\" which means envy.",
+  "image": "110.jpg"
+ },
+ {
+  "line": "They put it together.",
+  "image": "111.jpg"
+ },
+ {
+  "line": "Nvidia. A company designed to make everyone else jealous.",
+  "image": "112.jpg"
+ },
+ {
+  "line": "They soon raised around twenty million",
+  "image": "113.jpg"
+ },
+ {
+  "line": "dollars from venture capital firms,",
+  "image": "114.jpg"
+ },
+ {
+  "line": "including Sequoia Capital,",
+  "image": "115.jpg"
+ },
+ {
+  "line": "one of the most famous investors in Silicon Valley.",
+  "image": "116.jpg"
+ },
+ {
+  "line": "The famous investor Don Valentine reportedly agreed partly",
+  "image": "117.jpg"
+ },
+ {
+  "line": "because Jensen's former boss at LSI Logic told him,",
+  "image": "118.jpg"
+ },
+ {
+  "line": "basically, give this kid money.",
+  "image": "119.jpg"
+ },
+ {
+  "line": "Now they had funding.",
+  "image": "120.jpg"
+ },
+ {
+  "line": "Now they had a plan.",
+  "image": "121.jpg"
+ },
+ {
+  "line": "And their very first product was a disaster.",
+  "image": "122.jpg"
+ },
+ {
+  "line": "Chapter three. The chip that almost killed Nvidia.",
+  "image": "123.jpg"
+ },
+ {
+  "line": "In {1995|nineteen ninety five}, Nvidia released its first chip.",
+  "image": "124.jpg"
+ },
+ {
+  "line": "The {NV1|n v one}.",
+  "image": "125.jpg"
+ },
+ {
+  "line": "It was ambitious.",
+  "image": "126.jpg"
+ },
+ {
+  "line": "Maybe too ambitious.",
+  "image": "127.jpg"
+ },
+ {
+  "line": "It tried to do graphics, sound,",
+  "image": "128.jpg"
+ },
+ {
+  "line": "and even game controller support, all on one card.",
+  "image": "129.jpg"
+ },
+ {
+  "line": "And it drew {3D|three d} shapes in an unusual way,",
+  "image": "130.jpg"
+ },
+ {
+  "line": "using curved squares instead of triangles.",
+  "image": "131.jpg"
+ },
+ {
+  "line": "The problem? The rest of",
+  "image": "132.jpg"
+ },
+ {
+  "line": "the industry went with triangles.",
+  "image": "133.jpg"
+ },
+ {
+  "line": "Especially Microsoft, which was building a",
+  "image": "134.jpg"
+ },
+ {
+  "line": "new graphics system for Windows called DirectX.",
+  "image": "135.jpg"
+ },
+ {
+  "line": "And DirectX was built around triangles.",
+  "image": "136.jpg"
+ },
+ {
+  "line": "Nvidia had built a beautiful chip,",
+  "image": "137.jpg"
+ },
+ {
+  "line": "for a world that didn't exist.",
+  "image": "138.jpg"
+ },
+ {
+  "line": "Sales were terrible.",
+  "image": "139.jpg"
+ },
+ {
+  "line": "Stores returned the cards.",
+  "image": "140.jpg"
+ },
+ {
+  "line": "And the company was quickly running out of money.",
+  "image": "141.jpg"
+ },
+ {
+  "line": "But there was still one hope.",
+  "image": "142.jpg"
+ },
+ {
+  "line": "The video game company Sega had hired Nvidia to",
+  "image": "143.jpg"
+ },
+ {
+  "line": "make a graphics chip for its next game console.",
+  "image": "144.jpg"
+ },
+ {
+  "line": "A huge deal.",
+  "image": "145.jpg"
+ },
+ {
+  "line": "But Jensen realized something painful.",
+  "image": "146.jpg"
+ },
+ {
+  "line": "Nvidia's technology was heading in the wrong direction.",
+  "image": "147.jpg"
+ },
+ {
+  "line": "If they kept building Sega's chip their way,",
+  "image": "148.jpg"
+ },
+ {
+  "line": "it would fail.",
+  "image": "149.jpg"
+ },
+ {
+  "line": "And it would drag Nvidia down with it.",
+  "image": "150.jpg"
+ },
+ {
+  "line": "So Jensen did something almost unthinkable.",
+  "image": "151.jpg"
+ },
+ {
+  "line": "He went to Sega,",
+  "image": "152.jpg"
+ },
+ {
+  "line": "and essentially told them, we're doing this wrong.",
+  "image": "153.jpg"
+ },
+ {
+  "line": "You should find another partner.",
+  "image": "154.jpg"
+ },
+ {
+  "line": "But, please, pay us anyway,",
+  "image": "155.jpg"
+ },
+ {
+  "line": "because if you don't, we're dead.",
+  "image": "156.jpg"
+ },
+ {
+  "line": "And incredibly, Sega's leadership agreed.",
+  "image": "157.jpg"
+ },
+ {
+  "line": "Sega invested about five million dollars into Nvidia.",
+  "image": "158.jpg"
+ },
+ {
+  "line": "Money Jensen has said kept the company alive.",
+  "image": "159.jpg"
+ },
+ {
+  "line": "But five million dollars doesn't last long.",
+  "image": "160.jpg"
+ },
+ {
+  "line": "Nvidia had to lay off",
+  "image": "161.jpg"
+ },
+ {
+  "line": "more than half its staff.",
+  "image": "162.jpg"
+ },
+ {
+  "line": "The company was down to",
+  "image": "163.jpg"
+ },
+ {
+  "line": "roughly thirty days of cash.",
+  "image": "164.jpg"
+ },
+ {
+  "line": "And that phrase stuck.",
+  "image": "165.jpg"
+ },
+ {
+  "line": "For years, Jensen would remind his team,",
+  "image": "166.jpg"
+ },
+ {
+  "line": "\"Our company is thirty days",
+  "image": "167.jpg"
+ },
+ {
+  "line": "from going out of business.\"",
+  "image": "168.jpg"
+ },
+ {
+  "line": "Not as a joke. As a mindset.",
+  "image": "169.jpg"
+ },
+ {
+  "line": "Chapter four. The bet on a virtual machine.",
+  "image": "170.jpg"
+ },
+ {
+  "line": "With one last shot,",
+  "image": "171.jpg"
+ },
+ {
+  "line": "Nvidia started building a brand new chip.",
+  "image": "172.jpg"
+ },
+ {
+  "line": "This time, using triangles.",
+  "image": "173.jpg"
+ },
+ {
+  "line": "This time, built for Microsoft's DirectX.",
+  "image": "174.jpg"
+ },
+ {
+  "line": "It was called the RIVA {128|one twenty eight}.",
+  "image": "175.jpg"
+ },
+ {
+  "line": "But there was a huge problem.",
+  "image": "176.jpg"
+ },
+ {
+  "line": "Normally, a chip company builds a physical test chip,",
+  "image": "177.jpg"
+ },
+ {
+  "line": "finds the bugs, fixes them, and builds it again.",
+  "image": "178.jpg"
+ },
+ {
+  "line": "That process takes months.",
+  "image": "179.jpg"
+ },
+ {
+  "line": "And Nvidia didn't have months.",
+  "image": "180.jpg"
+ },
+ {
+  "line": "It had weeks.",
+  "image": "181.jpg"
+ },
+ {
+  "line": "So Jensen made a gamble.",
+  "image": "182.jpg"
+ },
+ {
+  "line": "He spent a big chunk of the company's",
+  "image": "183.jpg"
+ },
+ {
+  "line": "remaining money on a machine called an emulator.",
+  "image": "184.jpg"
+ },
+ {
+  "line": "It let the engineers run",
+  "image": "185.jpg"
+ },
+ {
+  "line": "their chip in a simulation,",
+  "image": "186.jpg"
+ },
+ {
+  "line": "before it was ever physically built.",
+  "image": "187.jpg"
+ },
+ {
+  "line": "Test it. Fix it. All virtually.",
+  "image": "188.jpg"
+ },
+ {
+  "line": "Then they sent the design straight",
+  "image": "189.jpg"
+ },
+ {
+  "line": "to the factory for mass production.",
+  "image": "190.jpg"
+ },
+ {
+  "line": "No physical test run.",
+  "image": "191.jpg"
+ },
+ {
+  "line": "If there was a serious flaw,",
+  "image": "192.jpg"
+ },
+ {
+  "line": "the company would be finished.",
+  "image": "193.jpg"
+ },
+ {
+  "line": "It worked.",
+  "image": "194.jpg"
+ },
+ {
+  "line": "The RIVA {128|one twenty eight} launched in {1997|nineteen ninety seven},",
+  "image": "195.jpg"
+ },
+ {
+  "line": "and it was a hit.",
+  "image": "196.jpg"
+ },
+ {
+  "line": "Roughly a million units sold in about four months.",
+  "image": "197.jpg"
+ },
+ {
+  "line": "Nvidia was saved.",
+  "image": "198.jpg"
+ },
+ {
+  "line": "Two years later, in January {1999|nineteen ninety nine},",
+  "image": "199.jpg"
+ },
+ {
+  "line": "Nvidia went public on the stock",
+  "image": "200.jpg"
+ },
+ {
+  "line": "market at twelve dollars a share.",
+  "image": "201.jpg"
+ },
+ {
+  "line": "And later that year,",
+  "image": "202.jpg"
+ },
+ {
+  "line": "it released the product that would define the company.",
+  "image": "203.jpg"
+ },
+ {
+  "line": "Chapter five. The GPU is born.",
+  "image": "204.jpg"
+ },
+ {
+  "line": "In {1999|nineteen ninety nine}, Nvidia launched the GeForce {256|two fifty six}.",
+  "image": "205.jpg"
+ },
+ {
+  "line": "And with it,",
+  "image": "206.jpg"
+ },
+ {
+  "line": "they made up a brand new word.",
+  "image": "207.jpg"
+ },
+ {
+  "line": "The GPU.",
+  "image": "208.jpg"
+ },
+ {
+  "line": "The graphics processing unit.",
+  "image": "209.jpg"
+ },
+ {
+  "line": "Nvidia marketed it as the world's first GPU.",
+  "image": "210.jpg"
+ },
+ {
+  "line": "It could handle complex {3D|three d}",
+  "image": "211.jpg"
+ },
+ {
+  "line": "lighting and movement by itself,",
+  "image": "212.jpg"
+ },
+ {
+  "line": "freeing up the computer's main processor.",
+  "image": "213.jpg"
+ },
+ {
+  "line": "For gamers, it was a revolution.",
+  "image": "214.jpg"
+ },
+ {
+  "line": "Smoother games. Better graphics.",
+  "image": "215.jpg"
+ },
+ {
+  "line": "Worlds that looked more real than ever.",
+  "image": "216.jpg"
+ },
+ {
+  "line": "The name stuck.",
+  "image": "217.jpg"
+ },
+ {
+  "line": "Today, the whole world uses the word GPU.",
+  "image": "218.jpg"
+ },
+ {
+  "line": "Nvidia was on fire.",
+  "image": "219.jpg"
+ },
+ {
+  "line": "In {2000|two thousand}, Microsoft picked Nvidia to make the",
+  "image": "220.jpg"
+ },
+ {
+  "line": "graphics chip for its very first Xbox.",
+  "image": "221.jpg"
+ },
+ {
+  "line": "And that same year,",
+  "image": "222.jpg"
+ },
+ {
+  "line": "Nvidia's biggest early rival, a company called {3dfx|three d f x},",
+  "image": "223.jpg"
+ },
+ {
+  "line": "the maker of the famous Voodoo graphics cards,",
+  "image": "224.jpg"
+ },
+ {
+  "line": "ran into trouble.",
+  "image": "225.jpg"
+ },
+ {
+  "line": "Nvidia bought up its key technology",
+  "image": "226.jpg"
+ },
+ {
+  "line": "and hired many of its engineers.",
+  "image": "227.jpg"
+ },
+ {
+  "line": "The kid who washed dishes at Denny's now ran",
+  "image": "228.jpg"
+ },
+ {
+  "line": "one of the hottest tech companies in the world.",
+  "image": "229.jpg"
+ },
+ {
+  "line": "There's even a famous story that Jensen promised",
+  "image": "230.jpg"
+ },
+ {
+  "line": "that if Nvidia's stock ever hit a hundred dollars,",
+  "image": "231.jpg"
+ },
+ {
+  "line": "he'd get the company logo tattooed on his arm.",
+  "image": "232.jpg"
+ },
+ {
+  "line": "It did. And he did.",
+  "image": "233.jpg"
+ },
+ {
+  "line": "Though he later admitted it hurt so much,",
+  "image": "234.jpg"
+ },
+ {
+  "line": "he'd never do it again.",
+  "image": "235.jpg"
+ },
+ {
+  "line": "But Nvidia's rivals weren't going away.",
+  "image": "236.jpg"
+ },
+ {
+  "line": "A Canadian company called ATI fought back hard,",
+  "image": "237.jpg"
+ },
+ {
+  "line": "and in the early {2000s|two thousands},",
+  "image": "238.jpg"
+ },
+ {
+  "line": "ATI's Radeon cards often beat Nvidia's.",
+  "image": "239.jpg"
+ },
+ {
+  "line": "One Nvidia card, the GeForce FX,",
+  "image": "240.jpg"
+ },
+ {
+  "line": "was so loud and hot that gamers mocked it,",
+  "image": "241.jpg"
+ },
+ {
+  "line": "comparing it to a vacuum cleaner.",
+  "image": "242.jpg"
+ },
+ {
+  "line": "In {2006|two thousand six}, chipmaker AMD bought ATI.",
+  "image": "243.jpg"
+ },
+ {
+  "line": "Now Nvidia was facing a giant.",
+  "image": "244.jpg"
+ },
+ {
+  "line": "And right at that moment, Jensen made the most important decision in the company's history.",
+  "image": "245.jpg"
+ },
+ {
+  "line": "A decision almost everyone thought was a mistake.",
+  "image": "246.jpg"
+ },
+ {
+  "line": "Chapter six. CUDA. The crazy bet.",
+  "image": "247.jpg"
+ },
+ {
+  "line": "Here's something researchers had started to notice.",
+  "image": "248.jpg"
+ },
+ {
+  "line": "Remember the painting analogy?",
+  "image": "249.jpg"
+ },
+ {
+  "line": "A GPU is basically thousands of small",
+  "image": "250.jpg"
+ },
+ {
+  "line": "workers doing math at the same time.",
+  "image": "251.jpg"
+ },
+ {
+  "line": "Well, it turns out it's not only",
+  "image": "252.jpg"
+ },
+ {
+  "line": "graphics that need that kind of math.",
+  "image": "253.jpg"
+ },
+ {
+  "line": "So does science.",
+  "image": "254.jpg"
+ },
+ {
+  "line": "Weather simulations.",
+  "image": "255.jpg"
+ },
+ {
+  "line": "Medical research.",
+  "image": "256.jpg"
+ },
+ {
+  "line": "Physics.",
+  "image": "257.jpg"
+ },
+ {
+  "line": "Financial modeling.",
+  "image": "258.jpg"
+ },
+ {
+  "line": "Any problem that can be split",
+  "image": "259.jpg"
+ },
+ {
+  "line": "into thousands of small pieces.",
+  "image": "260.jpg"
+ },
+ {
+  "line": "A few researchers were already hacking",
+  "image": "261.jpg"
+ },
+ {
+  "line": "GPUs to do scientific work.",
+  "image": "262.jpg"
+ },
+ {
+  "line": "But it was incredibly hard.",
+  "image": "263.jpg"
+ },
+ {
+  "line": "They had to trick the chip into thinking",
+  "image": "264.jpg"
+ },
+ {
+  "line": "their math problems were video game graphics.",
+  "image": "265.jpg"
+ },
+ {
+  "line": "One of those researchers was a",
+  "image": "266.jpg"
+ },
+ {
+  "line": "Stanford student named Ian Buck.",
+  "image": "267.jpg"
+ },
+ {
+  "line": "Nvidia hired him.",
+  "image": "268.jpg"
+ },
+ {
+  "line": "And together, they built something called CUDA.",
+  "image": "269.jpg"
+ },
+ {
+  "line": "CUDA, released in {2007|two thousand seven},",
+  "image": "270.jpg"
+ },
+ {
+  "line": "was a way for programmers to use Nvidia's",
+  "image": "271.jpg"
+ },
+ {
+  "line": "GPUs for almost any kind of heavy math.",
+  "image": "272.jpg"
+ },
+ {
+  "line": "Not just games.",
+  "image": "273.jpg"
+ },
+ {
+  "line": "Basically, it turned a gaming chip into a",
+  "image": "274.jpg"
+ },
+ {
+  "line": "supercomputer you could buy at a store.",
+  "image": "275.jpg"
+ },
+ {
+  "line": "But here's the catch.",
+  "image": "276.jpg"
+ },
+ {
+  "line": "To make CUDA work,",
+  "image": "277.jpg"
+ },
+ {
+  "line": "Nvidia had to build it into",
+  "image": "278.jpg"
+ },
+ {
+  "line": "every single chip it made.",
+  "image": "279.jpg"
+ },
+ {
+  "line": "That made the chips more expensive.",
+  "image": "280.jpg"
+ },
+ {
+  "line": "It cut into profits.",
+  "image": "281.jpg"
+ },
+ {
+  "line": "And for years, almost nobody used it.",
+  "image": "282.jpg"
+ },
+ {
+  "line": "Gamers didn't care.",
+  "image": "283.jpg"
+ },
+ {
+  "line": "Investors were confused.",
+  "image": "284.jpg"
+ },
+ {
+  "line": "Why is a video game company spending billions",
+  "image": "285.jpg"
+ },
+ {
+  "line": "on science tools that nobody is buying?",
+  "image": "286.jpg"
+ },
+ {
+  "line": "And then, things got even worse.",
+  "image": "287.jpg"
+ },
+ {
+  "line": "In {2008|two thousand eight}, the global financial crisis hit.",
+  "image": "288.jpg"
+ },
+ {
+  "line": "On top of that,",
+  "image": "289.jpg"
+ },
+ {
+  "line": "Nvidia discovered that some of its laptop chips",
+  "image": "290.jpg"
+ },
+ {
+  "line": "were failing because of a manufacturing defect.",
+  "image": "291.jpg"
+ },
+ {
+  "line": "It had to set aside around two",
+  "image": "292.jpg"
+ },
+ {
+  "line": "hundred million dollars to deal with it.",
+  "image": "293.jpg"
+ },
+ {
+  "line": "Nvidia's stock collapsed.",
+  "image": "294.jpg"
+ },
+ {
+  "line": "From its peak in {2007|two thousand seven} to",
+  "image": "295.jpg"
+ },
+ {
+  "line": "the bottom in late {2008|two thousand eight},",
+  "image": "296.jpg"
+ },
+ {
+  "line": "it lost more than eighty percent of its value.",
+  "image": "297.jpg"
+ },
+ {
+  "line": "Wall Street wanted Jensen to cut CUDA.",
+  "image": "298.jpg"
+ },
+ {
+  "line": "Focus on games. Stop wasting money. Jensen refused.",
+  "image": "299.jpg"
+ },
+ {
+  "line": "He believed that someday,",
+  "image": "300.jpg"
+ },
+ {
+  "line": "the world would need what Nvidia was building.",
+  "image": "301.jpg"
+ },
+ {
+  "line": "He just didn't know exactly when, or why.",
+  "image": "302.jpg"
+ },
+ {
+  "line": "He was about to find out.",
+  "image": "303.jpg"
+ },
+ {
+  "line": "Chapter seven. The phone failure.",
+  "image": "304.jpg"
+ },
+ {
+  "line": "But first, one more failure.",
+  "image": "305.jpg"
+ },
+ {
+  "line": "In the late {2000s|two thousands}, smartphones were exploding.",
+  "image": "306.jpg"
+ },
+ {
+  "line": "Nvidia wanted in.",
+  "image": "307.jpg"
+ },
+ {
+  "line": "So it built a mobile chip called Tegra,",
+  "image": "308.jpg"
+ },
+ {
+  "line": "designed for phones and tablets.",
+  "image": "309.jpg"
+ },
+ {
+  "line": "It didn't go well.",
+  "image": "310.jpg"
+ },
+ {
+  "line": "Companies like Qualcomm,",
+  "image": "311.jpg"
+ },
+ {
+  "line": "and later Apple with its own chips,",
+  "image": "312.jpg"
+ },
+ {
+  "line": "dominated the phone world.",
+  "image": "313.jpg"
+ },
+ {
+  "line": "Nvidia was squeezed out.",
+  "image": "314.jpg"
+ },
+ {
+  "line": "By the mid-{2010s|twenty tens},",
+  "image": "315.jpg"
+ },
+ {
+  "line": "it had mostly given up on phones.",
+  "image": "316.jpg"
+ },
+ {
+  "line": "But nothing in Nvidia's story is ever really wasted.",
+  "image": "317.jpg"
+ },
+ {
+  "line": "A Tegra chip ended up in",
+  "image": "318.jpg"
+ },
+ {
+  "line": "the early Tesla Model S dashboard.",
+  "image": "319.jpg"
+ },
+ {
+  "line": "And later, a Tegra chip became the brain of",
+  "image": "320.jpg"
+ },
+ {
+  "line": "one of the best-selling game consoles of all time.",
+  "image": "321.jpg"
+ },
+ {
+  "line": "The Nintendo Switch.",
+  "image": "322.jpg"
+ },
+ {
+  "line": "Still, by the early {2010s|twenty tens},",
+  "image": "323.jpg"
+ },
+ {
+  "line": "Nvidia was seen as a gaming graphics",
+  "image": "324.jpg"
+ },
+ {
+  "line": "company that had missed the mobile wave.",
+  "image": "325.jpg"
+ },
+ {
+  "line": "A solid business. Not an exciting one.",
+  "image": "326.jpg"
+ },
+ {
+  "line": "And then, in a bedroom in Toronto, everything changed.",
+  "image": "327.jpg"
+ },
+ {
+  "line": "Chapter eight. The big bang of AI.",
+  "image": "328.jpg"
+ },
+ {
+  "line": "It's {2012|twenty twelve}.",
+  "image": "329.jpg"
+ },
+ {
+  "line": "A university student named Alex Krizhevsky,",
+  "image": "330.jpg"
+ },
+ {
+  "line": "working with Ilya Sutskever,",
+  "image": "331.jpg"
+ },
+ {
+  "line": "and their professor, Geoffrey Hinton,",
+  "image": "332.jpg"
+ },
+ {
+  "line": "are building something called a neural network.",
+  "image": "333.jpg"
+ },
+ {
+  "line": "A neural network is a kind",
+  "image": "334.jpg"
+ },
+ {
+  "line": "of computer program that learns by example.",
+  "image": "335.jpg"
+ },
+ {
+  "line": "Show it a million pictures of cats,",
+  "image": "336.jpg"
+ },
+ {
+  "line": "and it slowly learns what a cat looks like.",
+  "image": "337.jpg"
+ },
+ {
+  "line": "The idea had been around for decades, but it never worked very well.",
+  "image": "338.jpg"
+ },
+ {
+  "line": "Training these networks required an impossible amount of math.",
+  "image": "339.jpg"
+ },
+ {
+  "line": "But remember.",
+  "image": "340.jpg"
+ },
+ {
+  "line": "Impossible amounts of math, split into tiny pieces,",
+  "image": "341.jpg"
+ },
+ {
+  "line": "is exactly what GPUs are good at.",
+  "image": "342.jpg"
+ },
+ {
+  "line": "So Alex used two Nvidia gaming graphics cards.",
+  "image": "343.jpg"
+ },
+ {
+  "line": "The kind you'd buy to play video games.",
+  "image": "344.jpg"
+ },
+ {
+  "line": "And using CUDA,",
+  "image": "345.jpg"
+ },
+ {
+  "line": "he trained his neural network on them,",
+  "image": "346.jpg"
+ },
+ {
+  "line": "reportedly from his bedroom at his parents' house.",
+  "image": "347.jpg"
+ },
+ {
+  "line": "They called it AlexNet.",
+  "image": "348.jpg"
+ },
+ {
+  "line": "And they entered it into a",
+  "image": "349.jpg"
+ },
+ {
+  "line": "famous image recognition contest called ImageNet.",
+  "image": "350.jpg"
+ },
+ {
+  "line": "It didn't just win.",
+  "image": "351.jpg"
+ },
+ {
+  "line": "It crushed the competition.",
+  "image": "352.jpg"
+ },
+ {
+  "line": "Its error rate was dramatically lower",
+  "image": "353.jpg"
+ },
+ {
+  "line": "than the next best entry.",
+  "image": "354.jpg"
+ },
+ {
+  "line": "The AI world was stunned.",
+  "image": "355.jpg"
+ },
+ {
+  "line": "Suddenly, everyone realized two things.",
+  "image": "356.jpg"
+ },
+ {
+  "line": "Neural networks actually work.",
+  "image": "357.jpg"
+ },
+ {
+  "line": "And the key to making them work...",
+  "image": "358.jpg"
+ },
+ {
+  "line": "is Nvidia GPUs.",
+  "image": "359.jpg"
+ },
+ {
+  "line": "Remember CUDA? The project Wall Street hated? The thing Jensen spent years and billions on, while everyone told him to stop?",
+  "image": "360.jpg"
+ },
+ {
+  "line": "It was now the only",
+  "image": "361.jpg"
+ },
+ {
+  "line": "real toolset for building AI.",
+  "image": "362.jpg"
+ },
+ {
+  "line": "Every researcher learned it.",
+  "image": "363.jpg"
+ },
+ {
+  "line": "Every AI lab built on it.",
+  "image": "364.jpg"
+ },
+ {
+  "line": "Nvidia had spent years laying railroad tracks, and suddenly,",
+  "image": "365.jpg"
+ },
+ {
+  "line": "the whole world wanted to ride the train.",
+  "image": "366.jpg"
+ },
+ {
+  "line": "Jensen saw it immediately. He pushed the entire company toward AI.",
+  "image": "367.jpg"
+ },
+ {
+  "line": "He started calling Nvidia an AI company,",
+  "image": "368.jpg"
+ },
+ {
+  "line": "years before most people even knew what that meant.",
+  "image": "369.jpg"
+ },
+ {
+  "line": "And in {2016|twenty sixteen}, he personally delivered Nvidia's first AI supercomputer box, called the {DGX-1|d g x one}, to a tiny research lab in San Francisco. A little-known nonprofit, that had just been founded.",
+  "image": "370.jpg"
+ },
+ {
+  "line": "It was called OpenAI.",
+  "image": "371.jpg"
+ },
+ {
+  "line": "Chapter nine. Gold rushes and hangovers.",
+  "image": "372.jpg"
+ },
+ {
+  "line": "Over the next few years, Nvidia grew fast.",
+  "image": "373.jpg"
+ },
+ {
+  "line": "Gaming kept booming.",
+  "image": "374.jpg"
+ },
+ {
+  "line": "Its RTX cards introduced real-time ray tracing,",
+  "image": "375.jpg"
+ },
+ {
+  "line": "making light in games look stunningly realistic.",
+  "image": "376.jpg"
+ },
+ {
+  "line": "And data centers started buying GPUs for AI.",
+  "image": "377.jpg"
+ },
+ {
+  "line": "But there was another, stranger customer.",
+  "image": "378.jpg"
+ },
+ {
+  "line": "Crypto miners.",
+  "image": "379.jpg"
+ },
+ {
+  "line": "Cryptocurrencies like Ethereum could be \"mined\" using GPUs.",
+  "image": "380.jpg"
+ },
+ {
+  "line": "When crypto prices soared,",
+  "image": "381.jpg"
+ },
+ {
+  "line": "miners bought every graphics card they could find.",
+  "image": "382.jpg"
+ },
+ {
+  "line": "Gamers couldn't get cards anywhere.",
+  "image": "383.jpg"
+ },
+ {
+  "line": "Prices went crazy.",
+  "image": "384.jpg"
+ },
+ {
+  "line": "And then crypto crashed, in {2018|twenty eighteen}.",
+  "image": "385.jpg"
+ },
+ {
+  "line": "Suddenly, demand vanished.",
+  "image": "386.jpg"
+ },
+ {
+  "line": "Stores were stuck with piles of unsold cards.",
+  "image": "387.jpg"
+ },
+ {
+  "line": "Nvidia's stock dropped roughly in half",
+  "image": "388.jpg"
+ },
+ {
+  "line": "in a matter of months.",
+  "image": "389.jpg"
+ },
+ {
+  "line": "Later, the US government even",
+  "image": "390.jpg"
+ },
+ {
+  "line": "fined Nvidia for not clearly",
+  "image": "391.jpg"
+ },
+ {
+  "line": "telling investors how much of its",
+  "image": "392.jpg"
+ },
+ {
+  "line": "sales had come from crypto.",
+  "image": "393.jpg"
+ },
+ {
+  "line": "Then, in {2020|twenty twenty},",
+  "image": "394.jpg"
+ },
+ {
+  "line": "Nvidia made its biggest power move yet.",
+  "image": "395.jpg"
+ },
+ {
+  "line": "It announced a deal to buy Arm,",
+  "image": "396.jpg"
+ },
+ {
+  "line": "the British company whose chip designs",
+  "image": "397.jpg"
+ },
+ {
+  "line": "power nearly every smartphone on the planet.",
+  "image": "398.jpg"
+ },
+ {
+  "line": "Price tag, about forty billion dollars.",
+  "image": "399.jpg"
+ },
+ {
+  "line": "But governments around the world were alarmed.",
+  "image": "400.jpg"
+ },
+ {
+  "line": "Nvidia owning Arm would give one company",
+  "image": "401.jpg"
+ },
+ {
+  "line": "enormous control over the entire chip industry.",
+  "image": "402.jpg"
+ },
+ {
+  "line": "Regulators pushed back hard.",
+  "image": "403.jpg"
+ },
+ {
+  "line": "In {2022|twenty twenty two}, the deal collapsed.",
+  "image": "404.jpg"
+ },
+ {
+  "line": "That same year, the crypto boom crashed again.",
+  "image": "405.jpg"
+ },
+ {
+  "line": "Tech stocks crashed.",
+  "image": "406.jpg"
+ },
+ {
+  "line": "And Nvidia's stock fell more than half during {2022|twenty twenty two}.",
+  "image": "407.jpg"
+ },
+ {
+  "line": "Once again, people wondered if Nvidia's",
+  "image": "408.jpg"
+ },
+ {
+  "line": "best days were behind it.",
+  "image": "409.jpg"
+ },
+ {
+  "line": "They could not have been more wrong.",
+  "image": "410.jpg"
+ },
+ {
+  "line": "Chapter ten. The ChatGPT explosion.",
+  "image": "411.jpg"
+ },
+ {
+  "line": "On November thirtieth, {2022|twenty twenty two},",
+  "image": "412.jpg"
+ },
+ {
+  "line": "OpenAI released a chatbot called ChatGPT.",
+  "image": "413.jpg"
+ },
+ {
+  "line": "Within days, millions of people were using it.",
+  "image": "414.jpg"
+ },
+ {
+  "line": "Within about two months,",
+  "image": "415.jpg"
+ },
+ {
+  "line": "it had an estimated one hundred million users.",
+  "image": "416.jpg"
+ },
+ {
+  "line": "One of the fastest growing apps in history.",
+  "image": "417.jpg"
+ },
+ {
+  "line": "And every single question people typed into it",
+  "image": "418.jpg"
+ },
+ {
+  "line": "was answered by a giant AI model.",
+  "image": "419.jpg"
+ },
+ {
+  "line": "Trained and running on Nvidia GPUs.",
+  "image": "420.jpg"
+ },
+ {
+  "line": "Suddenly, every big tech company on Earth panicked.",
+  "image": "421.jpg"
+ },
+ {
+  "line": "Google. Microsoft. Meta. Amazon.",
+  "image": "422.jpg"
+ },
+ {
+  "line": "Startups. Governments.",
+  "image": "423.jpg"
+ },
+ {
+  "line": "Everyone needed to build their own AI.",
+  "image": "424.jpg"
+ },
+ {
+  "line": "And to build AI,",
+  "image": "425.jpg"
+ },
+ {
+  "line": "you needed Nvidia's most powerful chip, the {H100|h one hundred}.",
+  "image": "426.jpg"
+ },
+ {
+  "line": "There weren't enough of them.",
+  "image": "427.jpg"
+ },
+ {
+  "line": "Not even close.",
+  "image": "428.jpg"
+ },
+ {
+  "line": "Companies waited months.",
+  "image": "429.jpg"
+ },
+ {
+  "line": "Some {H100|h one hundred} chips reportedly sold for",
+  "image": "430.jpg"
+ },
+ {
+  "line": "tens of thousands of dollars each.",
+  "image": "431.jpg"
+ },
+ {
+  "line": "Tech CEOs would brag about how many they had,",
+  "image": "432.jpg"
+ },
+ {
+  "line": "like collecting gold bars.",
+  "image": "433.jpg"
+ },
+ {
+  "line": "Nvidia's sales exploded.",
+  "image": "434.jpg"
+ },
+ {
+  "line": "Its data center business,",
+  "image": "435.jpg"
+ },
+ {
+  "line": "which used to be a side project,",
+  "image": "436.jpg"
+ },
+ {
+  "line": "became the main event.",
+  "image": "437.jpg"
+ },
+ {
+  "line": "Quarter after quarter,",
+  "image": "438.jpg"
+ },
+ {
+  "line": "Nvidia smashed Wall Street's expectations by",
+  "image": "439.jpg"
+ },
+ {
+  "line": "numbers that seemed almost impossible.",
+  "image": "440.jpg"
+ },
+ {
+  "line": "In May {2023|twenty twenty three},",
+  "image": "441.jpg"
+ },
+ {
+  "line": "Nvidia crossed one trillion dollars in value.",
+  "image": "442.jpg"
+ },
+ {
+  "line": "In early {2024|twenty twenty four}, two trillion.",
+  "image": "443.jpg"
+ },
+ {
+  "line": "By June {2024|twenty twenty four}, three trillion.",
+  "image": "444.jpg"
+ },
+ {
+  "line": "And for a moment,",
+  "image": "445.jpg"
+ },
+ {
+  "line": "Nvidia became the most valuable company in the world.",
+  "image": "446.jpg"
+ },
+ {
+  "line": "And it didn't stop there.",
+  "image": "447.jpg"
+ },
+ {
+  "line": "In July {2025|twenty twenty five},",
+  "image": "448.jpg"
+ },
+ {
+  "line": "it became the first company in",
+  "image": "449.jpg"
+ },
+ {
+  "line": "history to reach four trillion dollars.",
+  "image": "450.jpg"
+ },
+ {
+  "line": "And just a few months later,",
+  "image": "451.jpg"
+ },
+ {
+  "line": "in October {2025|twenty twenty five}, it broke five trillion.",
+  "image": "452.jpg"
+ },
+ {
+  "line": "Someone who had invested one thousand",
+  "image": "453.jpg"
+ },
+ {
+  "line": "dollars in Nvidia at its IPO",
+  "image": "454.jpg"
+ },
+ {
+  "line": "in {1999|nineteen ninety nine} would have seen it",
+  "image": "455.jpg"
+ },
+ {
+  "line": "grow to several million dollars.",
+  "image": "456.jpg"
+ },
+ {
+  "line": "Not bad for a company that was once",
+  "image": "457.jpg"
+ },
+ {
+  "line": "thirty days from going out of business.",
+  "image": "458.jpg"
+ },
+ {
+  "line": "Chapter eleven. The man in the leather jacket.",
+  "image": "459.jpg"
+ },
+ {
+  "line": "So how did Nvidia actually pull this off?",
+  "image": "460.jpg"
+ },
+ {
+  "line": "A lot of it comes down to Jensen Huang himself.",
+  "image": "461.jpg"
+ },
+ {
+  "line": "He's famous for his black leather jacket,",
+  "image": "462.jpg"
+ },
+ {
+  "line": "which he wears to almost every keynote.",
+  "image": "463.jpg"
+ },
+ {
+  "line": "He's one of the longest-serving founder",
+  "image": "464.jpg"
+ },
+ {
+  "line": "CEOs in all of tech,",
+  "image": "465.jpg"
+ },
+ {
+  "line": "running Nvidia for over thirty years.",
+  "image": "466.jpg"
+ },
+ {
+  "line": "And he runs it in a very unusual way.",
+  "image": "467.jpg"
+ },
+ {
+  "line": "He has reportedly had around sixty people reporting directly to him.",
+  "image": "468.jpg"
+ },
+ {
+  "line": "Most CEOs have maybe ten.",
+  "image": "469.jpg"
+ },
+ {
+  "line": "He says he avoids one-on-one meetings,",
+  "image": "470.jpg"
+ },
+ {
+  "line": "preferring to share information with everyone at once,",
+  "image": "471.jpg"
+ },
+ {
+  "line": "so the whole company moves together.",
+  "image": "472.jpg"
+ },
+ {
+  "line": "Employees send him short emails",
+  "image": "473.jpg"
+ },
+ {
+  "line": "listing their top five priorities,",
+  "image": "474.jpg"
+ },
+ {
+  "line": "and he reads them constantly.",
+  "image": "475.jpg"
+ },
+ {
+  "line": "He's also famously intense.",
+  "image": "476.jpg"
+ },
+ {
+  "line": "When asked what advice he'd give to students at Stanford,",
+  "image": "477.jpg"
+ },
+ {
+  "line": "he said, \"I wish upon you",
+  "image": "478.jpg"
+ },
+ {
+  "line": "ample doses of pain and suffering.\"",
+  "image": "479.jpg"
+ },
+ {
+  "line": "Because he believes that greatness comes from character,",
+  "image": "480.jpg"
+ },
+ {
+  "line": "and character is built through struggle.",
+  "image": "481.jpg"
+ },
+ {
+  "line": "And when he was asked on a podcast whether he'd start Nvidia again,",
+  "image": "482.jpg"
+ },
+ {
+  "line": "knowing everything he knows now, his answer shocked people.",
+  "image": "483.jpg"
+ },
+ {
+  "line": "He said he wouldn't.",
+  "image": "484.jpg"
+ },
+ {
+  "line": "Because if he had known",
+  "image": "485.jpg"
+ },
+ {
+  "line": "how hard it would be,",
+  "image": "486.jpg"
+ },
+ {
+  "line": "how much pain was ahead,",
+  "image": "487.jpg"
+ },
+ {
+  "line": "he might never have had the courage to start.",
+  "image": "488.jpg"
+ },
+ {
+  "line": "That's the thing about Nvidia.",
+  "image": "489.jpg"
+ },
+ {
+  "line": "It wasn't built on genius alone.",
+  "image": "490.jpg"
+ },
+ {
+  "line": "It was built on surviving.",
+  "image": "491.jpg"
+ },
+ {
+  "line": "Chapter twelve. The risks ahead.",
+  "image": "492.jpg"
+ },
+ {
+  "line": "Of course, being on top has never been easy.",
+  "image": "493.jpg"
+ },
+ {
+  "line": "In January {2025|twenty twenty five}, a Chinese AI company called DeepSeek",
+  "image": "494.jpg"
+ },
+ {
+  "line": "released a powerful AI model",
+  "image": "495.jpg"
+ },
+ {
+  "line": "that it claimed was trained using",
+  "image": "496.jpg"
+ },
+ {
+  "line": "far fewer chips than expected.",
+  "image": "497.jpg"
+ },
+ {
+  "line": "Investors panicked.",
+  "image": "498.jpg"
+ },
+ {
+  "line": "If AI didn't need as many GPUs,",
+  "image": "499.jpg"
+ },
+ {
+  "line": "what would happen to Nvidia?",
+  "image": "500.jpg"
+ },
+ {
+  "line": "In a single day,",
+  "image": "501.jpg"
+ },
+ {
+  "line": "Nvidia lost nearly six hundred billion",
+  "image": "502.jpg"
+ },
+ {
+  "line": "dollars in stock market value.",
+  "image": "503.jpg"
+ },
+ {
+  "line": "The biggest single-day loss for any company in history.",
+  "image": "504.jpg"
+ },
+ {
+  "line": "And yet, within months, Nvidia bounced back, and climbed to new records.",
+  "image": "505.jpg"
+ },
+ {
+  "line": "Because the world's hunger for AI computing kept growing.",
+  "image": "506.jpg"
+ },
+ {
+  "line": "But the challenges are real.",
+  "image": "507.jpg"
+ },
+ {
+  "line": "The US government has restricted which",
+  "image": "508.jpg"
+ },
+ {
+  "line": "chips Nvidia can sell to China,",
+  "image": "509.jpg"
+ },
+ {
+  "line": "once one of its biggest markets.",
+  "image": "510.jpg"
+ },
+ {
+  "line": "Rivals like AMD are fighting hard.",
+  "image": "511.jpg"
+ },
+ {
+  "line": "And Nvidia's own biggest customers,",
+  "image": "512.jpg"
+ },
+ {
+  "line": "like Google, Amazon, and Microsoft,",
+  "image": "513.jpg"
+ },
+ {
+  "line": "are designing their own AI chips,",
+  "image": "514.jpg"
+ },
+ {
+  "line": "so they can depend less on Nvidia.",
+  "image": "515.jpg"
+ },
+ {
+  "line": "Meanwhile, Nvidia keeps pushing forward.",
+  "image": "516.jpg"
+ },
+ {
+  "line": "New generations of chips with",
+  "image": "517.jpg"
+ },
+ {
+  "line": "names like Blackwell and Rubin.",
+  "image": "518.jpg"
+ },
+ {
+  "line": "Massive AI systems the size of rooms.",
+  "image": "519.jpg"
+ },
+ {
+  "line": "And Jensen talks about the next frontier: robots,",
+  "image": "520.jpg"
+ },
+ {
+  "line": "self-driving cars, and what he calls \"AI factories.\"",
+  "image": "521.jpg"
+ },
+ {
+  "line": "Nobody knows exactly how this story ends.",
+  "image": "522.jpg"
+ },
+ {
+  "line": "Chapter thirteen. The lesson.",
+  "image": "523.jpg"
+ },
+ {
+  "line": "So let's look at the whole journey.",
+  "image": "524.jpg"
+ },
+ {
+  "line": "A kid sent across the world,",
+  "image": "525.jpg"
+ },
+ {
+  "line": "cleaning bathrooms at a boarding school in Kentucky.",
+  "image": "526.jpg"
+ },
+ {
+  "line": "A teenager washing dishes at Denny's.",
+  "image": "527.jpg"
+ },
+ {
+  "line": "Three engineers with a big",
+  "image": "528.jpg"
+ },
+ {
+  "line": "idea and forty thousand dollars.",
+  "image": "529.jpg"
+ },
+ {
+  "line": "A first chip that flopped.",
+  "image": "530.jpg"
+ },
+ {
+  "line": "A company thirty days from death.",
+  "image": "531.jpg"
+ },
+ {
+  "line": "A gamble on a virtual test machine.",
+  "image": "532.jpg"
+ },
+ {
+  "line": "The invention of the GPU.",
+  "image": "533.jpg"
+ },
+ {
+  "line": "A billion-dollar bet on CUDA that Wall Street hated.",
+  "image": "534.jpg"
+ },
+ {
+  "line": "A stock crash of more than eighty percent.",
+  "image": "535.jpg"
+ },
+ {
+  "line": "A failed phone business.",
+  "image": "536.jpg"
+ },
+ {
+  "line": "And then, two gaming cards",
+  "image": "537.jpg"
+ },
+ {
+  "line": "in a bedroom in Toronto,",
+  "image": "538.jpg"
+ },
+ {
+  "line": "that changed the future.",
+  "image": "539.jpg"
+ },
+ {
+  "line": "Nvidia didn't succeed because it",
+  "image": "540.jpg"
+ },
+ {
+  "line": "always made the right choices.",
+  "image": "541.jpg"
+ },
+ {
+  "line": "It made plenty of wrong ones.",
+  "image": "542.jpg"
+ },
+ {
+  "line": "It succeeded because it refused to die.",
+  "image": "543.jpg"
+ },
+ {
+  "line": "Long enough for the world to",
+  "image": "544.jpg"
+ },
+ {
+  "line": "finally catch up to its idea.",
+  "image": "545.jpg"
+ },
+ {
+  "line": "And maybe that's the real lesson.",
+  "image": "546.jpg"
+ },
+ {
+  "line": "Sometimes, the thing everyone tells you to quit...",
+  "image": "547.jpg"
+ },
+ {
+  "line": "is the exact thing that changes everything.",
+  "image": "548.jpg"
+ },
+ {
+  "line": "If you enjoyed this story,",
+  "image": "549.jpg"
+ },
+ {
+  "line": "share it with a friend who",
+  "image": "550.jpg"
+ },
+ {
+  "line": "thinks they know everything about tech.",
+  "image": "551.jpg"
+ },
+ {
+  "line": "Subscribe for more stories of the",
+  "image": "552.jpg"
+ },
+ {
+  "line": "companies that shaped our world.",
+  "image": "553.jpg"
+ },
+ {
+  "line": "And let me know in the comments,",
+  "image": "554.jpg"
+ },
+ {
+  "line": "which company should I cover next?",
+  "image": "555.jpg"
+ }
+]

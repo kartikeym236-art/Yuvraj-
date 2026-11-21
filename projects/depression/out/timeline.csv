@@ -1,0 +1,473 @@
+scene,start,end,duration,line,image
+1,0.0,5.42,5.42,Picture a small American town in the year {1932|nineteen thirty two}. A man in a neat hat walks,shot_001.jpg
+2,5.42,8.92,3.5,down Main Street to the bank where he has saved for twenty years.,shot_002.jpg
+3,8.92,14.08,5.16,And the doors are locked. A paper sign hangs in the window. The bank is closed.,shot_003.jpg
+4,14.08,15.02,0.94,For good.,shot_005.jpg
+5,15.02,18.24,3.22,"Now picture that same scene in thousands of towns, all",shot_007.jpg
+6,18.24,19.43,1.19,across the country.,shot_008.jpg
+7,19.43,21.59,2.16,"One out of every four grown-ups,",shot_009.jpg
+8,21.59,22.8,1.21,with no job.,shot_010.jpg
+9,22.8,26.17,3.37,Families living in little towns made of cardboard and tin.,shot_011.jpg
+10,26.17,27.94,1.77,Farmers pouring milk onto the road,shot_012.jpg
+11,27.94,28.77,0.83,because nobody could,shot_013.jpg
+12,28.77,29.9,1.13,afford to buy it.,shot_014.jpg
+13,29.9,31.27,1.37,This really happened.,shot_015.jpg
+14,31.27,33.03,1.76,Less than a hundred years ago.,shot_016.jpg
+15,33.03,34.85,1.82,"It was called the Great Depression,",shot_017.jpg
+16,34.85,36.51,1.66,and it was the biggest economic,shot_018.jpg
+17,36.51,38.14,1.63,slump of the modern world.,shot_019.jpg
+18,38.14,39.64,1.5,And here's the craziest part.,shot_020.jpg
+19,39.64,41.67,2.03,It didn't start with people being sad.,shot_021.jpg
+20,41.67,44.88,3.21,"It started with people being way, way too happy.",shot_022.jpg
+21,44.88,47.66,2.78,"Today, I'm going to explain the entire Great Depression",shot_023.jpg
+22,47.66,49.13,1.47,like you're five years old.,shot_024.jpg
+23,49.13,50.37,1.24,No boring charts.,shot_025.jpg
+24,50.37,51.87,1.5,No confusing money words.,shot_026.jpg
+25,51.87,53.15,1.28,Just a story.,shot_027.jpg
+26,53.15,54.06,0.91,"And by the end,",shot_028.jpg
+27,54.06,56.45,2.39,you'll understand something most adults don't.,shot_029.jpg
+28,56.45,57.66,1.21,Why it happened.,shot_030.jpg
+29,57.66,60.15,2.49,Why it lasted for ten long years.,shot_031.jpg
+30,60.15,61.29,1.14,And why people still,shot_032.jpg
+31,61.29,62.56,1.27,talk about it today.,shot_033.jpg
+32,62.56,63.42,0.86,Let's go.,shot_034.jpg
+33,63.42,66.61,3.19,Chapter one. The biggest party in history.,shot_035.jpg
+34,66.61,67.94,1.33,"To understand the crash,",shot_036.jpg
+35,67.94,69.77,1.83,you have to understand the party.,shot_037.jpg
+36,69.77,71.3,1.53,It's the {1920s|nineteen twenties}.,shot_038.jpg
+37,71.3,73.0,1.7,"The First World War just ended,",shot_039.jpg
+38,73.0,75.02,2.02,and America came out of it rich.,shot_040.jpg
+39,75.02,76.69,1.67,Factories are booming.,shot_041.jpg
+40,76.69,79.57,2.88,"And suddenly, there's all this amazing new stuff.",shot_042.jpg
+41,79.57,80.245,0.675,Cars.,shot_043.jpg
+42,80.245,81.18,0.935,Radios.,shot_044.jpg
+43,81.18,81.54,0.36,Refrigerators.,shot_045.jpg
+44,81.54,82.96,1.42,Washing machines.,shot_046.jpg
+45,82.96,84.92,1.96,Things that felt like magic.,shot_047.jpg
+46,84.92,87.18,2.26,People called it the Roaring Twenties.,shot_048.jpg
+47,87.18,88.14,0.96,Jazz music.,shot_049.jpg
+48,88.14,89.48,1.34,Dancing all night.,shot_050.jpg
+49,89.48,92.11,2.63,Everyone felt like the good times would never end.,shot_051.jpg
+50,92.11,93.5,1.39,But there was a catch.,shot_052.jpg
+51,93.5,95.07,1.57,A lot of families couldn't actually,shot_053.jpg
+52,95.07,96.67,1.6,afford all this new stuff.,shot_054.jpg
+53,96.67,99.09,2.42,So stores came up with a clever idea.,shot_055.jpg
+54,99.09,100.82,1.73,Buy now. Pay later.,shot_056.jpg
+55,100.82,102.02,1.2,Think of it like this.,shot_057.jpg
+56,102.02,104.52,2.5,"Imagine a candy shop that tells every kid,",shot_058.jpg
+57,104.52,106.5,1.98,"take all the candy you like today, and",shot_059.jpg
+58,106.5,108.38,1.88,just pay a little bit every week.,shot_060.jpg
+59,108.38,109.79,1.41,"Sounds amazing, right?",shot_061.jpg
+60,109.79,112.46,2.67,So every kid in town fills up their pockets.,shot_063.jpg
+61,112.46,113.74,1.28,Everyone looks rich.,shot_064.jpg
+62,113.74,115.31,1.57,Everyone has new stuff.,shot_065.jpg
+63,115.31,117.54,2.23,"But underneath, a lot of families owe",shot_066.jpg
+64,117.54,119.39,1.85,more than they can really handle.,shot_067.jpg
+65,119.39,121.36,1.97,Remember that. It matters.,shot_068.jpg
+66,121.36,124.21,2.85,Chapter two. The magic money machine.,shot_069.jpg
+67,124.21,125.53,1.32,"Now, there was one place",shot_070.jpg
+68,125.53,126.58,1.05,where people were getting rich,shot_071.jpg
+69,126.58,128.48,1.9,faster than anywhere else.,shot_072.jpg
+70,128.48,129.74,1.26,The stock market.,shot_073.jpg
+71,129.74,131.77,2.03,So what is the stock market?,shot_074.jpg
+72,131.77,134.47,2.7,Let's say a kid named Sam has a lemonade stand.,shot_075.jpg
+73,134.47,135.71,1.24,"Sam wants to grow,",shot_076.jpg
+74,135.71,137.45,1.74,so Sam splits the lemonade stand,shot_077.jpg
+75,137.45,139.37,1.92,into one hundred tiny pieces,shot_078.jpg
+76,139.37,140.37,1.0,and sells them.,shot_079.jpg
+77,140.37,142.41,2.04,Each piece is called a share.,shot_080.jpg
+78,142.41,143.42,1.01,"If someone buys one,",shot_081.jpg
+79,143.42,146.37,2.95,they own a tiny piece of Sam's lemonade stand.,shot_082.jpg
+80,146.37,147.91,1.54,"If the stand does great,",shot_083.jpg
+81,147.91,149.29,1.38,"everyone wants a piece,",shot_084.jpg
+82,149.29,151.37,2.08,and the price of each piece goes up.,shot_085.jpg
+83,151.37,152.99,1.62,"If the stand does badly,",shot_086.jpg
+84,152.99,154.06,1.07,"nobody wants it,",shot_087.jpg
+85,154.06,155.4,1.34,and the price goes down.,shot_088.jpg
+86,155.4,157.4,2.0,That's it. That's the stock market.,shot_090.jpg
+87,157.4,159.25,1.85,Just millions of people buying and,shot_091.jpg
+88,159.25,161.41,2.16,selling tiny pieces of companies.,shot_092.jpg
+89,161.41,164.75,3.34,"In the {1920s|nineteen twenties}, prices only went one direction.",shot_093.jpg
+90,164.75,165.61,0.86,Up. Up. Up.,shot_094.jpg
+91,165.61,167.49,1.88,People were doubling their money.,shot_095.jpg
+92,167.49,170.31,2.82,"Regular people, like waiters and shop workers,",shot_096.jpg
+93,170.31,173.63,3.32,started buying shares because their neighbors seemed to be getting rich.,shot_097.jpg
+94,173.63,175.47,1.84,And here's where it gets risky.,shot_098.jpg
+95,175.47,176.02,0.55,Many of them,shot_099.jpg
+96,176.02,178.44,2.42,used something called buying on margin.,shot_100.jpg
+97,178.44,179.55,1.11,It works like this.,shot_101.jpg
+98,179.55,181.11,1.56,Imagine a kid wants a lemonade,shot_102.jpg
+99,181.11,182.79,1.68,"share that costs ten dollars,",shot_103.jpg
+100,182.79,184.45,1.66,but only has one dollar.,shot_104.jpg
+101,184.45,187.22,2.77,So the kid borrows the other nine from a grown-up.,shot_105.jpg
+102,187.22,189.03,1.81,"If the price goes up, great,",shot_106.jpg
+103,189.03,191.71,2.68,the loan gets paid back and the kid keeps the extra.,shot_107.jpg
+104,191.71,193.48,1.77,"But if the price goes down,",shot_108.jpg
+105,193.48,196.09,2.61,"the kid still owes the grown-up nine dollars,",shot_109.jpg
+106,196.09,198.57,2.48,even if the share is now worth almost nothing.,shot_110.jpg
+107,198.57,201.39,2.82,"People were making huge bets with borrowed money,",shot_111.jpg
+108,201.39,203.94,2.55,on prices they assumed would rise forever.,shot_112.jpg
+109,203.94,205.71,1.77,There's a famous story about this.,shot_113.jpg
+110,205.71,208.09,2.38,"A wealthy businessman was getting his shoes shined,",shot_114.jpg
+111,208.09,210.15,2.06,and the shoeshine boy started giving him tips,shot_115.jpg
+112,210.15,211.58,1.43,about which shares to buy.,shot_116.jpg
+113,211.58,212.85,1.27,"The businessman thought,",shot_117.jpg
+114,212.85,215.12,2.27,"if even the shoeshine boy is in the market,",shot_118.jpg
+115,215.12,216.31,1.19,everyone is in.,shot_119.jpg
+116,216.31,217.97,1.66,There's no one left to buy.,shot_120.jpg
+117,217.97,220.27,2.3,And he quietly sold everything.,shot_121.jpg
+118,220.27,222.59,2.32,"Whether that story is completely true or not,",shot_122.jpg
+119,222.59,223.93,1.34,the lesson was right.,shot_123.jpg
+120,223.93,226.01,2.08,The party was about to end.,shot_124.jpg
+121,226.01,228.19,2.18,Chapter three. The crash.,shot_125.jpg
+122,228.19,230.14,1.95,October {1929|nineteen twenty nine}.,shot_126.jpg
+123,230.14,231.84,1.7,Prices start wobbling.,shot_127.jpg
+124,231.84,233.3,1.46,Then dropping.,shot_128.jpg
+125,233.3,236.87,3.57,"On Thursday, October twenty-fourth, worry spreads fast, and",shot_129.jpg
+126,236.87,238.91,2.04,people start selling all at once.,shot_130.jpg
+127,238.91,241.26,2.35,History calls it Black Thursday.,shot_131.jpg
+128,241.26,242.54,1.28,The big banks stepped in and,shot_132.jpg
+129,242.54,244.49,1.95,bought shares to calm everyone down.,shot_133.jpg
+130,244.49,245.3,0.81,And it worked...,shot_134.jpg
+131,245.3,246.5,1.2,for a few days.,shot_135.jpg
+132,246.5,249.33,2.83,"Then came Tuesday, October twenty-ninth.",shot_136.jpg
+133,249.33,250.92,1.59,Black Tuesday. One of,shot_137.jpg
+134,250.92,253.85,2.93,the worst days the stock market had ever seen.,shot_138.jpg
+135,253.85,255.31,1.46,Everyone wanted to sell.,shot_139.jpg
+136,255.31,257.2,1.89,Almost nobody wanted to buy.,shot_140.jpg
+137,257.2,258.33,1.13,And remember all those people who,shot_141.jpg
+138,258.33,260.11,1.78,borrowed money to buy shares?,shot_142.jpg
+139,260.11,261.15,1.04,Now the lenders wanted,shot_143.jpg
+140,261.15,261.55,0.4,their money,shot_144.jpg
+141,261.55,262.18,0.63,back.,shot_145.jpg
+142,262.18,265.16,2.98,"To pay them, people had to sell even more shares.",shot_146.jpg
+143,265.16,267.27,2.11,Which pushed prices down even more.,shot_147.jpg
+144,267.27,269.62,2.35,Which made even more people sell.,shot_148.jpg
+145,269.62,271.27,1.65,It's like a line of dominoes.,shot_149.jpg
+146,271.27,274.0,2.73,"One falls, then the next, then the next,",shot_150.jpg
+147,274.0,275.79,1.79,faster and faster.,shot_151.jpg
+148,275.79,278.02,2.23,And it didn't stop in {1929|nineteen twenty nine}.,shot_152.jpg
+149,278.02,281.13,3.11,The market kept sliding for almost three years.,shot_153.jpg
+150,281.13,283.06,1.93,"By the summer of {1932|nineteen thirty two},",shot_154.jpg
+151,283.06,284.49,1.43,the stock market had lost about,shot_155.jpg
+152,284.49,286.43,1.94,ninety percent of its value.,shot_156.jpg
+153,286.43,288.42,1.99,Imagine a hundred-dollar toy collection,shot_157.jpg
+154,288.42,290.16,1.74,turning into ten dollars.,shot_158.jpg
+155,290.16,290.885,0.725,But wait.,shot_159.jpg
+156,290.885,293.225,2.34,Here's the twist most people get wrong.,shot_160.jpg
+157,293.225,296.415,3.19,The stock market crash was NOT the Great Depression.,shot_161.jpg
+158,296.415,298.745,2.33,Most Americans didn't even own shares.,shot_162.jpg
+159,298.745,301.115,2.37,The crash was just the first domino.,shot_163.jpg
+160,301.115,303.525,2.41,What came next was much bigger.,shot_164.jpg
+161,303.525,304.885,1.36,Chapter four. When the,shot_165.jpg
+162,304.885,306.695,1.81,banks closed their doors.,shot_166.jpg
+163,306.695,308.725,2.03,Okay. Let's talk about banks.,shot_167.jpg
+164,308.725,311.245,2.52,Because this is where the real trouble happened.,shot_168.jpg
+165,311.245,312.695,1.45,A lot of people imagine a bank,shot_169.jpg
+166,312.695,314.265,1.57,like a giant piggy bank.,shot_170.jpg
+167,314.265,315.205,0.94,"Money goes in,",shot_171.jpg
+168,315.205,316.185,0.98,and it just sits there in a,shot_172.jpg
+169,316.185,316.815,0.63,vault.,shot_173.jpg
+170,316.815,318.535,1.72,But that's not how it works.,shot_174.jpg
+171,318.535,319.645,1.11,A bank lends most of,shot_176.jpg
+172,319.645,321.455,1.81,that money out to other people.,shot_177.jpg
+173,321.455,322.4,0.945,To buy houses.,shot_178.jpg
+174,322.4,323.66,1.26,To start businesses.,shot_179.jpg
+175,323.66,324.26,0.6,It only keeps a,shot_180.jpg
+176,324.26,325.36,1.1,"little bit in the vault,",shot_181.jpg
+177,325.36,327.73,2.37,"because on a normal day, only a few people",shot_182.jpg
+178,327.73,328.97,1.24,come to take some out.,shot_183.jpg
+179,328.97,330.9,1.93,Now imagine a small town.,shot_184.jpg
+180,330.9,332.23,1.33,"One day, a rumor goes",shot_185.jpg
+181,332.23,334.29,2.06,around that the bank might be in trouble.,shot_186.jpg
+182,334.29,336.4,2.11,A few people go to take their savings out.,shot_187.jpg
+183,336.4,338.56,2.16,"Their neighbors notice, and they go too.",shot_188.jpg
+184,338.56,339.71,1.15,Then their friends.,shot_189.jpg
+185,339.71,341.51,1.8,Soon the whole town is standing,shot_190.jpg
+186,341.51,343.55,2.04,in a long line outside the bank.,shot_191.jpg
+187,343.55,345.32,1.77,But the money isn't all there.,shot_192.jpg
+188,345.32,347.0,1.68,Most of it has been lent out.,shot_193.jpg
+189,347.0,348.54,1.54,"The bank runs out of cash,",shot_194.jpg
+190,348.54,350.91,2.37,and it closes its doors. Historians call,shot_195.jpg
+191,350.91,352.35,1.44,this a bank run.,shot_196.jpg
+192,352.35,353.11,0.76,"And back then,",shot_198.jpg
+193,353.11,354.25,1.14,there was no insurance,shot_200.jpg
+194,354.25,356.65,2.4,"for bank savings. If a bank closed,",shot_202.jpg
+195,356.65,360.07,3.42,families often lost a big part of what they had saved. Then the,shot_203.jpg
+196,360.07,361.67,1.6,next town hears the news.,shot_204.jpg
+197,361.67,362.23,0.56,They worry,shot_205.jpg
+198,362.23,364.45,2.22,too. They line up at their own bank.,shot_206.jpg
+199,364.45,366.43,1.98,And that bank closes as well.,shot_207.jpg
+200,366.43,368.68,2.25,Worry spread from town to town.,shot_208.jpg
+201,368.68,373.09,4.41,"Across the {1930s|nineteen thirties}, about nine thousand American banks failed.",shot_209.jpg
+202,373.09,376.73,3.64,Millions of families lost money they had worked years to save.,shot_210.jpg
+203,376.73,379.08,2.35,Chapter five. The doom loop.,shot_211.jpg
+204,379.08,381.41,2.33,Now here's where it turns from a bad year,shot_212.jpg
+205,381.41,383.16,1.75,into a ten-year slump.,shot_213.jpg
+206,383.16,384.75,1.59,Imagine a toy factory.,shot_214.jpg
+207,384.75,385.97,1.22,"Families have less money,",shot_215.jpg
+208,385.97,387.77,1.8,so they stop buying toys.,shot_216.jpg
+209,387.77,389.36,1.59,"The factory isn't selling anything,",shot_217.jpg
+210,389.36,391.48,2.12,so it lets half its workers go.,shot_218.jpg
+211,391.48,393.53,2.05,Now those workers have no paycheck.,shot_219.jpg
+212,393.53,396.97,3.44,"So they stop buying shoes, and food, and clothes.",shot_220.jpg
+213,396.97,399.02,2.05,So the shoe store lets its workers go.,shot_221.jpg
+214,399.02,400.36,1.34,And the clothing store.,shot_222.jpg
+215,400.36,401.5,1.14,And the restaurant.,shot_223.jpg
+216,401.5,403.51,2.01,Every family that stops spending means,shot_224.jpg
+217,403.51,405.5,1.99,someone else loses their job.,shot_225.jpg
+218,405.5,408.63,3.13,And every person who loses their job stops spending.,shot_226.jpg
+219,408.63,409.59,0.96,It's a loop.,shot_227.jpg
+220,409.59,410.82,1.23,A doom loop.,shot_228.jpg
+221,410.82,412.27,1.45,And it keeps spinning.,shot_229.jpg
+222,412.27,414.63,2.36,"On top of that, prices started falling.",shot_230.jpg
+223,414.63,416.04,1.41,"And you might think, wait,",shot_231.jpg
+224,416.04,417.69,1.65,"cheaper stuff is good, right?",shot_232.jpg
+225,417.69,418.69,1.0,Not here.,shot_233.jpg
+226,418.69,421.0,2.31,"If a farmer's corn sells for half the price,",shot_234.jpg
+227,421.0,422.47,1.47,but the farmer still owes the,shot_235.jpg
+228,422.47,423.94,1.47,"same amount on the farm,",shot_236.jpg
+229,423.94,426.93,2.99,that debt suddenly feels twice as heavy. Many,shot_237.jpg
+230,426.93,428.58,1.65,"farmers couldn't keep up, and",shot_238.jpg
+231,428.58,430.02,1.44,they lost their farms.,shot_239.jpg
+232,430.02,432.8,2.78,"By {1933|nineteen thirty three}, about one in four",shot_240.jpg
+233,432.8,435.31,2.51,American workers had no job at all.,shot_241.jpg
+234,435.31,436.71,1.4,One in four.,shot_242.jpg
+235,436.71,438.415,1.705,Think of four people you know.,shot_243.jpg
+236,438.415,442.005,3.59,"Now imagine one of them out of work, for years.",shot_244.jpg
+237,442.005,444.115,2.11,And many of the ones who still had jobs,shot_245.jpg
+238,444.115,446.03,1.915,saw their hours and pay cut.,shot_246.jpg
+239,446.03,449.24,3.21,Chapter six. The mistakes that made it worse.,shot_247.jpg
+240,449.24,450.72,1.48,Now you might be asking.,shot_248.jpg
+241,450.72,452.47,1.75,Why didn't anyone fix it?,shot_249.jpg
+242,452.47,455.7,3.23,Well. The people in charge made some big mistakes.,shot_250.jpg
+243,455.7,457.01,1.31,"Three of them, actually.",shot_251.jpg
+244,457.01,459.88,2.87,Mistake number one. The money shrank.,shot_252.jpg
+245,459.88,462.45,2.57,America has something called the Federal Reserve.,shot_253.jpg
+246,462.45,464.71,2.26,Think of it as the boss of money.,shot_254.jpg
+247,464.71,465.68,0.97,Its job is to make sure,shot_255.jpg
+248,465.68,467.58,1.9,there's enough money flowing around.,shot_256.jpg
+249,467.58,469.24,1.66,"But when banks were collapsing,",shot_257.jpg
+250,469.24,471.64,2.4,it mostly stood back and let it happen.,shot_258.jpg
+251,471.64,472.54,0.9,The amount of money in the,shot_259.jpg
+252,472.54,474.74,2.2,country shrank by about a third.,shot_260.jpg
+253,474.74,476.02,1.28,Imagine playing a board game,shot_261.jpg
+254,476.02,478.45,2.43,where someone keeps taking money out of the box.,shot_262.jpg
+255,478.45,480.58,2.13,"Pretty soon, nobody can play.",shot_263.jpg
+256,480.58,483.14,2.56,Mistake number two. The gold rule.,shot_264.jpg
+257,483.14,485.0,1.86,"Back then, many countries followed",shot_265.jpg
+258,485.0,487.04,2.04,something called the gold standard.,shot_266.jpg
+259,487.04,488.92,1.88,It meant every dollar had to be backed,shot_267.jpg
+260,488.92,491.04,2.12,by real gold sitting in a vault.,shot_268.jpg
+261,491.04,492.22,1.18,"Sounds safe, right?",shot_269.jpg
+262,492.22,494.48,2.26,But it meant governments couldn't create more money,shot_270.jpg
+263,494.48,496.42,1.94,when people desperately needed it.,shot_271.jpg
+264,496.42,497.62,1.2,Their hands were tied.,shot_272.jpg
+265,497.62,498.85,1.23,And here's a fun fact.,shot_273.jpg
+266,498.85,500.84,1.99,"The countries that broke this rule first,",shot_274.jpg
+267,500.84,502.77,1.93,"like Britain in {1931|nineteen thirty one},",shot_275.jpg
+268,502.77,504.8,2.03,generally started recovering sooner.,shot_276.jpg
+269,504.8,507.56,2.76,Mistake number three. The playground fight.,shot_277.jpg
+270,507.56,509.46,1.9,"In {1930|nineteen thirty}, America passed a",shot_278.jpg
+271,509.46,511.75,2.29,law called the Smoot-Hawley Tariff.,shot_279.jpg
+272,511.75,513.04,1.29,It put big taxes on,shot_280.jpg
+273,513.04,514.77,1.73,things bought from other countries.,shot_281.jpg
+274,514.77,517.19,2.42,The idea was to protect American jobs.,shot_282.jpg
+275,517.19,518.6,1.41,"But imagine you're on the playground,",shot_283.jpg
+276,518.6,519.76,1.16,"and you tell everyone,",shot_284.jpg
+277,519.76,521.95,2.19,"""I'm not trading my snacks with you anymore.""",shot_285.jpg
+278,521.95,523.31,1.36,What do the other kids do?,shot_286.jpg
+279,523.31,525.01,1.7,They stop trading with you too.,shot_287.jpg
+280,525.01,526.86,1.85,That's exactly what happened.,shot_288.jpg
+281,526.86,529.53,2.67,Other countries struck back with their own taxes.,shot_289.jpg
+282,529.53,532.4,2.87,World trade collapsed by about two-thirds.,shot_290.jpg
+283,532.4,534.92,2.52,Factories everywhere lost their customers.,shot_291.jpg
+284,534.92,537.63,2.71,"And the president at the time, Herbert Hoover,",shot_292.jpg
+285,537.63,539.13,1.5,did try a few things.,shot_293.jpg
+286,539.13,540.88,1.75,But he mostly believed the economy,shot_294.jpg
+287,540.88,542.29,1.41,"would heal on its own,",shot_295.jpg
+288,542.29,544.6,2.31,and that the government shouldn't step in too much.,shot_296.jpg
+289,544.6,546.42,1.82,People were waiting for help.,shot_297.jpg
+290,546.42,547.76,1.34,And it wasn't coming.,shot_298.jpg
+291,547.76,551.03,3.27,Chapter seven. What life actually felt like.,shot_299.jpg
+292,551.03,551.99,0.96,Let's step away from the,shot_300.jpg
+293,551.99,553.39,1.4,money stuff for a second.,shot_301.jpg
+294,553.39,556.76,3.37,"Because behind every number, there was a real family.",shot_302.jpg
+295,556.76,558.04,1.28,People lost their homes,shot_303.jpg
+296,558.04,560.07,2.03,"and built little shacks out of wood scraps,",shot_304.jpg
+297,560.07,561.6,1.53,"cardboard, and metal.",shot_305.jpg
+298,561.6,563.04,1.44,Whole towns of them.,shot_306.jpg
+299,563.04,566.38,3.34,"People angrily called them Hoovervilles, after the president.",shot_307.jpg
+300,566.38,568.57,2.19,Long lines of men in suits and hats,shot_308.jpg
+301,568.57,569.88,1.31,"stood for hours,",shot_309.jpg
+302,569.88,570.91,1.03,just to get a free bowl,shot_310.jpg
+303,570.91,572.58,1.67,of soup and a piece of bread.,shot_311.jpg
+304,572.58,575.07,2.49,"Young people jumped onto moving freight trains,",shot_312.jpg
+305,575.07,576.3,1.23,"riding across the country,",shot_313.jpg
+306,576.3,578.08,1.78,looking for any kind of work.,shot_314.jpg
+307,578.08,580.62,2.54,Kids wore clothes made out of flour sacks.,shot_315.jpg
+308,580.62,582.92,2.3,Families ate whatever they could find.,shot_316.jpg
+309,582.92,585.55,2.63,"And then, as if things couldn't get worse,",shot_317.jpg
+310,585.55,586.775,1.225,nature joined in.,shot_318.jpg
+311,586.775,589.185,2.41,"In the middle of America, farmers had plowed up",shot_319.jpg
+312,589.185,590.545,1.36,so much grassland,shot_320.jpg
+313,590.545,592.365,1.82,"that when a terrible drought hit,",shot_321.jpg
+314,592.365,594.915,2.55,the soil just dried up and blew away.,shot_322.jpg
+315,594.915,598.115,3.2,"Giant clouds of dust, taller than buildings,",shot_323.jpg
+316,598.115,601.355,3.24,rolled across the sky and turned day into night.,shot_324.jpg
+317,601.355,603.195,1.84,It was called the Dust Bowl.,shot_325.jpg
+318,603.195,606.245,3.05,Thousands of families packed everything into old cars,shot_326.jpg
+319,606.245,608.815,2.57,"and drove west, hoping for a new start.",shot_327.jpg
+320,608.815,610.415,1.6,And it wasn't just America.,shot_328.jpg
+321,610.415,613.025,2.61,The Depression spread across the whole world.,shot_329.jpg
+322,613.025,615.795,2.77,"In Germany, where people were already struggling,",shot_330.jpg
+323,615.795,617.575,1.78,millions lost their jobs.,shot_331.jpg
+324,617.575,620.325,2.75,"Angry and desperate, many turned to a man",shot_332.jpg
+325,620.325,622.535,2.21,who promised to make everything better.,shot_333.jpg
+326,622.535,624.575,2.04,His name was Adolf Hitler.,shot_334.jpg
+327,624.575,627.355,2.78,"And in {1933|nineteen thirty three}, he came to power.",shot_335.jpg
+328,627.355,630.055,2.7,The Great Depression didn't just break the economy.,shot_336.jpg
+329,630.055,631.165,1.11,It helped set the stage,shot_337.jpg
+330,631.165,632.785,1.62,for the Second World War.,shot_338.jpg
+331,632.785,636.265,3.48,"Chapter eight. The man who said ""don't be afraid.""",shot_339.jpg
+332,636.265,639.535,3.27,"In {1933|nineteen thirty three}, America got a new president.",shot_340.jpg
+333,639.535,641.265,1.73,Franklin D. Roosevelt.,shot_341.jpg
+334,641.265,643.085,1.82,People called him FDR.,shot_342.jpg
+335,643.085,644.615,1.53,"And on his very first day,",shot_343.jpg
+336,644.615,645.245,0.63,he said one of the,shot_344.jpg
+337,645.245,647.275,2.03,most famous lines in history.,shot_345.jpg
+338,647.275,649.365,2.09,"""The only thing we have to fear",shot_346.jpg
+339,649.365,650.815,1.45,"is fear itself.""",shot_347.jpg
+340,650.815,652.715,1.9,Think about why that's so smart.,shot_348.jpg
+341,652.715,654.065,1.35,Remember the bank runs?,shot_349.jpg
+342,654.065,656.775,2.71,Banks didn't fail only because they were bad.,shot_350.jpg
+343,656.775,658.955,2.18,They failed because people were scared.,shot_351.jpg
+344,658.955,660.715,1.76,"And fear made people run,",shot_352.jpg
+345,660.715,662.515,1.8,"and running made the banks fail,",shot_353.jpg
+346,662.515,664.565,2.05,which made people even more scared.,shot_354.jpg
+347,664.565,666.955,2.39,So FDR did something bold.,shot_355.jpg
+348,666.955,668.425,1.47,He closed every bank in the,shot_356.jpg
+349,668.425,669.905,1.48,country for a few days.,shot_357.jpg
+350,669.905,671.075,1.17,A bank holiday.,shot_358.jpg
+351,671.075,672.245,1.17,"Inspectors checked them,",shot_359.jpg
+352,672.245,674.845,2.6,and only the healthy ones were allowed to reopen.,shot_360.jpg
+353,674.845,676.265,1.42,Then he did something no,shot_361.jpg
+354,676.265,678.145,1.88,president had really done before.,shot_362.jpg
+355,678.145,679.195,1.05,He got on the radio,shot_363.jpg
+356,679.195,680.985,1.79,and talked to Americans like a friend,shot_364.jpg
+357,680.985,682.495,1.51,sitting by the fireplace.,shot_365.jpg
+358,682.495,685.565,3.07,"He explained, in simple words, how banks worked,",shot_366.jpg
+359,685.565,686.565,1.0,and why it was safe,shot_367.jpg
+360,686.565,687.825,1.26,to put their money back.,shot_368.jpg
+361,687.825,690.435,2.61,These talks were called fireside chats.,shot_369.jpg
+362,690.435,692.085,1.65,And here's the amazing part.,shot_370.jpg
+363,692.085,693.335,1.25,"When the banks reopened,",shot_371.jpg
+364,693.335,695.235,1.9,people actually lined up...,shot_372.jpg
+365,695.235,697.095,1.86,to put their money back in.,shot_373.jpg
+366,697.095,699.835,2.74,Fear started to turn into hope.,shot_374.jpg
+367,699.835,702.17,2.335,Chapter nine. The New Deal.,shot_375.jpg
+368,702.17,703.93,1.76,FDR didn't stop there.,shot_376.jpg
+369,703.93,705.31,1.38,He launched a huge set of,shot_377.jpg
+370,705.31,707.42,2.11,programs called the New Deal.,shot_378.jpg
+371,707.42,708.58,1.16,Let's keep it simple.,shot_379.jpg
+372,708.58,710.71,2.13,"First, protect people's money.",shot_380.jpg
+373,710.71,714.31,3.6,"The government created deposit insurance, the FDIC.",shot_381.jpg
+374,714.31,715.84,1.53,"It means if your bank fails,",shot_382.jpg
+375,715.84,717.6,1.76,the government pays you back.,shot_383.jpg
+376,717.6,720.23,2.63,"That's why today, bank runs like the {1930s|nineteen thirties}",shot_384.jpg
+377,720.23,721.74,1.51,are so much rarer.,shot_385.jpg
+378,721.74,723.87,2.13,"Second, give people jobs.",shot_386.jpg
+379,723.87,725.79,1.92,The government hired millions of people,shot_387.jpg
+380,725.79,728.13,2.34,"to build roads, bridges, schools,",shot_388.jpg
+381,728.13,729.68,1.55,"parks, and dams.",shot_389.jpg
+382,729.68,732.21,2.53,Young men planted billions of trees.,shot_390.jpg
+383,732.21,733.74,1.53,Artists painted murals.,shot_391.jpg
+384,733.74,735.4,1.66,Writers wrote guidebooks.,shot_392.jpg
+385,735.4,737.155,1.755,Some people called it wasteful.,shot_393.jpg
+386,737.155,740.205,3.05,But it put paychecks back into people's pockets.,shot_394.jpg
+387,740.205,741.635,1.43,And remember the doom loop?,shot_395.jpg
+388,741.635,743.385,1.75,Paychecks mean spending.,shot_396.jpg
+389,743.385,745.455,2.07,Spending means more jobs.,shot_397.jpg
+390,745.455,747.705,2.25,The loop started spinning the other way.,shot_398.jpg
+391,747.705,749.465,1.76,"Third, a safety net.",shot_399.jpg
+392,749.465,750.975,1.51,"Social Security was created,",shot_400.jpg
+393,750.975,753.365,2.39,so older people and people who couldn't work,shot_401.jpg
+394,753.365,755.095,1.73,would have some money to live on.,shot_402.jpg
+395,755.095,757.655,2.56,"Fourth, rules for the stock market.",shot_403.jpg
+396,757.655,759.135,1.48,"A new watchdog, the SEC,",shot_404.jpg
+397,759.135,760.895,1.76,was created to stop the,shot_405.jpg
+398,760.895,762.845,1.95,"kind of wild, reckless betting",shot_406.jpg
+399,762.845,764.365,1.52,that started this whole mess.,shot_407.jpg
+400,764.365,767.195,2.83,"America also loosened its ties to the gold rule,",shot_408.jpg
+401,767.195,768.765,1.57,which let more money flow.,shot_409.jpg
+402,768.765,769.975,1.21,And it worked.,shot_410.jpg
+403,769.975,770.875,0.9,Slowly.,shot_411.jpg
+404,770.875,772.725,1.85,The economy started growing again.,shot_412.jpg
+405,772.725,774.945,2.22,But then... another mistake.,shot_413.jpg
+406,774.945,778.365,3.42,"In {1937|nineteen thirty seven}, leaders thought the danger was over.",shot_414.jpg
+407,778.365,779.715,1.35,"The government cut spending,",shot_415.jpg
+408,779.715,782.075,2.36,and the Federal Reserve tightened money again.,shot_416.jpg
+409,782.075,783.155,1.08,And boom.,shot_417.jpg
+410,783.155,785.645,2.49,The economy fell right back into a slump.,shot_418.jpg
+411,785.645,787.025,1.38,It was like taking off a cast,shot_419.jpg
+412,787.025,788.495,1.47,before the bone had healed.,shot_420.jpg
+413,788.495,791.145,2.65,Chapter ten. How it finally ended.,shot_421.jpg
+414,791.145,793.905,2.76,So what finally ended the Great Depression?,shot_422.jpg
+415,793.905,795.765,1.86,"Sadly, it was a war.",shot_423.jpg
+416,795.765,797.385,1.62,"When the Second World War began,",shot_424.jpg
+417,797.385,799.935,2.55,"America started building planes, tanks,",shot_425.jpg
+418,799.935,802.745,2.81,"ships, and weapons at an enormous scale.",shot_426.jpg
+419,802.745,804.855,2.11,Factories ran day and night.,shot_427.jpg
+420,804.855,806.785,1.93,"Millions of people joined the military,",shot_428.jpg
+421,806.785,809.205,2.42,"and millions more went to work in factories,",shot_429.jpg
+422,809.205,811.335,2.13,including many women for the first time.,shot_430.jpg
+423,811.335,814.035,2.7,"Suddenly, there were more jobs than workers.",shot_431.jpg
+424,814.035,816.335,2.3,The doom loop was finally broken.,shot_432.jpg
+425,816.335,818.725,2.39,And here's a number that will blow your mind.,shot_433.jpg
+426,818.725,819.845,1.12,If you had bought stocks at,shot_434.jpg
+427,819.845,822.135,2.29,"the very top in {1929|nineteen twenty nine},",shot_435.jpg
+428,822.135,824.555,2.42,you would have had to wait until {1954|nineteen fifty four},shot_436.jpg
+429,824.555,825.905,1.35,to get back to even.,shot_437.jpg
+430,825.905,827.745,1.84,Twenty-five years.,shot_438.jpg
+431,827.745,830.905,3.16,Chapter eleven. Why this still matters to you.,shot_439.jpg
+432,830.905,832.62,1.715,Okay. So why should you care,shot_440.jpg
+433,832.62,835.41,2.79,about something that happened almost a hundred years ago?,shot_441.jpg
+434,835.41,837.34,1.93,Because the world learned from it.,shot_442.jpg
+435,837.34,840.26,2.92,"In {2008|two thousand eight}, when banks started collapsing again,",shot_443.jpg
+436,840.26,842.49,2.23,leaders remembered the {1930s|nineteen thirties}.,shot_444.jpg
+437,842.49,844.7,2.21,The Federal Reserve pumped money into the system,shot_445.jpg
+438,844.7,846.32,1.62,instead of letting it shrink.,shot_446.jpg
+439,846.32,848.4,2.08,Governments stepped in fast.,shot_447.jpg
+440,848.4,850.67,2.27,"And in {2020|twenty twenty}, when the world shut down,",shot_448.jpg
+441,850.67,852.6,1.93,the same lessons kicked in again.,shot_449.jpg
+442,852.6,854.455,1.855,Those weren't perfect solutions.,shot_450.jpg
+443,854.455,855.635,1.18,But they were a lot better,shot_451.jpg
+444,855.635,857.375,1.74,than standing back and waiting.,shot_452.jpg
+445,857.375,859.175,1.8,"And if you have money in a bank today,",shot_453.jpg
+446,859.175,862.135,2.96,"it's protected, partly because of the Great Depression.",shot_454.jpg
+447,862.135,864.415,2.28,"So let's recap, like you're five.",shot_455.jpg
+448,864.415,867.125,2.71,People bought too much stuff they couldn't pay for.,shot_456.jpg
+449,867.125,869.265,2.14,They bet borrowed money on stocks.,shot_457.jpg
+450,869.265,870.735,1.47,Prices crashed.,shot_458.jpg
+451,870.735,873.345,2.61,Scared people pulled their money out of banks.,shot_459.jpg
+452,873.345,874.885,1.54,Banks collapsed.,shot_460.jpg
+453,874.885,876.495,1.61,People stopped spending.,shot_461.jpg
+454,876.495,877.855,1.36,Businesses closed.,shot_462.jpg
+455,877.855,879.575,1.72,Leaders made it worse.,shot_463.jpg
+456,879.575,881.99,2.415,"Life got really, really hard.",shot_464.jpg
+457,881.99,884.85,2.86,"Until a president told everyone not to be afraid,",shot_465.jpg
+458,884.85,886.42,1.57,"the government stepped in,",shot_466.jpg
+459,886.42,889.86,3.44,"and finally, a world war changed everything.",shot_467.jpg
+460,889.86,892.51,2.65,But the biggest lesson isn't about money at all.,shot_468.jpg
+461,892.51,895.84,3.33,The Great Depression shows us that fear is contagious.,shot_469.jpg
+462,895.84,897.72,1.88,"When everyone panics at once,",shot_470.jpg
+463,897.72,899.6,1.88,even strong things can break.,shot_471.jpg
+464,899.6,901.46,1.86,And hope is contagious too.,shot_472.jpg
+465,901.46,902.97,1.51,"If you learned something today,",shot_473.jpg
+466,902.97,904.88,1.91,share this with someone who's always wondered,shot_474.jpg
+467,904.88,907.33,2.45,how the Great Depression actually happened.,shot_475.jpg
+468,907.33,908.19,0.86,"And subscribe,",shot_476.jpg
+469,908.19,910.99,2.8,"because next time, I'm explaining another piece of history",shot_477.jpg
+470,910.99,912.16,1.17,that changed the world...,shot_478.jpg
+471,912.16,913.15,0.99,like you're five.,shot_479.jpg
+472,913.15,913.868458,0.718,See you there.,shot_480.jpg

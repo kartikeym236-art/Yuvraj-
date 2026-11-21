@@ -1,50 +1,50 @@
 scene,start,end,duration,line,image
 1,0.0,1.45,1.45,France's entire financial,001.png
 2,1.45,2.91,1.46,system is crashing before our,002.png
-3,2.91,4.21,1.3,"very eyes, because",003.png
-4,4.21,6.02,1.81,basically everything that could go wrong,004.png
-5,6.02,7.52,1.5,in an economy is happening,005.png
-6,7.52,8.97,1.45,in France at the exact same,006.png
-7,8.97,10.46,1.49,time. The country's debt,007.png
-8,10.46,12.57,2.11,just hit a hard {120%|one hundred twenty percent},008.png
-9,12.57,13.79,1.22,"of {GDP|g d p} , bond",009.png
-10,13.79,15.63,1.84,"yields are hitting {20-year|twenty year} highs,",010.png
-11,15.63,17.55,1.92,inflation is over {3%|three percent},011.png
-12,17.55,19.06,1.51,", and worst of all, at the same",012.png
-13,19.06,20.5,1.44,"time, unemployment just",013.png
-14,20.5,22.21,1.71,hit a high of {8.3%|eight point three percent},014.png
-15,22.21,23.96,1.75,"last month. And the thing is,",015.png
-16,23.96,25.6,1.64,France can't fix one problem,016.png
-17,25.6,27.49,1.89,without making the other ones significantly,017.png
-18,27.49,28.91,1.42,worse. The first problem,018.png
-19,28.91,30.18,1.27,"is the debt, as France",019.png
-20,30.18,31.77,1.59,is running record deficits.,020.png
-21,31.77,33.43,1.66,Right now government spending accounts,021.png
-22,33.43,35.23,1.8,for {57%|fifty seven percent} of the entire,022.png
-23,35.23,36.49,1.26,country's {GDP|g d p} .,023.png
-24,36.49,38.57,2.08,"If they cut spending to fix the deficit,",024.png
-25,38.57,40.27,1.7,"they also have to cut jobs,",025.png
-26,40.27,41.68,1.41,which will make unemployment go,026.png
-27,41.68,42.91,1.23,up even further. If they,027.png
-28,42.91,45.06,2.15,"raise rates to counteract inflation,",028.png
-29,45.06,46.7,1.64,that means bond yields will also,029.png
-30,46.7,48.16,1.46,go up and the interest they have,030.png
-31,48.16,49.67,1.51,to pay on their record debt goes,031.png
-32,49.67,50.75,1.08,up as well. This would,032.png
-33,50.75,52.38,1.63,also contract the economy,033.png
-34,52.38,54.32,1.94,and still make unemployment worse.,034.png
-35,54.32,56.75,2.43,If France wanted to fix their {8.3%|eight point three percent},035.png
-36,56.75,58.05,1.3,"unemployment, they would have",036.png
-37,58.05,59.78,1.73,to reduce rates and increase,037.png
-38,59.78,61.27,1.49,government spending to stimulate,038.png
-39,61.27,62.44,1.17,the economy. This would,039.png
-40,62.44,63.96,1.52,cause government debt to spiral,040.png
-41,63.96,65.53,1.57,even further and inflation,041.png
-42,65.53,67.46,1.93,would go up from the current {3%|three percent},042.png
-43,67.46,69.1,1.64,. So it makes sense why there are mass,043.png
-44,69.1,70.71,1.61,riots in the country right now.,044.png
-45,70.71,72.17,1.46,Citizens are hurting and want,045.png
-46,72.17,73.78,1.61,"major change, yet France's",046.png
-47,73.78,75.22,1.44,politicians are stuck,047.png
-48,75.22,76.77,1.55,because making a change could break,048.png
-49,76.77,78.065011,1.295,the system even further.,049.png
+3,2.91,4.14,1.23,"very eyes, because",003.png
+4,4.14,5.95,1.81,basically everything that could go wrong,004.png
+5,5.95,7.38,1.43,in an economy is happening,005.png
+6,7.38,8.83,1.45,in France at the exact same,006.png
+7,8.83,10.25,1.42,time. The country's debt,007.png
+8,10.25,12.36,2.11,just hit a hard {120%|one hundred twenty percent},008.png
+9,12.36,13.51,1.15,"of {GDP|g d p} , bond",009.png
+10,13.51,15.28,1.77,"yields are hitting {20-year|twenty year} highs,",010.png
+11,15.28,17.13,1.85,inflation is over {3%|three percent},011.png
+12,17.13,18.64,1.51,", and worst of all, at the same",012.png
+13,18.64,20.08,1.44,"time, unemployment just",013.png
+14,20.08,21.79,1.71,hit a high of {8.3%|eight point three percent},014.png
+15,21.79,23.41,1.62,"last month. And the thing is,",015.png
+16,23.41,25.05,1.64,France can't fix one problem,016.png
+17,25.05,26.94,1.89,without making the other ones significantly,017.png
+18,26.94,28.29,1.35,worse. The first problem,018.png
+19,28.29,29.49,1.2,"is the debt, as France",019.png
+20,29.49,31.01,1.52,is running record deficits.,020.png
+21,31.01,32.67,1.66,Right now government spending accounts,021.png
+22,32.67,34.47,1.8,for {57%|fifty seven percent} of the entire,022.png
+23,34.47,35.66,1.19,country's {GDP|g d p} .,023.png
+24,35.66,37.67,2.01,"If they cut spending to fix the deficit,",024.png
+25,37.67,39.3,1.63,"they also have to cut jobs,",025.png
+26,39.3,40.71,1.41,which will make unemployment go,026.png
+27,40.71,41.87,1.16,up even further. If they,027.png
+28,41.87,43.95,2.08,"raise rates to counteract inflation,",028.png
+29,43.95,45.59,1.64,that means bond yields will also,029.png
+30,45.59,47.05,1.46,go up and the interest they have,030.png
+31,47.05,48.56,1.51,to pay on their record debt goes,031.png
+32,48.56,49.57,1.01,up as well. This would,032.png
+33,49.57,51.13,1.56,also contract the economy,033.png
+34,51.13,53.0,1.87,and still make unemployment worse.,034.png
+35,53.0,55.43,2.43,If France wanted to fix their {8.3%|eight point three percent},035.png
+36,55.43,56.66,1.23,"unemployment, they would have",036.png
+37,56.66,58.32,1.66,to reduce rates and increase,037.png
+38,58.32,59.81,1.49,government spending to stimulate,038.png
+39,59.81,60.91,1.1,the economy. This would,039.png
+40,60.91,62.43,1.52,cause government debt to spiral,040.png
+41,62.43,63.93,1.5,even further and inflation,041.png
+42,63.93,65.79,1.86,would go up from the current {3%|three percent},042.png
+43,65.79,67.43,1.64,. So it makes sense why there are mass,043.png
+44,67.43,68.97,1.54,riots in the country right now.,044.png
+45,68.97,70.43,1.46,Citizens are hurting and want,045.png
+46,70.43,71.97,1.54,"major change, yet France's",046.png
+47,71.97,73.41,1.44,politicians are stuck,047.png
+48,73.41,74.96,1.55,because making a change could break,048.png
+49,74.96,76.25,1.29,the system even further.,049.png

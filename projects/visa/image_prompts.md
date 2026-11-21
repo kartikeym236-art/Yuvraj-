@@ -373,7 +373,7 @@ Scene: A sad person holding empty pockets, bills flying away.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
 
-Scene: A bankruptcy stamp hitting a paper.
+Scene: An empty wallet with a big zero floating above it (no text).
 ```
 
 ## 047  ·  ". So how do they make billions"
@@ -381,7 +381,7 @@ Scene: A bankruptcy stamp hitting a paper.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. NO text, letters, numbers or logos anywhere. NO people unless described.
 
-Scene: An empty wallet with a big zero floating above it (no text).
+Scene: Money pouring in every year, calendar pages flying.
 ```
 
 ## 048  ·  "every year? They"

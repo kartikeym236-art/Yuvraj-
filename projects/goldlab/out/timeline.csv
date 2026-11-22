@@ -1,0 +1,149 @@
+scene,start,end,duration,line,image
+1,0.0,1.54,1.54,Why is gold crashing?,001.png
+2,1.54,2.8,1.26,{Gold-making|Gold making} technology,002.png
+3,2.8,3.91,1.11,has arrived! Gold,003.png
+4,3.91,5.54,1.63,"is now being made in labs,",004.png
+5,5.54,6.92,1.38,"not in just one place,",005.png
+6,6.92,8.33,1.41,"but in three: India,",006.png
+7,8.33,9.24,0.91,"the {USA|u s a} ,",007.png
+8,9.24,10.2,0.96,and Europe. Gold,008.png
+9,10.2,11.25,1.05,"devotees, watch",009.png
+10,11.25,12.63,1.38,this video until the end.,010.png
+11,12.63,13.6,0.97,Number one: In,011.png
+12,13.6,14.85,1.25,"India, an inventor",012.png
+13,14.85,16.14,1.29,in Bangalore has received,013.png
+14,16.14,17.24,1.1,an Indian patent.,014.png
+15,17.24,19.19,1.95,The technique is called {GNT|g n t},015.png
+16,19.19,20.52,1.33,", using special frequencies",016.png
+17,20.52,21.62,1.1,to convert one element,017.png
+18,21.62,22.96,1.34,into another without using,018.png
+19,22.96,24.12,1.16,a nuclear reactor.,019.png
+20,24.12,25.24,1.12,"According to reports,",020.png
+21,25.24,26.35,1.11,mercury compounds were,021.png
+22,26.35,27.32,0.97,"processed, and",022.png
+23,27.32,28.5,1.18,both gold and silver were,023.png
+24,28.5,29.79,1.29,detected in the samples.,024.png
+25,29.79,30.73,0.94,Number two: In,025.png
+26,30.73,31.8,1.07,"the {US|u s} , you might have",026.png
+27,31.8,33.18,1.38,seen recently that a small,027.png
+28,33.18,34.39,1.21,San Francisco startup,028.png
+29,34.39,35.67,1.28,called Marathon Fusion,029.png
+30,35.67,36.93,1.26,announced in October,030.png
+31,36.93,38.17,1.24,that they converted mercury,031.png
+32,38.17,39.4,1.23,"into real, stable",032.png
+33,39.4,40.69,1.29,gold using fusion,033.png
+34,40.69,41.57,0.88,neutrons. Their,034.png
+35,41.57,42.65,1.08,claim boasts a rate,035.png
+36,42.65,43.76,1.11,{10|ten} times higher than,036.png
+37,43.76,44.79,1.03,"{CERN's|serns} record, with",037.png
+38,44.79,46.36,1.57,projections that a {1-gigawatt|one gigawatt},038.png
+39,46.36,47.65,1.29,fusion plant could produce,039.png
+40,47.65,48.95,1.3,"{5,000|five thousand} kilograms",040.png
+41,48.95,49.98,1.03,of gold per year.,041.png
+42,49.98,50.99,1.01,And that is today.,042.png
+43,50.99,52.09,1.1,Imagine what it will look,043.png
+44,52.09,53.21,1.12,like in {10|ten} years.,044.png
+45,53.21,54.69,1.48,Number three: {CERN|sern},045.png
+46,54.69,56.11,1.42,", the world's largest particle",046.png
+47,56.11,57.01,0.9,"physics lab,",047.png
+48,57.01,58.53,1.52,"converted lead into gold,",048.png
+49,58.53,59.62,1.09,and this has been officially,049.png
+50,59.62,60.79,1.17,measured. The science,050.png
+51,60.79,61.91,1.12,is simple: mercury,051.png
+52,61.91,63.25,1.34,has {80|eighty} protons,052.png
+53,63.25,64.84,1.59,and gold has {79|seventy nine},053.png
+54,64.84,65.98,1.14,", a difference of just one",054.png
+55,65.98,67.07,1.09,"proton. Yes,",055.png
+56,67.07,68.75,1.68,the current quantities are small,056.png
+57,68.75,70.22,1.47,and independent verification,057.png
+58,70.22,71.13,0.91,"is still pending,",058.png
+59,71.13,72.36,1.23,but look at the direction.,059.png
+60,72.36,73.45,1.09,This used to be considered,060.png
+61,73.45,74.49,1.04,"impossible, and",061.png
+62,74.49,75.77,1.28,that scarcity was gold's,062.png
+63,75.77,76.81,1.04,"foundation. Now,",063.png
+64,76.81,77.96,1.15,{CERN|sern} has demonstrated,064.png
+65,77.96,78.96,1.0,"it, and startups",065.png
+66,78.96,80.13,1.17,and inventors are pursuing,066.png
+67,80.13,81.01,0.88,it. The next step,067.png
+68,81.01,82.63,1.62,is simply scaling production.,068.png
+69,82.63,84.25,1.62,Remember {lab-grown|lab grown} diamonds?,069.png
+70,84.25,85.38,1.13,When {lab-grown|lab grown} diamonds,070.png
+71,85.38,86.72,1.34,"arrived, they disrupted",071.png
+72,86.72,88.09,1.37,"the entire diamond market,",072.png
+73,88.09,89.21,1.12,breaking the monopoly De,073.png
+74,89.21,90.34,1.13,Beers once held.,074.png
+75,90.34,91.64,1.3,Now people are asking:,075.png
+76,91.64,92.83,1.19,what will happen to the price,076.png
+77,92.83,94.16,1.33,of gold if {lab-made|lab made},077.png
+78,94.16,95.24,1.08,gold becomes widely,078.png
+79,95.24,96.27,1.03,available? Simple,079.png
+80,96.27,97.58,1.31,economics: unlimited,080.png
+81,97.58,98.91,1.33,supply leads to falling,081.png
+82,98.91,100.26,1.35,demand and collapsing,082.png
+83,100.26,101.55,1.29,prices. Technology,083.png
+84,101.55,102.5,0.95,never stops.,084.png
+85,102.5,103.99,1.49,The day gold is manufactured,085.png
+86,103.99,105.46,1.47,"at scale in laboratories,",086.png
+87,105.46,106.8,1.34,it ceases to be rare,087.png
+88,106.8,107.7,0.9,or limited. Can,088.png
+89,107.7,109.18,1.48,something easily manufactured,089.png
+90,109.18,110.38,1.2,remain a viable future,090.png
+91,110.38,111.48,1.1,asset? Bitcoin,091.png
+92,111.48,112.61,1.13,cannot be created in,092.png
+93,112.61,113.43,0.82,a lab. It is,093.png
+94,113.43,114.84,1.41,fixed forever at {21|twenty one},094.png
+95,114.84,115.8,0.96,million. Do not,095.png
+96,115.8,117.61,1.81,confuse price with technology.,096.png
+97,117.61,118.74,1.13,Price is an emotional,097.png
+98,118.74,119.98,1.24,game driven by supply,098.png
+99,119.98,120.96,0.98,"and demand, who is",099.png
+100,120.96,122.37,1.41,buying and who is selling.,100.png
+101,122.37,123.47,1.1,Take an ongoing war,101.png
+102,123.47,124.4,0.93,as an example: a,102.png
+103,124.4,125.45,1.05,house in Dubai worth,103.png
+104,125.45,127.09,1.64,{$2 million|two million dollars} yesterday,104.png
+105,127.09,128.69,1.6,might drop to {$1 million|one million dollars},105.png
+106,128.69,129.96,1.27,today if war breaks,106.png
+107,129.96,130.72,0.76,out. The house,107.png
+108,130.72,131.83,1.11,is identical; only,108.png
+109,131.83,132.89,1.06,market sentiment has,109.png
+110,132.89,133.96,1.07,changed. Focus,110.png
+111,133.96,135.01,1.05,"on fundamentals,",111.png
+112,135.01,136.11,1.1,not {short-term|short term} price,112.png
+113,136.11,137.1,0.99,movements. Ask,113.png
+114,137.1,138.33,1.23,whether the asset will hold,114.png
+115,138.33,139.66,1.33,up over time. Bitcoin,115.png
+116,139.66,141.14,1.48,itself hasn't been hacked;,116.png
+117,141.14,142.28,1.14,exchanges have.,117.png
+118,142.28,143.77,1.49,"Jewelers get compromised,",118.png
+119,143.77,145.35,1.58,but physical gold historically,119.png
+120,145.35,146.62,1.27,could not be artificially,120.png
+121,146.62,147.69,1.07,"duplicated. Now,",121.png
+122,147.69,149.08,1.39,"gold's core fundamental,",122.png
+123,149.08,150.47,1.39,"its limited, unalterable",123.png
+124,150.47,151.59,1.12,"supply, is being",124.png
+125,151.59,153.27,1.68,"challenged by lab synthesis,",125.png
+126,153.27,154.37,1.1,not to mention future,126.png
+127,154.37,155.54,1.17,autonomous mining or,127.png
+128,155.54,156.52,0.98,storage issues.,128.png
+129,156.52,157.59,1.07,"Price can recover,",129.png
+130,157.59,158.73,1.14,but broken fundamentals,130.png
+131,158.73,159.51,0.78,cannot. Just,131.png
+132,159.51,160.63,1.12,look at recent news where,132.png
+133,160.63,161.98,1.35,gold is being sold mixed,133.png
+134,161.98,163.22,1.24,with adulterated powders,134.png
+135,163.22,164.01,0.79,in India. The,135.png
+136,164.01,165.38,1.37,"era of this ""yellow stone""",136.png
+137,165.38,166.22,0.84,"is fading, and",137.png
+138,166.22,167.63,1.41,as this technology scales,138.png
+139,167.63,168.82,1.19,"over the next decade,",139.png
+140,168.82,169.96,1.14,gold's status will take,140.png
+141,169.96,170.86,0.9,a massive hit.,141.png
+142,170.86,172.23,1.37,"If you still trust gold,",142.png
+143,172.23,173.19,0.96,drop a comment.,143.png
+144,173.19,174.29,1.1,All gold loyalists,144.png
+145,174.29,175.49,1.2,are welcome to discuss.,145.png
+146,175.49,176.47,0.98,"Be sure to like,",146.png
+147,176.47,177.78,1.31,share this with friends still,147.png
+148,177.78,179.51,1.73,"investing in gold, and follow.",148.png

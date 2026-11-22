@@ -5,9 +5,10 @@ Generate each as a square (1:1) image. Save as `001.png`, `002.png`, ... in orde
 ## 001  ·  "There is also a country"
 
 ```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: HOOK, DRAMATIC: a giant golden key glowing in a hand, held up over a tiny Alpine country seen from above, castle on a cliff, dramatic sunset sky with golden light rays.
+Scene: HOOK, DRAMATIC, close-up: THE GUY's hand thrusting forward toward the viewer holding a huge glowing golden key; behind it, seen from high above, a tiny Alpine country in a green valley with a stone castle on a cliff, fiery orange-red sunset, golden light rays bursting from the key, strong contrast.
+THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
 ## 002  ·  "in the world that you can literally"
@@ -15,15 +16,16 @@ Scene: HOOK, DRAMATIC: a giant golden key glowing in a hand, held up over a tiny
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A small fairytale Alpine valley country seen from a plane window, castle and mountains.
+Scene: A large spinning world globe on a wooden stand in a study; one tiny spot in the middle of Europe glows bright gold with a little golden pin stuck in it, warm lamp light.
 ```
 
 ## 003  ·  "rent for a day,"
 
 ```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: A hotel-style 'FOR RENT' tag hanging on a tiny miniature country model with mountains.
+Scene: THE GUY at a hotel-style reception desk; behind the desk, a miniature model of an entire Alpine country (mountains, castle, river, tiny houses) sits on a shelf with a paper tag tied to it reading "FOR RENT", next to a small sign reading "1 DAY". The receptionist slides a booking form toward him.
+THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
 ## 004  ·  "and along with that,"
@@ -31,7 +33,7 @@ Scene: A hotel-style 'FOR RENT' tag hanging on a tiny miniature country model wi
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY grinning, rubbing his hands together excitedly.
+Scene: THE GUY grinning wide, rubbing his hands together, sparkles around him, standing in a hotel lobby with a suitcase beside him.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
@@ -40,7 +42,7 @@ THE GUY: young man with big curly black hair, teal-grey button-up shirt with rol
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: A smiling official handing THE GUY a huge ornate golden key on a velvet cushion.
+Scene: A smiling official in a dark suit and sash presenting THE GUY with a giant ornate golden key resting on a red velvet cushion; THE GUY's eyes are wide and his mouth open in delight.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
@@ -49,7 +51,7 @@ THE GUY: young man with big curly black hair, teal-grey button-up shirt with rol
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY holding the giant key up in front of the whole valley, castle behind.
+Scene: THE GUY standing on a high grassy viewpoint holding the giant golden key above his head with both hands; the whole small country spreads out below him: a valley, a river, villages, a castle on a cliff, snowy peaks all around.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
@@ -58,7 +60,7 @@ THE GUY: young man with big curly black hair, teal-grey button-up shirt with rol
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A cosy Alpine valley with a river, vineyards and a hilltop castle, snowy peaks.
+Scene: A cosy country tucked deep in a narrow green valley: the Rhine river winding through, vineyards on slopes, red-roofed villages, a stone castle on a forested cliff, tall snowy Alpine peaks rising on both sides like walls.
 ```
 
 ## 008  ·  "between Switzerland and"
@@ -66,7 +68,7 @@ Scene: A cosy Alpine valley with a river, vineyards and a hilltop castle, snowy 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A map with a tiny country squeezed between two big neighbours, small Swiss flag on the left side.
+Scene: A big illustrated paper map of Central Europe pinned on a wall; the large country on the left is coloured red with a white cross flag stuck in it (Switzerland), and a tiny sliver of land beside it is highlighted with a glowing gold outline.
 ```
 
 ## 009  ·  "Austria. It"
@@ -74,23 +76,25 @@ Scene: A map with a tiny country squeezed between two big neighbours, small Swis
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: The same map, small Austrian flag on the right side, the tiny country glowing in the middle.
+Scene: The same wall map; now the large country on the right is coloured red-white-red with a little Austrian flag stuck in it, and the tiny gold-outlined country is squeezed between the two big neighbours, two hands pushing in from either side.
 ```
 
 ## 010  ·  "is one of the smallest countries"
 
 ```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: A giant globe with a magnifying glass revealing a tiny dot of a country.
+Scene: THE GUY holding a big magnifying glass over a classroom globe, squinting; through the lens a minuscule country is visible, barely a dot.
+THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
 ## 011  ·  "in the world, and"
 
 ```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: A comparison of a huge country silhouette next to a tiny speck of a country.
+Scene: A world map on the floor with giant country shapes like Russia and Canada as huge puzzle pieces, and next to them one crumb-sized puzzle piece; THE GUY kneels and picks up the tiny piece between two fingers, amazed.
+THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
 ## 012  ·  "for around $70,000"
@@ -98,15 +102,16 @@ Scene: A comparison of a huge country silhouette next to a tiny speck of a count
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A stack of cash with a small price tag reading "$70,000" in a natural handwritten way.
+Scene: A polished hotel counter with a thick stack of dollar bills; a small cardboard price tag tied with string to the stack reads "$70,000" in handwritten marker.
 ```
 
 ## 013  ·  "per night, you can literally"
 
 ```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: A luxury hotel night sign with a crescent moon, a bill on a silver tray.
+Scene: A luxury bedroom at night overlooking a moonlit Alpine valley; on a silver tray on the bed lies a bill folder with a crescent moon emblem; THE GUY casually signs it with a fancy pen.
+THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
 ## 014  ·  "rent this entire country."
@@ -114,7 +119,7 @@ Scene: A luxury hotel night sign with a crescent moon, a bill on a silver tray.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY standing on a mountain with arms wide open over the whole country.
+Scene: THE GUY standing on the castle's highest tower, arms wide open, cape flapping, the entire country below him at sunrise like he owns it all.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
@@ -123,7 +128,7 @@ THE GUY: young man with big curly black hair, teal-grey button-up shirt with rol
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY sitting on a throne-like chair, smug, as if the country is his.
+Scene: THE GUY lounging on a velvet throne in a grand hall, wearing a paper crown, feet up, smug grin, servants bowing.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
@@ -132,7 +137,7 @@ THE GUY: young man with big curly black hair, teal-grey button-up shirt with rol
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: Workers putting up a street sign with THE GUY's portrait painted on it, in a quaint village street.
+Scene: A quaint cobblestone village street; two workers on ladders replace a street sign with a new sign showing THE GUY's cartoon face and his name-less portrait, THE GUY pointing at it proudly from below.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
@@ -141,7 +146,7 @@ THE GUY: young man with big curly black hair, teal-grey button-up shirt with rol
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: Custom banknotes coming off a printing press, with THE GUY's face on them.
+Scene: Inside a print shop, an old printing press rolls out fresh custom banknotes, each printed with THE GUY's grinning face in the middle; sheets of these notes hang drying on lines.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
@@ -150,7 +155,7 @@ THE GUY: young man with big curly black hair, teal-grey button-up shirt with rol
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A festive village square with banners and a party set up.
+Scene: A festive village square decorated for a special occasion: colourful bunting, balloons, a stage, a brass band playing, villagers cheering, a big cake on a table.
 ```
 
 ## 019  ·  "and a ceremonial key"
@@ -158,15 +163,16 @@ Scene: A festive village square with banners and a party set up.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A close-up of an ornate golden ceremonial key on red velvet with a wax seal ribbon.
+Scene: Extreme close-up of an ornate golden ceremonial key with jewels in its bow, lying on red velvet, tied with a red silk ribbon and a wax seal.
 ```
 
 ## 020  ·  "given by the government."
 
 ```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: Government officials in suits bowing politely while handing over the key.
+Scene: Inside a grand government building, three officials in suits with sashes bowing politely as one hands the ceremonial golden key to THE GUY under a chandelier.
+THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
 ## 021  ·  "But this is just the beginning"
@@ -174,7 +180,7 @@ Scene: Government officials in suits bowing politely while handing over the key.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY opening a giant storybook glowing with light.
+Scene: THE GUY opening a giant leather storybook on a desk; magical golden light and tiny mountains, castles and coins pop out of the pages.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
@@ -183,7 +189,7 @@ THE GUY: young man with big curly black hair, teal-grey button-up shirt with rol
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A magical sparkling Alpine village with glowing windows.
+Scene: A magical Alpine village at twilight: glowing windows, snow-dusted rooftops, fireflies, a castle lit up on the hill above, sparkles in the air.
 ```
 
 ## 023  ·  "so unique."
@@ -191,7 +197,7 @@ Scene: A magical sparkling Alpine village with glowing windows.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY amazed, jaw dropped, sparkles around him.
+Scene: THE GUY with jaw dropped and eyes huge, hands on his cheeks, sparkles and stars bursting around his head.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
@@ -200,7 +206,7 @@ THE GUY: young man with big curly black hair, teal-grey button-up shirt with rol
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: An empty army barracks with a 'closed' padlock and dust.
+Scene: An abandoned military base: an empty parade ground, rusty gate with a big padlock and chain, weeds growing, an empty flagpole, dust; not a single soldier anywhere.
 ```
 
 ## 025  ·  "here, no airport,"
@@ -208,7 +214,7 @@ Scene: An empty army barracks with a 'closed' padlock and dust.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A green meadow with a crossed-out airplane silhouette in the sky, no runway.
+Scene: A peaceful green meadow between mountains where a cow grazes; in the sky a faint dotted outline of an airplane is crossed out with a big red X; no runway, no airport.
 ```
 
 ## 026  ·  "and the crime rate is so"
@@ -216,7 +222,7 @@ Scene: A green meadow with a crossed-out airplane silhouette in the sky, no runw
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A calm sleepy village at night with a single relaxed police officer yawning.
+Scene: A sleepy village at night: a lone police officer leaning back in a chair outside a tiny police station, yawning, feet on the desk, a cat asleep on his lap.
 ```
 
 ## 027  ·  "rare that people"
@@ -224,7 +230,7 @@ Scene: A calm sleepy village at night with a single relaxed police officer yawni
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A police station with cobwebs and an empty cell.
+Scene: Inside a small police station: an empty jail cell with cobwebs on the bars, a dusty 'wanted' board with no posters, a single rubber duck on the desk.
 ```
 
 ## 028  ·  "leave their house doors unlocked."
@@ -232,7 +238,7 @@ Scene: A police station with cobwebs and an empty cell.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A row of chalet houses with their front doors wide open, flowers outside.
+Scene: A row of pretty wooden chalet houses with flower boxes; every front door is wide open, keys left hanging in the locks, a happy neighbour waving from a doorway.
 ```
 
 ## 029  ·  "The last time their army"
@@ -240,7 +246,7 @@ Scene: A row of chalet houses with their front doors wide open, flowers outside.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: Old-fashioned soldiers in 1800s uniforms marching off with muskets.
+Scene: A troop of old-fashioned soldiers in 1800s blue uniforms and tall hats, muskets on shoulders, marching out of the village while families wave goodbye.
 ```
 
 ## 030  ·  "went to war was"
@@ -248,7 +254,7 @@ Scene: Old-fashioned soldiers in 1800s uniforms marching off with muskets.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: The soldiers marching over an Alpine pass, flags waving.
+Scene: The same 1800s soldiers marching in a line over a high rocky Alpine pass, a drummer at the front, a regimental flag waving in the wind.
 ```
 
 ## 031  ·  "in 1866."
@@ -256,7 +262,7 @@ Scene: The soldiers marching over an Alpine pass, flags waving.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: An old parchment with "1866" written naturally in ink and a quill pen.
+Scene: An old yellowed parchment on a wooden desk with a quill and ink pot; on it, written in elegant ink handwriting, the year "1866", with a wax seal.
 ```
 
 ## 032  ·  "They sent 80 soldiers"
@@ -264,7 +270,7 @@ Scene: An old parchment with "1866" written naturally in ink and a quill pen.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A line of exactly a small battalion of soldiers lined up, a sign post reading "80" naturally chalked on a board.
+Scene: An 1800s army officer standing beside a group of soldiers in a row, holding up a slate chalkboard with "80" written on it in chalk.
 ```
 
 ## 033  ·  "and 81 returned,"
@@ -272,7 +278,7 @@ Scene: A line of exactly a small battalion of soldiers lined up, a sign post rea
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: The soldiers returning home cheerfully, one extra friendly soldier from another army arm-in-arm with them, chalkboard "81".
+Scene: The same officer at the village gate holding the chalkboard now showing "81", looking confused, as the soldiers return; one extra soldier in a different-coloured uniform walks among them, smiling.
 ```
 
 ## 034  ·  "because on the way back,"
@@ -280,7 +286,7 @@ Scene: The soldiers returning home cheerfully, one extra friendly soldier from a
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: The soldiers walking back along a winding mountain road at sunset.
+Scene: The 1800s soldiers walking home along a winding mountain road at sunset, tired but happy, long shadows.
 ```
 
 ## 035  ·  "they made a friend along"
@@ -288,7 +294,7 @@ Scene: The soldiers walking back along a winding mountain road at sunset.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: Two soldiers from different armies laughing and hugging on a road.
+Scene: On a dirt road, one 1800s soldier shaking hands and laughing with a stranger soldier in a different uniform, both sharing bread, a campfire nearby.
 ```
 
 ## 036  ·  "the route. In"
@@ -296,7 +302,7 @@ Scene: Two soldiers from different armies laughing and hugging on a road.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: The new friend waving happily as the village welcomes them.
+Scene: The new friend soldier arm-in-arm with the troop, all singing as they walk under a village welcome arch.
 ```
 
 ## 037  ·  "per capita income,"
@@ -304,7 +310,7 @@ Scene: The new friend waving happily as the village welcomes them.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A giant gold coin stack beside a single small person, money bars.
+Scene: A single villager standing next to an enormous stack of gold coins taller than a house, holding a little piggy bank, looking pleased.
 ```
 
 ## 038  ·  "this country is one of"
@@ -312,7 +318,7 @@ Scene: A giant gold coin stack beside a single small person, money bars.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY looking at a podium where a tiny country flag stands at number one.
+Scene: THE GUY standing beside a winners' podium in a stadium; on the first-place step stands a tiny Liechtenstein flag (blue and red with a gold crown) with a gold medal, and much bigger flags stand on second and third.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
@@ -321,7 +327,7 @@ THE GUY: young man with big curly black hair, teal-grey button-up shirt with rol
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A rich Alpine town with luxury cars and shiny buildings.
+Scene: A rich Alpine town square: sports cars parked on clean streets, glossy modern buildings with glass fronts, well-dressed people with shopping bags, mountains behind.
 ```
 
 ## 040  ·  "the world, and"
@@ -329,7 +335,7 @@ Scene: A rich Alpine town with luxury cars and shiny buildings.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A golden trophy shaped like a globe.
+Scene: A shining golden trophy shaped like a globe on a pedestal under a spotlight, confetti falling.
 ```
 
 ## 041  ·  "here there are actually more"
@@ -337,7 +343,7 @@ Scene: A golden trophy shaped like a globe.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY surprised, eyebrows raised, pointing at office buildings.
+Scene: THE GUY surprised, eyebrows raised, pointing at a small office building whose whole front wall is covered in company nameplates.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
@@ -346,7 +352,7 @@ THE GUY: young man with big curly black hair, teal-grey button-up shirt with rol
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: Countless company mailboxes and nameplates covering a whole building wall.
+Scene: Close-up of a building wall completely covered from top to bottom with hundreds of small brass company nameplates and mailboxes, a single postman looking up overwhelmed.
 ```
 
 ## 043  ·  "people. And"
@@ -354,7 +360,7 @@ Scene: Countless company mailboxes and nameplates covering a whole building wall
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A few villagers dwarfed by a towering pile of company folders.
+Scene: A seesaw scale: on one side a towering pile of company folders and briefcases, on the other side a small group of villagers, the folder side much heavier.
 ```
 
 ## 044  ·  "the royal family that runs"
@@ -362,7 +368,7 @@ Scene: A few villagers dwarfed by a towering pile of company folders.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A regal royal family portrait in a gilded frame, everyone in fine clothes.
+Scene: A regal royal family portrait in a giant gilded frame hanging in a palace hall: a prince, princess and children in fine clothes and sashes.
 ```
 
 ## 045  ·  "this country is"
@@ -370,7 +376,7 @@ Scene: A regal royal family portrait in a gilded frame, everyone in fine clothes
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A royal crest banner over a palace hall.
+Scene: A royal crest banner with a golden crown hanging over a marble palace hall, red carpet leading to a throne.
 ```
 
 ## 046  ·  "even richer than the British"
@@ -378,7 +384,7 @@ Scene: A royal crest banner over a palace hall.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A huge treasure vault full of gold and art paintings.
+Scene: A massive royal treasure vault: mountains of gold bars, chests of jewels and famous-looking old paintings stacked against the walls.
 ```
 
 ## 047  ·  "royal family."
@@ -386,7 +392,7 @@ Scene: A huge treasure vault full of gold and art paintings.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A grand London-style palace with a royal guard in a bearskin hat, looking small next to a bigger treasure pile.
+Scene: A balance scale on a table: on the left, a small pile of treasure with a little British crown on top; on the right, a much bigger pile of gold with a Liechtenstein crown on top, the right side heavier.
 ```
 
 ## 048  ·  "The prince here still"
@@ -394,7 +400,7 @@ Scene: A grand London-style palace with a royal guard in a bearskin hat, looking
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE PRINCE waving from a castle balcony.
+Scene: THE PRINCE standing on a stone castle balcony, waving down at the town, flags flying from the towers.
 THE PRINCE: older man with grey hair and glasses, dark suit, small royal sash.
 ```
 
@@ -403,7 +409,7 @@ THE PRINCE: older man with grey hair and glasses, dark suit, small royal sash.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A real medieval stone castle with towers on a forested cliff.
+Scene: A real medieval stone castle with round towers and red-roofed walls, perched on a forested rocky cliff, blue sky.
 ```
 
 ## 050  ·  "built on a mountain right"
@@ -411,7 +417,7 @@ Scene: A real medieval stone castle with towers on a forested cliff.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: The castle perched high on a steep mountain rock, clouds around.
+Scene: A dramatic low-angle view of the castle sitting high on a steep mountain rock face, clouds drifting below it.
 ```
 
 ## 051  ·  "above the capital,"
@@ -419,7 +425,7 @@ Scene: The castle perched high on a steep mountain rock, clouds around.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A small capital town below a towering cliff castle.
+Scene: A small capital town with church spires and neat streets directly below a towering cliff, the castle right above the rooftops.
 ```
 
 ## 052  ·  "and he has more real powers"
@@ -427,7 +433,7 @@ Scene: A small capital town below a towering cliff castle.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE PRINCE at a big desk signing a law with a quill, confident.
+Scene: THE PRINCE seated at a big oak desk signing a law document with a quill, ministers standing obediently beside him, confident expression.
 THE PRINCE: older man with grey hair and glasses, dark suit, small royal sash.
 ```
 
@@ -436,7 +442,7 @@ THE PRINCE: older man with grey hair and glasses, dark suit, small royal sash.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: Several other European kings and queens looking small and powerless at a table.
+Scene: A long table of other European kings and queens in crowns sitting with empty hands, shrugging, while their papers have a big 'NO POWER' stamp.
 ```
 
 ## 054  ·  "in Europe. This"
@@ -444,7 +450,7 @@ Scene: Several other European kings and queens looking small and powerless at a 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A map of Europe with a crown pinned on one tiny country.
+Scene: A map of Europe on a table with a single golden crown placed exactly on one tiny spot between Switzerland and Austria, glowing.
 ```
 
 ## 055  ·  "country is so small"
@@ -452,7 +458,7 @@ Scene: A map of Europe with a crown pinned on one tiny country.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A tiny country fitting inside a park on a map.
+Scene: A map where the whole country fits inside the outline of a city park, with a tiny walking path drawn across it.
 ```
 
 ## 056  ·  "that you can walk across"
@@ -460,7 +466,7 @@ Scene: A tiny country fitting inside a park on a map.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY hiking with a backpack across green hills.
+Scene: THE GUY hiking with a backpack and walking stick along a trail on green hills, smiling, the castle in the distance.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
@@ -469,7 +475,7 @@ THE GUY: young man with big curly black hair, teal-grey button-up shirt with rol
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY walking past a border marker stone, the whole valley behind him.
+Scene: THE GUY stepping past a stone border marker post, looking back over his shoulder at the whole valley behind him, a small backpack.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
@@ -478,7 +484,7 @@ THE GUY: young man with big curly black hair, teal-grey button-up shirt with rol
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A big clock face showing just a few hours passing, sun moving.
+Scene: A big round clock on a mountain signpost, hands moving forward a few hours, sun moving from morning to afternoon across the sky.
 ```
 
 ## 059  ·  "Yet, the people here"
@@ -486,7 +492,7 @@ Scene: A big clock face showing just a few hours passing, sun moving.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: Happy villagers having a picnic in an Alpine meadow.
+Scene: Happy villagers having a picnic on a sunny Alpine meadow, checkered blanket, cheese and bread, kids playing.
 ```
 
 ## 060  ·  "enjoy some of the highest"
@@ -494,7 +500,7 @@ Scene: Happy villagers having a picnic in an Alpine meadow.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A family in a beautiful modern chalet with mountain views.
+Scene: A family relaxing in a beautiful modern chalet living room with huge windows showing snowy mountains, a fireplace, cosy furniture.
 ```
 
 ## 061  ·  "standards of living in the world."
@@ -502,7 +508,7 @@ Scene: A family in a beautiful modern chalet with mountain views.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A peaceful perfect Alpine village with clean streets and smiling people.
+Scene: A spotless peaceful Alpine village: clean streets, flower boxes, smiling people cycling, a clear river, castle above.
 ```
 
 ## 062  ·  "The name of this country"
@@ -510,7 +516,7 @@ Scene: A peaceful perfect Alpine village with clean streets and smiling people.
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY looking at the viewer, about to reveal a secret.
+Scene: THE GUY leaning toward the viewer with a finger to his lips, a sly smile, as if about to reveal a secret.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
@@ -519,5 +525,5 @@ THE GUY: young man with big curly black hair, teal-grey button-up shirt with rol
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: Grand final shot: the Liechtenstein flag waving over the hilltop castle and valley at golden hour, with the word "LIECHTENSTEIN" naturally carved on a stone sign.
+Scene: Grand final shot: the blue-and-red Liechtenstein flag with its gold crown waving above the hilltop castle at golden hour, the valley below; a carved stone sign in the foreground reads "LIECHTENSTEIN".
 ```

@@ -5,10 +5,9 @@ Generate each as a square (1:1) image. Save as `001.png`, `002.png`, ... in orde
 ## 001  ·  "There is also a country"
 
 ```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: HOOK, DRAMATIC, close-up: THE GUY's hand thrusting forward toward the viewer holding a huge glowing golden key; behind it, seen from high above, a tiny Alpine country in a green valley with a stone castle on a cliff, fiery orange-red sunset, golden light rays bursting from the key, strong contrast.
-THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
+Scene: HOOK, DRAMATIC, mystery: a close-up illustrated map of Central Europe on old paper, Switzerland and Austria in soft muted colours with borders; the small territory of Liechtenstein between them is completely filled solid black, like a censored blacked-out shape, and inside that black shape sits a big glowing white question mark. Dramatic spotlight on the black shape, edges of the map in shadow, strong contrast. No country names written.
 ```
 
 ## 002  ·  "in the world that you can literally"

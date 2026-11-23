@@ -384,8 +384,8 @@ def build_ass(title, script, al, speed, dur, out, captions="classic", font=None,
         i += len(ws)
         nxt = al[i][1] / speed if i < len(al) else dur
         end = min(nxt if nxt - e < 0.25 else e + 0.15, nxt)
-        # numbers keep inner commas (1,400); other words lose , . : ; quotes and dashes
-        w = re.sub(r"[,.:;\"“”—–]+$|^[\"“]", "", disp) if re.search(r"\d", disp) else clean(disp)
+        # numbers keep inner commas (1,400) and domains keep inner dots (revana.si); other words lose , . : ; quotes and dashes
+        w = re.sub(r"[,.:;\"“”—–]+$|^[\"“]", "", disp) if re.search(r"\d|\w\.\w", disp) else clean(disp)
         ev.append(f"Dialogue: 1,{ass_time(s)},{ass_time(end)},Cap,,0,0,0,,"
                   + (f"{{\\pos({W//2},{IMG_Y + IMG + 75 if cap_pos == 'below' else IMG_Y + IMG//2})\\fscx85\\fscy85\\t(0,80,\\fscx100\\fscy100)}}{w.upper()}"
                      if classic else f"{{\\pos({W//2},{IMG_Y + IMG//2})}}{w}" if yellow

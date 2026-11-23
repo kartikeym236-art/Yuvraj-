@@ -1,4 +1,4 @@
-# How Jensen Got His Throne Back: image prompts (149)
+# How Jensen Got His Throne Back: image prompts (128)
 
 Generate each as a square (1:1) image. Save as `001.png`, `002.png`, ... in order.
 
@@ -28,12 +28,12 @@ Scene: A board member placing a shiny nameplate reading "CEO" back on the big de
 THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
 ```
 
-## 004  ·  "Remember we made a video"
+## 004  ·  "Remember our video"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY pointing at an old video thumbnail pinned on a wall that shows THE CHIP BOSS with a big return arrow.
+Scene: THE GUY pointing at an old video thumbnail pinned on a wall showing THE CHIP BOSS with a big return arrow.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans. THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
 ```
 
@@ -45,7 +45,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A calendar flipping back a few days, an old video playing on a laptop.
 ```
 
-## 006  ·  "Jensen Huang would return?"
+## 006  ·  "he would return?"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
@@ -54,82 +54,15 @@ Scene: A big curved chalk arrow pointing back to a CEO chair, THE CHIP BOSS walk
 THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
 ```
 
-## 007  ·  "Jensen Huang is having"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
-
-Scene: THE CHIP BOSS walking up a driveway carrying a suitcase toward a glowing green office building.
-THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
-```
-
-## 008  ·  "a homecoming."
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
-
-Scene: Employees holding a banner reading "WELCOME HOME" with balloons as THE CHIP BOSS arrives.
-THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
-```
-
-## 009  ·  "It hasn't even been a week"
+## 007  ·  "People said it was fake,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A calendar with fewer than seven days crossed off, a stopwatch beside it.
+Scene: A person stamping a big red "FAKE" on a news printout, others laughing and pointing.
 ```
 
-## 010  ·  "since he resigned,"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
-
-Scene: THE CHIP BOSS sadly placing a resignation letter on a desk.
-THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
-```
-
-## 011  ·  "and his game to become"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
-
-Scene: A chessboard where a king piece wearing a tiny leather jacket moves forward.
-```
-
-## 012  ·  "Nvidia's CEO"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
-
-Scene: A big leather CEO chair under a spotlight with a green chip logo behind it.
-```
-
-## 013  ·  "again has already"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
-
-Scene: A stopwatch already running, hands moving fast.
-```
-
-## 014  ·  "started. People"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
-
-Scene: A starting pistol firing smoke at a race start line, a crowd watching.
-```
-
-## 015  ·  "said it was fake,"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
-
-Scene: A person stamping a big red "FAKE" on a news printout, others laughing.
-```
-
-## 016  ·  "that it would never happen."
+## 008  ·  "that it would never happen."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -137,58 +70,58 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A crowd shaking their heads with crossed arms, a speech bubble reading "NEVER".
 ```
 
-## 017  ·  "This video is for you"
+## 009  ·  "This video is for you."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY pointing straight at the viewer.
+Scene: THE GUY pointing straight at the viewer, smirking.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
-## 018  ·  "people. First,"
+## 010  ·  "First, understand"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY standing in front of the crowd of doubters, smirking, holding up one finger.
+Scene: THE GUY holding up one finger in front of a big strategy game board.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
-## 019  ·  "understand the game."
+## 011  ·  "the game. Just"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY holding a magnifying glass over a big strategy game board with pieces and arrows.
+Scene: THE GUY holding a magnifying glass over the game board's pieces and arrows.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
-## 020  ·  "Just six days"
+## 012  ·  "days ago,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A calendar with a date six days earlier circled.
+Scene: A calendar with a date a few days earlier circled.
 ```
 
-## 021  ·  "ago, this same"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
-
-Scene: The board members at the long table, the chairman standing up.
-```
-
-## 022  ·  "board clearly said"
+## 013  ·  "this same board clearly"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: The board chairman at a podium with a stern face, crossing his arms.
+Scene: The board chairman standing at a podium in front of the board members.
 ```
 
-## 023  ·  "we will never take Jensen"
+## 014  ·  "said, we will"
+
+```
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
+
+Scene: The chairman with a stern face crossing his arms.
+```
+
+## 015  ·  "never take Jensen"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -196,7 +129,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: The chairman slamming a gavel beside a paper stamped "NEVER".
 ```
 
-## 024  ·  "Huang back."
+## 016  ·  "Huang back."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
@@ -205,7 +138,7 @@ Scene: A door locked with a heavy padlock, THE CHIP BOSS standing outside it.
 THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
 ```
 
-## 025  ·  "And today,"
+## 017  ·  "And today,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -213,7 +146,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A calendar showing "Today" circled in green.
 ```
 
-## 026  ·  "that same board voted"
+## 018  ·  "the same board voted"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -221,7 +154,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: The same board members at the long table raising their hands to vote.
 ```
 
-## 027  ·  "unanimously and"
+## 019  ·  "unanimously and made"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -229,34 +162,34 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Every single hand raised, a vote counter showing all yes.
 ```
 
-## 028  ·  "has made him CEO"
+## 020  ·  "him CEO and president"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE CHIP BOSS being handed a nameplate reading "CEO".
+Scene: THE CHIP BOSS handed two nameplates reading "CEO" and "President".
 THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
 ```
 
-## 029  ·  "and president again."
+## 021  ·  "again. So what"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE CHIP BOSS handed a second nameplate reading "President", shaking hands with the chairman.
+Scene: THE CHIP BOSS shaking hands with the chairman, smiling.
 THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
 ```
 
-## 030  ·  "What happened in six days?"
+## 022  ·  "changed? Money"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY puzzled, six calendar pages floating around him.
+Scene: THE GUY puzzled, calendar pages floating around him.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
-## 031  ·  "Money talks,"
+## 023  ·  "talks, my friend."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -264,7 +197,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A stack of cash with a mouth talking, a speech bubble with a dollar sign.
 ```
 
-## 032  ·  "my friend. After"
+## 024  ·  "After Jensen left,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
@@ -273,7 +206,7 @@ Scene: THE GUY winking, rubbing his fingers together like money.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
-## 033  ·  "Jensen left,"
+## 025  ·  "Nvidia's stock fell"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
@@ -282,15 +215,15 @@ Scene: THE CHIP BOSS walking out of the office carrying a box of belongings.
 THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
 ```
 
-## 034  ·  "Nvidia's stock fell"
+## 026  ·  "almost 23%"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A stock chart crashing down with a big red arrow, a green chip logo on the chart.
+Scene: A stock chart crashing down with a big red arrow, a green chip logo on it.
 ```
 
-## 035  ·  "almost 23%"
+## 027  ·  "in one week."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -298,7 +231,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A chart label reading "-23%" in big red letters.
 ```
 
-## 036  ·  "in one week."
+## 028  ·  "Its worst week since"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -306,7 +239,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A calendar showing one week, red crosses on each day.
 ```
 
-## 037  ·  "This was Nvidia's worst"
+## 029  ·  "2008."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -314,7 +247,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Traders holding their heads in panic at their desks.
 ```
 
-## 038  ·  "week since 2008."
+## 030  ·  "From the October peak,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -322,7 +255,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: An old newspaper dated 2008 next to a new one, both showing crashing charts.
 ```
 
-## 039  ·  "From the October peak,"
+## 031  ·  "almost $2.7 trillion"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -330,7 +263,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A mountain-shaped chart with a flag reading "October" at the peak.
 ```
 
-## 040  ·  "almost $2.7 trillion"
+## 032  ·  "got wiped out."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -338,7 +271,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A giant stack of money labelled "$2.7 trillion" falling off a cliff.
 ```
 
-## 041  ·  "got wiped out from Nvidia's"
+## 033  ·  "Almost half the company's"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -346,15 +279,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A giant broom sweeping money away from a building with a green chip logo.
 ```
 
-## 042  ·  "stock. Almost"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
-
-Scene: Wall Street screens full of red numbers.
-```
-
-## 043  ·  "half of the company's value"
+## 034  ·  "value,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -362,7 +287,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A pie chart of the company with half of it crumbling away.
 ```
 
-## 044  ·  "got wiped out,"
+## 035  ·  "gone. Then the pressure"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -370,32 +295,23 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A company building half fading into thin air.
 ```
 
-## 045  ·  "disappeared."
+## 036  ·  "came. A petition"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A puff of smoke where the money used to be.
+Scene: A puff of smoke where the money used to be, a pressure gauge needle swinging into red.
 ```
 
-## 046  ·  "Think about that."
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
-
-Scene: THE GUY tapping his forehead, thinking.
-THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
-```
-
-## 047  ·  "Then pressure came."
+## 037  ·  "signed by more than two"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A pressure gauge needle swinging into the red.
+Scene: A pressure gauge exploding with steam.
 ```
 
-## 048  ·  "A petition was signed"
+## 038  ·  "hundred thousand people."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -403,23 +319,15 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A giant petition scroll with countless signatures unrolling down a street.
 ```
 
-## 049  ·  "by more than two lakh"
+## 039  ·  "Elon Musk said it"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A huge crowd queuing to sign the petition, a counter showing "2 lakh+".
+Scene: A huge crowd queuing to sign, a counter showing "200,000+".
 ```
 
-## 050  ·  "people. Elon"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
-
-Scene: The crowd cheering with signs reading "BRING HIM BACK".
-```
-
-## 051  ·  "Musk said it will be my"
+## 040  ·  "would be his honor to hire"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
@@ -428,16 +336,16 @@ Scene: THE ROCKET GUY on a stage speaking into a microphone, smiling.
 THE ROCKET GUY: tall man with short dark brown hair, black t-shirt, jeans.
 ```
 
-## 052  ·  "honor to hire Jensen"
+## 041  ·  "Jensen Huang."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE ROCKET GUY bowing with his hand on his heart toward THE CHIP BOSS.
-THE ROCKET GUY: tall man with short dark brown hair, black t-shirt, jeans. THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
+Scene: THE ROCKET GUY bowing with his hand on his heart.
+THE ROCKET GUY: tall man with short dark brown hair, black t-shirt, jeans.
 ```
 
-## 053  ·  "Huang. And last"
+## 042  ·  "And Trump himself posted"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
@@ -446,15 +354,7 @@ Scene: THE ROCKET GUY shaking hands with THE CHIP BOSS.
 THE ROCKET GUY: tall man with short dark brown hair, black t-shirt, jeans. THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
 ```
 
-## 054  ·  "week itself,"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
-
-Scene: A calendar page showing last week.
-```
-
-## 055  ·  "Trump himself posted"
+## 043  ·  "that the board should bring him"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
@@ -463,24 +363,24 @@ Scene: THE BLOND LEADER typing on his phone at his desk, a post bubble appearing
 THE BLOND LEADER: older heavyset man with swooping blond hair, navy suit, long red tie.
 ```
 
-## 056  ·  "that the board should hire"
+## 044  ·  "back, that it would"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A phone screen showing a post with a picture of the board and an arrow toward a CEO chair.
+Scene: A phone screen showing a post with an arrow pointing the board toward a CEO chair.
 ```
 
-## 057  ·  "Jensen Huang back;"
+## 045  ·  "be best for the company"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE BLOND LEADER pointing toward THE CHIP BOSS in the CEO chair.
+Scene: THE BLOND LEADER pointing toward THE CHIP BOSS.
 THE BLOND LEADER: older heavyset man with swooping blond hair, navy suit, long red tie. THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
 ```
 
-## 058  ·  "it would be best for both"
+## 046  ·  "and for America."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
@@ -489,7 +389,7 @@ Scene: THE BLOND LEADER giving a big thumbs up.
 THE BLOND LEADER: older heavyset man with swooping blond hair, navy suit, long red tie.
 ```
 
-## 059  ·  "the company and America."
+## 047  ·  "The very next day,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -497,7 +397,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A green chip logo and an American flag side by side.
 ```
 
-## 060  ·  "And the very next day,"
+## 048  ·  "Jensen was back."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -505,25 +405,16 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A calendar page flipping to the next day.
 ```
 
-## 061  ·  "Jensen Huang made a reentry,"
+## 049  ·  "And the spy matter?"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE CHIP BOSS walking back in through revolving doors.
+Scene: THE CHIP BOSS walking back in through revolving doors, arms up.
 THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
 ```
 
-## 062  ·  "made a comeback."
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
-
-Scene: THE CHIP BOSS throwing his arms up in celebration in the lobby.
-THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
-```
-
-## 063  ·  "And you'll remember the spy"
+## 050  ·  "The board says it took"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -531,7 +422,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A file folder marked "SPY" on a desk, a shadowy agent with a magnifying glass over it.
 ```
 
-## 064  ·  "matter. The board"
+## 051  ·  "input from senior"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -539,15 +430,15 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: The board chairman at a podium speaking.
 ```
 
-## 065  ·  "said they took input"
+## 052  ·  "people in the US"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: Board members listening on a speakerphone call.
+Scene: Board members listening to a speakerphone call.
 ```
 
-## 066  ·  "from senior people in"
+## 053  ·  "government, and"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -555,15 +446,15 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Senior officials in suits around a table.
 ```
 
-## 067  ·  "the US government,"
+## 054  ·  "with Jensen back,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A government building with pillars and an American flag, a phone line connecting it to the boardroom.
+Scene: A government building with pillars and an American flag, a phone line to the boardroom.
 ```
 
-## 068  ·  "and with Jensen coming"
+## 055  ·  "there is no national"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
@@ -572,7 +463,7 @@ Scene: THE CHIP BOSS walking through a security gate.
 THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
 ```
 
-## 069  ·  "back, there is no"
+## 056  ·  "security risk."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -580,7 +471,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A security scanner showing a big green check mark.
 ```
 
-## 070  ·  "national security risk."
+## 057  ·  "The investigation is"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -588,7 +479,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A shield reading "National Security" with a green tick.
 ```
 
-## 071  ·  "Yes, the investigation"
+## 058  ·  "still open,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -596,7 +487,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: An investigator at a desk going through files.
 ```
 
-## 072  ·  "hasn't closed yet;"
+## 059  ·  "and it will run its course."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -604,31 +495,15 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: An open case file with a red "OPEN" stamp.
 ```
 
-## 073  ·  "it will run completely,"
+## 060  ·  "But remember what we"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A long conveyor belt of files moving forward.
+Scene: An hourglass with sand still falling beside the files.
 ```
 
-## 074  ·  "as long as it runs,"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
-
-Scene: An hourglass with sand still falling.
-```
-
-## 075  ·  "it will run."
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
-
-Scene: A clock ticking on, hands moving.
-```
-
-## 076  ·  "Remember what we said?"
+## 061  ·  "said. This"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
@@ -637,15 +512,24 @@ Scene: THE GUY pointing back at an old video on a screen.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
-## 077  ·  "This isn't just Nvidia's"
+## 062  ·  "was never just Nvidia's"
+
+```
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
+
+Scene: THE GUY raising a finger, serious.
+THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
+```
+
+## 063  ·  "loss. Nvidia's"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A cracked green chip logo.
+Scene: A green chip logo cracking.
 ```
 
-## 078  ·  "loss. This is"
+## 064  ·  "chips power the entire"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -653,23 +537,23 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A single red falling bar on a chart.
 ```
 
-## 079  ·  "a loss for the entire"
+## 065  ·  "AI industry,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A row of dominoes falling one after another.
+Scene: Glowing green computer chips on a circuit board, light flowing out of them.
 ```
 
-## 080  ·  "AI industry on"
+## 066  ·  "the industry the American"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: An AI industry city skyline with robots and data centres shaking.
+Scene: A city of AI data centres and robots all powered by cables from one giant chip.
 ```
 
-## 081  ·  "which the American economy"
+## 067  ·  "economy is standing"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -677,15 +561,127 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: The American economy drawn as a city with an American flag.
 ```
 
-## 082  ·  "is currently standing."
+## 068  ·  "on right now."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A giant glowing AI chip holding up that city on its back like a pillar.
+Scene: A giant glowing chip holding up that city on its back like a pillar.
 ```
 
-## 083  ·  "Result?"
+## 069  ·  "Every AI video"
+
+```
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
+
+Scene: A phone screen in a hand scrolling through colourful AI-made videos.
+```
+
+## 070  ·  "you scroll past today,"
+
+```
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
+
+Scene: Many phones scrolling AI videos on a bus, everyone watching.
+```
+
+## 071  ·  "including the one you're watching,"
+
+```
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
+
+Scene: A phone showing this very cartoon-style reel playing, a person watching it.
+```
+
+## 072  ·  "runs on those chips."
+
+```
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
+
+Scene: A data centre full of glowing green chips humming.
+```
+
+## 073  ·  "That's why platforms"
+
+```
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
+
+Scene: A creator at a desk with a laptop, a sleek AI video website open.
+```
+
+## 074  ·  "like revana.si"
+
+```
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
+
+Scene: Close-up of the laptop showing a clean website with the name "revana.si" at the top.
+```
+
+## 075  ·  "exist, giving"
+
+```
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
+
+Scene: The creator smiling as AI video clips come out of the laptop screen like magic.
+```
+
+## 076  ·  "creators models like"
+
+```
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
+
+Scene: A menu on the screen listing video models, the creator choosing one.
+```
+
+## 077  ·  "Seedance,"
+
+```
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
+
+Scene: A glowing tile reading "Seedance" on the screen.
+```
+
+## 078  ·  "Kling and Veo at"
+
+```
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
+
+Scene: Two more tiles reading "Kling" and "Veo" lighting up.
+```
+
+## 079  ·  "some of the lowest prices"
+
+```
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
+
+Scene: A price tag with a small low price, a happy creator holding a piggy bank.
+```
+
+## 080  ·  "out there. When"
+
+```
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
+
+Scene: The creator giving a thumbs up at the laptop.
+```
+
+## 081  ·  "Nvidia shakes,"
+
+```
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
+
+Scene: A giant chip shaking like an earthquake.
+```
+
+## 082  ·  "all of it shakes."
+
+```
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
+
+Scene: Everything on the city built on the chip shaking.
+```
+
+## 083  ·  "So the result?"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -693,7 +689,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A big question mark over a news screen.
 ```
 
-## 084  ·  "As soon as the news came"
+## 084  ·  "The moment the news broke,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -701,40 +697,23 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A breaking news banner on many TVs at once.
 ```
 
-## 085  ·  "out, the stock"
+## 085  ·  "the stock jumped more"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A stock chart rocketing upward, a green arrow.
+Scene: A stock chart rocketing upward, green arrow.
 ```
 
-## 086  ·  "jumped by more than 25%."
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
-
-Scene: A big green "+25%" on the chart.
-```
-
-## 087  ·  "25%,"
+## 086  ·  "than 25%."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: The "+25%" glowing on a giant city billboard.
+Scene: A big green "+25%" glowing on a city billboard.
 ```
 
-## 088  ·  "think about that."
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
-
-Scene: THE GUY with eyes wide in amazement.
-THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
-```
-
-## 089  ·  "But there is one truth"
+## 087  ·  "But here's the part nobody"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -742,7 +721,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A secret envelope marked "TRUTH".
 ```
 
-## 090  ·  "nobody tells."
+## 088  ·  "tells you. On"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -750,7 +729,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A man with a finger on his lips hiding something behind his back.
 ```
 
-## 091  ·  "The day Jensen resigned,"
+## 089  ·  "the very day Jensen"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
@@ -759,7 +738,7 @@ Scene: THE CHIP BOSS sadly walking out with a box.
 THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
 ```
 
-## 092  ·  "on that very day,"
+## 090  ·  "resigned, according"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -767,7 +746,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A calendar with that same day circled.
 ```
 
-## 093  ·  "according to a Reuters report,"
+## 091  ·  "to a Reuters report,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -775,7 +754,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A newspaper with a header reading "Reuters".
 ```
 
-## 094  ·  "big options traders"
+## 092  ·  "big options traders"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -783,7 +762,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Big traders in fancy suits at trading screens.
 ```
 
-## 095  ·  "were building positions"
+## 093  ·  "were already building positions"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -791,7 +770,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: The traders stacking a tower of blocks.
 ```
 
-## 096  ·  "for a recovery."
+## 094  ·  "for a recovery."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -799,23 +778,15 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A chart arrow curving back up.
 ```
 
-## 097  ·  "Before that,"
+## 095  ·  "One trader opened a bullish"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A clock rewinding.
+Scene: A trader in a dark office pressing a big buy button, a bull figurine on the desk.
 ```
 
-## 098  ·  "one trader opened"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
-
-Scene: A trader in a dark office pressing a big buy button.
-```
-
-## 099  ·  "a bullish option trade"
+## 096  ·  "bet worth more than"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -823,7 +794,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A bull charging up a chart.
 ```
 
-## 100  ·  "worth more than $100 million."
+## 097  ·  "$100 million."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -831,16 +802,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A briefcase overflowing with money labelled "$100 million".
 ```
 
-## 101  ·  "Meaning, when the common"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
-
-Scene: THE GUY explaining with his hands.
-THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
-```
-
-## 102  ·  "man was panicking and"
+## 098  ·  "So while the common man"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -848,7 +810,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Ordinary people panicking in the street, staring at phones.
 ```
 
-## 103  ·  "getting out, big players"
+## 099  ·  "was panicking and selling,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -856,7 +818,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: People running out of a stock market building.
 ```
 
-## 104  ·  "were quietly building positions."
+## 100  ·  "big players were quietly"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -864,7 +826,15 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Rich traders in a quiet room calmly stacking shares.
 ```
 
-## 105  ·  "There is no proof of insider"
+## 101  ·  "buying. There's"
+
+```
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
+
+Scene: Rich men smugly buying shares.
+```
+
+## 102  ·  "no proof of insider"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -872,7 +842,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A magnifying glass over an empty table with no evidence.
 ```
 
-## 106  ·  "trading, but"
+## 103  ·  "trading. But"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -880,7 +850,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A judge's gavel resting on a closed book.
 ```
 
-## 107  ·  "this theory of mine,"
+## 104  ·  "you know the pattern."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
@@ -889,97 +859,15 @@ Scene: THE GUY with a thought bubble full of conspiracy strings.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
-## 108  ·  "you people know it too,"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
-
-Scene: THE GUY winking at the viewer.
-THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
-```
-
-## 109  ·  "yaar. They"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
-
-Scene: THE GUY shrugging, smiling.
-THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
-```
-
-## 110  ·  "must have already reinstated"
+## 105  ·  "Create panic,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: Board members secretly signing papers in a dark room.
+Scene: Rich men lighting a fire labelled "PANIC" in a market.
 ```
 
-## 111  ·  "him, released the news"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
-
-Scene: A press release coming out of a printer.
-```
-
-## 112  ·  "just now,"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
-
-Scene: A clock showing "now".
-```
-
-## 113  ·  "and big people had"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
-
-Scene: Rich men already holding stacks of shares.
-```
-
-## 114  ·  "already built positions"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
-
-Scene: Rich men building a wall of shares.
-```
-
-## 115  ·  "beforehand."
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
-
-Scene: Rich men smugly sipping coffee.
-```
-
-## 116  ·  "That's how they do it."
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
-
-Scene: A puppet master pulling strings over a stock market.
-```
-
-## 117  ·  "They create panic in"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
-
-Scene: Rich men lighting a fire labelled "PANIC".
-```
-
-## 118  ·  "the market, the common"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
-
-Scene: A busy stock market floor in chaos.
-```
-
-## 119  ·  "man exits,"
+## 106  ·  "the small investor exits,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -987,7 +875,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A small investor walking out the door sadly.
 ```
 
-## 120  ·  "and big people build"
+## 107  ·  "and the big money buys"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -995,15 +883,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Rich men catching falling shares in nets.
 ```
 
-## 121  ·  "positions there and"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
-
-Scene: Rich men piling up shares.
-```
-
-## 122  ·  "buy the stocks cheap."
+## 108  ·  "cheap. Now look at this"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -1011,25 +891,16 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: Shares with a cheap price tag being bought.
 ```
 
-## 123  ·  "Okay. Now"
+## 109  ·  "man. He was"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY clapping once.
-THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
+Scene: THE GUY pointing at a framed portrait of THE CHIP BOSS.
+THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans. THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
 ```
 
-## 124  ·  "look at the common man."
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
-
-Scene: THE GUY pointing at a portrait on the wall.
-THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
-```
-
-## 125  ·  "Look at this man,"
+## 110  ·  "once a dishwasher"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
@@ -1038,7 +909,7 @@ Scene: A framed portrait of THE CHIP BOSS.
 THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
 ```
 
-## 126  ·  "he was once a dishwasher"
+## 111  ·  "at a Denny's restaurant."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
@@ -1047,7 +918,7 @@ Scene: A young THE CHIP BOSS washing dishes in a diner kitchen.
 THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
 ```
 
-## 127  ·  "at a Denny's restaurant,"
+## 112  ·  "In 33 years,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -1055,7 +926,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A diner at night with a sign reading "Denny's".
 ```
 
-## 128  ·  "then in 33 years"
+## 113  ·  "he built one of the most valuable"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -1063,7 +934,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A calendar with years flipping by quickly.
 ```
 
-## 129  ·  "he built one of the world's"
+## 114  ·  "companies in the world."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
@@ -1072,7 +943,7 @@ Scene: THE CHIP BOSS building a giant tower of chips.
 THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
 ```
 
-## 130  ·  "most valuable companies."
+## 115  ·  "And he was out for just"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -1080,7 +951,7 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A huge glowing tech building with a green chip logo.
 ```
 
-## 131  ·  "And he stayed out for just"
+## 116  ·  "days before taking"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
@@ -1089,15 +960,15 @@ Scene: THE CHIP BOSS sitting on a bench outside, looking at his watch.
 THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
 ```
 
-## 132  ·  "11 days and"
+## 117  ·  "back the CEO's chair."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: A calendar with "11 days" crossed off.
+Scene: A calendar with a few days crossed off.
 ```
 
-## 133  ·  "came back to the CEO's"
+## 118  ·  "Salute. This"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
@@ -1106,7 +977,7 @@ Scene: THE CHIP BOSS sitting back in the CEO chair, smiling.
 THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
 ```
 
-## 134  ·  "chair. Salute,"
+## 119  ·  "guy is a legend."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
@@ -1115,43 +986,7 @@ Scene: THE GUY saluting.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
-## 135  ·  "yaar. I mean,"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
-
-Scene: THE GUY smiling with his hand on his heart.
-THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
-```
-
-## 136  ·  "you see above with Jensen"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
-
-Scene: THE CHIP BOSS and THE ROCKET GUY standing on a stage together.
-THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt. THE ROCKET GUY: tall man with short dark brown hair, black t-shirt, jeans.
-```
-
-## 137  ·  "Huang and with Elon"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
-
-Scene: THE CHIP BOSS and THE ROCKET GUY laughing together.
-THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt. THE ROCKET GUY: tall man with short dark brown hair, black t-shirt, jeans.
-```
-
-## 138  ·  "Musk, this guy"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
-
-Scene: THE ROCKET GUY patting THE CHIP BOSS on the back.
-THE ROCKET GUY: tall man with short dark brown hair, black t-shirt, jeans. THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
-```
-
-## 139  ·  "is a legend,"
+## 120  ·  "So what do you think?"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
@@ -1160,16 +995,16 @@ Scene: THE CHIP BOSS wearing a golden medal reading "LEGEND".
 THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
 ```
 
-## 140  ·  "bhai. What do you"
+## 121  ·  "Did the board feel the pressure,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY nodding with a thumbs up.
+Scene: THE GUY thinking with his hand on his chin.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
-## 141  ·  "think? Did pressure"
+## 122  ·  "or did it bow down?"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
@@ -1177,41 +1012,16 @@ Original fictional characters only, not real people. Flat 2D cartoon illustratio
 Scene: A pressure cooker letting off steam, labelled "Board".
 ```
 
-## 142  ·  "build on the board,"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
-
-Scene: Board members sweating at the long table.
-```
-
-## 143  ·  "or did the board bow"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
-
-Scene: Board members bowing down.
-```
-
-## 144  ·  "down? How did the comeback"
+## 123  ·  "Tell me in the comments."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: Board members kneeling in front of THE CHIP BOSS.
+Scene: Board members bowing down in front of THE CHIP BOSS.
 THE CHIP BOSS: older East Asian man with swept-back silver-grey hair, black leather jacket, black t-shirt.
 ```
 
-## 145  ·  "happen? Definitely"
-
-```
-Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
-
-Scene: THE GUY holding a big question mark.
-THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
-```
-
-## 146  ·  "tell me in the comments,"
+## 124  ·  "And if you want to make AI"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
@@ -1220,29 +1030,38 @@ Scene: THE GUY pointing down at a phone screen full of comments.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
-## 147  ·  "definitely like and share"
+## 125  ·  "videos like this one yourself,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY giving a thumbs up and holding a share sign.
+Scene: THE GUY at a laptop making an AI video.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
-## 148  ·  "the video, and"
+## 126  ·  "check out revana.si."
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY holding a video play button.
+Scene: THE GUY watching cartoon clips pop out of his laptop.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
-## 149  ·  "definitely follow us."
+## 127  ·  "Like, share,"
 
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY holding a big follow button.
+Scene: THE GUY holding up a laptop showing the website "revana.si".
+THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
+```
+
+## 128  ·  "and follow for more."
+
+```
+Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
+
+Scene: THE GUY giving a thumbs up with a share sign and a follow button.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```

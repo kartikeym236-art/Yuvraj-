@@ -1035,7 +1035,7 @@ THE GUY: young man with big curly black hair, teal-grey button-up shirt with rol
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY at a laptop making an AI video.
+Scene: THE GUY at a laptop watching cartoon AI video clips pop out of the screen like magic.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
@@ -1044,7 +1044,7 @@ THE GUY: young man with big curly black hair, teal-grey button-up shirt with rol
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY watching cartoon clips pop out of his laptop.
+Scene: THE GUY holding up a laptop showing a sleek website with the name "revana.si" at the top, smiling.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
@@ -1053,7 +1053,7 @@ THE GUY: young man with big curly black hair, teal-grey button-up shirt with rol
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY holding up a laptop showing the website "revana.si".
+Scene: THE GUY giving a thumbs up and holding a share sign.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```
 
@@ -1062,6 +1062,6 @@ THE GUY: young man with big curly black hair, teal-grey button-up shirt with rol
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay.
 
-Scene: THE GUY giving a thumbs up with a share sign and a follow button.
+Scene: THE GUY holding a big follow button, waving.
 THE GUY: young man with big curly black hair, teal-grey button-up shirt with rolled sleeves, black jeans.
 ```

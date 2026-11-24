@@ -1,0 +1,390 @@
+[
+ {
+  "line": "Sam Altman says",
+  "image": "001.png"
+ },
+ {
+  "line": "every {ChatGPT|chat g p t}",
+  "image": "002.png"
+ },
+ {
+  "line": "question uses just",
+  "image": "003.png"
+ },
+ {
+  "line": "{0.3|zero point three}",
+  "image": "004.png"
+ },
+ {
+  "line": "milliliters of water.",
+  "image": "005.png"
+ },
+ {
+  "line": "But Morgan Stanley",
+  "image": "006.png"
+ },
+ {
+  "line": "says {AI|a i} will drink",
+  "image": "007.png"
+ },
+ {
+  "line": "over {1|one} trillion",
+  "image": "008.png"
+ },
+ {
+  "line": "liters of water every",
+  "image": "009.png"
+ },
+ {
+  "line": "year by {2028|twenty twenty eight}.",
+  "image": "010.png"
+ },
+ {
+  "line": "So what's the real cost?",
+  "image": "011.png"
+ },
+ {
+  "line": "When you find out,",
+  "image": "012.png"
+ },
+ {
+  "line": "it'll blow your mind.",
+  "image": "013.png"
+ },
+ {
+  "line": "But first, how",
+  "image": "014.png"
+ },
+ {
+  "line": "does {AI|a i} even use",
+  "image": "015.png"
+ },
+ {
+  "line": "water? Every",
+  "image": "016.png"
+ },
+ {
+  "line": "day, {AI|a i} runs trillions",
+  "image": "017.png"
+ },
+ {
+  "line": "of calculations.",
+  "image": "018.png"
+ },
+ {
+  "line": "And where do those happen?",
+  "image": "019.png"
+ },
+ {
+  "line": "On powerful chips",
+  "image": "020.png"
+ },
+ {
+  "line": "called {GPUs|g p us}",
+  "image": "021.png"
+ },
+ {
+  "line": "and {TPUs|t p us},",
+  "image": "022.png"
+ },
+ {
+  "line": "stacked in giant racks",
+  "image": "023.png"
+ },
+ {
+  "line": "inside data centers.",
+  "image": "024.png"
+ },
+ {
+  "line": "A single rack can put",
+  "image": "025.png"
+ },
+ {
+  "line": "out as much heat as three",
+  "image": "026.png"
+ },
+ {
+  "line": "American homes.",
+  "image": "027.png"
+ },
+ {
+  "line": "So how do you cool all that",
+  "image": "028.png"
+ },
+ {
+  "line": "down? With wet",
+  "image": "029.png"
+ },
+ {
+  "line": "cooling. Water",
+  "image": "030.png"
+ },
+ {
+  "line": "is evaporated off",
+  "image": "031.png"
+ },
+ {
+  "line": "the top of these data",
+  "image": "032.png"
+ },
+ {
+  "line": "centers to pull",
+  "image": "033.png"
+ },
+ {
+  "line": "the heat away.",
+  "image": "034.png"
+ },
+ {
+  "line": "And what kind of water",
+  "image": "035.png"
+ },
+ {
+  "line": "is it? You guessed",
+  "image": "036.png"
+ },
+ {
+  "line": "it. Our fresh,",
+  "image": "037.png"
+ },
+ {
+  "line": "drinkable water.",
+  "image": "038.png"
+ },
+ {
+  "line": "Now, Sam Altman's",
+  "image": "039.png"
+ },
+ {
+  "line": "{0.3|zero point three} milliliters",
+  "image": "040.png"
+ },
+ {
+  "line": "sounds tiny.",
+  "image": "041.png"
+ },
+ {
+  "line": "That's about one fifteenth",
+  "image": "042.png"
+ },
+ {
+  "line": "of a teaspoon.",
+  "image": "043.png"
+ },
+ {
+  "line": "But I went through the research",
+  "image": "044.png"
+ },
+ {
+  "line": "and ran the numbers myself,",
+  "image": "045.png"
+ },
+ {
+  "line": "and that figure only",
+  "image": "046.png"
+ },
+ {
+  "line": "counts the water used",
+  "image": "047.png"
+ },
+ {
+  "line": "for cooling.",
+  "image": "048.png"
+ },
+ {
+  "line": "It leaves out the water",
+  "image": "049.png"
+ },
+ {
+  "line": "used to generate all",
+  "image": "050.png"
+ },
+ {
+  "line": "the electricity {AI|a i}",
+  "image": "051.png"
+ },
+ {
+  "line": "burns through, the",
+  "image": "052.png"
+ },
+ {
+  "line": "water used to manufacture",
+  "image": "053.png"
+ },
+ {
+  "line": "the {GPUs|g p us} and {TPUs|t p us},",
+  "image": "054.png"
+ },
+ {
+  "line": "and the water used to",
+  "image": "055.png"
+ },
+ {
+  "line": "train these models around",
+  "image": "056.png"
+ },
+ {
+  "line": "the clock.",
+  "image": "057.png"
+ },
+ {
+  "line": "So what's the real number?",
+  "image": "058.png"
+ },
+ {
+  "line": "By some estimates,",
+  "image": "059.png"
+ },
+ {
+  "line": "{ChatGPT|chat g p t} uses",
+  "image": "060.png"
+ },
+ {
+  "line": "around {148|one hundred forty eight}",
+  "image": "061.png"
+ },
+ {
+  "line": "million liters of water",
+  "image": "062.png"
+ },
+ {
+  "line": "every single day.",
+  "image": "063.png"
+ },
+ {
+  "line": "That's about {39|thirty nine}",
+  "image": "064.png"
+ },
+ {
+  "line": "million gallons.",
+  "image": "065.png"
+ },
+ {
+  "line": "Every day.",
+  "image": "066.png"
+ },
+ {
+  "line": "And remember,",
+  "image": "067.png"
+ },
+ {
+  "line": "this is fresh water.",
+  "image": "068.png"
+ },
+ {
+  "line": "And a lot of these data",
+  "image": "069.png"
+ },
+ {
+  "line": "centers sit in places",
+  "image": "070.png"
+ },
+ {
+  "line": "that are already running",
+  "image": "071.png"
+ },
+ {
+  "line": "dry. Texas,",
+  "image": "072.png"
+ },
+ {
+  "line": "Arizona and Georgia",
+  "image": "073.png"
+ },
+ {
+  "line": "are already seeing their",
+  "image": "074.png"
+ },
+ {
+  "line": "groundwater drop as",
+  "image": "075.png"
+ },
+ {
+  "line": "data centers move in.",
+  "image": "076.png"
+ },
+ {
+  "line": "In Iowa,",
+  "image": "077.png"
+ },
+ {
+  "line": "farms are competing with",
+  "image": "078.png"
+ },
+ {
+  "line": "data centers for the same",
+  "image": "079.png"
+ },
+ {
+  "line": "water. So here's",
+  "image": "080.png"
+ },
+ {
+  "line": "the question.",
+  "image": "081.png"
+ },
+ {
+  "line": "Should our water go to {AI|a i}",
+  "image": "082.png"
+ },
+ {
+  "line": "so it can do our homework",
+  "image": "083.png"
+ },
+ {
+  "line": "and make silly videos?",
+  "image": "084.png"
+ },
+ {
+  "line": "Or should we save it for the",
+  "image": "085.png"
+ },
+ {
+  "line": "farms that feed us?",
+  "image": "086.png"
+ },
+ {
+  "line": "{AI|a i} isn't just expensive",
+  "image": "087.png"
+ },
+ {
+  "line": "for companies.",
+  "image": "088.png"
+ },
+ {
+  "line": "It's expensive for the planet.",
+  "image": "089.png"
+ },
+ {
+  "line": "At this rate,",
+  "image": "090.png"
+ },
+ {
+  "line": "{AI|a i} will do our homework,",
+  "image": "091.png"
+ },
+ {
+  "line": "but we won't have water to",
+  "image": "092.png"
+ },
+ {
+  "line": "drink or food",
+  "image": "093.png"
+ },
+ {
+  "line": "to eat. What",
+  "image": "094.png"
+ },
+ {
+  "line": "a problem we've created.",
+  "image": "095.png"
+ },
+ {
+  "line": "What do you think?",
+  "image": "096.png"
+ },
+ {
+  "line": "Tell me in the comments.",
+  "image": "097.png"
+ }
+]

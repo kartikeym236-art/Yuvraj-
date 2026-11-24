@@ -102,3 +102,12 @@ python pipeline/make_short.py $P
 ## Reference project
 
 `projects/jensen` + `prompts/jensen/scenes.py` is the canonical example of this skill's output.
+
+
+## Always (user, Nov 2026)
+- Refine every script for a US audience before voicing it (US units/references, Congress not
+  Parliament, no Hinglish filler, fix number/unit errors, soften unverified claims); keep the main
+  content and tell the user what changed.
+- Run `python pipeline/remove_marks.py projects/<name>/images` ONCE on the original images: it removes
+  the sparkle watermark, the "AI" badge and all metadata (EXIF/XMP/C2PA). Check it reports
+  "metadata stripped N/N" and LOOK at out/corners.png before rendering.

@@ -518,7 +518,8 @@ def render(rows, clean_dir, voice, music, ass, speed, dur, out, name, music_from
     mp4 = out / f"{name}.mp4"
     subprocess.run(["ffmpeg", "-loglevel", "error", "-y", *inputs, "-filter_complex", fc,
                     "-map", "[v]", "-map", "[a]", "-c:v", "libx264", "-crf", "20", "-preset", "medium",
-                    "-c:a", "aac", "-b:a", "192k", "-t", f"{dur:.2f}", "-movflags", "+faststart", str(mp4)],
+                    "-c:a", "aac", "-b:a", "192k", "-t", f"{dur:.2f}", "-movflags", "+faststart",
+                    "-map_metadata", "-1", "-map_chapters", "-1", "-fflags", "+bitexact", "-flags:v", "+bitexact", "-flags:a", "+bitexact", "-metadata:s:v", "encoder=", "-metadata:s:a", "encoder=", str(mp4)],  # no encoder/AI metadata in the MP4
                    check=True)
     return mp4
 

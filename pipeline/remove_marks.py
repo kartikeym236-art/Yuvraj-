@@ -6,6 +6,9 @@
    image edges follow its outline.
 2. "AI" pill badge (bottom-right, ~968,974): found by edge template match against ai_badge.png
    (works on light AND dark backgrounds), then inpainted.
+3. Metadata: every image is re-written as plain pixels, which drops EXIF/XMP, PNG text chunks and the
+   C2PA "made with AI" content credentials (caBX/c2pa/jumb). The script then checks each file and
+   reports any that still carry metadata.
 Use --no-sparkle for Composio/API Gemini images (they have no sparkle; detection then only darkens).
 Always writes a corner contact sheet: LOOK AT IT before rendering (the user caught a missed badge once).
 """
@@ -40,4 +43,13 @@ if __name__ == "__main__":
     while len(tiles) % 12: tiles.append(np.zeros_like(tiles[0]))
     Path(sheet).parent.mkdir(parents=True, exist_ok=True)
     cv2.imwrite(sheet, np.vstack([np.hstack(tiles[i:i + 12]) for i in range(0, len(tiles), 12)]))
-    print(f"sparkle {ns}, AI badge {nb} of {len(fs)}; check {sheet}")
+    def tagged(p):  # PNG: any chunk besides the pixel ones; JPEG: EXIF/XMP/C2PA app segments
+        b = p.read_bytes()
+        if b[:8] == b"\x89PNG\r\n\x1a\n":
+            i, ch = 8, set()
+            while i < len(b): n = int.from_bytes(b[i:i + 4], "big"); ch.add(b[i + 4:i + 8]); i += 12 + n
+            return bool(ch - {b"IHDR", b"IDAT", b"IEND", b"PLTE"})
+        return any(m in b[:65536] for m in (b"Exif\0", b"http://ns.adobe.com/xap", b"c2pa", b"jumb"))
+    left = [p.name for p in fs if tagged(p)]
+    print(f"sparkle {ns}, AI badge {nb} of {len(fs)}; metadata stripped from {len(fs) - len(left)}/{len(fs)}"
+          + (f" (STILL TAGGED: {left[:5]})" if left else "") + f"; check {sheet}")

@@ -118,6 +118,22 @@ This applies only when Claude writes the scenes. When the user supplies their
 own storyboard or image prompts, generate them as written: no dramatic
 replacement of the first scene (user, Nov 2026).
 
+## US audience script refinement (user, Nov 2026)
+
+things__explained is written for a US audience. Before voicing any script the user sends, refine it
+for US viewers while keeping the main content: US units and comparisons (gallons, teaspoons,
+"American homes"), US references instead of UK/Indian ones, "Congress" not "Parliament", no Hinglish
+filler, correct obvious number/unit errors, soften unverified claims ("by some estimates"). Tell the
+user exactly what changed and why.
+
+## Metadata + AI badge + watermark removal: on EVERY image (user, Nov 2026)
+
+`pipeline/remove_marks.py` must run on every image set before rendering. It removes the sparkle
+watermark and the "AI" badge AND strips all metadata (EXIF/XMP, PNG text chunks and the C2PA
+"made with AI" content credentials, caBX/c2pa/jumb), then reports "metadata stripped N/N".
+Run it ONCE on the original downloads (a second pass re-applies the sparkle fix and darkens
+corners). make_video.py also writes the MP4 with no container metadata (-map_metadata -1).
+
 ## New Gemini marks (Nov 2026): ALWAYS run remove_marks.py and LOOK at the corners
 
 Newer Gemini images carry a smaller sparkle at ~(853,853) on 1024px and/or a grey

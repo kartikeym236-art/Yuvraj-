@@ -160,4 +160,4 @@ Dialogue: 1,0:00:41.77,0:00:42.09,Cap,,0,0,0,,{\pos(540,960)}happens
 Dialogue: 1,0:00:42.09,0:00:42.18,Cap,,0,0,0,,{\pos(540,960)}to
 Dialogue: 1,0:00:42.18,0:00:42.35,Cap,,0,0,0,,{\pos(540,960)}this
 Dialogue: 1,0:00:42.35,0:00:42.71,Cap,,0,0,0,,{\pos(540,960)}guy
-Dialogue: 0,0:00:00.00,0:00:43.71,Title,,0,0,0,,{\pos(540,392)\fs66}ELON'S 00 MILLION {\c&H0016C8FF}MISTAKE{\c&H00FFFFFF}
+Dialogue: 0,0:00:00.00,0:00:43.71,Title,,0,0,0,,{\pos(540,392)\fs66}ELON'S $500 MILLION {\c&H0016C8FF}MISTAKE{\c&H00FFFFFF}

@@ -216,7 +216,7 @@ shots were mapped onto it word by word. MP4s over 100 MB can't be pushed
   and tail) is capped at 0.3 s before speed-up (`--max-gap`, 0 turns it off).
   Word times are remapped, so captions and cuts stay in sync. A re-alignment
   check agreed to within 30 ms.
-- Reels: speed 1.10x and pause cap 0.13 s (user, Nov 2026; ThingsExplained skill). {"speed": x} in settings.json still overrides per video.
+- Reels: speed 1.13x and pause cap 0.10 s (user, Nov 25 2026; the defaults for every new reel; ThingsExplained skill). {"speed": x} in settings.json still overrides per video.
 - Title: Inter Display Black 66px, white with soft shadow, highlighted word in
   yellow #FFC816, centred just above the image, shown the whole video,
   auto-shrinks to fit one line.

@@ -558,7 +558,7 @@ def main():
     print(f"aligned {len(al)} words")
     if a.align_only:
         return
-    max_gap = a.max_gap if a.max_gap is not None else settings.get("max_gap", 0.3)
+    max_gap = a.max_gap if a.max_gap is not None else settings.get("max_gap", 0.3 if LONGFORM else 0.10)
     if max_gap > 0:
         voice, al, cut = tighten(voice, al, out, max_gap)
         print(f"trimmed {cut:.1f}s of pauses (max gap {max_gap}s)")
@@ -568,7 +568,7 @@ def main():
     missing = [s["image"] for s in scenes if not (proj / "images" / s["image"]).exists()]
     if missing:
         raise SystemExit(f"scenes.json references missing images: {missing}")
-    speed = a.speed or settings.get("speed", 1.0)
+    speed = a.speed or settings.get("speed", 1.0 if LONGFORM else 1.13)
     dur = duration(voice) / speed
     rows = timeline(scenes, al, duration(voice), out)   # original-audio seconds; setpts speeds video
     os.environ["CAP_SCALE"] = str(settings.get("caption_scale", 1))

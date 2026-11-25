@@ -15,7 +15,7 @@ Follow CLAUDE.md for repo rules (branch, commits, Drive, Composio). This skill i
 |---|---|
 | Voice | ElevenLabs **Brian** `nPczCjzI2devNBz1zQrb`, model `eleven_multilingual_v2` |
 | Speed | `1.10` (user, Nov 2026) |
-| Pause cap | `max_gap 0.13` (user, Nov 2026) |
+| Pause cap | `max_gap 0.10` (user, Nov 2026) |
 | Captions | `"yellow"`: one word at a time, bold yellow, black outline, centred on the image, original casing |
 | Title | user's title in CAPS, key word in `*yellow*`; wraps to 2 lines automatically |
 | Music | the track the user names (copy from an earlier project's music.mp3 or their upload); `"start"` unless they say a segment. **If no track is given, pick one from earlier projects that suits the topic** (user, Nov 2026); find them with ffprobe title tags, e.g. Girlfriends - New Computers (barbers), Can You Hear The Music (chess), Cornfield Chase (brain), No Time for Caution (nov13), biting bullets (avoid), Experience (catholic), Paris (jensen), Goodbye (dark3) |
@@ -32,7 +32,7 @@ P=projects/<name>; mkdir -p $P/images prompts/<name>
 ```
 - `$P/script_tts.txt`: the script exactly as it should be spoken (fix only typos and dashes; keep the user's wording).
 - `$P/title.txt`, e.g. `DARK TRUTH BEHIND JENSEN HUANG *RESIGNATION*`
-- `$P/settings.json`: `{"watermark": false, "captions": "yellow", "music": "start", "speed": 1.10, "max_gap": 0.13}`
+- `$P/settings.json`: `{"watermark": false, "captions": "yellow", "music": "start", "speed": 1.13, "max_gap": 0.10}`
   (switch `"watermark"` to true/omit when the user's images come from the Gemini app, which adds the sparkle).
 - `$P/music.mp3`
 

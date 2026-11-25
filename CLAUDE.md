@@ -225,7 +225,7 @@ shots were mapped onto it word by word. MP4s over 100 MB can't be pushed
   centred on the image, small pop-in. A word stays up until the next word and
   clears on pauses of 0.25 s or more. The lowercase Montserrat reel style is
   still available with {"captions": "reel"} in settings.json.
-- Audio: voice loudnorm -15 LUFS, music -33 LUFS (about 18 dB under), music
+- Audio: voice loudnorm -15 LUFS, then volume 1.5 (150%) on reels (user, Nov 25 2026; the final limiter catches peaks), music -33 LUFS (about 18 dB under), music
   from its start (looped if short), 1 s fade-in, 2.5 s fade-out, limiter;
   final mix about -15 LUFS.
 - Watermark: the Gemini sparkle (white, ~35% opacity, centre 922,922) is

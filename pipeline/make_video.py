@@ -490,7 +490,8 @@ def render(rows, clean_dir, voice, music, ass, speed, dur, out, name, music_from
         vf = (f"[0:v]scale={IMG}:{IMG},setpts=PTS/{speed},fps=30,pad={W}:{H}:0:{IMG_Y}:black,"
               f"ass={ass}:fontsdir={HERE / 'fonts'}" + ("[t];" if emoji_png else ",format=yuv420p[v];"))
     fc = (vf +
-          f"[1:a]atempo={speed},loudnorm=I=-15:TP=-1.5:LRA=11,aresample=48000[vo];")
+          f"[1:a]atempo={speed},loudnorm=I=-15:TP=-1.5:LRA=11" + ("" if LONGFORM else ",volume=1.5")  # reels: voice at 150% (user, Nov 25 2026)
+          + ",aresample=48000[vo];")
     if music:
         inputs += ["-stream_loop", "-1", "-i", str(music)]   # loops if music is shorter than the video
         mdur = duration(music)

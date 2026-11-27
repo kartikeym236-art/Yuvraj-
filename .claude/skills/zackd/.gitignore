@@ -16,3 +16,5 @@ __pycache__/
 projects/*/data/*.wav
 projects/lab/
 .build/
+projects/*/renders/render.log
+demo/*/renders/render.log

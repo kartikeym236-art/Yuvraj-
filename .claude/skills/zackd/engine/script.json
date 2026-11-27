@@ -1,0 +1,64 @@
+{
+ "title": "Why Ice Cream Gives You Brain Freeze",
+ "voice": "am_michael",
+ "speed": 1.05,
+ "lead": 0.3,
+ "outro": 0.8,
+ "gap": 0.3,
+ "music": "bed_documentary",
+ "sources": [],
+ "lines": [
+  {
+   "text": "If you eat ice cream too fast,",
+   "caps": "If you eat | ice cream too | fast,"
+  },
+  {
+   "text": "you might get a sudden, stabbing pain right behind your forehead.",
+   "caps": "you might get | a sudden, | stabbing pain right | behind your forehead."
+  },
+  {
+   "text": "It's called brain freeze, but your brain isn't actually freezing.",
+   "caps": "It's called brain | freeze, | but your brain | isn't actually freezing."
+  },
+  {
+   "text": "When something ice cold touches the roof of your mouth,",
+   "caps": "When something ice | cold touches the | roof of your | mouth,"
+  },
+  {
+   "text": "it chills the blood vessels running just above it.",
+   "caps": "it chills the | blood vessels running | just above it."
+  },
+  {
+   "text": "Scientists think your body panics,",
+   "caps": "Scientists think your | body panics,"
+  },
+  {
+   "text": "and the arteries feeding your brain suddenly widen,",
+   "caps": "and the arteries | feeding your brain | suddenly widen,"
+  },
+  {
+   "text": "rushing in warm blood to protect it.",
+   "caps": "rushing in warm | blood to protect | it."
+  },
+  {
+   "text": "But that sudden rush raises the pressure inside your head,",
+   "caps": "But that sudden | rush raises the | pressure inside your | head,"
+  },
+  {
+   "text": "and the nerves there read it as a stabbing headache.",
+   "caps": "and the nerves | there read it | as a stabbing | headache."
+  },
+  {
+   "text": "The good news is that it's harmless, and it fades within a minute or two.",
+   "caps": "The good news | is that it's | harmless, | and it fades | within a minute | or two."
+  },
+  {
+   "text": "And to make it stop even faster,",
+   "caps": "And to make | it stop even | faster,"
+  },
+  {
+   "text": "press your tongue against the roof of your mouth, and warm it back up.",
+   "caps": "press your tongue | against the roof | of your mouth, | and warm it | back up."
+  }
+ ]
+}

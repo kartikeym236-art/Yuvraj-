@@ -1,0 +1,54 @@
+{
+ "title": "What Happens When You Eat A Whole Bag Of Candy",
+ "voice": "am_michael",
+ "speed": 1.05,
+ "lead": 0.3,
+ "outro": 0.8,
+ "gap": 0.3,
+ "music": "bed_documentary",
+ "sources": [
+  "Cleveland Clinic, \"Insulin\": beta cells in the pancreas release insulin when blood glucose rises; insulin lets glucose into muscle, fat and liver cells; the liver stores extra glucose as glycogen",
+  "Harvard T.H. Chan School of Public Health, \"Carbohydrates and Blood Sugar\": simple sugars cause a fast rise in blood sugar and a large insulin response; extra glucose is stored as glycogen or converted to fat",
+  "Ludwig DS et al., Pediatrics 103 (1999) e26: after a high-glycemic meal, blood glucose rose fast, then fell below the starting level within a few hours, with more hunger afterwards",
+  "Mayo Clinic, \"Reactive hypoglycemia\": blood sugar can drop within about four hours after eating; symptoms include shakiness, tiredness and hunger",
+  "Avena NM, Rada P, Hoebel BG, Neurosci Biobehav Rev 32 (2008): sugar intake releases dopamine in the brain's reward area"
+ ],
+ "lines": [
+  {
+   "text": "If you eat a whole bag of candy,",
+   "caps": "If you eat | a whole bag | of candy,"
+  },
+  {
+   "text": "the sugar rushes from your gut into your blood within minutes.",
+   "caps": "the sugar rushes | from your gut | into your blood | within minutes."
+  },
+  {
+   "text": "Your brain gets a hit of dopamine, so it feels amazing.",
+   "caps": "Your brain gets | a hit of | dopamine, | so it feels | amazing."
+  },
+  {
+   "text": "But your body can't leave that much sugar in your blood,",
+   "caps": "But your body | can't leave that | much sugar in | your blood,"
+  },
+  {
+   "text": "so your pancreas pumps out insulin,",
+   "caps": "so your pancreas | pumps out insulin,"
+  },
+  {
+   "text": "which unlocks your cells so they can soak the sugar up.",
+   "caps": "which unlocks your | cells so they | can soak the | sugar up."
+  },
+  {
+   "text": "The rest gets packed into your liver, or turned into fat.",
+   "caps": "The rest gets | packed into your | liver, | or turned into | fat."
+  },
+  {
+   "text": "Then, because of all that insulin, your blood sugar can drop below where it started.",
+   "caps": "Then, | because of all | that insulin, | your blood sugar | can drop below | where it started."
+  },
+  {
+   "text": "That's the crash that leaves you tired, shaky, and craving more candy.",
+   "caps": "That's the crash | that leaves you | tired, | shaky, | and craving more | candy."
+  }
+ ]
+}

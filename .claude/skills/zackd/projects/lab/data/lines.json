@@ -1,0 +1,18 @@
+{
+ "duration": 7.142,
+ "estimated": true,
+ "lines": [
+  {
+   "i": 0,
+   "text": "This is the lab scene for the engine.",
+   "start": 0.3,
+   "end": 3.021
+  },
+  {
+   "i": 1,
+   "text": "Skin turns to glass, and the brain glows inside.",
+   "start": 3.321,
+   "end": 6.542
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "title": "What Happens To Your Body When You Drink Coffee",
+ "voice": "am_michael",
+ "speed": 1.05,
+ "lead": 0.3,
+ "outro": 0.8,
+ "gap": 0.3,
+ "music": "bed_documentary",
+ "sources": [],
+ "lines": [
+  {
+   "text": "If you drink a cup of coffee,",
+   "caps": "If you drink | a cup of | coffee,"
+  },
+  {
+   "text": "the caffeine starts slipping from your gut into your blood within minutes.",
+   "caps": "the caffeine starts | slipping from your | gut into your | blood within minutes."
+  },
+  {
+   "text": "It races up to your brain,",
+   "caps": "It races up | to your brain,"
+  },
+  {
+   "text": "where a chemical called adenosine has been building up all day, making you sleepy.",
+   "caps": "where a chemical | called adenosine has | been building up | all day, | making you sleepy."
+  },
+  {
+   "text": "But caffeine looks so similar that it steals adenosine's parking spots,",
+   "caps": "But caffeine looks | so similar that | it steals adenosine's | parking spots,"
+  },
+  {
+   "text": "so your brain never gets the message that it's tired.",
+   "caps": "so your brain | never gets the | message that it's | tired."
+  },
+  {
+   "text": "Your body releases adrenaline,",
+   "caps": "Your body releases | adrenaline,"
+  },
+  {
+   "text": "your heart beats a little faster,",
+   "caps": "your heart beats | a little faster,"
+  },
+  {
+   "text": "and the blood vessels in your head tighten.",
+   "caps": "and the blood | vessels in your | head tighten."
+  },
+  {
+   "text": "It even wakes up your gut, which is why coffee can send you to the bathroom.",
+   "caps": "It even wakes | up your gut, | which is why | coffee can send | you to the | bathroom."
+  },
+  {
+   "text": "And with a half life of about five hours,",
+   "caps": "And with a | half life of | about five hours,"
+  },
+  {
+   "text": "an afternoon coffee is still half in your blood at bedtime.",
+   "caps": "an afternoon coffee | is still half | in your blood | at bedtime."
+  },
+  {
+   "text": "Then when it wears off, all that adenosine hits your brain at once,",
+   "caps": "Then when it | wears off, | all that adenosine | hits your brain | at once,"
+  },
+  {
+   "text": "and that's the crash that makes you want another cup.",
+   "caps": "and that's the | crash that makes | you want another | cup."
+  }
+ ]
+}

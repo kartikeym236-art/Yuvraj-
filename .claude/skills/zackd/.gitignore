@@ -1,0 +1,15 @@
+# re-created by setup.sh
+assets/bodyparts3d/obj/
+assets/shared/anatomy/
+assets/.bp3d_*
+engine/vendor/three.module.js
+engine/vendor/addons/
+projects/*/data/narration.wav
+projects/*/data/mix.wav
+projects/*/renders/*.mp4
+projects/*/review/
+projects/*/renders/.parts/
+demo/*/data/*.wav
+demo/*/renders/*.mp4
+demo/*/review/
+__pycache__/

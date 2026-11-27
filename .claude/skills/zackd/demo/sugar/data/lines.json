@@ -1,0 +1,61 @@
+{
+ "duration": 32.339,
+ "voice": "am_michael",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "If you eat a whole bag of candy,",
+   "start": 0.3,
+   "end": 2.05
+  },
+  {
+   "i": 1,
+   "text": "the sugar rushes from your gut into your blood within minutes.",
+   "start": 2.54,
+   "end": 5.565
+  },
+  {
+   "i": 2,
+   "text": "Your brain gets a hit of dopamine, so it feels amazing.",
+   "start": 5.865,
+   "end": 9.2
+  },
+  {
+   "i": 3,
+   "text": "But your body can't leave that much sugar in your blood,",
+   "start": 9.5,
+   "end": 12.26
+  },
+  {
+   "i": 4,
+   "text": "so your pancreas pumps out insulin,",
+   "start": 12.74,
+   "end": 14.88
+  },
+  {
+   "i": 5,
+   "text": "which unlocks your cells so they can soak the sugar up.",
+   "start": 15.38,
+   "end": 18.215
+  },
+  {
+   "i": 6,
+   "text": "The rest gets packed into your liver, or turned into fat.",
+   "start": 18.515,
+   "end": 21.534
+  },
+  {
+   "i": 7,
+   "text": "Then, because of all that insulin, your blood sugar can drop below where it started.",
+   "start": 21.834,
+   "end": 26.864
+  },
+  {
+   "i": 8,
+   "text": "That's the crash that leaves you tired, shaky, and craving more candy.",
+   "start": 27.164,
+   "end": 31.239
+  }
+ ]
+}

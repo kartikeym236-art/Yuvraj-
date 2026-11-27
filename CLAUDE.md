@@ -239,3 +239,11 @@ shots were mapped onto it word by word. MP4s over 100 MB can't be pushed
 
 `buridan_alignment/` is the first video (Buridan's donkey): the original scene
 matching (`build_timeline.py`), the script and the approved renders.
+
+## Ending call to action (user, Nov 27 2026)
+
+Every things__explained script ends with: "If you want updates related to <topic> then make sure to
+follow our page, Things Explained." Pick the topic from the reel (geopolitics / business / tech /
+finance / AI, or two of them). Write it into the script before voicing, and give it 2-3 scenes in
+the prompts (e.g. THE GUY with a topic-themed tablet, pointing at a Follow button, next to a
+"THINGS EXPLAINED" sign) so it never needs extra images later.

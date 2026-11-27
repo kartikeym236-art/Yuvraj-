@@ -111,3 +111,11 @@ python pipeline/make_short.py $P
 - Run `python pipeline/remove_marks.py projects/<name>/images` ONCE on the original images: it removes
   the sparkle watermark, the "AI" badge and all metadata (EXIF/XMP/C2PA). Check it reports
   "metadata stripped N/N" and LOOK at out/corners.png before rendering.
+
+## Ending call to action (user, Nov 27 2026)
+
+Every things__explained script ends with: "If you want updates related to <topic> then make sure to
+follow our page, Things Explained." Pick the topic from the reel (geopolitics / business / tech /
+finance / AI, or two of them). Write it into the script before voicing, and give it 2-3 scenes in
+the prompts (e.g. THE GUY with a topic-themed tablet, pointing at a Follow button, next to a
+"THINGS EXPLAINED" sign) so it never needs extra images later.

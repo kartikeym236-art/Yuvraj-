@@ -1,35 +1,152 @@
 ---
 name: zackd
-description: Make ~30 s vertical 3D "what happens inside your body" health Shorts in the ZackD-films format (sky-blue studio void, glass x-ray human with real anatomy, calm male voice-over, white captions, quiet original music, soft procedural SFX). Use when the user asks for a new body/health explainer Short, a script.json, shots.js, the soundtrack mix, timing estimates, or the YouTube title/description/credits for one of these videos.
+description: Make original ~30-42 s vertical 3D health / body explainer Shorts (1080x1920) in the measured @zackdfilms "health" format - a real photo-scanned human head on a sky-blue studio void that fades into a glass x-ray head with real medical anatomy inside (BodyParts3D brain, skull, arteries, nerves, tongue, any organ), inside-the-blood-vessel fly-throughs, slow eased camera, captions only (white, soft shadow, no labels), a calm male AI voice-over, a quiet music bed and soft SFX - rendered with three.js in headless Chrome in ~3 minutes, free and local. Use whenever the user wants a "Zack D style" / "ZackD" video, a "what happens if / why does your body" health explainer, a "brain freeze"-style short, a 3D x-ray body video, says "use the zackd skill" / "make another zackd video" - even if they only give a topic.
 ---
 
-# ZackD-style health Shorts
+# ZackD: 3D health explainer Shorts (v2 engine)
 
-Read these before starting any video:
+Skill folder: the folder that holds this SKILL.md (normally `%USERPROFILE%\.claude\skills\zackd`); all paths below are relative to it.
+First time on a new PC: run `powershell -File setup.ps1` in the skill folder (asset junctions + dependency check) and see README.txt.
 
-- `channel-playbook.md`: the format (script formula, visual style, camera, editing, captions, audio, topic picks, build checklist). Copy the format, never the content, name, logo, characters, footage or audio of Zack D Films.
-- `making-videos.md`: the v2 engine pipeline (script.json, voice, shots.js recipe, engine modules, effect modules per past video, QA checklist, credits, paths).
+## Read first
+1. `references\channel-playbook.md`: the format, measured on the 20 most-viewed "health" Shorts
+   (length ~30 s, 2.7 words/s, "If you…" openers, turn words, one continuous camera that goes into the body and back
+   out, colour carries the meaning, captions only, music ~18 dB under the voice, often loops).
+2. `references\making-videos.md`: the engine and the exact pipeline (script.json format,
+   scene building blocks, anatomy controls, shot recipe, QA checklist, credits, paths).
 
-## What's in this folder
+## Make a video (the short version)
+`powershell -File scripts\new_video.ps1 -Name <name>` → write `projects\<name>\script.json` (facts checked, sources
+listed) → `scripts\voice.ps1 -Project projects\<name>` → rewrite `src\shots.js` from the demo's shots →
+`scripts\build.ps1 -Step check` → `-Step sheet` (**look at every frame, fix, repeat**) → `-Step video`.
+Deliver the MP4 + cover + title, description (with the credits) and hashtags.
+**Working example (the default style):** `demo\coffee` (script.json,
+src\shots.js, renders\coffee_youtube.txt; run `-Step video` on it to see the result). Start every new shots.js from it; making-videos.md §4b has the recipe.
+Second example (same style, hand-held prop pour, organ glow, cell macro): `demo\sugar`.
+More finished videos (script.json + src\shots.js only, copy effects from them): `projects\alcohol, chili, energy-drink, painkiller, water, all-nighter`.
+Write the script and build straight away; the user reviews frames closely, so always run the sheet check before the final render.
 
-| path | what |
-|---|---|
-| `tools/mix.py` | soundtrack: narration + procedural SFX + music bed (numpy/scipy only). `python tools/mix.py <project>` → `data/mix.wav`; `python tools/mix.py --test <outdir> [narration.wav]` renders every effect and prints levels. Latest version (includes crinkle/rattle/crunch, can_open/fizz). |
-| `scripts/estimate.py` | timing without a voice: `python scripts/estimate.py <project> [--wps 2.8]` → `data/lines.json`, `data/words.json` |
-| `engine/index.html` | engine page (1080×1920 canvas, loads `src/main.js`, three.js via import map from `vendor/`) |
-| `engine/vendor/LICENSE-three.txt` | three.js MIT licence (three.js r170 itself must be vendored next to it) |
-| `examples/sugar/` | finished "candy" video: word timings + YouTube title/description/tags |
-| `examples/brain-freeze/words.txt` | word timings of the brain-freeze demo (41.5 s) |
-| `examples/descriptions/` | YouTube metadata of the alcohol, all-nighter, chili, energy-drink, painkiller and water videos: use as the template for titles, sources, credits, hashtags, tags and the "altered/synthetic content" line |
+### Lessons from the coffee video (apply every time)
+- **Script:** aim for 30-35 s (9-11 lines); the coffee script ran 45 s.
+  Turn words ("But", "Then") get a cube-flip transition.
+- **Shots:** a new picture every 1-3.5 s, alternating person ↔ inside the body ↔ molecule macro ↔ inside a vessel.
+  Colour carries the meaning, the last frame loops into the first, and frame 0 is mid-action.
+- **Effect modules in engine\src\core:**
+  - `coffee_props` (mug)
+  - `synapse` (receptor "parking spots" macro)
+  - `caffeine_flow` (substance stream mouth → brain)
+  - `adrenaline` (+ `fastHeart`)
+  - `gut_motion`
+  - `moods` (day → night void, expressions)
+  - `head_fx` (brain chemistry, artery narrowing)
+  - transitions in `main.js`
+  - SFX in `mix.py`
 
-## Not included (needed for full renders)
+  Reuse or recolour them for new topics (alcohol, sugar, nicotine, medicine...).
+- **heroMan gotcha:** `V.scene.add(H.anatomy.group)` yourself, or every glass-head shot is empty.
+- **The hand holds props (added 2026-11-09):** heroMan has right-arm IK and a finger grip (`hero.js`).
+  - Place the prop each frame, then call `H.holdR(prop, { hole, f, s })`. The hand reaches it, the wrist turns to fit and the
+    fingers wrap it.
+  - Mug settings: `GRIP = { hole: V3(M.R+0.012, 0.05, 0), f: V3(0,0,-1), s: V3(0,1,0) }`, handle yaw -2.44.
+  - For a new prop, set `hole` to where the fingers close (handle hole, cup body, pill, phone edge).
+  - Rules:
+    - Film hand-held props at the lips or chest from his RIGHT side (camera x < 0), or the hand sits at the frame edge.
+      For an arm raised above the face, film from his LEFT side (see the sugar lessons).
+    - `reset()` calls `H.pose({})` every frame, or the raised arm leaks into later shots.
+  - Low-level calls: `reachR(T, pole)`, `handFrameR(f, s)`, `curlR(k, thumb)`.
+  - QA from any angle: `$env:QS='&cam=x,y,z,lx,ly,lz'` (coffee shots.js).
+  - Left hand: not built yet (mirror the R code if needed).
+### Lessons from the sugar video (2026-11-09, `demo\sugar`, 31 s, 15 shots; apply every time)
+- **No topic given?** Ask once, and offer 3-4 topics that reuse existing modules (recommend the cheapest to build well).
+- **New project gotcha:** `new_video.ps1` copies the template brain-freeze `script.json`. Read it before overwriting, or
+  the write fails and `voice.ps1` voices the old script (check that voice.ps1 prints YOUR lines).
+- **Test new pieces before the sheet:** render 4-8 key frames (`-Step frames -Times`) of each new prop, expression and
+  macro scene first, and look at new props from 2-3 debug cameras (`$env:QS='&cam=…'`: side, left, front).
+  This found the right angle in one pass; the full sheet (~2 min) is for the final check.
+- **Camera side depends on how high the hand is:** hand at the lips or chest → film from his RIGHT (x < 0). Arm raised
+  above the face (pouring, drinking from a bottle) → film from his LEFT (x > 0), or the arm blocks the face.
+- **Points on a moving body:** compute them in bone space (store the rest point with `HB.worldToLocal` once, read it with
+  `localToWorld` each frame), never as fixed world coordinates. The mouth moves when the head tips back.
+- **Props held at the chest:** use medium shots (look-at y ≈ 1.37) or the prop is cut off at the frame bottom and sits
+  under the captions.
+- **Glows turn white under bloom:** keep emissive ≤ ~0.5 and tint the material colour itself toward the meaning colour.
+- **Effects inside the belly get hidden by the gut:** hide the organ in front (e.g. drop 'gut' from `BODY.show`) for that shot.
+- **New expression keys** must default to 0 in `moods.js` `mix()` (already fixed with `p[key] ?? 0`), or the face renders as a black hole.
+- **Wording health claims:** say "can" for effects that don't happen to everyone (e.g. the sugar dip), and add
+  "not medical advice" to the description.
+- **Final render time:** 936 frames at 1.5× took ~5.5 min, plus the share-copy encode. Run `-Step video` in the
+  background (it can pass the 10-min tool limit).
+- **New reusable modules (now in engine\src\core):**
+  - `candy_props` (candy bag + pouring jelly beans)
+  - `cell_door` (insulin keys / receptor locks / glucose doors macro)
+  - `adrenaline` with `{ obj, color }`, so any organ can glow and release particles
+  - `moods` `happy` + `smile`
+  - SFX in `mix.py`: `crinkle`, `rattle`, `crunch`
 
-The engine source (`engine/src/**`: core/assets.js, engine.js, sets.js, anatomy.js, hero.js, captions.js, main.js and the effect modules), `vendor/three.module.js` + addons, fonts (Inter Black/ExtraBold), `scripts/voice.*`, `words.py`, `build.ps1`, `new_video.ps1`, `tools/capture.mjs`, and the shared assets (head scan, MPFB hero, BodyParts3D anatomy, HDRI, Kokoro voice). Without them you can still: pick topics, research and source facts, write `script.json`, estimate timing, write `shots.js`, design SFX/music with `mix.py`, and write YouTube metadata. Ask the user to upload the missing pieces before promising a rendered MP4.
+  Details are in making-videos.md.
 
-## Quick workflow
+### Lessons from the alcohol video (2026-11-10, `projects\alcohol`, 32 s, 18 shots)
+- New modules: `beer_props` (pint glass, level beer, foam, bubbles), synapse `recolor`/`recolorBlocker`, adrenaline
+  `setColor` (any organ glow can change colour). Details are in making-videos.md.
+- Drinking from a glass = arm raised to the face, so film the sip from his LEFT; grip curl 0.42 keeps the fingers outside the glass.
+- Additive cyan/blue glows disappear on the sky-blue void: use normal blending and deeper blue.
+- If a prop looks wrong, hide its outer shell and render one debug frame via `capture.mjs eval "OP.frame(t)"` to find
+  which layer is at fault.
+- The user may offer to make 3D models: BodyParts3D already covers organs; only props (e.g. a glass) are worth asking for.
 
-1. Topic: one body process with a visible before → after; 2-3 reliable sources.
-2. `script.json`: 4-13 lines, ~75-120 words, opener "If you… / When you…", a turn word per beat, payoff fact last, written to loop.
-3. Timing: real voice (voice.py) or `scripts/estimate.py`.
-4. `shots.js` per `making-videos.md` §4/§4b; cues for `mix.py` at gains 0.3-0.55.
-5. QA per `making-videos.md` §5, render, mix, then the description using `examples/descriptions/` (sources + credits + "for education only, not medical advice").
+### Energy drink (2026-11-10, `projects\energy-drink`, 31 s, 18 shots)
+- New: `can_props` (`energyCan`, `canAtLips`; own black/gold design, no real brand), SFX `can_open` + `fizz`.
+  Sugar + caffeine in one video = two `caffeineFlow` streams (pink, gold) and two `adrenalineFX` (pancreas, adrenals).
+- Envato Elements / Anatomy 3D Atlas were checked and skipped (atlas app cannot export models; Envato only worth it for props).
+
+### Chili (2026-11-10, `projects\chili`, 33 s, 15 shots)
+- New: `chili_props` (pod + bite), `chili_fx` (sweat, tears, face flush, mouth glow, hot tongue / nerve alarm / red
+  brain), `burn` + `relief` faces, `voidMood(V, night, heat)`, synapse `flood`/`crowd`, beerGlass water/milk options.
+- Thin hand-held props: put the GRIP hole beside the object, not on its axis, or it threads through the fingers.
+- Write test frames into one ffmpeg `xstack` contact sheet to review new pieces quickly. Details are in making-videos.md.
+
+### Painkiller (2026-11-10, `projects\painkiller`, 31 s, 16 shots)
+- New: `enzyme_scene` (enzyme factory + blocker, for any drug/enzyme story), `FX.pain` (headache glow), pill drop.
+- Full-body glass shots: render with `ao: 0`, or a dark band appears. Run `node --check` on edited files before rendering.
+
+### Water / dehydration (2026-11-11, `projects\water`, 33 s, 15 shots)
+- New in its shots.js (copy from there): `setShrink(k)` brain shrinks + sags inside the glass head (scale about its own
+  bbox centre), `setSensor` hypothalamus glow + hormone sparks, `setPull` drops spiralling into the kidneys, thin
+  `setPee` trickle, `setAche` red sprite in the head, salt-crystal cubes in the vessel.
+- `voidMood(V, 0, heat)`: heat 0.3-0.6 gives a muddy grey/mauve void; use ≥ 0.85 for a clear warm "hot day".
+- Glass held at the chest in waist-up shots: `glassPose(up 0.45)`, not 0 (0 is below the frame).
+- Kidney/bladder close-ups: leave 'arteries' out of `BODY.show`, or they bury the kidneys.
+- A brighter skull (opacity > 0.15) washes out a red brain; keep 0.1 and add a red sprite instead.
+- White discs in the glass-head eye sockets are the existing engine look (also in painkiller), not a new bug.
+
+### All-nighter (2026-11-12, `projects\all-nighter`, 36 s, 19 shots)
+- New: `moods` `asleep` (eyes shut, head dropped, no blinks; also in the engine template). In its shots.js (copy from
+  there): `wallClock()` prop (hands spin to any hour), `dotPoints()` per-point-alpha dots, a brain-local effects group
+  (child of `H.anatomy.parts.brain.parent`, mm frame): dark "nodding off" blots, brown waste clumps, a teal sleep wash
+  sweeping front→back, a horizontal scan slice that reveals what's above it; and a gold body-clock (SCN) glow.
+- Dark night face close-ups: use night 0.8 + exposure 1.5. The first and last frames look dark on stills because main.js fades in/out.
+- Sunrise: `voidMood(V, 1-k, heat)` with heat driven fully to 1 gives a clean orange dawn (partial heat looks grey).
+- Keep `yawn` ≤ 0.55 in close-ups, or the tongue shows as a purple blob.
+
+### Hero organ model library
+Not included in this package (licence unknown); `core/library.js` stays but has no models. Use BodyParts3D anatomy instead.
+
+- **Multi-agent build** works well. When the user asks for agents, give each one a component (prop, macro scene, particle
+  route, organ effect, expressions, head FX, transitions, SFX, art-director shot list), each in its own scratch project
+  `projects\<name>-aN`. Then assemble, sheet-check, and render. Delete each scratch project's `assets` junction before deleting it.
+- **Deliver:** master MP4 + share copy (~25 MB) + cover + `<name>_youtube.txt` (title + alternatives, description,
+  sources, credits incl. MPFB CC0, hashtags, tags, "altered/synthetic content: yes").
+
+Two people are available in the engine: the photo-scanned head (`scanHead`, eyes closed, most realistic close-ups) and
+the **MPFB man** (`heroMan` in `core/hero.js`: full body, open eyes, blink/wince, jaw, hair, clothes, full-body glass
+x-ray with aligned anatomy). Pick per shot; see making-videos.md §3.
+Whole body inside the glass man: `bodyAnatomy()` (real heart with chambers, lungs, liver, gut, kidneys, bones, full
+artery + vein network, realistic wet tissue materials). Final renders: ambient occlusion on (off inside vessels) and
+`$env:QS='&res=1.5'` supersampling.
+
+## Ground rules
+- Same format, original everything: our own scripts, shots, music and voice. Never Zack D Films' name, logo,
+  characters, scripts, footage or audio.
+- Health facts must be accurate and sourced; no gore (pain = red glow, danger = colour, never wounds).
+- Captions only: no BRAIN / ARTERIES / PRESSURE pills (that made v1 look amateur).
+- Credit in every description: Lee Perry-Smith head scan (CC BY 3.0), BodyParts3D (CC BY-SA 2.1 JP), Poly Haven (CC0).

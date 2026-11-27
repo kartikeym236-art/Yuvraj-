@@ -119,3 +119,9 @@ follow our page, Things Explained." Pick the topic from the reel (geopolitics / 
 finance / AI, or two of them). Write it into the script before voicing, and give it 2-3 scenes in
 the prompts (e.g. THE GUY with a topic-themed tablet, pointing at a Follow button, next to a
 "THINGS EXPLAINED" sign) so it never needs extra images later.
+
+## First image: simply hooky, not forced-dramatic (user, Nov 27 2026)
+
+This replaces the "most dramatic image" rule above. Scene 1 should be clear and intriguing at a glance
+and show the reel's core idea directly. No forced danger, blood-red skies, explosions or storms unless
+the story itself is about that.

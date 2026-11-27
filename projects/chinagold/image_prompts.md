@@ -7,7 +7,7 @@ Generate each as a square (1:1) image. Save as `001.png`, `002.png`, ... in orde
 ```
 Original fictional characters only, not real people. Flat 2D cartoon illustration, square 1:1, full-bleed. Clean bold black outlines, flat colours with soft simple shading. Characters have big round heads, warm orange-tan skin, small black dot eyes, simple curved eyebrows, rosy pink cheeks, tiny mouths. Detailed but clean illustrated backgrounds in soft muted colours (light greys, slate blue, sage, warm beige), calm natural lighting. No text, letters or logos unless the scene names a word or number; then show it naturally (on a sign, paper or board), never as a floating overlay. NO people unless described.
 
-Scene: HOOK, DRAMATIC: a giant red Chinese dragon clutching a glowing mountain of gold bars while tossing burning US dollar bills and Treasury bonds into a fiery abyss, a cracked US dollar symbol in the stormy sky, red and gold light.
+Scene: A Chinese dragon calmly holding a big stack of gold bars in one claw and pushing away a stack of US dollar bills with the other.
 ```
 
 ## 002  ·  "dumping American debt"

@@ -1,0 +1,8 @@
+Every iPhone, every AI chip, every Nvidia GPU depends on one company you've probably never heard of. And it's not in America.
+It's ASML, a Dutch company in a small town called Veldhoven. And it's the only company on Earth that can build the machine needed to make the world's most advanced chips.
+The machine is called an EUV lithography machine. It's the size of a school bus, costs around 200 million dollars, and has over a hundred thousand parts. Shipping one takes forty containers and multiple cargo planes.
+Here's how it works. It fires a laser at tiny droplets of molten tin, fifty thousand times every second, creating a light hotter than the surface of the sun. That light carves circuits thousands of times thinner than a human hair onto silicon.
+TSMC, Samsung and Intel all depend on it. Without ASML, there's no cutting-edge AI.
+That's why it's now a geopolitical weapon. The US pushed the Netherlands to block sales of these machines to China. And China, despite spending billions, still can't build one.
+So the most important company in the AI race isn't Nvidia, Apple or OpenAI. It's a Dutch company that makes machines that make chips.
+If you want updates related to tech and geopolitics, then make sure to follow our page, Things Explained.

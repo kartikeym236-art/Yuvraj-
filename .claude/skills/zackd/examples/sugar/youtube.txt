@@ -1,0 +1,34 @@
+TITLE
+What Happens When You Eat A Whole Bag Of Candy
+
+ALTERNATIVE TITLES
+- Why A Sugar Rush Always Ends In A Crash
+- What A Bag Of Candy Does Inside Your Body
+- This Is Why You Crash After Eating Sugar
+
+DESCRIPTION
+If you eat a whole bag of candy, the sugar hits your blood within minutes. Your brain gets a burst of dopamine, then your pancreas floods your body with insulin, which unlocks your cells so they can soak the sugar up. The rest is stored in your liver or turned into fat. And because of all that insulin, your blood sugar can dip below where it started. That's the crash.
+
+This is a simplified explainer for general education, not medical advice.
+
+Sources:
+- Cleveland Clinic, "Insulin": beta cells in the pancreas release insulin when blood glucose rises; insulin lets glucose into muscle, fat and liver cells; the liver stores extra glucose as glycogen
+- Harvard T.H. Chan School of Public Health, "Carbohydrates and Blood Sugar": simple sugars cause a fast rise in blood sugar and a large insulin response; extra glucose is stored as glycogen or converted to fat
+- Ludwig DS et al., Pediatrics 103 (1999) e26: after a high-glycemic meal, blood glucose rose fast, then fell below the starting level within a few hours, with more hunger afterwards
+- Mayo Clinic, "Reactive hypoglycemia": blood sugar can drop within about four hours after eating; symptoms include shakiness, tiredness and hunger
+- Avena NM, Rada P, Hoebel BG, Neurosci Biobehav Rev 32 (2008): sugar intake releases dopamine in the brain's reward area
+
+Credits:
+- 3D human: MakeHuman / MPFB (CC0)
+- Anatomy: BodyParts3D, (c) The Database Center for Life Science, CC BY-SA 2.1 JP
+- Head anatomy fit reference: Lee Perry-Smith / Infinite Realities head scan, CC BY 3.0
+- Studio lighting: Poly Haven (CC0)
+- Voice: Kokoro-82M (Apache-2.0)
+- Music and sound effects: original, made in code
+
+#sugar #candy #insulin #health #humanbody #science #shorts
+
+TAGS
+sugar rush, sugar crash, candy, what happens when you eat sugar, insulin, pancreas, blood sugar, dopamine, reactive hypoglycemia, human body, 3d animation, health facts, body explained, shorts
+
+ALTERED / SYNTHETIC CONTENT: yes (3D animated, AI voice)

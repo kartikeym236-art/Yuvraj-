@@ -1,0 +1,35 @@
+TITLE
+What Happens To Your Body When You Pull An All-Nighter
+
+ALTERNATIVE TITLES
+- Why You Feel Awake Again At Sunrise (It's A Trick)
+- What One Sleepless Night Does To Your Brain
+- Your Brain At 4 A.M. Without Sleep
+
+DESCRIPTION
+If you stay up all night, a chemical called adenosine keeps piling up in your brain. Around 4 a.m. your body clock hits its lowest point and parts of your brain start nodding off for split seconds, even while you're awake. After 24 hours awake, your reactions slow down about as much as someone who's drunk. Then at sunrise a rush of cortisol makes you feel awake again, but the adenosine never left. And because sleep is when fluid washes waste out of your brain, scans show more of that waste left behind after just one sleepless night.
+
+This video is for education only and is not medical advice.
+
+Sources:
+- Porkka-Heiskanen T et al., Science 276 (1997): adenosine builds up in the brain during waking hours (sleep pressure)
+- Harvard Medical School Division of Sleep Medicine / Cleveland Clinic: circadian low point in the early morning; morning cortisol rise and circadian alerting
+- Nir Y et al., Nature Medicine 23 (2017): after sleep loss, groups of neurons briefly go "offline" while the person is awake
+- Dawson D & Reid K, Nature 388 (1997): 24 hours awake impairs performance about as much as a 0.10% blood alcohol level
+- Xie L et al., Science 342 (2013): sleep increases fluid flow that clears waste from the brain (glymphatic system)
+- Shokri-Kojori E et al., PNAS 115 (2018): one night without sleep raised beta-amyloid in the human brain by about 5%
+
+Credits:
+- 3D human: MakeHuman / MPFB (CC0)
+- Anatomy: BodyParts3D, (c) The Database Center for Life Science, CC BY-SA 2.1 JP
+- Head scan: Lee Perry-Smith / Infinite Realities, CC BY 3.0
+- Studio lighting: Poly Haven (CC0)
+- Voice: Kokoro-82M (Apache-2.0)
+
+HASHTAGS
+#allnighter #sleep #brain #humanbody #health #science #shorts
+
+TAGS
+all nighter, sleep deprivation, what happens when you don't sleep, adenosine, circadian rhythm, cortisol, microsleep, glymphatic system, brain waste, sleep science, human body, 3d animation, health facts
+
+ALTERED / SYNTHETIC CONTENT: yes (3D animated human and AI voice)

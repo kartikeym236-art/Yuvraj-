@@ -1,0 +1,36 @@
+TITLE
+What A Hot Chili Pepper Does To Your Body
+
+ALTERNATIVE TITLES
+Why Spicy Food Feels Like Fire
+Why Water Won't Stop The Burn (But Milk Does)
+Your Mouth Isn't Actually Burning
+
+DESCRIPTION
+If you bite into a hot chili pepper, a chemical called capsaicin grabs the heat sensors on your tongue (the TRPV1 receptor). These sensors normally only fire for real, painful heat, so they send a "fire alarm" to your brain. Your brain thinks your mouth is on fire, so you start sweating to cool down, your face turns red and your eyes water. But water barely helps, because capsaicin doesn't dissolve in water. Milk works much better, because its proteins help wash the capsaicin away. And the funny part? Your mouth never actually got any hotter.
+
+How strongly you react depends on the pepper and on the person.
+This video is for education only and is not medical advice.
+
+Sources:
+- Caterina MJ et al., "The capsaicin receptor: a heat-activated ion channel in the pain pathway", Nature 389, 1997
+- The Nobel Prize in Physiology or Medicine 2021, press release (David Julius, TRPV1)
+- Lee TS, "Physiological gustatory sweating in a warm climate", Journal of Physiology 124, 1954; NCBI StatPearls, "Capsaicin"
+- PubChem, Capsaicin (CID 1548026): practically insoluble in water
+- Nolden AA, Lenart G, Hayes JE, "Putting out the fire - Efficacy of common beverages in reducing oral burn from capsaicin", Physiology & Behavior 208, 2019
+- Nasrawi CW, Pangborn RM, "Temporal effectiveness of mouth-rinsing on capsaicin mouth-burn", Physiology & Behavior 47, 1990
+
+Credits:
+- 3D human: MakeHuman / MPFB (CC0)
+- Anatomy: BodyParts3D, (c) The Database Center for Life Science, CC BY-SA 2.1 JP
+- Studio lighting: Poly Haven (CC0)
+- Voice: Kokoro-82M (Apache-2.0)
+- Chili, mug and glass models, music and sound effects: original
+
+HASHTAGS
+#chili #spicyfood #capsaicin #humanbody #brain #health #science #shorts
+
+TAGS
+chili pepper, what happens when you eat a chili, spicy food, capsaicin, why spicy food burns, TRPV1, heat receptors, why milk helps spicy food, does water help spicy food, sweating spicy food, human body explained, 3d animation, health shorts
+
+ALTERED / SYNTHETIC CONTENT: yes (3D animation with an AI voice)

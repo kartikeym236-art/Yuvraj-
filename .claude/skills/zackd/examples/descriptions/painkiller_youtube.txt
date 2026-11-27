@@ -1,0 +1,34 @@
+TITLE
+What A Painkiller Actually Does Inside You
+
+ALTERNATIVE TITLES
+How Ibuprofen Really Stops Pain
+Your Painkiller Doesn't Know Where Your Pain Is
+What Happens After You Swallow Ibuprofen
+
+DESCRIPTION
+If you take ibuprofen for a headache, it doesn't fly straight to your head. It dissolves in your stomach, and your blood carries it all over your body. Where you're hurting, your cells make chemicals called prostaglandins, which make your pain nerves more sensitive. Ibuprofen blocks the enzyme that makes them (cyclooxygenase, or COX), so in about 20 to 30 minutes the pain fades. But prostaglandins also help protect your stomach lining, which is why it's best to take ibuprofen with food or milk. And the pill never even knew where your pain was.
+
+Always follow the dose on the pack or your pharmacist's advice. Some people should not take ibuprofen (for example with certain stomach, kidney or heart problems, or in late pregnancy).
+This video is for education only and is not medical advice.
+
+Sources:
+- NHS, "Ibuprofen for adults (Nurofen)"
+- NCBI StatPearls, "Ibuprofen" (Ngo VTH, Bajaj T)
+- Vane JR, "Inhibition of prostaglandin synthesis as a mechanism of action for aspirin-like drugs", Nature New Biology 231, 1971 (Nobel Prize in Physiology or Medicine 1982)
+- Ricciotti E, FitzGerald GA, "Prostaglandins and Inflammation", Arteriosclerosis, Thrombosis, and Vascular Biology 31(5), 2011
+
+Credits:
+- 3D human: MakeHuman / MPFB (CC0)
+- Anatomy: BodyParts3D, (c) The Database Center for Life Science, CC BY-SA 2.1 JP
+- Studio lighting: Poly Haven (CC0)
+- Voice: Kokoro-82M (Apache-2.0)
+- Pill, glass, molecule and enzyme models, music and sound effects: original
+
+HASHTAGS
+#ibuprofen #painkiller #headache #humanbody #medicine #health #science #shorts
+
+TAGS
+ibuprofen, how does ibuprofen work, painkiller, how painkillers work, headache, prostaglandins, COX enzyme, NSAID, take ibuprofen with food, stomach lining, human body explained, 3d animation, health shorts
+
+ALTERED / SYNTHETIC CONTENT: yes (3D animation with an AI voice)

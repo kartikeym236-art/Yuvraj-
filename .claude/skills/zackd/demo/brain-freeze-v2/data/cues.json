@@ -1,0 +1,103 @@
+{
+ "duration": 41.79,
+ "cues": [
+  {
+   "t": 0.05,
+   "type": "crunch",
+   "gain": 0.35,
+   "dur": 0.6
+  },
+  {
+   "t": 1.35,
+   "type": "crunch",
+   "gain": 0.3,
+   "dur": 0.5
+  },
+  {
+   "t": 3.844,
+   "type": "thud",
+   "gain": 0.4
+  },
+  {
+   "t": 6.301,
+   "type": "shimmer",
+   "gain": 0.35,
+   "dur": 1.2
+  },
+  {
+   "t": 7.939,
+   "type": "whoosh_soft",
+   "gain": 0.35,
+   "dur": 0.5
+  },
+  {
+   "t": 11.677,
+   "type": "sparkle",
+   "gain": 0.3,
+   "dur": 0.9
+  },
+  {
+   "t": 13.757,
+   "type": "whoosh_soft",
+   "gain": 0.4,
+   "dur": 0.6
+  },
+  {
+   "t": 18.25,
+   "type": "heartbeat_fast",
+   "gain": 0.45,
+   "dur": 1.4,
+   "bpm": 130
+  },
+  {
+   "t": 21.363,
+   "type": "slide",
+   "gain": 0.35,
+   "dur": 0.6
+  },
+  {
+   "t": 22.202,
+   "type": "whoosh",
+   "gain": 0.4
+  },
+  {
+   "t": 24.436,
+   "type": "whoosh_soft",
+   "gain": 0.35,
+   "dur": 0.5
+  },
+  {
+   "t": 26.234,
+   "type": "rumble",
+   "gain": 0.4,
+   "dur": 1.2
+  },
+  {
+   "t": 28.572,
+   "type": "zip",
+   "gain": 0.3
+  },
+  {
+   "t": 29.896,
+   "type": "thud",
+   "gain": 0.4
+  },
+  {
+   "t": 32.43,
+   "type": "sparkle",
+   "gain": 0.25,
+   "dur": 1
+  },
+  {
+   "t": 37.327,
+   "type": "gulp",
+   "gain": 0.3
+  },
+  {
+   "t": 39.936,
+   "type": "shimmer",
+   "gain": 0.3,
+   "dur": 1
+  }
+ ]
+}

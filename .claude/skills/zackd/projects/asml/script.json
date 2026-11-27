@@ -1,0 +1,41 @@
+{
+ "title": "The Most Important Company In The AI Race",
+ "voice": "own recording (voiceover_5.mp3)",
+ "music": "bed_documentary",
+ "cover": 9.2,
+ "sources": [
+  "ASML, \"EUV lithography systems\" (asml.com): NXE systems, tin-droplet laser-produced plasma, 50,000 droplets per second",
+  "ASML, \"Shipping an EUV machine\": 40 freight containers, 20 trucks and 3 cargo planes per system",
+  "ASML Annual Report 2023: headquarters in Veldhoven, the Netherlands; sole supplier of EUV lithography systems",
+  "Reuters, \"Netherlands restricts exports of ASML chip equipment to China\" (2023) and US export-control coverage (2023-2024)"
+ ],
+ "lines": [
+  { "text": "Every iPhone,", "caps": "Every iPhone," },
+  { "text": "every AI chip,", "caps": "every AI chip," },
+  { "text": "every NVIDIA GPU", "caps": "every NVIDIA GPU" },
+  { "text": "depends on one company you've probably never heard of.", "caps": "depends on | one company | you've probably | never heard of." },
+  { "text": "And it's not in America,", "caps": "And it's not | in America," },
+  { "text": "it's ASML, a Dutch company in a small town called Veldhoven.", "caps": "it's ASML, | a Dutch company | in a small town | called Veldhoven." },
+  { "text": "And it's the only company on Earth that can build the machine", "caps": "And it's | the only company | on Earth | that can build | the machine" },
+  { "text": "needed to make the world's most advanced chips.", "caps": "needed to make | the world's most | advanced chips." },
+  { "text": "The machine is called an EUV lithography machine.", "caps": "The machine | is called | an EUV | lithography machine." },
+  { "text": "It's the size of a school bus,", "caps": "It's the size | of a school bus," },
+  { "text": "costs around $200 million,", "caps": "costs around | $200 million," },
+  { "text": "and has over 100,000 parts.", "caps": "and has over | 100,000 parts." },
+  { "text": "Shipping one takes 40 containers and multiple cargo planes.", "caps": "Shipping one | takes 40 containers | and multiple | cargo planes." },
+  { "text": "Here's how it works.", "caps": "Here's how it works." },
+  { "text": "It fires a laser at tiny droplets of molten tin,", "caps": "It fires a laser | at tiny droplets | of molten tin," },
+  { "text": "50,000 times every second,", "caps": "50,000 times | every second," },
+  { "text": "creating a light hotter than the surface of the sun.", "caps": "creating a light | hotter than | the surface | of the sun." },
+  { "text": "That light carves circuits thousands of times thinner than a human hair onto silicon.", "caps": "That light | carves circuits | thousands of times | thinner than | a human hair | onto silicon." },
+  { "text": "TSMC, Samsung, and Intel all depend on it.", "caps": "TSMC, | Samsung, | and Intel | all depend on it." },
+  { "text": "Without ASML, there's no cutting-edge AI.", "caps": "Without ASML, | there's no | cutting-edge AI." },
+  { "text": "That's why it's now a geopolitical weapon.", "caps": "That's why | it's now a | geopolitical weapon." },
+  { "text": "The US pushed the Netherlands to block sales of these machines to China.", "caps": "The US pushed | the Netherlands | to block sales | of these machines | to China." },
+  { "text": "And China, despite spending billions, still can't build one.", "caps": "And China, | despite spending | billions, | still can't | build one." },
+  { "text": "So the most important company in the AI race isn't NVIDIA, Apple, or OpenAI.", "caps": "So the most | important company | in the AI race | isn't NVIDIA, | Apple, | or OpenAI." },
+  { "text": "It's a Dutch company that makes machines that make chips.", "caps": "It's a | Dutch company | that makes machines | that make chips." },
+  { "text": "If you want updates related to tech and geopolitics,", "caps": "If you want | updates related | to tech | and geopolitics," },
+  { "text": "then make sure to follow our page, Things Explained.", "caps": "then make sure | to follow our page, | Things Explained." }
+ ]
+}

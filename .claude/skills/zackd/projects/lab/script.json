@@ -1,3 +1,27 @@
-{ "title": "Lab", "voice": "am_michael", "speed": 1.05, "lead": 0.3, "outro": 0.6, "gap": 0.3, "music": "bed_documentary",
-  "lines": [ { "text": "This is the lab scene for the engine.", "caps": "This is | the lab scene | for the engine." },
-             { "text": "Skin turns to glass, and the brain glows inside.", "caps": "Skin turns | to glass, | and the brain | glows inside." } ] }
+{
+ "title": "Lab",
+ "voice": "am_michael",
+ "speed": 1.05,
+ "lead": 0.3,
+ "outro": 0.6,
+ "gap": 0.3,
+ "music": "bed_documentary",
+ "lines": [
+  {
+   "text": "This is the lab scene for the engine.",
+   "caps": "This is | the lab scene | for the engine."
+  },
+  {
+   "text": "Skin turns to glass, and the brain glows inside.",
+   "caps": "Skin turns | to glass, | and the brain | glows inside."
+  },
+  {
+   "text": "Then the camera flies into the body, and down inside a vessel.",
+   "caps": "Then the camera | flies into | the body, | and down | inside a vessel."
+  },
+  {
+   "text": "The heart keeps beating.",
+   "caps": "The heart | keeps beating."
+  }
+ ]
+}

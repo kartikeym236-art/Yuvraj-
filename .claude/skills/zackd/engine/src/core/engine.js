@@ -47,6 +47,12 @@ export function makeEngine(canvas) {
   const bloom = new UnrealBloomPass(new THREE.Vector2(W * res / 2, H * res / 2), 0.15, 0.4, 0.85);
   const grade = new ShaderPass(GradeShader), out = new OutputPass();
   [rp, ao, bokeh, bloom, grade, out].forEach((p) => composer.addPass(p));
+  // AO and DOF re-render the scene with an override material for depth/normals. Glow sprites and see-through glass must
+  // not take part, or they print solid squares / a fake surface into those buffers (dark squares, wrong focus).
+  const hideSoft = (scene) => { const hid = [];
+    scene.traverseVisible((o) => { const m = o.material; if ((o.isSprite || o.isPoints || (m && m.transparent && !m.depthWrite)) && o.visible) { o.visible = false; hid.push(o); } });
+    return () => hid.forEach((o) => (o.visible = true)); };
+  for (const p of [ao, bokeh]) { const r = p.render.bind(p); p.render = (...a) => { const undo = hideSoft(p.scene); try { r(...a); } finally { undo(); } }; }
   let frameNo = 0;
 
   const E = {

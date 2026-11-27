@@ -10,7 +10,7 @@ or missed share the time between their matched neighbours, by length. Also write
 No Whisper (not installed, or its model can't download)? After voice.py the line times are exact anyway, so each
 line's words are spread inside it by length, with pauses at commas and full stops (within ~0.1-0.2 s of the speech).
 """
-import argparse, json, re, subprocess
+import argparse, json, os, re, subprocess
 from difflib import SequenceMatcher
 from pathlib import Path
 
@@ -56,7 +56,8 @@ def main():
     P = Path(a.project); S = json.loads((P / 'script.json').read_text())
     try:
         from faster_whisper import WhisperModel
-        model = WhisperModel('small.en', device='cpu', compute_type='int8')
+        local = os.path.expanduser('~/.cache/fw-small-en')   # setup.sh puts faster-whisper small.en here (GitHub mirror)
+        model = WhisperModel(os.environ.get('WHISPER_MODEL') or (local if os.path.exists(local + '/model.bin') else 'small.en'), device='cpu', compute_type='int8')
     except Exception as e:
         if a.audio or not (P / 'data/lines.json').exists():
             raise SystemExit(f'Whisper is needed for your own recording and could not load: {e}')

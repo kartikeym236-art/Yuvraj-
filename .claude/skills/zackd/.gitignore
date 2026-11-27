@@ -13,3 +13,6 @@ demo/*/data/*.wav
 demo/*/renders/*.mp4
 demo/*/review/
 __pycache__/
+projects/*/data/*.wav
+projects/lab/
+.build/

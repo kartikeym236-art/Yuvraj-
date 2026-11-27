@@ -8,6 +8,20 @@ description: Make original ~30-42 s vertical 3D health / body explainer Shorts (
 Skill folder: the folder that holds this SKILL.md (normally `%USERPROFILE%\.claude\skills\zackd`); all paths below are relative to it.
 First time on a new PC: run `powershell -File setup.ps1` in the skill folder (asset junctions + dependency check) and see README.txt.
 
+## On Linux / Claude cloud sessions (rebuilt engine, 2026-11-27)
+The Windows `.ps1` pipeline is mirrored by bash scripts; `INSTALLED.md` lists what exists here and what differs.
+- First time: `bash setup.sh` (three.js, fonts, head scan, HDRI, Kokoro, Whisper small.en, BodyParts3D library + anatomy OBJs;
+  all from GitHub/npm/PyPI because other hosts are blocked). `bash setup.sh --hero` also builds the MPFB man with Blender (bpy).
+- New video: `scripts/new_video.sh <name>` → write `projects/<name>/script.json` → `scripts/voice.sh projects/<name>`
+  (Kokoro) or `scripts/voice.sh projects/<name> --audio voiceover.mp3` (the user's own recording; Whisper times every word)
+  → write `src/shots.js` → `scripts/build.sh projects/<name> check` → `… sheet` (LOOK at review/sheet.jpg) → `… video`
+  (renders/<name>.mp4 + _share.mp4 + cover.jpg; run in the background: no GPU here, ~3-6 s per frame).
+- Working examples: `demo/brain-freeze-v2` (scanned head + glass x-ray + anatomy + vessel) and `projects/asml`
+  (non-body tech reel on a user voiceover: `core/tech_props.js` phone, chip, gpu, EUV machine, bus, containers, cargo
+  planes, laser chamber, wafer, hair macro, fabs, sun, Earth globe with country highlights / pins / arcs).
+- Engine gotchas found while building it: glow sprites and glass are hidden from the AO/DOF depth passes (else dark
+  squares); portrait framing needs the camera ~3.2 × the object's width away; metal needs `scene.environment` or it renders black.
+
 ## Read first
 1. `references\channel-playbook.md`: the format, measured on the 20 most-viewed "health" Shorts
    (length ~30 s, 2.7 words/s, "If you…" openers, turn words, one continuous camera that goes into the body and back

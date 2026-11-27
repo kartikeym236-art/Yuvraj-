@@ -1,0 +1,167 @@
+{
+ "duration": 74.998,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Every iPhone,",
+   "start": 0.04,
+   "end": 0.82
+  },
+  {
+   "i": 1,
+   "text": "every AI chip,",
+   "start": 1.4,
+   "end": 2.14
+  },
+  {
+   "i": 2,
+   "text": "every NVIDIA GPU",
+   "start": 2.56,
+   "end": 3.62
+  },
+  {
+   "i": 3,
+   "text": "depends on one company you've probably never heard of.",
+   "start": 3.66,
+   "end": 6.42
+  },
+  {
+   "i": 4,
+   "text": "And it's not in America,",
+   "start": 6.82,
+   "end": 7.84
+  },
+  {
+   "i": 5,
+   "text": "it's ASML, a Dutch company in a small town called Veldhoven.",
+   "start": 8.24,
+   "end": 11.82
+  },
+  {
+   "i": 6,
+   "text": "And it's the only company on Earth that can build the machine",
+   "start": 12.38,
+   "end": 15.06
+  },
+  {
+   "i": 7,
+   "text": "needed to make the world's most advanced chips.",
+   "start": 15.1,
+   "end": 17.06
+  },
+  {
+   "i": 8,
+   "text": "The machine is called an EUV lithography machine.",
+   "start": 17.68,
+   "end": 20.2
+  },
+  {
+   "i": 9,
+   "text": "It's the size of a school bus,",
+   "start": 20.86,
+   "end": 22.12
+  },
+  {
+   "i": 10,
+   "text": "costs around $200 million,",
+   "start": 22.58,
+   "end": 24.06
+  },
+  {
+   "i": 11,
+   "text": "and has over 100,000 parts.",
+   "start": 24.48,
+   "end": 26.54
+  },
+  {
+   "i": 12,
+   "text": "Shipping one takes 40 containers and multiple cargo planes.",
+   "start": 27.14,
+   "end": 30.54
+  },
+  {
+   "i": 13,
+   "text": "Here's how it works.",
+   "start": 30.94,
+   "end": 31.56
+  },
+  {
+   "i": 14,
+   "text": "It fires a laser at tiny droplets of molten tin,",
+   "start": 32.2,
+   "end": 34.86
+  },
+  {
+   "i": 15,
+   "text": "50,000 times every second,",
+   "start": 34.86,
+   "end": 36.94
+  },
+  {
+   "i": 16,
+   "text": "creating a light hotter than the surface of the sun.",
+   "start": 37.4,
+   "end": 39.58
+  },
+  {
+   "i": 17,
+   "text": "That light carves circuits thousands of times thinner than a human hair onto silicon.",
+   "start": 40.3,
+   "end": 44.42
+  },
+  {
+   "i": 18,
+   "text": "TSMC, Samsung, and Intel all depend on it.",
+   "start": 44.86,
+   "end": 47.9
+  },
+  {
+   "i": 19,
+   "text": "Without ASML, there's no cutting-edge AI.",
+   "start": 48.36,
+   "end": 50.78
+  },
+  {
+   "i": 20,
+   "text": "That's why it's now a geopolitical weapon.",
+   "start": 51.16,
+   "end": 53.1
+  },
+  {
+   "i": 21,
+   "text": "The US pushed the Netherlands to block sales of these machines to China.",
+   "start": 53.14,
+   "end": 57.18
+  },
+  {
+   "i": 22,
+   "text": "And China, despite spending billions, still can't build one.",
+   "start": 57.84,
+   "end": 60.86
+  },
+  {
+   "i": 23,
+   "text": "So the most important company in the AI race isn't NVIDIA, Apple, or OpenAI.",
+   "start": 61.26,
+   "end": 65.7
+  },
+  {
+   "i": 24,
+   "text": "It's a Dutch company that makes machines that make chips.",
+   "start": 66.46,
+   "end": 68.74
+  },
+  {
+   "i": 25,
+   "text": "If you want updates related to tech and geopolitics,",
+   "start": 69.54,
+   "end": 72.04
+  },
+  {
+   "i": 26,
+   "text": "then make sure to follow our page, Things Explained.",
+   "start": 72.54,
+   "end": 74.8
+  }
+ ]
+}

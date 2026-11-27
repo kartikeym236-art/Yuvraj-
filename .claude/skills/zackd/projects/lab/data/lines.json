@@ -1,18 +1,31 @@
 {
- "duration": 7.142,
- "estimated": true,
+ "duration": 12.157,
+ "voice": "am_michael",
+ "speed": 1.05,
  "lines": [
   {
    "i": 0,
    "text": "This is the lab scene for the engine.",
    "start": 0.3,
-   "end": 3.021
+   "end": 2.234
   },
   {
    "i": 1,
    "text": "Skin turns to glass, and the brain glows inside.",
-   "start": 3.321,
-   "end": 6.542
+   "start": 2.534,
+   "end": 5.704
+  },
+  {
+   "i": 2,
+   "text": "Then the camera flies into the body, and down inside a vessel.",
+   "start": 6.004,
+   "end": 9.718
+  },
+  {
+   "i": 3,
+   "text": "The heart keeps beating.",
+   "start": 10.018,
+   "end": 11.257
   }
  ]
 }

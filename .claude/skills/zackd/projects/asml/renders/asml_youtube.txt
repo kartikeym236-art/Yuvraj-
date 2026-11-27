@@ -1,0 +1,33 @@
+TITLE
+The Most Important Company In The AI Race (It's Not NVIDIA)
+
+ALTERNATIVE TITLES
+- The Dutch Company Every AI Chip Depends On
+- Why The World Can't Make Chips Without ASML
+- The $200 Million Machine Behind Every AI Chip
+
+DESCRIPTION
+Every iPhone, every AI chip and every NVIDIA GPU depends on one company: ASML, from Veldhoven in the Netherlands. It is the only company that builds EUV lithography machines, which are needed to make the world's most advanced chips. One machine is about the size of a school bus, costs around $200 million, has over 100,000 parts and ships in 40 containers and several cargo planes. Inside, a laser hits tiny droplets of molten tin 50,000 times a second, making a light hotter than the surface of the sun that prints circuits thousands of times thinner than a human hair onto silicon. That's why the US pushed the Netherlands to block sales of these machines to China.
+
+Follow Things Explained for more on tech and geopolitics.
+
+Sources:
+- ASML, "EUV lithography systems" (asml.com): tin-droplet laser-produced plasma, about 50,000 droplets per second
+- ASML, "How we ship an EUV system": 40 freight containers, 20 trucks and 3 cargo planes per machine
+- ASML Annual Report 2023: headquarters in Veldhoven, the Netherlands; sole supplier of EUV lithography systems
+- Reuters, "Netherlands restricts exports of ASML chip equipment to China" (2023), and coverage of US export controls (2023-2024)
+
+Credits:
+- Earth textures: three.js examples (NASA Blue Marble / Black Marble imagery)
+- Country borders: Natural Earth (public domain)
+- Studio lighting: Poly Haven (CC0)
+- 3D models, music and sound effects: original, made in code
+- Product and company names are used for commentary only; no logos are shown.
+
+HASHTAGS
+#asml #semiconductors #ai #chips #nvidia #geopolitics #technology #shorts
+
+TAGS
+asml, euv lithography, euv machine, semiconductors, chip making, ai chips, nvidia, tsmc, chip war, us china chips, netherlands, veldhoven, how chips are made, tech explained, geopolitics, things explained
+
+ALTERED / SYNTHETIC CONTENT: yes (3D animation)

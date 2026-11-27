@@ -1,0 +1,16 @@
+data/cues.json: 17 cues
+rendering 1254 frames (41.8 s at 30 fps, res 1) with 2 workers…
+  [p0.mp4] 1/627 frames, 0:05 elapsed, ~50:30 left
+  [p1.mp4] 1/627 frames, 0:18 elapsed, ~188:11 left
+  [p0.mp4] 31/627 frames, 7:34 elapsed, ~145:31 left
+  [p1.mp4] 31/627 frames, 8:01 elapsed, ~154:03 left
+node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+page.evaluate: Target page, context or browser has been closed
+    at /home/user/Yuvraj-/.claude/skills/zackd/tools/capture.mjs:72:28 {
+  log: []
+}
+
+Node.js v22.23.5

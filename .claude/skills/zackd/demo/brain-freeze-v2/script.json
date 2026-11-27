@@ -1,36 +1,44 @@
 {
  "title": "Why Ice Cream Gives You Brain Freeze",
  "voice": "am_michael",
- "speed": 1.05,
+ "speed": 1.08,
  "lead": 0.3,
  "outro": 0.8,
- "gap": 0.3,
+ "gap": 0.24,
  "music": "bed_documentary",
- "sources": [],
+ "sources": [
+  "Cleveland Clinic, \"Brain Freeze (Ice Cream Headache)\"",
+  "Serrador JM et al., \"Cerebral blood flow during sphenopalatine ganglion stimulation (brain freeze)\", FASEB Journal 26 (2012)",
+  "Mages S et al., \"Experimental provocation of 'ice-cream headache' by ice cubes and ice water\", Cephalalgia 37 (2017)",
+  "Harvard Health Publishing, \"Brain freeze: what it is and how to stop it\""
+ ],
  "lines": [
   {
    "text": "If you eat ice cream too fast,",
-   "caps": "If you eat | ice cream too | fast,"
+   "caps": "If you eat | ice cream | too fast,"
   },
   {
    "text": "you might get a sudden, stabbing pain right behind your forehead.",
-   "caps": "you might get | a sudden, | stabbing pain right | behind your forehead."
+   "caps": "you might get | a sudden, | stabbing pain | right behind | your forehead.",
+   "gap": 0.34
   },
   {
    "text": "It's called brain freeze, but your brain isn't actually freezing.",
-   "caps": "It's called brain | freeze, | but your brain | isn't actually freezing."
+   "caps": "It's called | brain freeze, | but your brain | isn't actually | freezing.",
+   "gap": 0.34
   },
   {
    "text": "When something ice cold touches the roof of your mouth,",
-   "caps": "When something ice | cold touches the | roof of your | mouth,"
+   "caps": "When something | ice cold | touches the roof | of your mouth,"
   },
   {
    "text": "it chills the blood vessels running just above it.",
-   "caps": "it chills the | blood vessels running | just above it."
+   "caps": "it chills | the blood vessels | running just | above it.",
+   "gap": 0.34
   },
   {
    "text": "Scientists think your body panics,",
-   "caps": "Scientists think your | body panics,"
+   "caps": "Scientists think | your body panics,"
   },
   {
    "text": "and the arteries feeding your brain suddenly widen,",
@@ -38,15 +46,17 @@
   },
   {
    "text": "rushing in warm blood to protect it.",
-   "caps": "rushing in warm | blood to protect | it."
+   "caps": "rushing in | warm blood | to protect it.",
+   "gap": 0.34
   },
   {
    "text": "But that sudden rush raises the pressure inside your head,",
-   "caps": "But that sudden | rush raises the | pressure inside your | head,"
+   "caps": "But that | sudden rush | raises the pressure | inside your head,"
   },
   {
    "text": "and the nerves there read it as a stabbing headache.",
-   "caps": "and the nerves | there read it | as a stabbing | headache."
+   "caps": "and the nerves | there read it | as a stabbing | headache.",
+   "gap": 0.34
   },
   {
    "text": "The good news is that it's harmless, and it fades within a minute or two.",
@@ -54,11 +64,12 @@
   },
   {
    "text": "And to make it stop even faster,",
-   "caps": "And to make | it stop even | faster,"
+   "caps": "And to make | it stop | even faster,"
   },
   {
    "text": "press your tongue against the roof of your mouth, and warm it back up.",
    "caps": "press your tongue | against the roof | of your mouth, | and warm it | back up."
   }
- ]
+ ],
+ "cover": 0.8
 }

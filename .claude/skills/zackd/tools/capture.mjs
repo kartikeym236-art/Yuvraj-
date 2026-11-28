@@ -123,6 +123,10 @@ try {
     for (let a = F0, i = 0; a < F1; a += chunk, i++) { const out = path.join(tmp, `c${String(i).padStart(4, '0')}.mp4`); parts.push(out); queue.push([a, Math.min(F1, a + chunk), out]); }
     // one browser per worker: pages inside one browser share a single (software) GPU process and do not run in parallel
     const browsers = [browser, ...(await Promise.all(Array.from({ length: Math.max(0, jobs - 1) }, () => launch())))];
+    // resume: a chunk file that already holds all its frames (from an interrupted run) is kept, not re-rendered
+    const done = (job) => { try { return +execSync(`ffprobe -v error -count_frames -select_streams v -show_entries stream=nb_read_frames -of csv=p=0 "${job[2]}"`, { stdio: ['ignore', 'pipe', 'ignore'] }).toString().trim() === job[1] - job[0]; } catch { return false; } };
+    const todo = queue.filter((j) => !(fs.existsSync(j[2]) && done(j))); if (todo.length < queue.length) console.log(`resuming: ${queue.length - todo.length} chunks already rendered`);
+    queue.length = 0; queue.push(...todo);
     await Promise.all(browsers.map(async (br) => { for (let job; (job = queue.shift()); ) await renderRange(br, port, res, fps, job[0], job[1], job[2]); }));
     await Promise.all(browsers.slice(1).map((b) => b.close()));
     parts.sort(); fs.writeFileSync(path.join(tmp, 'list.txt'), parts.map((p) => `file '${p}'`).join('\n'));

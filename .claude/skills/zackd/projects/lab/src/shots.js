@@ -16,6 +16,6 @@ export async function buildShots(E) {
     { target: () => H().add(V3(0, 0.06, 0)), dist: 0.75, yaw: 1.55, fov: 28 },
     { target: () => H().add(V3(0, -0.15, 0)), dist: 1.6, yaw: 0.35, fov: 30 },
   ];
-  views.forEach((v, i) => add({ id: 'v' + i, at: i * 2, draw(lt, d, t, blit) { m.play('idle', 1.2); m.talk(0, 0.25);
+  views.forEach((v, i) => add({ id: 'v' + i, at: i * 2, draw(lt, d, t, blit) { m.play('idle', 1.2); m.talk(0, m.smirk);
     frame(cam, { target: v.target(), dist: v.dist, yaw: v.yaw, pitch: 0, fov: v.fov }); E.render(V.scene, cam, { ao: 0.6, vignette: 0.2, aperture: 0 }); blit(); } }));
 }

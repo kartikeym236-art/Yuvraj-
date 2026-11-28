@@ -245,6 +245,12 @@ function faceShape(root, o) {
   if (o.brow) for (const sg of [-1, 1]) moves.push([C(sg * eyeX, eyeY + 0.02, F - 0.012), 0.018, new THREE.Vector3(0, 0, o.brow)]);
   if (o.lipThin) moves.push([C(0, mouthY, F - 0.012), 0.012, new THREE.Vector3(0, 0, -o.lipThin)]);
   if (o.noseLong) moves.push([nose.clone(), 0.014, new THREE.Vector3(0, -o.noseLong * 0.6, o.noseLong)]);
+  if (o.jowl) for (const sg of [-1, 1]) moves.push([C(sg * eyeX * 1.5, mouthY - 0.006, F - 0.05), 0.026, new THREE.Vector3(sg * o.jowl, -o.jowl * 0.25, o.jowl * 0.35)]);
+  if (o.chinWide) for (const sg of [-1, 1]) moves.push([C(sg * 0.013, chin.y + 0.008, F - 0.025), 0.016, new THREE.Vector3(sg * o.chinWide, 0, 0)]);
+  // eyelids: hooded upper lid (drops over the eye), slightly raised lower lid -> smaller, narrower eyes
+  if (o.lidDrop || o.lidRaise) for (const ec of [eL, eR]) {
+    if (o.lidDrop) moves.push([new THREE.Vector3(ec.x, ec.y + 0.008, ec.z + 0.006), 0.011, new THREE.Vector3(0, -o.lidDrop, o.lidDrop * 0.4)]);
+    if (o.lidRaise) moves.push([new THREE.Vector3(ec.x, ec.y - 0.008, ec.z + 0.006), 0.009, new THREE.Vector3(0, o.lidRaise, o.lidRaise * 0.3)]); }
   const lenK = (o.faceLen || 1) - 1;
   for (let i = 0; i < n; i++) { const p = L[i], q = p.clone();
     if (lenK && p.y < eyeY && p.z > chin.z - 0.07 && p.y > chin.y - 0.03) q.y -= (eyeY - p.y) * lenK * Math.min(1, (p.z - (chin.z - 0.07)) / 0.04);
@@ -275,7 +281,7 @@ function faceShape(root, o) {
   // skin colour sampled from the cheek, to paint out the stylised brows
   let skin = 'rgb(214,170,140)'; { let best = 0, bd = 1e9; for (let i = 0; i < n; i++) { const p = L[i]; const d = Math.abs(p.y - (eyeY - 0.03)) + Math.abs(Math.abs(p.x - cx) - eyeX); if (p.z > F - 0.05 && d < bd) { bd = d; best = i; } }
     const px = x.getImageData(Math.floor(uv.getX(best) * W), Math.floor(uv.getY(best) * H), 1, 1).data; skin = `rgb(${px[0]},${px[1]},${px[2]})`; }
-  const browLine = (p) => { const dx = Math.abs(p.x - cx), t = (dx - (eyeX - 0.02)) / 0.042; return { t, y: eyeY + 0.015 + 0.004 * Math.sin(Math.PI * Math.min(1, Math.max(0, t)) * 0.9) - 0.004 * Math.max(0, t - 0.7) }; };
+  const browLine = (p) => { const dx = Math.abs(p.x - cx), t = (dx - (eyeX - 0.02)) / 0.042; return { t, y: eyeY + (o.browY ?? 0.015) + 0.0035 * Math.sin(Math.PI * Math.min(1, Math.max(0, t)) * 0.9) - 0.004 * Math.max(0, t - 0.7) }; };
   if (o.browColor) {
     paint((p) => { const { t } = browLine(p); return t > -0.25 && t < 1.25 ? band(p.y - (eyeY + 0.017), 0.03) : 0; }, skin, 5);              // cover the old brows
     paint((p) => { const { t, y } = browLine(p); if (t < -0.05 || t > 1.05) return 0; const th = (0.0062 - 0.0032 * t) * (o.browW || 1); return band(p.y - y, th * 1.7) * sm2(-0.05, 0.15, t) * (1 - sm2(0.8, 1.05, t)); }, o.browColor, 3.2, 0.85);
@@ -294,6 +300,13 @@ function faceShape(root, o) {
   if (o.skinTint) { x.globalCompositeOperation = 'multiply'; x.fillStyle = o.skinTint; x.fillRect(0, 0, W, H); x.globalCompositeOperation = 'source-over'; }
   const t2 = new THREE.CanvasTexture(cv); t2.flipY = map.flipY; t2.colorSpace = map.colorSpace; t2.wrapS = map.wrapS; t2.wrapT = map.wrapT; t2.anisotropy = 8;
   head.material.map = t2; head.material.needsUpdate = true;
+  if (o.iris) for (const nm of ['EyeLeft', 'EyeRight']) { const em = meshes[nm]; const mp = em && em.material.map; if (!mp || !mp.image) continue;
+    if (!faceShape._iris) { const im = mp.image, c3 = document.createElement('canvas'); c3.width = im.width; c3.height = im.height; const z = c3.getContext('2d'); z.drawImage(im, 0, 0);
+      const d = z.getImageData(0, 0, c3.width, c3.height), px = d.data, tc = new THREE.Color(o.iris);
+      for (let k = 0; k < px.length; k += 4) { const r = px[k] / 255, gg = px[k + 1] / 255, b = px[k + 2] / 255, mx = Math.max(r, gg, b), mn = Math.min(r, gg, b), sat = mx ? (mx - mn) / mx : 0;
+        if (sat > 0.18 && r >= b && mx < 0.9) { const l = 0.3 * r + 0.59 * gg + 0.11 * b, f = l * 2.2; px[k] = Math.min(255, tc.r * f * 255); px[k + 1] = Math.min(255, tc.g * f * 255); px[k + 2] = Math.min(255, tc.b * f * 255); } }
+      z.putImageData(d, 0, 0); const t3 = new THREE.CanvasTexture(c3); t3.flipY = mp.flipY; t3.colorSpace = mp.colorSpace; faceShape._iris = t3; }
+    em.material.map = faceShape._iris; em.material.needsUpdate = true; }
 }
 
 let STRAND = null;

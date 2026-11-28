@@ -64,8 +64,10 @@ async function writeCues(page) {
   console.log(`data/cues.json: ${c.cues.length} cues`);
 }
 
+const PAGES = new Map();
 async function renderRange(browser, port, res, fps, f0, f1, out) {
-  const page = await openPage(browser, port, res);
+  if (!PAGES.has(browser)) PAGES.set(browser, await openPage(browser, port, res));
+  const page = PAGES.get(browser);
   const t0 = Date.now();
   await ff(['-f', 'image2pipe', '-framerate', String(fps), '-c:v', 'mjpeg', '-i', '-', '-c:v', 'libx264', '-preset', 'medium', '-crf', '14', '-pix_fmt', 'yuv420p', out], async (stdin) => {
     for (let f = f0; f < f1; f++) {
@@ -75,7 +77,6 @@ async function renderRange(browser, port, res, fps, f0, f1, out) {
     }
     stdin.end();
   });
-  await page.close();
 }
 
 const srv = await serve(), port = srv.address().port, browser = await launch();
@@ -117,11 +118,12 @@ try {
     const from = +opt('from', 0), to = +opt('to', dur), F0 = Math.round(from * fps), F1 = Math.round(to * fps), n = F1 - F0;
     const tmp = path.join(P, 'renders', '.parts'); fs.mkdirSync(tmp, { recursive: true });
     console.log(`rendering ${n} frames (${(n / fps).toFixed(1)} s at ${fps} fps, res ${res}) with ${jobs} workers…`);
-    const per = Math.ceil(n / jobs), parts = [];
+    // work queue of small chunks: heavy shots get shared out instead of one worker owning a slow quarter
+    const chunk = +opt('chunk', 60), parts = [], queue = [];
+    for (let a = F0, i = 0; a < F1; a += chunk, i++) { const out = path.join(tmp, `c${String(i).padStart(4, '0')}.mp4`); parts.push(out); queue.push([a, Math.min(F1, a + chunk), out]); }
     // one browser per worker: pages inside one browser share a single (software) GPU process and do not run in parallel
     const browsers = [browser, ...(await Promise.all(Array.from({ length: Math.max(0, jobs - 1) }, () => launch())))];
-    await Promise.all(Array.from({ length: jobs }, (_, j) => { const a = F0 + j * per, b = Math.min(F1, a + per); if (a >= b) return null;
-      const out = path.join(tmp, `p${String(j).padStart(2, '0')}.mp4`); parts.push(out); return renderRange(browsers[j], port, res, fps, a, b, out); }));
+    await Promise.all(browsers.map(async (br) => { for (let job; (job = queue.shift()); ) await renderRange(br, port, res, fps, job[0], job[1], job[2]); }));
     await Promise.all(browsers.slice(1).map((b) => b.close()));
     parts.sort(); fs.writeFileSync(path.join(tmp, 'list.txt'), parts.map((p) => `file '${p}'`).join('\n'));
     const silent = path.join(tmp, 'video.mp4'); await ff(['-f', 'concat', '-safe', '0', '-i', path.join(tmp, 'list.txt'), '-c', 'copy', silent]);

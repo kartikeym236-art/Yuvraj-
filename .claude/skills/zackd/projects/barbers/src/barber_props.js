@@ -86,14 +86,15 @@ export function shop(E, env, { clean = true } = {}) {
   floor.rotation.x = -Math.PI / 2; floor.position.y = 0.002; floor.receiveShadow = true; R.scene.add(floor);
   // mirror wall + counter
   const mirror = new Reflector(new THREE.PlaneGeometry(2.8, 1.1), { textureWidth: 900, textureHeight: 354, color: clean ? 0xd6dde2 : 0x8f8a80, clipBias: 0.003 });
-  mirror.position.set(0, 1.65, -2.48); R.scene.add(mirror);
+  mirror.position.set(0, 1.65, -2.468); R.scene.add(mirror);
+  { const ob = mirror.onBeforeRender; mirror.onBeforeRender = (r, sc, c) => { if (!sc.overrideMaterial) ob(r, sc, c); }; }   // reflect once per frame, not in the AO / DOF passes
   const frame = new THREE.Mesh(new RoundedBoxGeometry(2.9, 1.2, 0.04, 3, 0.015), new THREE.MeshStandardMaterial({ color: clean ? '#f6f6f6' : '#6b5440', roughness: 0.4 })); frame.position.set(0, 1.65, -2.5); R.scene.add(frame);
   if (!clean) {   // crack: bright jagged lines radiating from a point
     const ct = ctex(1024, 400, (x, W, H) => { x.strokeStyle = 'rgba(255,255,255,0.9)'; x.lineWidth = 2.5; const cx = W * 0.68, cy = H * 0.38;
       for (let i = 0; i < 14; i++) { let px = cx, py = cy; const a0 = (i / 14) * 6.28 + rnd(i) * 0.4; x.beginPath(); x.moveTo(px, py);
         for (let s = 0; s < 7; s++) { const a = a0 + (rnd(i * 9 + s) - 0.5) * 0.7, l = 30 + rnd(i * 5 + s) * 70; px += Math.cos(a) * l; py += Math.sin(a) * l; x.lineTo(px, py); } x.stroke(); }
       x.lineWidth = 1.5; for (let r = 18; r < 90; r += 26) { x.beginPath(); for (let k = 0; k <= 14; k++) { const a = (k / 14) * 6.28; x.lineTo(cx + Math.cos(a) * r * (0.8 + rnd(k + r) * 0.4), cy + Math.sin(a) * r * (0.8 + rnd(k + r) * 0.4)); } x.stroke(); } });
-    const crack = new THREE.Mesh(new THREE.PlaneGeometry(2.8, 1.1), new THREE.MeshBasicMaterial({ map: ct, transparent: true, depthWrite: false, toneMapped: false })); crack.position.set(0, 1.65, -2.475); R.scene.add(crack); R.crack = crack;
+    const crack = new THREE.Mesh(new THREE.PlaneGeometry(2.8, 1.1), new THREE.MeshBasicMaterial({ map: ct, transparent: true, depthWrite: false, toneMapped: false })); crack.position.set(0, 1.65, -2.462); R.scene.add(crack); R.crack = crack;
   }
   const counter = new THREE.Mesh(new RoundedBoxGeometry(3.0, 0.08, 0.45, 3, 0.02), new THREE.MeshPhysicalMaterial({ color: clean ? '#ffffff' : '#7a6650', roughness: 0.3, clearcoat: 0.6 }));
   counter.position.set(0, 0.95, -2.28); counter.castShadow = counter.receiveShadow = true; R.scene.add(counter);

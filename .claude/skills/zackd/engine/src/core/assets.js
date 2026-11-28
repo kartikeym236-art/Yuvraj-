@@ -2,6 +2,7 @@
 // After load(): A.models[k] (gltf), A.hdr[k] (equirect texture), A.env[k] (PMREM env map), A.obj[k] (Group), A.tex[k].
 import * as THREE from 'three';
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js';
 import { OBJLoader } from 'three/addons/loaders/OBJLoader.js';
 import { RGBELoader } from 'three/addons/loaders/RGBELoader.js';
 import * as BufferGeometryUtils from 'three/addons/utils/BufferGeometryUtils.js';
@@ -9,7 +10,7 @@ import * as BufferGeometryUtils from 'three/addons/utils/BufferGeometryUtils.js'
 export const A = { models: {}, hdr: {}, env: {}, obj: {}, tex: {} };
 
 export async function load(PRELOAD, renderer, onProgress = () => {}) {
-  const jobs = [], gl = new GLTFLoader(), ol = new OBJLoader(), hl = new RGBELoader(), tl = new THREE.TextureLoader();
+  const jobs = [], gl = new GLTFLoader().setDRACOLoader(new DRACOLoader().setDecoderPath('vendor/addons/libs/draco/gltf/')), ol = new OBJLoader(), hl = new RGBELoader(), tl = new THREE.TextureLoader();
   let done = 0, total = 0;
   const job = (p) => { total++; jobs.push(p.then((r) => { onProgress(++done, total); return r; })); };
   for (const [k, u] of Object.entries(PRELOAD.models || {})) job(gl.loadAsync(u).then((g) => (A.models[k] = g)));

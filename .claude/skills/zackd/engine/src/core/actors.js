@@ -199,6 +199,8 @@ const q = new THREE.Quaternion(), e = new THREE.Euler();
       F._hair = hairShell(root, style, color, seed); return F;
     },
     /** show / hide parts by mesh name fragment, e.g. part('Beard', false), part('Headwear', false) */
+    /** sculpt this actor's face (its own copy of the head) + paint skin details. See faceShape() for the options. Call BEFORE hair(). */
+    face(spec = {}) { faceShape(root, spec); return F; },
     part(name, on) { root.traverse((o) => { if (o.isMesh && o.name.toLowerCase().includes(name.toLowerCase())) o.visible = on; }); return F; },
     talk(k, smile = 0) {
       morphs.forEach((m) => { const d = m.morphTargetDictionary; if (d.mouthOpen !== undefined) m.morphTargetInfluences[d.mouthOpen] = k; if (d.mouthSmile !== undefined) m.morphTargetInfluences[d.mouthSmile] = smile; });
@@ -208,6 +210,90 @@ const q = new THREE.Quaternion(), e = new THREE.Euler();
     at(b) { group.updateMatrixWorld(true); return bones[b].getWorldPosition(new THREE.Vector3()); },
   };
   F.play('idle', 0); return F;
+}
+
+// ---------- face sculpting (real-person-inspired characters) ----------
+// Landmarks are found on the head mesh itself (eyes from the eye meshes, nose tip = most forward point, chin = lowest
+// front point), then gaussian "clay" moves are applied in head-bone space and skin details are painted onto a copy of
+// the face texture at the UVs of the vertices in each region. Options (all optional, 0 / 1 = no change):
+//   faceLen (lower-face stretch, 1.08 = 8 % longer), jaw (jaw-angle widening, m), chinDown, chinFwd (m), cheekHollow (m),
+//   forehead (m up), brow (brow-ridge forward, m), eyes (eye scale), eyeBack (m), lipThin (m), noseLong (m), noseNarrow (0..1),
+//   browColor, browW (0..1 thickness), age (0..1 lines + under-eye), stubble (0..1), skinTint ('#rrggbb' multiply, optional)
+function faceShape(root, o) {
+  const meshes = {}; root.traverse((m) => { if (m.isSkinnedMesh) meshes[m.name] = m; });
+  const head = meshes.Wolf3D_Head; if (!head) return;
+  const sk = head.skeleton, hi = sk.bones.findIndex((b) => /head$/i.test(b.name));
+  const toLocal = (m) => new THREE.Matrix4().copy(sk.boneInverses[hi]).multiply(m.bindMatrix);
+  const M = toLocal(head), Mi = M.clone().invert(), v = new THREE.Vector3();
+  const centre = (m) => { if (!m) return null; const Lm = toLocal(m), P = m.geometry.attributes.position, c = new THREE.Vector3(); for (let i = 0; i < P.count; i++) c.add(v.fromBufferAttribute(P, i).applyMatrix4(Lm)); return c.divideScalar(P.count); };
+  const eL = centre(meshes.EyeLeft), eR = centre(meshes.EyeRight); if (!eL || !eR) return;
+  const eyeY = (eL.y + eR.y) / 2, eyeX = Math.abs(eL.x - eR.x) / 2, cx = (eL.x + eR.x) / 2;
+  head.geometry = head.geometry.clone(); const g = head.geometry, P = g.attributes.position, n = P.count, L = [];
+  let nose = null, chin = null, zMax = -1e9;
+  for (let i = 0; i < n; i++) { const p = v.fromBufferAttribute(P, i).applyMatrix4(M).clone(); L.push(p);
+    if (Math.abs(p.x - cx) < 0.012 && p.y < eyeY && p.y > eyeY - 0.06 && (!nose || p.z > nose.z)) nose = p;
+    if (p.z > zMax) zMax = p.z; }
+  for (const p of L) if (Math.abs(p.x - cx) < 0.012 && p.z > zMax - 0.05 && (!chin || p.y < chin.y)) chin = p;
+  const mouthY = nose.y - (nose.y - chin.y) * 0.42, F = zMax;
+  const gauss = (p, c, r) => Math.exp(-p.distanceToSquared(c) / (r * r));
+  const moves = [];                                                    // [centre, radius, displacement]
+  const C = (x, y, z) => new THREE.Vector3(cx + x, y, z);
+  if (o.chinDown || o.chinFwd) moves.push([C(0, chin.y + 0.01, F - 0.03), 0.028, new THREE.Vector3(0, -(o.chinDown || 0), o.chinFwd || 0)]);
+  if (o.jaw) for (const sg of [-1, 1]) moves.push([C(sg * eyeX * 1.75, chin.y + 0.03, F - 0.07), 0.03, new THREE.Vector3(sg * o.jaw, -(o.jaw * 0.6), 0)]);
+  if (o.cheekHollow) for (const sg of [-1, 1]) moves.push([C(sg * eyeX * 1.35, mouthY + 0.012, F - 0.04), 0.022, new THREE.Vector3(-sg * o.cheekHollow * 0.6, 0, -o.cheekHollow)]);
+  if (o.forehead) moves.push([C(0, eyeY + 0.075, F - 0.03), 0.05, new THREE.Vector3(0, o.forehead, 0)]);
+  if (o.brow) for (const sg of [-1, 1]) moves.push([C(sg * eyeX, eyeY + 0.02, F - 0.012), 0.018, new THREE.Vector3(0, 0, o.brow)]);
+  if (o.lipThin) moves.push([C(0, mouthY, F - 0.012), 0.012, new THREE.Vector3(0, 0, -o.lipThin)]);
+  if (o.noseLong) moves.push([nose.clone(), 0.014, new THREE.Vector3(0, -o.noseLong * 0.6, o.noseLong)]);
+  const lenK = (o.faceLen || 1) - 1;
+  for (let i = 0; i < n; i++) { const p = L[i], q = p.clone();
+    if (lenK && p.y < eyeY && p.z > chin.z - 0.07 && p.y > chin.y - 0.03) q.y -= (eyeY - p.y) * lenK * Math.min(1, (p.z - (chin.z - 0.07)) / 0.04);
+    if (o.noseNarrow && Math.abs(p.y - (nose.y + 0.012)) < 0.022 && p.z > nose.z - 0.025) q.x = cx + (p.x - cx) * (1 - o.noseNarrow * 0.2 * gauss(p, nose, 0.025));
+    for (const [c, r, d] of moves) q.addScaledVector(d, gauss(p, c, r));
+    v.copy(q).applyMatrix4(Mi); P.setXYZ(i, v.x, v.y, v.z); }
+  g.computeVertexNormals();
+  // the eyes follow the stretch, and can be made a little smaller / deeper set
+  for (const [nm, ec] of [['EyeLeft', eL], ['EyeRight', eR]]) { const em = meshes[nm]; if (!em) continue; em.geometry = em.geometry.clone();
+    const Le = toLocal(em), Lei = Le.clone().invert(), EP = em.geometry.attributes.position, s = o.eyes || 1;
+    for (let i = 0; i < EP.count; i++) { const p = v.fromBufferAttribute(EP, i).applyMatrix4(Le); p.sub(ec).multiplyScalar(s).add(ec); p.z -= o.eyeBack || 0; p.applyMatrix4(Lei); EP.setXYZ(i, p.x, p.y, p.z); } }
+  for (const nm of ['Wolf3D_Teeth']) { const tm = meshes[nm]; if (!tm || !lenK) continue; tm.geometry = tm.geometry.clone(); const Lt = toLocal(tm), Lti = Lt.clone().invert(), TP = tm.geometry.attributes.position;
+    for (let i = 0; i < TP.count; i++) { const p = v.fromBufferAttribute(TP, i).applyMatrix4(Lt); p.y -= (eyeY - p.y) * lenK * 0.6; p.applyMatrix4(Lti); TP.setXYZ(i, p.x, p.y, p.z); } }
+  // ---- skin painting on a copy of the face texture, at the UVs of region vertices ----
+  const map = head.material.map, img = map && map.image; const uv = g.attributes.uv; if (!img || !uv) return;
+  const W = img.width, H = img.height, cv = document.createElement('canvas'); cv.width = W; cv.height = H; const x = cv.getContext('2d'); x.drawImage(img, 0, 0);
+  const rnd = (i) => { const a = Math.sin(i * 91.17 + 7.3) * 43758.5; return a - Math.floor(a); };
+  const R = W / 1024, idx = g.index ? g.index.array : null, T = idx ? idx.length / 3 : n / 3, tri = (k, j) => (idx ? idx[k * 3 + j] : k * 3 + j);
+  const layer = () => { const c = document.createElement('canvas'); c.width = W; c.height = H; return c; };
+  // fill every triangle with the average of a per-vertex weight (smooth regions, no dots); blur when compositing
+  const paint = (wf, style, blur, alpha = 1, op = 'source-over') => { const w = new Float32Array(n); let any = false; for (let i = 0; i < n; i++) { w[i] = L[i].z < F - 0.07 ? 0 : wf(L[i]); if (w[i] > 0.01) any = true; } if (!any) return;
+    const c = layer(), y = c.getContext('2d'); y.fillStyle = style;
+    for (let k = 0; k < T; k++) { const a1 = tri(k, 0), b1 = tri(k, 1), c1 = tri(k, 2), ww = (w[a1] + w[b1] + w[c1]) / 3; if (ww < 0.02) continue;
+      y.globalAlpha = Math.min(1, ww); y.beginPath(); y.moveTo(uv.getX(a1) * W, uv.getY(a1) * H); y.lineTo(uv.getX(b1) * W, uv.getY(b1) * H); y.lineTo(uv.getX(c1) * W, uv.getY(c1) * H); y.closePath(); y.fill(); y.stroke && (y.lineWidth = 1.5 * R, y.strokeStyle = style, y.stroke()); }
+    x.save(); x.globalAlpha = alpha; x.globalCompositeOperation = op; x.filter = `blur(${blur * R}px)`; x.drawImage(c, 0, 0); x.restore(); };
+  const sm2 = (a, b, t) => { const k = Math.min(1, Math.max(0, (t - a) / (b - a))); return k * k * (3 - 2 * k); };
+  const band = (d, w) => 1 - sm2(w * 0.5, w, Math.abs(d));                                 // 1 inside |d| < w/2, soft to 0 at w
+  // skin colour sampled from the cheek, to paint out the stylised brows
+  let skin = 'rgb(214,170,140)'; { let best = 0, bd = 1e9; for (let i = 0; i < n; i++) { const p = L[i]; const d = Math.abs(p.y - (eyeY - 0.03)) + Math.abs(Math.abs(p.x - cx) - eyeX); if (p.z > F - 0.05 && d < bd) { bd = d; best = i; } }
+    const px = x.getImageData(Math.floor(uv.getX(best) * W), Math.floor(uv.getY(best) * H), 1, 1).data; skin = `rgb(${px[0]},${px[1]},${px[2]})`; }
+  const browLine = (p) => { const dx = Math.abs(p.x - cx), t = (dx - (eyeX - 0.02)) / 0.042; return { t, y: eyeY + 0.015 + 0.004 * Math.sin(Math.PI * Math.min(1, Math.max(0, t)) * 0.9) - 0.004 * Math.max(0, t - 0.7) }; };
+  if (o.browColor) {
+    paint((p) => { const { t } = browLine(p); return t > -0.25 && t < 1.25 ? band(p.y - (eyeY + 0.017), 0.03) : 0; }, skin, 5);              // cover the old brows
+    paint((p) => { const { t, y } = browLine(p); if (t < -0.05 || t > 1.05) return 0; const th = (0.0062 - 0.0032 * t) * (o.browW || 1); return band(p.y - y, th * 1.7) * sm2(-0.05, 0.15, t) * (1 - sm2(0.8, 1.05, t)); }, o.browColor, 3.2, 0.85);
+  }
+  if (o.age) {
+    paint((p) => band(Math.abs(p.x - cx) - eyeX, 0.03) * band(p.y - (eyeY - 0.012), 0.012), 'rgb(105,60,55)', 4, 0.22 * o.age);                     // under-eye
+    paint((p) => { const tt = (nose.y - 0.004 - p.y) / (nose.y - 0.004 - mouthY); if (tt < -0.05 || tt > 1.2) return 0; return band(Math.abs(p.x - cx) - eyeX * (0.62 + 0.32 * tt), 0.007); }, 'rgb(115,65,58)', 2.5, 0.35 * o.age);   // smile lines
+    paint((p) => (Math.abs(p.x - cx) < eyeX * 1.3 ? Math.max(band(p.y - (eyeY + 0.042), 0.0035), band(p.y - (eyeY + 0.055), 0.0035)) : 0), 'rgb(140,90,80)', 1.5, 0.22 * o.age);   // forehead
+  }
+  if (o.stubble) {
+    const sp = layer(), sx = sp.getContext('2d'); for (let k = 0; k < W * H * 0.01; k++) { sx.fillStyle = `rgba(45,32,26,${0.25 + rnd(k) * 0.5})`; sx.fillRect(rnd(k + 1) * W, rnd(k + 2) * H, 1.4 * R, 1.4 * R); }
+    const pat = x.createPattern(sp, 'no-repeat');
+    paint((p) => { if (p.y > nose.y - 0.01 || p.y < chin.y - 0.025) return 0; const lip = band(p.y - mouthY, 0.012) * band(p.x - cx, eyeX * 1.4); return (1 - lip) * sm2(chin.y - 0.025, chin.y - 0.005, p.y); }, pat, 0.6, 0.55 * o.stubble);
+    paint((p) => { if (p.y > nose.y - 0.01 || p.y < chin.y - 0.025) return 0; return sm2(chin.y - 0.025, chin.y - 0.005, p.y) * (1 - band(p.y - mouthY, 0.01) * band(p.x - cx, eyeX * 1.4)); }, 'rgb(70,55,50)', 6, 0.12 * o.stubble, 'multiply');
+  }
+  if (o.skinTint) { x.globalCompositeOperation = 'multiply'; x.fillStyle = o.skinTint; x.fillRect(0, 0, W, H); x.globalCompositeOperation = 'source-over'; }
+  const t2 = new THREE.CanvasTexture(cv); t2.flipY = map.flipY; t2.colorSpace = map.colorSpace; t2.wrapS = map.wrapS; t2.wrapT = map.wrapT; t2.anisotropy = 8;
+  head.material.map = t2; head.material.needsUpdate = true;
 }
 
 let STRAND = null;
@@ -233,7 +319,8 @@ function hairShell(root, style, color, seed) {
   for (let i = 0; i < n; i++) {
     const p = L[i], u = (p.y - mn.y) / H, f = (p.z - cz) / Dz, s = Math.abs(p.x - cx) / Wx;      // u: chin 0 .. crown 1, f: back -1 .. front 1
     // hairline: high at the forehead, lower over the temples, down to the nape at the back, clear of the ears
-    const line = 0.84 * sm(-0.2, 0.75, f) + 0.64 * (1 - sm(-0.2, 0.75, f)) - 0.2 * sm(-0.1, -0.9, f) - 0.05 * sm(0.5, 0.95, f) * sm(0.55, 0.2, s) + (style === 'messy' ? -0.03 : 0);
+    const line = 0.84 * sm(-0.2, 0.75, f) + 0.64 * (1 - sm(-0.2, 0.75, f)) - 0.2 * sm(-0.1, -0.9, f) - 0.05 * sm(0.5, 0.95, f) * sm(0.55, 0.2, s) + (style === 'messy' ? -0.03 : 0)
+      + (style === 'swept' ? 0.035 + 0.11 * sm(0.3, 0.85, f) * sm(0.18, 0.5, s) - 0.02 * sm(0.5, 0.9, f) * (1 - sm(0.1, 0.25, s)) : 0);   // swept: receding temples (M-shaped hairline)
     let m = sm(line - 0.035, line + 0.045, u);
     if (s > 0.82 && u < 0.66 && f > -0.55) m *= 1 - sm(0.82, 0.92, s);                       // ears
     if (style === 'messy') m *= 0.55 + 0.45 * sm(-0.3, 0.2, noise(p, 60));                    // patchy
@@ -241,6 +328,7 @@ function hairShell(root, style, color, seed) {
     const top = sm(line, 1, u);
     if (style === 'neat') off[i] = (0.006 + 0.012 * top - 0.004 * sm(0.75, 0.9, s) * (1 - top) - (Math.abs(p.x - cx - Wx * 0.32) < Wx * 0.03 && f > -0.2 && u > 0.8 ? 0.004 : 0)) * m;
     else if (style === 'short') off[i] = (0.004 + 0.005 * top) * m;
+    else if (style === 'swept') off[i] = (0.006 + 0.038 * top * (0.4 + 0.6 * sm(-0.7, 0.6, f)) + 0.018 * sm(0.3, 0.85, f) * sm(0.55, 0.95, u) - 0.007 * sm(0.7, 0.9, s) * (1 - top) + 0.0025 * noise(p, 55)) * m;   // swept back + up: lift at the front, volume on top, short sides
     else off[i] = (0.012 + 0.016 * top + 0.012 * Math.abs(noise(p, 38)) + (rnd(i) > 0.93 ? 0.02 + 0.02 * rnd(i + 7) : 0)) * m;
   }
   const geo = g.clone(); const pos = geo.attributes.position;

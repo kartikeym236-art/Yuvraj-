@@ -1,0 +1,95 @@
+{
+ "duration": 52.454,
+ "cues": [
+  {
+   "t": 3.1,
+   "type": "pop",
+   "gain": 0.3
+  },
+  {
+   "t": 3.25,
+   "type": "pop",
+   "gain": 0.3
+  },
+  {
+   "t": 6.54,
+   "type": "sparkle",
+   "gain": 0.35
+  },
+  {
+   "t": 8.9,
+   "type": "sparkle",
+   "gain": 0.3
+  },
+  {
+   "t": 11.32,
+   "type": "sparkle",
+   "gain": 0.3
+  },
+  {
+   "t": 15.58,
+   "type": "thud",
+   "gain": 0.35
+  },
+  {
+   "t": 17.8,
+   "type": "boing",
+   "gain": 0.25
+  },
+  {
+   "t": 21.3,
+   "type": "slam",
+   "gain": 0.4
+  },
+  {
+   "t": 23.7,
+   "type": "pop",
+   "gain": 0.3
+  },
+  {
+   "t": 23.85,
+   "type": "pop",
+   "gain": 0.3
+  },
+  {
+   "t": 25.62,
+   "type": "slam",
+   "gain": 0.35
+  },
+  {
+   "t": 28.52,
+   "type": "pop",
+   "gain": 0.3
+  },
+  {
+   "t": 29.62,
+   "type": "zip",
+   "gain": 0.2
+  },
+  {
+   "t": 32.58,
+   "type": "pop",
+   "gain": 0.3
+  },
+  {
+   "t": 33.66,
+   "type": "zip",
+   "gain": 0.2
+  },
+  {
+   "t": 36.42,
+   "type": "slam",
+   "gain": 0.35
+  },
+  {
+   "t": 47.04,
+   "type": "pop",
+   "gain": 0.35
+  },
+  {
+   "t": 50.38,
+   "type": "slam",
+   "gain": 0.3
+  }
+ ]
+}

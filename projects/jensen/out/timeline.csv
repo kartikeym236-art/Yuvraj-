@@ -1,0 +1,111 @@
+scene,start,end,duration,line,image
+1,0.0,0.85,0.85,Elon Musk has,001.jpg
+2,0.85,1.73,0.88,four children with,002.jpg
+3,1.73,2.54,0.81,an executive from,003.jpg
+4,2.54,3.66,1.12,"his own company, yet",004.jpg
+5,3.66,4.83,1.17,he remains {CEO|c e o},005.jpg
+6,4.83,5.49,0.66,to this day.,006.jpg
+7,5.49,6.61,1.12,"Meanwhile, the moment",007.jpg
+8,6.61,7.48,0.87,news of an alleged,008.jpg
+9,7.48,8.57,1.09,affair involving Jensen,009.jpg
+10,8.57,9.5,0.93,"Huang came out,",010.jpg
+11,9.5,10.5,1.0,the whole world turned,011.jpg
+12,10.5,11.42,0.92,him into a villain.,012.jpg
+13,11.42,12.05,0.63,It's a really,013.jpg
+14,12.05,12.82,0.77,"dirty game,",014.jpg
+15,12.82,13.87,1.05,so listen carefully,015.jpg
+16,13.87,14.58,0.71,till the end.,016.jpg
+17,14.58,15.41,0.83,Two things happened,017.jpg
+18,15.41,15.95,0.54,this week.,018.jpg
+19,15.95,16.76,0.81,"First, Jensen",019.jpg
+20,16.76,17.73,0.97,Huang stepped down from,020.jpg
+21,17.73,18.6,0.87,Nvidia after,021.jpg
+22,18.6,19.64,1.04,{33|thirty three} years.,022.jpg
+23,19.64,20.28,0.64,"Second,",023.jpg
+24,20.28,21.09,0.81,Trump posted,024.jpg
+25,21.09,21.99,0.9,on the very same day,025.jpg
+26,21.99,22.8,0.81,that Tim Cook should,026.jpg
+27,22.8,23.71,0.91,be made the {CEO|c e o},027.jpg
+28,23.71,24.31,0.6,of Nvidia.,028.jpg
+29,24.31,25.02,0.71,"Now, you might think",029.jpg
+30,25.02,25.66,0.64,all of this,030.jpg
+31,25.66,26.62,0.96,is happening because,031.jpg
+32,26.62,27.41,0.79,"of an affair,",032.jpg
+33,27.41,28.34,0.93,but that's not really,033.jpg
+34,28.34,29.05,0.71,the case.,034.jpg
+35,29.05,29.67,0.62,This didn't just,035.jpg
+36,29.67,30.41,0.74,start now.,036.jpg
+37,30.41,31.13,0.72,Jensen sat,037.jpg
+38,31.13,31.87,0.74,at the very top,038.jpg
+39,31.87,32.95,1.08,"of the {AI|a i} world,",039.jpg
+40,32.95,34.02,1.07,and he was fighting for just,040.jpg
+41,34.02,34.78,0.76,one thing:,041.jpg
+42,34.78,35.69,0.91,{open-weight|open weight} {AI|a i},042.jpg
+43,35.69,36.32,0.63,models.,043.jpg
+44,36.32,37.22,0.9,"Meaning, {AI|a i}",044.jpg
+45,37.22,38.03,0.81,that anyone can,045.jpg
+46,38.03,38.84,0.81,run for free.,046.jpg
+47,38.84,39.79,0.95,"In support of this,",047.jpg
+48,39.79,40.84,1.05,he published an open,048.jpg
+49,40.84,41.69,0.85,letter in July,049.jpg
+50,41.69,42.36,0.67,signed by over,050.jpg
+51,42.36,43.12,0.76,{150|one hundred and fifty},051.jpg
+52,43.12,43.77,0.65,companies.,052.jpg
+53,43.77,44.42,0.65,"Anthropic,",053.jpg
+54,44.42,45.02,0.6,"however,",054.jpg
+55,45.02,46.02,1.0,refused to sign.,055.jpg
+56,46.02,47.13,1.11,The same Anthropic,056.jpg
+57,47.13,47.75,0.62,whose Claude,057.jpg
+58,47.75,48.69,0.94,is a closed model.,058.jpg
+59,48.69,49.54,0.85,"Meanwhile, Jensen",059.jpg
+60,49.54,50.28,0.74,openly stood,060.jpg
+61,50.28,51.21,0.93,alongside Chinese,061.jpg
+62,51.21,52.41,1.2,models like DeepSeek,062.jpg
+63,52.41,53.15,0.74,"and Kimi,",063.jpg
+64,53.15,53.87,0.72,which are free.,064.jpg
+65,53.87,54.84,0.97,"He argued, ""Let me",065.jpg
+66,54.84,55.87,1.03,"sell chips to China,""",066.jpg
+67,55.87,56.78,0.91,a stance that many,067.jpg
+68,56.78,57.83,1.05,people in Washington,068.jpg
+69,57.83,58.96,1.13,strongly disliked.,069.jpg
+70,58.96,59.71,0.75,"Conveniently,",070.jpg
+71,59.71,60.44,0.73,a secret memo,071.jpg
+72,60.44,61.31,0.87,leaked claiming,072.jpg
+73,61.31,61.95,0.64,that Jensen was,073.jpg
+74,61.95,62.72,0.77,having an affair with,074.jpg
+75,62.72,63.73,1.01,a Chinese spy.,075.jpg
+76,63.73,64.59,0.86,And do you know,076.jpg
+77,64.59,65.62,1.03,who wrote that memo?,077.jpg
+78,65.62,66.1,0.48,The {U.S.|u s},078.jpg
+79,66.1,67.27,1.17,"Secretary of State,",079.jpg
+80,67.27,68.26,0.99,Marco Rubio.,080.jpg
+81,68.26,69.44,1.18,"Yet according to reports,",081.jpg
+82,69.44,70.25,0.81,the {CIA|c i a},082.jpg
+83,70.25,70.91,0.66,hasn't even,083.jpg
+84,70.91,71.69,0.78,confirmed,084.jpg
+85,71.69,72.65,0.96,whether the person,085.jpg
+86,72.65,73.28,0.63,Jensen was,086.jpg
+87,73.28,74.09,0.81,involved with,087.jpg
+88,74.09,74.87,0.78,is actually,088.jpg
+89,74.87,75.93,1.06,a Chinese spy.,089.jpg
+90,75.93,76.91,0.98,"Look, Jensen made",090.jpg
+91,76.91,77.7,0.79,"a mistake,",091.jpg
+92,77.7,78.36,0.66,and he admitted,092.jpg
+93,78.36,79.35,0.99,to it himself.,093.jpg
+94,79.35,80.4,1.05,But affairs involving,094.jpg
+95,80.4,81.59,1.19,Elon Musk and Jeff,095.jpg
+96,81.59,82.56,0.97,Bezos have,096.jpg
+97,82.56,83.65,1.09,"surfaced as well,",097.jpg
+98,83.65,84.54,0.89,and it never cost,098.jpg
+99,84.54,85.4,0.86,them their seats.,099.jpg
+100,85.4,86.39,0.99,The impact won't,100.jpg
+101,86.39,87.53,1.14,just affect Jensen.,101.jpg
+102,87.53,88.11,0.58,It will affect,102.jpg
+103,88.11,88.84,0.73,"you, too.",103.jpg
+104,88.84,89.49,0.65,Because he was,104.jpg
+105,89.49,90.34,0.85,the only person,105.jpg
+106,90.34,91.2,0.86,sitting at the very,106.jpg
+107,91.2,91.99,0.79,peak of the {AI|a i},107.jpg
+108,91.99,92.89,0.9,world who was actually,108.jpg
+109,92.89,93.85,0.96,fighting for your right,109.jpg
+110,93.85,94.72,0.87,to free {AI.|a i},110.jpg

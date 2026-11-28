@@ -1,0 +1,11 @@
+projects/*/out/clean/
+projects/*/out/*.raw
+projects/*/out/*.wav
+__pycache__/
+projects/depression/out/depression.mp4
+projects/ww1/out/ww1.mp4
+projects/roanoke/out/roanoke.mp4
+projects/nvidia/out/nvidia.mp4
+projects/bitcoin/out/bitcoin.mp4
+projects/gta6/out/gta6.mp4
+projects/gta6world/out/gta6world.mp4

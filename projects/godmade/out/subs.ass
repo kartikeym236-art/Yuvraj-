@@ -1,0 +1,70 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat ExtraBold,62,&H001BE0FF,&H001BE0FF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,5,2,5,0,0,0,1
+Style: Title,Inter Display Black,66,&H00FFFFFF,&H00FFFFFF,&H00000000,&H99000000,-1,0,0,0,100,100,-1,0,1,0,4,2,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.01,0:00:00.11,Cap,,0,0,0,,{\pos(540,960)}If
+Dialogue: 1,0:00:00.11,0:00:00.20,Cap,,0,0,0,,{\pos(540,960)}the
+Dialogue: 1,0:00:00.20,0:00:00.48,Cap,,0,0,0,,{\pos(540,960)}God
+Dialogue: 1,0:00:00.48,0:00:00.55,Cap,,0,0,0,,{\pos(540,960)}of
+Dialogue: 1,0:00:00.55,0:00:00.62,Cap,,0,0,0,,{\pos(540,960)}the
+Dialogue: 1,0:00:00.62,0:00:01.01,Cap,,0,0,0,,{\pos(540,960)}Hindus
+Dialogue: 1,0:00:01.01,0:00:01.39,Cap,,0,0,0,,{\pos(540,960)}created
+Dialogue: 1,0:00:01.39,0:00:01.62,Cap,,0,0,0,,{\pos(540,960)}all
+Dialogue: 1,0:00:01.62,0:00:02.09,Cap,,0,0,0,,{\pos(540,960)}humans
+Dialogue: 1,0:00:02.09,0:00:02.32,Cap,,0,0,0,,{\pos(540,960)}why
+Dialogue: 1,0:00:02.32,0:00:02.51,Cap,,0,0,0,,{\pos(540,960)}didn't
+Dialogue: 1,0:00:02.51,0:00:02.59,Cap,,0,0,0,,{\pos(540,960)}He
+Dialogue: 1,0:00:02.59,0:00:02.81,Cap,,0,0,0,,{\pos(540,960)}make
+Dialogue: 1,0:00:02.81,0:00:03.20,Cap,,0,0,0,,{\pos(540,960)}everyone
+Dialogue: 1,0:00:03.20,0:00:03.76,Cap,,0,0,0,,{\pos(540,960)}Hindu?
+Dialogue: 1,0:00:03.76,0:00:03.85,Cap,,0,0,0,,{\pos(540,960)}If
+Dialogue: 1,0:00:03.85,0:00:03.93,Cap,,0,0,0,,{\pos(540,960)}the
+Dialogue: 1,0:00:03.93,0:00:04.23,Cap,,0,0,0,,{\pos(540,960)}God
+Dialogue: 1,0:00:04.23,0:00:04.30,Cap,,0,0,0,,{\pos(540,960)}of
+Dialogue: 1,0:00:04.30,0:00:04.37,Cap,,0,0,0,,{\pos(540,960)}the
+Dialogue: 1,0:00:04.37,0:00:04.83,Cap,,0,0,0,,{\pos(540,960)}Muslims
+Dialogue: 1,0:00:04.83,0:00:05.21,Cap,,0,0,0,,{\pos(540,960)}created
+Dialogue: 1,0:00:05.21,0:00:05.47,Cap,,0,0,0,,{\pos(540,960)}all
+Dialogue: 1,0:00:05.47,0:00:05.95,Cap,,0,0,0,,{\pos(540,960)}humans
+Dialogue: 1,0:00:05.95,0:00:06.18,Cap,,0,0,0,,{\pos(540,960)}why
+Dialogue: 1,0:00:06.18,0:00:06.36,Cap,,0,0,0,,{\pos(540,960)}didn't
+Dialogue: 1,0:00:06.36,0:00:06.44,Cap,,0,0,0,,{\pos(540,960)}He
+Dialogue: 1,0:00:06.44,0:00:06.67,Cap,,0,0,0,,{\pos(540,960)}make
+Dialogue: 1,0:00:06.67,0:00:07.06,Cap,,0,0,0,,{\pos(540,960)}everyone
+Dialogue: 1,0:00:07.06,0:00:07.72,Cap,,0,0,0,,{\pos(540,960)}Muslim?
+Dialogue: 1,0:00:07.72,0:00:07.85,Cap,,0,0,0,,{\pos(540,960)}Or
+Dialogue: 1,0:00:07.85,0:00:08.07,Cap,,0,0,0,,{\pos(540,960)}why
+Dialogue: 1,0:00:08.07,0:00:08.29,Cap,,0,0,0,,{\pos(540,960)}didn't
+Dialogue: 1,0:00:08.29,0:00:08.36,Cap,,0,0,0,,{\pos(540,960)}the
+Dialogue: 1,0:00:08.36,0:00:08.67,Cap,,0,0,0,,{\pos(540,960)}God
+Dialogue: 1,0:00:08.67,0:00:08.74,Cap,,0,0,0,,{\pos(540,960)}of
+Dialogue: 1,0:00:08.74,0:00:08.81,Cap,,0,0,0,,{\pos(540,960)}the
+Dialogue: 1,0:00:08.81,0:00:09.34,Cap,,0,0,0,,{\pos(540,960)}Christians
+Dialogue: 1,0:00:09.34,0:00:09.56,Cap,,0,0,0,,{\pos(540,960)}make
+Dialogue: 1,0:00:09.56,0:00:09.98,Cap,,0,0,0,,{\pos(540,960)}everyone
+Dialogue: 1,0:00:09.98,0:00:10.68,Cap,,0,0,0,,{\pos(540,960)}Christian?
+Dialogue: 1,0:00:10.68,0:00:10.93,Cap,,0,0,0,,{\pos(540,960)}Because
+Dialogue: 1,0:00:10.93,0:00:11.16,Cap,,0,0,0,,{\pos(540,960)}no
+Dialogue: 1,0:00:11.16,0:00:11.47,Cap,,0,0,0,,{\pos(540,960)}God
+Dialogue: 1,0:00:11.47,0:00:11.89,Cap,,0,0,0,,{\pos(540,960)}created
+Dialogue: 1,0:00:11.89,0:00:12.02,Cap,,0,0,0,,{\pos(540,960)}any
+Dialogue: 1,0:00:12.02,0:00:12.43,Cap,,0,0,0,,{\pos(540,960)}human
+Dialogue: 1,0:00:12.43,0:00:12.66,Cap,,0,0,0,,{\pos(540,960)}or
+Dialogue: 1,0:00:12.66,0:00:13.36,Cap,,0,0,0,,{\pos(540,960)}religion
+Dialogue: 1,0:00:13.36,0:00:13.73,Cap,,0,0,0,,{\pos(540,960)}Humans
+Dialogue: 1,0:00:13.73,0:00:14.11,Cap,,0,0,0,,{\pos(540,960)}created
+Dialogue: 1,0:00:14.11,0:00:14.50,Cap,,0,0,0,,{\pos(540,960)}God
+Dialogue: 1,0:00:14.50,0:00:14.66,Cap,,0,0,0,,{\pos(540,960)}and
+Dialogue: 1,0:00:14.66,0:00:15.08,Cap,,0,0,0,,{\pos(540,960)}humans
+Dialogue: 1,0:00:15.08,0:00:15.49,Cap,,0,0,0,,{\pos(540,960)}created
+Dialogue: 1,0:00:15.49,0:00:16.21,Cap,,0,0,0,,{\pos(540,960)}religion
+Dialogue: 0,0:00:00.00,0:00:17.21,Title,,0,0,0,,{\pos(540,392)\fs66}WHO REALLY CREATED {\c&H0016C8FF}GOD?{\c&H00FFFFFF}

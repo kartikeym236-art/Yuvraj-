@@ -1,0 +1,387 @@
+scene,start,end,duration,line,image
+1,0.0,1.46,1.46,"In September {2013|twenty thirteen},",001.jpg
+2,1.46,4.2,2.74,Rockstar Games released Grand Theft Auto Five.,002.jpg
+3,4.2,6.58,2.38,It made one billion dollars in just three days.,003.jpg
+4,6.58,7.92,1.34,"Faster than any movie, any book,",004.jpg
+5,7.92,10.145,2.225,any piece of entertainment in history at the time.,005.jpg
+6,10.145,12.07,1.925,And it kept selling. For more than ten years.,006.jpg
+7,12.07,13.795,1.725,Over two hundred million copies.,007.jpg
+8,13.795,15.355,1.56,Then fans waited for the sequel.,008.jpg
+9,15.355,16.02,0.665,And waited.,009.jpg
+10,16.02,16.65,0.63,And waited.,010.jpg
+11,16.65,17.84,1.19,More than a decade.,011.jpg
+12,17.84,19.54,1.7,Two console generations.,012.jpg
+13,19.54,21.61,2.07,One of the biggest leaks in gaming history.,013.jpg
+14,21.61,23.05,1.44,Two trailers that broke the internet.,014.jpg
+15,23.05,24.155,1.105,And two delays.,015.jpg
+16,24.155,24.935,0.78,"And now, finally,",016.jpg
+17,24.935,26.395,1.46,Grand Theft Auto Six is set,017.jpg
+18,26.395,29.195,2.8,"to launch on November nineteenth, {2026|twenty twenty six}.",018.jpg
+19,29.195,30.77,1.575,But what is the story actually about?,019.jpg
+20,30.77,31.965,1.195,Who are Jason and Lucia?,020.jpg
+21,31.965,32.92,0.955,Where is Leonida?,021.jpg
+22,32.92,33.84,0.92,Who are all the strange,022.jpg
+23,33.84,35.76,1.92,characters Rockstar has shown us?,023.jpg
+24,35.76,36.75,0.99,And what kind of missions are,024.jpg
+25,36.75,37.815,1.065,we going to be playing?,025.jpg
+26,37.815,39.525,1.71,"Today, I'm going to explain everything",026.jpg
+27,39.525,42.005,2.48,we know about GTA Six before launch.,027.jpg
+28,42.005,45.035,3.03,The characters. The map. The trailers. The hidden details.,028.jpg
+29,45.035,45.645,0.61,"And at the end,",029.jpg
+30,45.645,46.935,1.29,I'll share my predictions for the,030.jpg
+31,46.935,48.745,1.81,kinds of missions we can expect.,031.jpg
+32,48.745,51.435,2.69,"Just remember, those are predictions, not spoilers.",032.jpg
+33,51.435,52.335,0.9,Let's go.,033.jpg
+34,52.335,54.005,1.67,Chapter one. Why GTA Six,034.jpg
+35,54.005,55.085,1.08,is such a big deal.,035.jpg
+36,55.085,56.015,0.93,"To understand the hype,",036.jpg
+37,56.015,57.175,1.16,you have to understand how big,037.jpg
+38,57.175,58.975,1.8,Grand Theft Auto really is.,038.jpg
+39,58.975,61.085,2.11,"The series started back in {1997|nineteen ninety seven},",039.jpg
+40,61.085,62.245,1.16,as a {top-down|top down} game where you,040.jpg
+41,62.245,63.705,1.46,looked at the city from above.,041.jpg
+42,63.705,67.135,3.43,"But in {2001|two thousand one}, Grand Theft Auto Three changed everything.",042.jpg
+43,67.135,68.195,1.06,A full {3D|three d} city you,043.jpg
+44,68.195,69.825,1.63,could explore however you wanted.,044.jpg
+45,69.825,71.5,1.675,Steal any car. Go anywhere.,045.jpg
+46,71.5,73.52,2.02,It basically created the {open-world|open world} crime,046.jpg
+47,73.52,74.69,1.17,game as we know it.,047.jpg
+48,74.69,76.28,1.59,The next year came Vice City.,048.jpg
+49,76.28,78.63,2.35,"A {neon-soaked|neon soaked} version of {1980s|nineteen eighties} Miami,",049.jpg
+50,78.63,80.62,1.99,with a gangster named Tommy Vercetti rising,050.jpg
+51,80.62,82.4,1.78,to the top of the criminal underworld.,051.jpg
+52,82.4,83.12,0.72,"For many fans,",052.jpg
+53,83.12,85.075,1.955,it's still the most iconic GTA ever.,053.jpg
+54,85.075,87.675,2.6,Then San Andreas. Then GTA Four.,054.jpg
+55,87.675,90.165,2.49,"Then GTA Five, with its three main characters,",055.jpg
+56,90.165,91.835,1.67,"Michael, Franklin, and Trevor.",056.jpg
+57,91.835,93.805,1.97,"And its online mode, GTA Online,",057.jpg
+58,93.805,95.425,1.62,"which kept millions of people playing,",058.jpg
+59,95.425,97.555,2.13,"and spending money, for more than a decade.",059.jpg
+60,97.555,99.025,1.47,GTA Five became one of the,060.jpg
+61,99.025,101.245,2.22,{best-selling|best selling} video games of all time.,061.jpg
+62,101.245,104.645,3.4,So when Rockstar finally confirmed in February {2022|twenty twenty two},062.jpg
+63,104.645,107.095,2.45,"that the next Grand Theft Auto was in development,",063.jpg
+64,107.095,108.795,1.7,the internet lost its mind.,064.jpg
+65,108.795,111.225,2.43,But nobody could have predicted what happened next.,065.jpg
+66,111.225,112.39,1.165,Chapter two. The leak.,066.jpg
+67,112.39,115.67,3.28,"In September {2022|twenty twenty two}, something unbelievable happened.",067.jpg
+68,115.67,117.89,2.22,A hacker broke into Rockstar's internal systems,068.jpg
+69,117.89,119.75,1.86,"and leaked more than ninety videos of early,",069.jpg
+70,119.75,121.8,2.05,unfinished GTA Six gameplay.,070.jpg
+71,121.8,123.665,1.865,"Online, for the whole world to see.",071.jpg
+72,123.665,124.675,1.01,The footage was rough.,072.jpg
+73,124.675,127.93,3.255,Placeholder graphics. Debug menus. Test animations.,073.jpg
+74,127.93,129.5,1.57,But it showed something huge.,074.jpg
+75,129.5,130.705,1.205,Two main characters.,075.jpg
+76,130.705,131.635,0.93,A man and a woman.,076.jpg
+77,131.635,132.985,1.35,Robbing a restaurant together.,077.jpg
+78,132.985,135.245,2.26,And a city that looked a lot like Miami.,078.jpg
+79,135.245,136.105,0.86,It was one of the biggest,079.jpg
+80,136.105,137.885,1.78,leaks in video game history.,080.jpg
+81,137.885,138.63,0.745,And the hacker?,081.jpg
+82,138.63,139.38,0.75,He turned out to be a,082.jpg
+83,139.38,140.94,1.56,"teenager from the United Kingdom,",083.jpg
+84,140.94,142.16,1.22,who was already connected to,084.jpg
+85,142.16,143.93,1.77,a hacking group called Lapsus.,085.jpg
+86,143.93,144.79,0.86,Police had put him under,086.jpg
+87,144.79,146.61,1.82,supervision in a hotel room.,087.jpg
+88,146.61,148.38,1.77,"And according to reports from his court case,",088.jpg
+89,148.38,150.36,1.98,"he pulled off the Rockstar hack anyway,",089.jpg
+90,150.36,152.09,1.73,"using a hotel TV, a phone,",090.jpg
+91,152.09,153.7,1.61,and an Amazon Fire Stick.,091.jpg
+92,153.7,154.26,0.56,"In the end,",092.jpg
+93,154.26,155.53,1.27,a UK court ordered him to,093.jpg
+94,155.53,157.33,1.8,be held in a secure hospital.,094.jpg
+95,157.33,159.93,2.6,"Rockstar said they were ""extremely disappointed.""",095.jpg
+96,159.93,161.16,1.23,But they also promised that the,096.jpg
+97,161.16,162.99,1.83,real game would be worth the wait.,097.jpg
+98,162.99,165.37,2.38,Chapter three. The trailers that broke the internet.,098.jpg
+99,165.37,167.14,1.77,"On December fifth, {2023|twenty twenty three},",099.jpg
+100,167.14,169.74,2.6,Rockstar planned to release the first official trailer.,100.jpg
+101,169.74,171.695,1.955,But the trailer leaked online the night before.,101.jpg
+102,171.695,173.36,1.665,So Rockstar dropped it early.,102.jpg
+103,173.36,174.26,0.9,It opens on a woman,103.jpg
+104,174.26,175.8,1.54,in an orange prison jumpsuit.,104.jpg
+105,175.8,177.065,1.265,Her name is Lucia.,105.jpg
+106,177.065,179.15,2.085,A guard asks her how she ended up there.,106.jpg
+107,179.15,181.41,2.26,And she gives a cheeky answer about bad luck.,107.jpg
+108,181.41,182.7,1.29,Then the trailer explodes into,108.jpg
+109,182.7,184.12,1.42,a montage of the world.,109.jpg
+110,184.12,184.67,0.55,Beaches.,110.jpg
+111,184.67,184.88,0.21,Boats.,111.jpg
+112,184.88,185.39,0.51,Swamps.,112.jpg
+113,185.39,186.07,0.68,Strip malls.,113.jpg
+114,186.07,186.95,0.88,Wild parties.,114.jpg
+115,186.95,187.91,0.96,Alligators.,115.jpg
+116,187.91,188.95,1.04,"And, just like real life,",116.jpg
+117,188.95,190.71,1.76,people filming everything on their phones,117.jpg
+118,190.71,192.5,1.79,and posting it to social media.,118.jpg
+119,192.5,193.77,1.27,"A clear parody of the ""Florida",119.jpg
+120,193.77,196.25,2.48,"Man"" headlines the internet loves so much.",120.jpg
+121,196.25,197.51,1.26,"All set to the song ""Love",121.jpg
+122,197.51,199.62,2.11,"Is a Long Road"" by Tom Petty.",122.jpg
+123,199.62,200.99,1.37,"At the end, Lucia and her partner,",123.jpg
+124,200.99,203.73,2.74,"a man named Jason, rob a convenience store together.",124.jpg
+125,203.73,204.9,1.17,"Then they're on the run, in a car,",125.jpg
+126,204.9,206.53,1.63,with the cops right behind them.,126.jpg
+127,206.53,208.25,1.72,The trailer got around ninety million views,127.jpg
+128,208.25,210.34,2.09,on YouTube in its first {twenty-four|twenty four} hours.,128.jpg
+129,210.34,212.12,1.78,A record for a {non-music|non music} video.,129.jpg
+130,212.12,215.43,3.31,"Then, in May {2025|twenty twenty five}, Rockstar released Trailer Two.",130.jpg
+131,215.43,217.33,1.9,"This time, it showed much more of the story,",131.jpg
+132,217.33,218.71,1.38,and much more of Jason.,132.jpg
+133,218.71,219.85,1.14,And Rockstar said all of it,133.jpg
+134,219.85,221.55,1.7,"was captured from the game itself,",134.jpg
+135,221.55,223.38,1.83,running on a PlayStation Five.,135.jpg
+136,223.38,224.53,1.15,The song this time?,136.jpg
+137,224.53,226.46,1.93,"""Hot Together"" by the Pointer Sisters.",137.jpg
+138,226.46,228.07,1.61,Rockstar said Trailer Two racked,138.jpg
+139,228.07,229.1,1.03,up around four hundred and,139.jpg
+140,229.1,231.19,2.09,{seventy-five|seventy five} million views across platforms,140.jpg
+141,231.19,232.97,1.78,in its first {twenty-four|twenty four} hours.,141.jpg
+142,232.97,233.995,1.025,A massive record.,142.jpg
+143,233.995,237.045,3.05,And fans spent weeks analyzing every single frame.,143.jpg
+144,237.045,238.88,1.835,Chapter four. Welcome to Leonida.,144.jpg
+145,238.88,240.7,1.82,So where does GTA Six take place?,145.jpg
+146,240.7,242.7,2.0,It's set in a fictional state called Leonida.,146.jpg
+147,242.7,244.79,2.09,"Basically, Rockstar's version of Florida.",147.jpg
+148,244.79,246.12,1.33,And the biggest city in Leonida is,148.jpg
+149,246.12,248.18,2.06,a place {long-time|long time} fans know very well.,149.jpg
+150,248.18,248.805,0.625,Vice City.,150.jpg
+151,248.805,251.295,2.49,Yes. GTA is going back to Vice City.,151.jpg
+152,251.295,253.49,2.195,But not the {1980s|nineteen eighties} version.,152.jpg
+153,253.49,254.83,1.34,A modern Vice City.,153.jpg
+154,254.83,256.99,2.16,"With skyscrapers, influencers, nightclubs,",154.jpg
+155,256.99,259.055,2.065,"sports cars, and plenty of chaos.",155.jpg
+156,259.055,260.065,1.01,But Vice City is just,156.jpg
+157,260.065,261.295,1.23,one part of the map.,157.jpg
+158,261.295,264.645,3.35,Rockstar's official website introduced several regions of Leonida.,158.jpg
+159,264.645,266.065,1.42,There's the Leonida Keys.,159.jpg
+160,266.065,268.215,2.15,"A chain of tropical islands, full of boats,",160.jpg
+161,268.215,270.895,2.68,"beaches, and people living very much off the grid.",161.jpg
+162,270.895,273.725,2.83,"Basically, Rockstar's version of the Florida Keys.",162.jpg
+163,273.725,274.84,1.115,There's Grassrivers.,163.jpg
+164,274.84,277.975,3.135,"A huge wetland full of swamps, airboats, and alligators.",164.jpg
+165,277.975,280.115,2.14,Inspired by the Florida Everglades.,165.jpg
+166,280.115,280.895,0.78,There's Port Gellhorn.,166.jpg
+167,280.895,282.925,2.03,"A {run-down|run down}, forgotten town on the coast,",167.jpg
+168,282.925,284.255,1.33,"that used to be a tourist spot,",168.jpg
+169,284.255,285.935,1.68,but has seen much better days.,169.jpg
+170,285.935,286.805,0.87,There's Ambrosia.,170.jpg
+171,286.805,289.115,2.31,"A town built around a giant sugar refinery,",171.jpg
+172,289.115,291.27,2.155,with a reputation for biker gangs.,172.jpg
+173,291.27,293.29,2.02,And there's Mount Kalaga National Park.,173.jpg
+174,293.29,296.49,3.2,"A wild, rugged area with forests, trails, and hunting.",174.jpg
+175,296.49,297.96,1.47,"From everything Rockstar has shown,",175.jpg
+176,297.96,299.1,1.14,this looks like the biggest and,176.jpg
+177,299.1,301.14,2.04,most detailed world they have ever built.,177.jpg
+178,301.14,302.97,1.83,And it feels incredibly alive.,178.jpg
+179,302.97,306.9,3.93,"Packed with people, wildlife, traffic, and tiny details everywhere.",179.jpg
+180,306.9,308.77,1.87,Chapter five. Jason and Lucia.,180.jpg
+181,308.77,310.505,1.735,"Now, let's talk about the heart of the story.",181.jpg
+182,310.505,311.955,1.45,The two main characters.,182.jpg
+183,311.955,313.965,2.01,"For the first time in the main GTA series,",183.jpg
+184,313.965,316.17,2.205,one of the lead playable characters is a woman.,184.jpg
+185,316.17,317.825,1.655,Her name is Lucia Caminos.,185.jpg
+186,317.825,318.855,1.03,"According to Rockstar,",186.jpg
+187,318.855,320.185,1.33,Lucia's father taught her to fight,187.jpg
+188,320.185,321.505,1.32,as soon as she could walk.,188.jpg
+189,321.505,323.31,1.805,Life has been hitting her ever since.,189.jpg
+190,323.31,324.62,1.31,Fighting for her family landed,190.jpg
+191,324.62,326.42,1.8,her in the Leonida Penitentiary.,191.jpg
+192,326.42,327.25,0.83,"And thanks to her lawyer,",192.jpg
+193,327.25,328.58,1.33,"she's now out on probation,",193.jpg
+194,328.58,330.02,1.44,looking for a better life.,194.jpg
+195,330.02,331.09,1.07,And she's determined not to,195.jpg
+196,331.09,332.54,1.45,make the same mistakes again.,196.jpg
+197,332.54,334.75,2.21,The other main character is Jason Duval.,197.jpg
+198,334.75,336.33,1.58,Rockstar describes Jason as someone,198.jpg
+199,336.33,337.32,0.99,"who wants an easy life,",199.jpg
+200,337.32,339.03,1.71,but things just keep getting harder.,200.jpg
+201,339.03,340.98,1.95,He grew up around grifters and crooks.,201.jpg
+202,340.98,342.06,1.08,"After a stint in the army,",202.jpg
+203,342.06,343.59,1.53,"he ended up in the Leonida Keys,",203.jpg
+204,343.59,345.75,2.16,doing jobs for local drug runners.,204.jpg
+205,345.75,347.18,1.43,"And then, he meets Lucia.",205.jpg
+206,347.18,349.09,1.91,"And according to Rockstar, she could be the best,",206.jpg
+207,349.09,350.945,1.855,"or worst, thing to ever happen to him.",207.jpg
+208,350.945,351.995,1.05,So the core of GTA,208.jpg
+209,351.995,353.452,1.457,Six is a love story.,209.jpg
+210,353.452,354.82,1.368,A crime love story.,210.jpg
+211,354.82,356.74,1.92,"Two people trying to escape their old lives,",211.jpg
+212,356.74,358.85,2.11,who get pulled deeper into crime together.,212.jpg
+213,358.85,361.02,2.17,"Many fans have compared them to Bonnie and Clyde,",213.jpg
+214,361.02,362.54,1.52,the famous outlaw couple from the,214.jpg
+215,362.54,365.54,3.0,{1930s|nineteen thirties} who robbed banks across America.,215.jpg
+216,365.54,367.23,1.69,"In fact, back in {2022|twenty twenty two},",216.jpg
+217,367.23,368.79,1.56,a report from Bloomberg said the game would,217.jpg
+218,368.79,371.29,2.5,feature a Bonnie and Clyde inspired duo.,218.jpg
+219,371.29,374.03,2.74,And that raises the big question everyone is asking.,219.jpg
+220,374.03,376.405,2.375,Can Jason and Lucia actually trust each other?,220.jpg
+221,376.405,377.335,0.93,"Because in Trailer Two,",221.jpg
+222,377.335,379.645,2.31,there are hints that things might get complicated.,222.jpg
+223,379.645,381.675,2.03,The two of them clearly care about each other.,223.jpg
+224,381.675,383.055,1.38,"But in a world full of betrayal,",224.jpg
+225,383.055,386.015,2.96,Rockstar rarely gives its characters a happy ending.,225.jpg
+226,386.015,387.915,1.9,Chapter six. The people around them.,226.jpg
+227,387.915,390.92,3.005,GTA games are famous for their wild side characters.,227.jpg
+228,390.92,393.2,2.28,And Rockstar has already introduced some of them.,228.jpg
+229,393.2,394.505,1.305,"First, there's Cal Hampton.",229.jpg
+230,394.505,395.665,1.16,Jason's friend.,230.jpg
+231,395.665,397.225,1.56,Cal is the kind of guy who listens to,231.jpg
+232,397.225,400.43,3.205,police scanners and has strong opinions about government secrets.,232.jpg
+233,400.43,402.3,1.87,He'd rather stay home than go out.,233.jpg
+234,402.3,403.92,1.62,Rockstar describes him with a line,234.jpg
+235,403.92,405.545,1.625,that sums him up perfectly.,235.jpg
+236,405.545,406.855,1.31,"Basically, he thinks freedom is",236.jpg
+237,406.855,408.595,1.74,nothing without a little privacy.,237.jpg
+238,408.595,409.645,1.05,Then there's Boobie Ike.,238.jpg
+239,409.645,411.215,1.57,A Vice City local legend.,239.jpg
+240,411.215,413.515,2.3,"Boobie built a business empire, including a strip club,",240.jpg
+241,413.515,415.495,1.98,"real estate, and a recording studio.",241.jpg
+242,415.495,416.755,1.26,"He's smart, he's successful,",242.jpg
+243,416.755,417.645,0.89,and he looks like someone who,243.jpg
+244,417.645,419.845,2.2,knows exactly how the city really works.,244.jpg
+245,419.845,422.285,2.44,Boobie's business partner is Dre'Quan Priest.,245.jpg
+246,422.285,423.435,1.15,Dre'Quan is trying to break into,246.jpg
+247,423.435,425.285,1.85,"the music business with his record label,",247.jpg
+248,425.285,426.565,1.28,Only Raw Records.,248.jpg
+249,426.565,427.435,0.87,And he's betting big on a,249.jpg
+250,427.435,429.265,1.83,rap duo called the Real Dimez.,250.jpg
+251,429.265,431.665,2.4,"The Real Dimez are two friends, {Bae-Luxe|Bae Luxe} and Roxy,",251.jpg
+252,431.665,433.235,1.57,who went viral online and are trying to,252.jpg
+253,433.235,435.435,2.2,turn that fame into a real music career.,253.jpg
+254,435.435,436.795,1.36,Which feels like a perfect fit for a,254.jpg
+255,436.795,438.975,2.18,game that's all about social media and fame.,255.jpg
+256,438.975,440.552,1.577,Then there's Raul Bautista.,256.jpg
+257,440.552,442.392,1.84,"A smooth, experienced bank robber who",257.jpg
+258,442.392,444.31,1.918,knows how to pull off big jobs.,258.jpg
+259,444.31,446.21,1.9,And he's always looking for new talent.,259.jpg
+260,446.21,448.815,2.605,"Talented people like, say, Jason and Lucia.",260.jpg
+261,448.815,450.725,1.91,"And finally, there's Brian Heder.",261.jpg
+262,450.725,452.655,1.93,"An {old-school|old school} drug runner in the Keys,",262.jpg
+263,452.655,454.615,1.96,who's been in the business a long time.,263.jpg
+264,454.615,456.665,2.05,"Jason lives in one of Brian's properties,",264.jpg
+265,456.665,458.945,2.28,and helps him out with boat work in return.,265.jpg
+266,458.945,460.165,1.22,Every one of these characters,266.jpg
+267,460.165,460.975,0.81,looks like they could pull,267.jpg
+268,460.975,462.465,1.49,Jason and Lucia into a different,268.jpg
+269,462.465,464.515,2.05,corner of Leonida's criminal world.,269.jpg
+270,464.515,466.35,1.835,Chapter seven. The delays.,270.jpg
+271,466.35,468.73,2.38,"Of course, getting to launch day was not easy.",271.jpg
+272,468.73,471.55,2.82,"When Rockstar released Trailer One in {2023|twenty twenty three},",272.jpg
+273,471.55,474.99,3.44,it said GTA Six would come out in {2025|twenty twenty five}.,273.jpg
+274,474.99,476.68,1.69,"Then, in May {2025|twenty twenty five},",274.jpg
+275,476.68,477.99,1.31,Rockstar announced the game would be,275.jpg
+276,477.99,480.95,2.96,"delayed to May {twenty-sixth|twenty sixth}, {2026|twenty twenty six}.",276.jpg
+277,480.95,484.36,3.41,"And then, in November {2025|twenty twenty five}, it was delayed again.",277.jpg
+278,484.36,486.98,2.62,"To November nineteenth, {2026|twenty twenty six}.",278.jpg
+279,486.98,488.72,1.74,Rockstar apologized to fans and,279.jpg
+280,488.72,490.03,1.31,explained that they needed more,280.jpg
+281,490.03,493.04,3.01,time to deliver the level of polish players expect.,281.jpg
+282,493.04,494.57,1.53,Fans were disappointed.,282.jpg
+283,494.57,496.89,2.32,But history is on Rockstar's side here.,283.jpg
+284,496.89,499.39,2.5,Red Dead Redemption Two was also delayed.,284.jpg
+285,499.39,500.51,1.12,"And when it finally launched,",285.jpg
+286,500.51,501.32,0.81,it was considered one of,286.jpg
+287,501.32,503.04,1.72,the greatest games ever made.,287.jpg
+288,503.04,505.53,2.49,"At launch, GTA Six is coming to PlayStation",288.jpg
+289,505.53,508.0,2.47,Five and Xbox Series X and S.,289.jpg
+290,508.0,510.555,2.555,Rockstar hasn't announced a PC version yet.,290.jpg
+291,510.555,511.955,1.4,"But if history repeats itself,",291.jpg
+292,511.955,514.335,2.38,PC players will likely get it later.,292.jpg
+293,514.335,516.13,1.795,Chapter eight. What missions might look like.,293.jpg
+294,516.13,517.735,1.605,Okay. Now for the fun part.,294.jpg
+295,517.735,519.285,1.55,Rockstar hasn't revealed the mission list.,295.jpg
+296,519.285,521.125,1.84,"So everything in this section is a prediction,",296.jpg
+297,521.125,523.055,1.93,"based on the trailers, the character descriptions,",297.jpg
+298,523.055,525.08,2.025,and Rockstar's history. Not spoilers.,298.jpg
+299,525.08,527.275,2.195,Prediction number one. Heists. Lots of them.,299.jpg
+300,527.275,528.835,1.56,GTA Five's heists were some of,300.jpg
+301,528.835,530.35,1.515,the best missions in the series.,301.jpg
+302,530.35,532.01,1.66,"Planning the job, choosing your crew,",302.jpg
+303,532.01,533.06,1.05,and pulling it off.,303.jpg
+304,533.06,534.08,1.02,"With Raul Bautista,",304.jpg
+305,534.08,536.07,1.99,"an experienced bank robber, in the story,",305.jpg
+306,536.07,537.51,1.44,it would be shocking if GTA,306.jpg
+307,537.51,539.58,2.07,Six didn't have big heist missions.,307.jpg
+308,539.58,540.77,1.19,"And with two main characters,",308.jpg
+309,540.77,542.94,2.17,it's easy to imagine Jason and Lucia each,309.jpg
+310,542.94,545.01,2.07,playing a different role in the same job.,310.jpg
+311,545.01,546.26,1.25,Prediction number two.,311.jpg
+312,546.26,548.78,2.52,The convenience store robbery from Trailer One.,312.jpg
+313,548.78,549.74,0.96,That scene looked like an,313.jpg
+314,549.74,551.36,1.62,early moment in the story.,314.jpg
+315,551.36,552.58,1.22,Possibly the first time we see,315.jpg
+316,552.58,554.595,2.015,Jason and Lucia commit a crime together.,316.jpg
+317,554.595,555.545,0.95,It could easily be one of,317.jpg
+318,555.545,557.355,1.81,the first big missions in the game.,318.jpg
+319,557.355,560.2,2.845,Prediction number three. Missions in the Keys with Brian.,319.jpg
+320,560.2,561.77,1.57,"Brian is a drug runner in the Keys,",320.jpg
+321,561.77,563.44,1.67,and Jason does boat work for him.,321.jpg
+322,563.44,565.145,1.705,So expect missions out on the water.,322.jpg
+323,565.145,568.01,2.865,Boat chases. Smuggling runs. Escaping the coast guard.,323.jpg
+324,568.01,569.63,1.62,With the Keys as the backdrop.,324.jpg
+325,569.63,572.44,2.81,Prediction number four. Missions in the music world.,325.jpg
+326,572.44,574.48,2.04,"With Boobie Ike, Dre'Quan, and the Real Dimez,",326.jpg
+327,574.48,575.28,0.8,it looks like there could be a,327.jpg
+328,575.28,577.64,2.36,whole storyline about Vice City's music scene.,328.jpg
+329,577.64,579.73,2.09,Protecting artists. Dealing with rivals.,329.jpg
+330,579.73,581.22,1.49,Maybe chasing down stolen music.,330.jpg
+331,581.22,582.745,1.525,Or making a viral moment happen.,331.jpg
+332,582.745,585.165,2.42,Prediction number five. Lucia's probation.,332.jpg
+333,585.165,586.545,1.38,Lucia just got out of prison.,333.jpg
+334,586.545,588.145,1.6,"It seems very likely her past,",334.jpg
+335,588.145,590.375,2.23,"and her probation, will come back to haunt her.",335.jpg
+336,590.375,592.125,1.75,Maybe old enemies from prison.,336.jpg
+337,592.125,593.405,1.28,Maybe pressure from the law.,337.jpg
+338,593.405,596.055,2.65,Maybe a choice between staying clean and helping Jason.,338.jpg
+339,596.055,598.13,2.075,Prediction number six. Social media chaos.,339.jpg
+340,598.13,600.315,2.185,Social media is everywhere in the trailers.,340.jpg
+341,600.315,602.98,2.665,People filming crimes. Posting videos. Going viral.,341.jpg
+342,602.98,604.16,1.18,It wouldn't be surprising if some,342.jpg
+343,604.16,606.38,2.22,"missions involve your actions blowing up online,",343.jpg
+344,606.38,608.58,2.2,or characters who want fame at any cost.,344.jpg
+345,608.58,610.645,2.065,And prediction number seven. The ending.,345.jpg
+346,610.645,612.815,2.17,Rockstar loves endings that hit hard.,346.jpg
+347,612.815,614.33,1.515,Think of Red Dead Redemption Two.,347.jpg
+348,614.33,616.56,2.23,Or the choice at the end of GTA Five.,348.jpg
+349,616.56,617.88,1.32,With a Bonnie and Clyde style,349.jpg
+350,617.88,619.18,1.3,"couple at the center of the story,",350.jpg
+351,619.18,620.21,1.03,a lot of fans believe,351.jpg
+352,620.21,621.74,1.53,the ending could be emotional.,352.jpg
+353,621.74,623.057,1.317,Maybe even tragic.,353.jpg
+354,623.057,624.647,1.59,"Because historically, Bonnie and Clyde's",354.jpg
+355,624.647,626.08,1.433,story did not end well.,355.jpg
+356,626.08,627.265,1.185,But that's just a theory.,356.jpg
+357,627.265,628.525,1.26,We'll find out soon.,357.jpg
+358,628.525,630.475,1.95,Chapter nine. Why everyone is waiting.,358.jpg
+359,630.475,631.925,1.45,So let's put it all together.,359.jpg
+360,631.925,634.805,2.88,"GTA Six follows Jason Duval and Lucia Caminos,",360.jpg
+361,634.805,636.385,1.58,"two people trying to escape their past,",361.jpg
+362,636.385,638.185,1.8,"who get pulled into a life of crime together,",362.jpg
+363,638.185,640.235,2.05,"in the sunny, chaotic state of Leonida.",363.jpg
+364,640.235,642.315,2.08,"It brings back Vice City, in a modern form,",364.jpg
+365,642.315,644.565,2.25,"alongside the Keys, the swamps of Grassrivers,",365.jpg
+366,644.565,647.085,2.52,"Port Gellhorn, Ambrosia, and Mount Kalaga.",366.jpg
+367,647.085,648.435,1.35,It's packed with characters who could,367.jpg
+368,648.435,650.685,2.25,each drag our heroes deeper into trouble.,368.jpg
+369,650.685,652.325,1.64,"And after more than a decade of waiting,",369.jpg
+370,652.325,653.425,1.1,"a historic leak,",370.jpg
+371,653.425,656.925,3.5,"{record-breaking|record breaking} trailers, and two delays, it's finally almost here.",371.jpg
+372,656.925,659.275,2.35,There's a reason so many people consider GTA,372.jpg
+373,659.275,662.395,3.12,Six one of the most anticipated entertainment releases ever.,373.jpg
+374,662.395,664.935,2.54,"Not just games. Entertainment, period.",374.jpg
+375,664.935,666.705,1.77,"And whatever happens with Jason and Lucia,",375.jpg
+376,666.705,667.985,1.28,one thing is clear.,376.jpg
+377,667.985,669.175,1.19,Rockstar is going all in.,377.jpg
+378,669.175,670.54,1.365,So tell me in the comments.,378.jpg
+379,670.54,672.04,1.5,"Who are you more excited to play as,",379.jpg
+380,672.04,673.285,1.245,Jason or Lucia?,380.jpg
+381,673.285,674.575,1.29,And which of my mission predictions,381.jpg
+382,674.575,675.725,1.15,do you think will come true?,382.jpg
+383,675.725,677.495,1.77,"Subscribe, because once the game is out,",383.jpg
+384,677.495,679.095,1.6,"I'm going to break down the full story,",384.jpg
+385,679.095,680.305,1.21,mission by mission.,385.jpg
+386,680.305,681.695,1.39,See you in Vice City.,386.jpg

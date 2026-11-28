@@ -1,0 +1,4 @@
+This is how many different positions a chessboard can have. Not games, just legal positions: about {48|forty eight} followed by {43|forty three} zeros.
+To feel it, take all {8 billion|eight billion} people on Earth. Give each one a computer that checks a billion positions every second. Now, start them all at the Big Bang and let them run until today. They still wouldn't have checked even one out of every {100 million|one hundred million}.
+So that little board on your table holds more positions than all of humanity could check since the beginning of time.
+What would you love to see explained next? Follow me and I'll explain it.

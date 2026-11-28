@@ -7,27 +7,28 @@
 //            brow (-1 angry .. 1 raised), blink 0..1 })
 import * as THREE from 'three';
 import { RoundedBoxGeometry } from 'three/addons/geometries/RoundedBoxGeometry.js';
+import { buildHead } from './head.js';
 
 const M = (color, o = {}) => new THREE.MeshPhysicalMaterial({ color, roughness: 0.55, clearcoat: 0.15, sheen: 0.3, sheenColor: new THREE.Color('#ffffff'), ...o });
 const mesh = (g, m, x = 0, y = 0, z = 0) => { const o = new THREE.Mesh(g, m); o.position.set(x, y, z); o.castShadow = true; o.receiveShadow = true; return o; };
 
 export const PRESETS = {
-  mosaddegh: { skin: '#d8b096', outfit: 'suit', suit: '#6d7077', trousers: '#5d6067', shirt: '#f2efe8', tie: '#3a3d45', hair: 'bald_fringe', hairColor: '#cfcac4',
+  mosaddegh: { face: { faceLen: 1.16, jaw: 0.82, chin: 0.8, nose: 1.85, noseW: 1.05, hook: 1.1, brow: 0.8, cheek: 0.7, lips: 0.7, eyes: 0.95, droop: 0.7, age: 1, ears: 1.15 }, eyeColor: '#3a2618', skin: '#d8b096', outfit: 'suit', suit: '#6d7077', trousers: '#5d6067', shirt: '#f2efe8', tie: '#3a3d45', hair: 'bald_fringe', hairColor: '#cfcac4',
     nose: 1.7, ears: 1.15, brows: '#8d8780', browW: 1, width: 0.9, age: 1 },
-  shah: { skin: '#d9b08f', outfit: 'uniform', suit: '#d9cfb8', trousers: '#cfc5ad', hair: 'slick', hairColor: '#2a241f', nose: 1.35, brows: '#2a241f',
+  shah: { face: { faceLen: 1.1, jaw: 1.0, chin: 1.1, nose: 1.5, noseW: 0.95, hook: 0.9, brow: 1.2, cheek: 0.9, lips: 0.8, eyes: 0.95, age: 0.3, hairline: 0.62, recede: 0.35, hairSide: 0.12, hairT: 0.07 }, skin: '#d9b08f', outfit: 'uniform', suit: '#d9cfb8', trousers: '#cfc5ad', hair: 'slick', hairColor: '#2a241f', nose: 1.35, brows: '#2a241f',
     medals: true, sash: '#2e5fb0', epaulettes: '#d9a93b', buttons: '#d9a93b', width: 1 },
-  khomeini: { skin: '#cfa587', outfit: 'robe', suit: '#1d1c1f', trousers: '#3b3128', shirt: '#4a3a2c', hair: 'none', headwear: 'turban', headwearColor: '#161517',
-    beard: 'full', beardColor: '#e9e6e1', mustache: true, mustacheColor: '#e2ded8', brows: '#2f2b28', browW: 1.5, nose: 1.25, width: 1 },
-  saddam: { skin: '#c99876', outfit: 'uniform', suit: '#5b6243', trousers: '#545b3d', hair: 'short', hairColor: '#1b1816', headwear: 'beret', headwearColor: '#121212',
+  khomeini: { face: { faceLen: 1.12, jaw: 0.95, chin: 1, nose: 1.35, noseW: 1.0, hook: 0.6, brow: 1.6, cheek: 0.9, lips: 0.8, eyes: 0.9, droop: 0.6, age: 0.9 }, skin: '#cfa587', outfit: 'robe', suit: '#1d1c1f', trousers: '#3b3128', shirt: '#4a3a2c', hair: 'none', headwear: 'turban', headwearColor: '#161517',
+    beard: 'full', beardColor: '#dcd8d2', mustache: true, mustacheColor: '#cfcac3', brows: '#2f2b28', browW: 2.2, nose: 1.25, width: 1 },
+  saddam: { face: { faceLen: 1.0, jaw: 1.15, chin: 1.0, nose: 1.25, noseW: 1.15, brow: 1.3, cheek: 1.15, lips: 1.0, eyes: 0.95, age: 0.3, hairline: 0.55, hairT: 0.05, stubble: 0.35 }, mustacheW: 1.35, skin: '#c99876', outfit: 'uniform', suit: '#5b6243', trousers: '#545b3d', hair: 'short', hairColor: '#1b1816', headwear: 'beret', headwearColor: '#121212',
     mustache: true, mustacheColor: '#141210', brows: '#141210', browW: 1.3, nose: 1.2, epaulettes: '#8a8f6a', buttons: '#c9a64a', width: 1.08 },
-  obama: { skin: '#8a5c40', outfit: 'suit', suit: '#2c3038', trousers: '#2a2e35', shirt: '#f4f5f7', tie: '#6e9ad0', hair: 'short', hairColor: '#4b4743',
+  obama: { face: { faceLen: 1.08, jaw: 0.95, chin: 1.0, nose: 0.85, noseW: 1.3, lips: 1.15, cheek: 0.9, ears: 1.35, eyes: 1.0, hairline: 0.64, recede: 0.18, hairSide: 0.1, hairT: 0.025 }, skin: '#8a5c40', outfit: 'suit', suit: '#2c3038', trousers: '#2a2e35', shirt: '#f4f5f7', tie: '#6e9ad0', hair: 'short', hairColor: '#4b4743',
     ears: 1.3, nose: 1.05, brows: '#2a2522', width: 0.92, pin: true },
-  trump: { skin: '#e8b48c', outfit: 'suit', suit: '#1f2a44', trousers: '#1d273f', shirt: '#ffffff', tie: '#c81e2b', tieLong: true, hair: 'swoop', hairColor: '#e7c983',
+  trump: { face: { faceLen: 1.0, jaw: 1.2, chin: 0.85, cheek: 1.4, nose: 0.85, noseW: 1.1, lips: 0.7, eyes: 0.8, droop: 0.3, age: 0.85, hairline: 0.48, hairT: 0.08, ears: 1.05 }, eyeColor: '#4a6a8a', skin: '#e9a67e', outfit: 'suit', suit: '#1f2a44', trousers: '#1d273f', shirt: '#ffffff', tie: '#c81e2b', tieLong: true, hair: 'swoop', hairColor: '#e7c983',
     nose: 1.05, brows: '#d6b77a', width: 1.18, pin: true },
-  agent: { skin: '#e0b597', outfit: 'suit', suit: '#17191d', trousers: '#17191d', shirt: '#ffffff', tie: '#17191d', hair: 'short', hairColor: '#3a2e26', glasses: 'sun', width: 1 },
-  british: { skin: '#e8c3a6', outfit: 'suit', suit: '#3e4a3a', trousers: '#3a4436', shirt: '#f4f1ea', tie: '#7a1f2a', hair: 'short', hairColor: '#8a6a4a', mustache: true,
+  agent: { face: { stubble: 0.2 }, skin: '#e0b597', outfit: 'suit', suit: '#17191d', trousers: '#17191d', shirt: '#ffffff', tie: '#17191d', hair: 'short', hairColor: '#3a2e26', glasses: 'sun', width: 1 },
+  british: { face: { nose: 1.2, age: 0.4 }, skin: '#e8c3a6', outfit: 'suit', suit: '#3e4a3a', trousers: '#3a4436', shirt: '#f4f1ea', tie: '#7a1f2a', hair: 'short', hairColor: '#8a6a4a', mustache: true,
     mustacheColor: '#7a5a3c', headwear: 'cap', headwearColor: '#2f3a2c', width: 1.02 },
-  student: { skin: '#cfa284', outfit: 'casual', suit: '#6b7f9a', trousers: '#3b3f48', hair: 'short', hairColor: '#1d1916', mustache: true, mustacheColor: '#1d1916', width: 0.95 },
+  student: { face: { stubble: 0.5 }, skin: '#cfa284', outfit: 'casual', suit: '#6b7f9a', trousers: '#3b3f48', hair: 'short', hairColor: '#1d1916', mustache: true, mustacheColor: '#1d1916', width: 0.95 },
 };
 
 export function figure(spec = {}) {
@@ -44,7 +45,7 @@ export function figure(spec = {}) {
   // torso (lathe) - robe goes to the floor
   const robe = S.outfit === 'robe';
   const prof = robe ? [[0.001, 0.02], [0.34, 0.02], [0.3, 0.5], [0.25, 0.95], [0.25, 1.25], [0.24, 1.42], [0.16, 1.5], [0.001, 1.52]]
-    : [[0.001, 0.86], [0.2, 0.86], [0.21, 1.0], [0.235, 1.28], [0.23, 1.42], [0.15, 1.5], [0.001, 1.52]];
+    : [[0.001, 0.86], [0.19, 0.86], [0.195, 1.0], [0.21, 1.25], [0.205, 1.4], [0.13, 1.49], [0.001, 1.51]];
   const torso = mesh(new THREE.LatheGeometry(prof.map(([r, y]) => new THREE.Vector2(r * W, y)), 40), cloth); torso.scale.z = 0.62; body.add(torso);
   if (robe) legs.visible = false;
   const chest = new THREE.Group(); body.add(chest);
@@ -66,69 +67,40 @@ export function figure(spec = {}) {
   if (S.outfit === 'casual') { const col = mesh(new THREE.TorusGeometry(0.07, 0.015, 8, 24), cloth); col.rotation.x = Math.PI / 2; col.position.y = 1.49; body.add(col); }
   if (robe) { const inner = front(mesh(new RoundedBoxGeometry(0.16, 0.9, 0.02, 2, 0.01), M(S.shirt)), 0.95, 0.09); inner.scale.x = W; }
   // arms
-  const arm = (s) => { const sh = new THREE.Group(); sh.position.set(s * 0.255 * W, 1.42, 0); body.add(sh);
-    sh.add(mesh(new THREE.CapsuleGeometry(0.062 * W, 0.26, 6, 14), robe ? cloth : cloth, 0, -0.17, 0));
+  const arm = (s) => { const sh = new THREE.Group(); sh.position.set(s * 0.232 * W, 1.41, 0); body.add(sh);
+    sh.add(mesh(new THREE.CapsuleGeometry(0.056 * W, 0.26, 6, 14), robe ? cloth : cloth, 0, -0.17, 0));
     const el = new THREE.Group(); el.position.y = -0.33; sh.add(el);
-    el.add(mesh(new THREE.CapsuleGeometry(0.055 * W, 0.22, 6, 14), cloth, 0, -0.13, 0));
+    el.add(mesh(new THREE.CapsuleGeometry(0.05 * W, 0.22, 6, 14), cloth, 0, -0.13, 0));
     const hand = mesh(new THREE.SphereGeometry(0.052, 16, 12), skin, 0, -0.3, 0); hand.scale.set(0.85, 1.1, 0.7); el.add(hand);
     return { sh, el, hand }; };
   const AL = arm(1), AR = arm(-1);              // L = figure's left (+x)
   // head
-  const neck = mesh(new THREE.CylinderGeometry(0.055, 0.06, 0.12, 16), skin, 0, 1.53, 0); body.add(neck);
-  const head = new THREE.Group(); head.position.set(0, 1.6, 0); body.add(head);
-  const skull = mesh(new THREE.SphereGeometry(0.118, 40, 30), skin, 0, 0.045, 0); skull.scale.set(0.9, 1.1, 0.98); head.add(skull);
-  const jaw = mesh(new THREE.SphereGeometry(0.085, 30, 20), skin, 0, -0.03, 0.006); jaw.scale.set(0.9, 0.85, 0.92); head.add(jaw);
-  const cheekG = new THREE.SphereGeometry(0.03, 16, 12); for (const s of [-1, 1]) { const ck = mesh(cheekG, skin, s * 0.05, 0.012, 0.062); ck.scale.set(1, 0.8, 0.8); head.add(ck); }
-  for (const s of [-1, 1]) { const e = mesh(new THREE.SphereGeometry(0.03, 16, 12), skin, s * 0.106, 0.035, -0.005); e.scale.set(0.45 * S.ears, 1.05 * S.ears, 0.8 * S.ears); head.add(e); }
-  const nose = mesh(new THREE.SphereGeometry(0.02, 20, 14), skin, 0, 0.03, 0.1 + 0.003 * S.nose); nose.scale.set(0.8, 1.5 + 0.35 * (S.nose - 1), 0.9 + 0.45 * (S.nose - 1)); nose.rotation.x = -0.25; head.add(nose);
-  const tip = mesh(new THREE.SphereGeometry(0.016, 16, 12), skin, 0, 0.0, 0.112 + 0.012 * (S.nose - 1)); tip.scale.set(1.25, 0.9, 1); head.add(tip);
-  const eyes = [], lids = [];
-  for (const s of [-1, 1]) {
-    const w = mesh(new THREE.SphereGeometry(0.0175, 16, 12), M('#efe9e2', { roughness: 0.2, clearcoat: 1 }), s * 0.038, 0.052, 0.088); w.scale.set(1.2, 0.85, 0.8); head.add(w);
-    const ir = mesh(new THREE.SphereGeometry(0.0105, 14, 10), M('#2a1a10', { roughness: 0.1, clearcoat: 1 }), s * 0.038, 0.052, 0.0985); head.add(ir); eyes.push(ir);
-    const lid = mesh(new THREE.SphereGeometry(0.0175, 16, 8, 0, Math.PI * 2, 0, Math.PI / 2), skin, s * 0.038, 0.053, 0.088); lid.scale.set(1.2, 1, 1); lid.rotation.x = -1.15; head.add(lid); lids.push(lid);
-    const br = mesh(new RoundedBoxGeometry(0.042, 0.009 * S.browW, 0.01, 2, 0.004), M(S.brows, { roughness: 0.8 }), s * 0.04, 0.077, 0.1); head.add(br); eyes.push(br);
-  }
-  const brows = eyes.filter((_, i) => i % 2 === 1);
-  const mouth = mesh(new THREE.TorusGeometry(0.022, 0.005, 8, 20, Math.PI), M('#9a4a45', { roughness: 0.4 }), 0, -0.028, 0.093); mouth.rotation.z = Math.PI; head.add(mouth);
-  const mouthIn = mesh(new THREE.SphereGeometry(0.018, 16, 10), M('#3a1412'), 0, -0.03, 0.089); mouthIn.scale.set(1.1, 0.05, 0.5); head.add(mouthIn);
-  // hair / headwear / facial hair
+  const neck = mesh(new THREE.CylinderGeometry(0.058, 0.066, 0.12, 20), skin, 0, 1.52, 0); body.add(neck);
+  const head = new THREE.Group(); head.position.set(0, 1.635, 0.008); body.add(head);
+  const HD = buildHead(S); head.add(HD.group);
+  const hs = S.headScale || 1.12, TOP = 0.105 * 0.9 * hs, HWs = 0.076 * hs * 1.06, HDs = 0.094 * hs * 1.06, EY = 0.15 * 0.105 * 0.9 * hs;
   const hairG = new THREE.Group(); head.add(hairG);
-  if (S.hair === 'bald_fringe') { const fg = new THREE.TorusGeometry(0.1, 0.024, 10, 40, Math.PI * 1.15); fg.rotateZ(Math.PI * 0.925); fg.rotateX(Math.PI / 2);
-    const f = mesh(fg, hairM, 0, 0.035, -0.008); f.scale.set(0.95, 1.6, 1.05); hairG.add(f); }
-  if (S.hair === 'slick' || S.hair === 'short' || S.hair === 'swoop') {
-    const cap = mesh(new THREE.SphereGeometry(0.1235, 40, 20, 0, Math.PI * 2, 0, S.hair === 'short' ? 1.25 : 1.35), hairM, 0, 0.047, -0.004); cap.scale.set(0.93, 1.1, 1.0);
-    cap.rotation.x = S.hair === 'slick' ? -0.5 : -0.42; hairG.add(cap);
-    if (S.hair === 'slick') { const back = mesh(new THREE.SphereGeometry(0.11, 24, 16), hairM, 0, 0.07, -0.03); back.scale.set(0.95, 1.0, 1.0); hairG.add(back); }
-    if (S.hair === 'swoop') {
-      const sw = mesh(new THREE.SphereGeometry(0.105, 30, 20), hairM, 0.008, 0.13, 0.025); sw.scale.set(1.12, 0.42, 1.08); sw.rotation.set(0.18, 0, -0.1); hairG.add(sw);
-      const fr = mesh(new THREE.SphereGeometry(0.05, 20, 14), hairM, -0.03, 0.125, 0.085); fr.scale.set(1.7, 0.55, 0.8); fr.rotation.z = 0.2; hairG.add(fr);
-      for (const s of [-1, 1]) { const sd = mesh(new THREE.SphereGeometry(0.06, 20, 14), hairM, s * 0.09, 0.08, -0.02); sd.scale.set(0.55, 0.9, 1.1); hairG.add(sd); }
-    }
-  }
-  if (S.headwear === 'turban') { const tw = M(S.headwearColor, { roughness: 0.8, sheen: 0.6 });
-    for (let i = 0; i < 4; i++) { const t = mesh(new THREE.TorusGeometry(0.105 - i * 0.012, 0.035, 12, 40), tw, 0, 0.1 + i * 0.03, -0.005); t.rotation.x = Math.PI / 2 + 0.12; t.scale.set(1, 1.06, 1); hairG.add(t); }
-    const top = mesh(new THREE.SphereGeometry(0.08, 24, 14), tw, 0, 0.18, -0.01); top.scale.set(1.1, 0.7, 1.15); hairG.add(top); }
-  if (S.headwear === 'beret') { const b = mesh(new THREE.SphereGeometry(0.128, 32, 16), M(S.headwearColor, { roughness: 0.9 }), -0.018, 0.13, -0.004); b.scale.set(1.0, 0.42, 1.05); b.rotation.z = 0.22; hairG.add(b);
-    const band = mesh(new THREE.TorusGeometry(0.108, 0.01, 8, 32), M('#0a0a0a'), 0, 0.105, -0.006); band.rotation.x = Math.PI / 2; hairG.add(band); }
-  if (S.headwear === 'cap') { const c = mesh(new THREE.CylinderGeometry(0.125, 0.12, 0.06, 32), M(S.headwearColor), 0, 0.15, 0.0); hairG.add(c);
-    const v = mesh(new THREE.CylinderGeometry(0.08, 0.08, 0.01, 24, 1, false, 0, Math.PI), M('#111'), 0, 0.125, 0.07); v.rotation.y = Math.PI / 2; hairG.add(v); }
-  if (S.beard === 'full') { const bm = M(S.beardColor, { roughness: 0.9, sheen: 0.8 });
-    const b = mesh(new THREE.SphereGeometry(0.092, 30, 20), bm, 0, -0.075, 0.03); b.scale.set(1.0, 1.45, 0.9); head.add(b);
-    const sides = mesh(new THREE.TorusGeometry(0.083, 0.03, 10, 30, Math.PI), bm, 0, -0.005, 0.0); sides.rotation.set(0, 0, Math.PI); sides.scale.set(1, 1.1, 1.05); head.add(sides); }
-  if (S.mustache) { const m = mesh(new THREE.CapsuleGeometry(0.012, 0.05, 6, 12), M(S.mustacheColor, { roughness: 0.85 }), 0, -0.012, 0.102); m.rotation.z = Math.PI / 2; m.scale.set(1, 1, 0.7); head.add(m); }
-  if (S.glasses === 'sun') for (const s of [-1, 1]) { const g = mesh(new RoundedBoxGeometry(0.05, 0.03, 0.008, 2, 0.008), M('#050505', { roughness: 0.05, clearcoat: 1 }), s * 0.038, 0.052, 0.108); head.add(g); }
+  if (S.headwear === 'turban') { const tw = M(S.headwearColor, { roughness: 0.85, sheen: 0.7, clearcoat: 0 });
+    for (let i = 0; i < 3; i++) { const t = mesh(new THREE.TorusGeometry(HWs * (0.98 - i * 0.1), 0.024, 14, 56), tw, 0, TOP * (0.86 + i * 0.16), -0.016 - i * 0.004);
+      t.rotation.set(Math.PI / 2 + 0.22 - i * 0.05, 0, (i % 2 ? 0.06 : -0.06)); t.scale.set(1, HDs / HWs * 1.06, 1); hairG.add(t); }
+    const top = mesh(new THREE.SphereGeometry(HWs * 0.95, 40, 20), tw, 0, TOP * 1.12, -0.018); top.scale.set(1.04, 0.5, HDs / HWs * 1.02); hairG.add(top);
+    const fold = mesh(new THREE.TorusGeometry(HWs * 0.7, 0.011, 10, 40, Math.PI), tw, 0, TOP * 1.12, HDs * 0.2); fold.rotation.set(-0.9, 0, 0.3); hairG.add(fold); }
+  if (S.headwear === 'beret') { const bm = M(S.headwearColor, { roughness: 0.95, sheen: 0.4, clearcoat: 0 });
+    const b = mesh(new THREE.SphereGeometry(HWs * 1.12, 40, 20), bm, -0.016, TOP * 0.8, -0.008); b.scale.set(1.0, 0.36, HDs / HWs * 1.04); b.rotation.set(-0.06, 0, 0.26); hairG.add(b);
+    const badge = mesh(new THREE.SphereGeometry(0.008, 12, 8), M('#d8b040', { metalness: 1, roughness: 0.3 }), -0.025, TOP * 0.74, HDs * 1.0); badge.scale.set(1, 1.3, 0.4); hairG.add(badge); }
+  if (S.headwear === 'cap') { const c = mesh(new THREE.CylinderGeometry(HWs * 1.12, HWs * 1.05, 0.05, 40), M(S.headwearColor), 0, TOP * 0.82, -0.004); c.scale.z = HDs / HWs; hairG.add(c);
+    const v = mesh(new THREE.CylinderGeometry(HWs * 0.8, HWs * 0.8, 0.006, 24, 1, false, 0, Math.PI), M('#111'), 0, TOP * 0.62, HDs * 0.85); v.rotation.y = Math.PI / 2; v.rotation.x = 0.2; hairG.add(v); }
+  if (S.glasses === 'sun') for (const s2 of [-1, 1]) { const g = mesh(new RoundedBoxGeometry(0.036, 0.022, 0.004, 2, 0.006), M('#050505', { roughness: 0.05, clearcoat: 1 }), s2 * 0.345 * HWs, EY, HDs * 0.93); head.add(g); }
+  // shirt collar for suits
+  if (S.outfit === 'suit') { const col = mesh(new THREE.CylinderGeometry(0.068, 0.074, 0.035, 24, 1, true), M(S.shirt, { side: THREE.DoubleSide })); col.position.y = 1.5; body.add(col); }
   root.traverse((o) => { if (o.isMesh) o.castShadow = true; });
-  const F = { group: root, body, head, AL, AR, spec: S, skinMat: skin, clothMat: cloth,
+  const F = { group: root, body, head, HD, AL, AR, spec: S, skinMat: skin, clothMat: cloth,
     pose(p = {}) {
       const [lf, ls] = p.armL || [0, 0.08], [rf, rs] = p.armR || [0, 0.08];
       AL.sh.rotation.set(-lf, 0, ls); AR.sh.rotation.set(-rf, 0, -rs);
       AL.el.rotation.set(-(p.elbowL ?? 0.15), 0, 0); AR.el.rotation.set(-(p.elbowR ?? 0.15), 0, 0);
       const h = p.head || [0, 0, 0]; head.rotation.set(h[0], h[1], h[2]); body.rotation.x = p.lean || 0;
-      const sm = p.mouth || 0; mouth.rotation.z = sm >= 0 ? Math.PI : 0; mouth.position.y = sm >= 0 ? -0.024 : -0.036; mouth.scale.set(1, Math.max(0.15, Math.abs(sm)), 1);
-      mouthIn.scale.y = 0.05 + 0.9 * (p.talk || 0); mouthIn.position.y = -0.03 - 0.006 * (p.talk || 0);
-      const b = p.brow || 0; brows.forEach((br, i) => { br.rotation.z = (i ? -1 : 1) * -0.35 * b * -1; br.position.y = 0.077 + 0.007 * b; });
-      lids.forEach((l) => { l.rotation.x = -1.15 + 1.1 * (p.blink || 0) + (S.age ? 0.25 : 0); });
+      HD.setTalk(p.talk || 0); HD.setBrow(p.brow || 0); HD.setBlink(p.blink || 0); HD.setLook(...(p.look || [0, 0]));
     },
   };
   F.pose({});

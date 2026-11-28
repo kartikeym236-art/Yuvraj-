@@ -120,7 +120,9 @@ const q = new THREE.Quaternion(), e = new THREE.Euler();
       const pa = sample(a, t * speed, inPlace), pb = b && k > 0 ? sample(b, t * speed, inPlace) : null;
       for (const n of Object.keys(pa)) { if (n === '__hips') continue; bones[n].quaternion.copy(pa[n]); if (pb && pb[n]) bones[n].quaternion.slerp(pb[n], k); }
       hips.position.copy(pa.__hips); if (pb) hips.position.lerp(pb.__hips, k);
-      if (relax && /idle/i.test(a) && (!b || /idle/i.test(b))) F.relax(t);          // the borrowed idle's arms look stiff - use natural arms
+      const dom = b && k > 0.5 ? b : a;                                              // arms follow the dominant clip
+      if (relax && /walk|run/i.test(dom)) F.walkArms({ carry: F._carry });           // borrowed walk arms look stiff too
+      else if (relax && /idle/i.test(dom)) F.relax(t);                               // the borrowed idle's arms look stiff - use natural arms
       else if (relax) F.grip('R', relax, { thumb: 0.3 }).grip('L', relax, { thumb: 0.3 });
       return F;
     },
@@ -156,6 +158,20 @@ const q = new THREE.Quaternion(), e = new THREE.Euler();
       if (palm) twistPalm(S, side, palm, fore);
       return F;
     },
+    /** natural walking arms: each arm swings opposite its own leg (read from the legs' current pose), close to the body,
+     *  palms to the thighs. carry 'L' | 'R' keeps that arm straight down holding a bag a little away from the leg. */
+    walkArms({ swing = 0.55, carry = null } = {}) {
+      group.updateWorldMatrix(true, false); group.getWorldQuaternion(gq); const inv = gq.clone().invert();
+      const legFwd = (S) => { const v = wp(S + 'Leg').sub(wp(S + 'UpLeg')).applyQuaternion(inv); return v.z / v.length(); };
+      for (const [side, S, sx] of [['L', 'Left', 1], ['R', 'Right', -1]]) {
+        if (carry === side) { F.aim(side, { upper: [sx * 0.28, -1, 0], fore: [sx * 0.22, -1, 0.02], palm: [-sx, 0, 0] }); F.grip(side, 0.85, { thumb: 0.5 }); continue; }
+        const k = -legFwd(S) * swing * 2.2;                                        // leg forward -> this arm back
+        F.aim(side, { upper: [sx * 0.12, -1, k], fore: [sx * 0.05, -1, 0.28 + Math.max(0, k) * 0.9], palm: [-sx, 0, 0.1] }); F.grip(side, 0.35, { thumb: 0.3 });
+      }
+      return F;
+    },
+    /** carry a bag in 'L' / 'R' while walking or standing (null to stop) */
+    carry(side) { F._carry = side; return F; },
     /** relaxed standing arms: hang by the sides, elbows soft, palms to the thighs, breathing sway */
     relax(t = 0) {
       const br = Math.sin(t * 1.7) * 0.03;

@@ -70,3 +70,8 @@ the audience follows easily.** Two looks, one grammar:
     hand to own head  R {upper:[-0.5,0.55,0.25], fore:[0.55,0.45,-0.5], palm:[0,-0.5,-1]}
     carry a bag  R {upper:[-0.12,-1,0.02], fore:[-0.05,-1,0.04], palm:[1,0,0]} + grip 0.85
   ALWAYS look at a front + side test frame of every new pose by eye before using it in a shot.
+- **Walking arms looked paralysed too, and a carried bag hid the hand in front of the belly** (user, barbers reel).
+  Now default: any walk/run clip gets `walkArms()` - each arm swings opposite its own leg (read from the legs), close
+  to the body, palms in. To carry something: `actor.carry('R').play('walk', t)` - the arm hangs a little away from
+  the leg and grips; place the prop at `actor.at('RightHand')` with only a small downward offset. Check walkers AND
+  background extras by eye - every visible person counts, not just the hero.

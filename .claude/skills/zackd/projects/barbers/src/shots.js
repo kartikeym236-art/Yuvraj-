@@ -74,8 +74,8 @@ export async function buildShots(E) {
 
   // ===== L0 "You're new in town | and you need a haircut." - she walks into town with a suitcase (tracking)
   add({ id: 'A01', at: 0, note: 'you arrive, tracking', draw(lt, d, t, blit) { hideAll();
-    const p = V3(-6 + t * 1.05, 0.14, -1.4); you.group.position.copy(p); you.group.rotation.set(0, Math.PI / 2, 0); place(ST.scene, you); you.play('walk', t);
-    you.aim('R', { upper: [-0.12, -1, 0.02], fore: [-0.05, -1, 0.04], palm: [1, 0, 0] }).grip('R', 0.85); const q = boneQ(you, 'RightHand'); suitcase.position.copy(you.at('RightHand')).add(V3(0, -0.02, 0)); suitcase.quaternion.setFromEuler(new THREE.Euler(0, Math.PI / 2, 0)); place(ST.scene, suitcase);
+    const p = V3(-6 + t * 1.05, 0.14, -1.4); you.group.position.copy(p); you.group.rotation.set(0, Math.PI / 2, 0); place(ST.scene, you); you.carry('R').play('walk', t); you.carry(null);
+    const q = boneQ(you, 'RightHand'); suitcase.position.copy(you.at('RightHand')).add(V3(0, -0.04, 0)); suitcase.quaternion.setFromEuler(new THREE.Euler(0, Math.PI / 2, 0)); place(ST.scene, suitcase);
     const f = shot(cam, { target: p.clone().add(V3(0.3, 1.1, 0)), dist: 4.4, yaw: 0.75, pitch: -0.04, fov: 32 }, { target: p.clone().add(V3(0.3, 1.15, 0)), dist: 3.6, yaw: 0.55, pitch: -0.02, fov: 32 }, lt, d, t);
     ST.s1.pole.update(t); ST.s2.pole.update(t); R(ST.scene, LOOK_ST, f); blit(); } });
   add({ id: 'A02', at: Wd('need', 0) - 0.15, note: 'close: she looks for a barber', draw(lt, d, t, blit) { hideAll();

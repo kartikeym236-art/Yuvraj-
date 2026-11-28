@@ -22,3 +22,4 @@ projects/chars/
 projects/styletest/
 assets/shared/earth/map_states_10m.geojson
 assets/shared/earth/map_countries_10m.geojson
+projects/*/renders/full/

@@ -1,0 +1,142 @@
+{
+ "title": "We Will Stop Using Oil - Here's Why (EROI)",
+ "voice": "am_michael",
+ "speed": 1.0,
+ "lead": 0.3,
+ "outro": 0.8,
+ "gap": 0.26,
+ "music": "girlfriends",
+ "cover": 1.0,
+ "sources": [
+  "Hall, Lambert & Balogh (2014), 'EROI of different fuels and the implications for society', Energy Policy - US oil EROI ~100:1 around 1930",
+  "Delannoy, Longaretti, Murphy & Prados (2021), 'Peak oil and the low-carbon energy transition: A net-energy perspective', Applied Energy 304 - liquids EROI ~6.7:1 today (about 15% of output reinvested), projected ~2:1 by 2050 (about half)",
+  "ITER / fusion timeline reporting (fusion research since the 1950s)",
+  "IEA, 'The Role of Critical Minerals in Clean Energy Transitions' (2021) - mining and shipping energy inputs"
+ ],
+ "lines": [
+  {
+   "text": "Pro-oil people say we'll never run out of oil.",
+   "caps": "Pro-oil people say | we'll never run out of oil."
+  },
+  {
+   "text": "And they're right.",
+   "caps": "And they're right."
+  },
+  {
+   "text": "Just not the way they think.",
+   "caps": "Just not the way | they think."
+  },
+  {
+   "text": "We'll be forced to stop using oil because of one term: EROI.",
+   "caps": "We'll be forced | to stop using oil | because of one term: | EROI."
+  },
+  {
+   "text": "Energy Return on Investment.",
+   "caps": "Energy Return | on Investment."
+  },
+  {
+   "text": "Pumping oil burns energy.",
+   "caps": "Pumping oil | burns energy."
+  },
+  {
+   "text": "Drills, pumps, trucks, ships.",
+   "caps": "Drills, pumps, | trucks, ships."
+  },
+  {
+   "text": "In 1930, America used about one barrel's worth of energy to get a hundred barrels out.",
+   "caps": "In 1930, | America used about | one barrel's worth of energy | to get a hundred | barrels out."
+  },
+  {
+   "text": "Today, one study in the journal Applied Energy estimates it takes about fifteen.",
+   "caps": "Today, | one study in the journal | Applied Energy | estimates it takes | about fifteen."
+  },
+  {
+   "text": "By 2050, it projects fifty.",
+   "caps": "By 2050, | it projects fifty."
+  },
+  {
+   "text": "Half the oil, just to get the oil.",
+   "caps": "Half the oil, | just to get the oil."
+  },
+  {
+   "text": "And you don't need to read the studies.",
+   "caps": "And you don't need | to read the studies."
+  },
+  {
+   "text": "Just look around.",
+   "caps": "Just look around."
+  },
+  {
+   "text": "In the early 1900s, almost all our oil came from easy wells on land.",
+   "caps": "In the early 1900s, | almost all our oil | came from easy wells | on land."
+  },
+  {
+   "text": "Now we build massive rigs out at sea and crack rock apart to get it.",
+   "caps": "Now we build | massive rigs out at sea | and crack rock apart | to get it."
+  },
+  {
+   "text": "Nobody does that for oil that's easy to reach.",
+   "caps": "Nobody does that | for oil that's | easy to reach."
+  },
+  {
+   "text": "So what happens when it takes one barrel of oil to get one barrel back?",
+   "caps": "So what happens | when it takes | one barrel of oil | to get one barrel back?"
+  },
+  {
+   "text": "We stop.",
+   "caps": "We stop."
+  },
+  {
+   "text": "The oil's still down there.",
+   "caps": "The oil's still | down there."
+  },
+  {
+   "text": "There's just no reason to pump it.",
+   "caps": "There's just | no reason to pump it."
+  },
+  {
+   "text": "The big hope is fusion.",
+   "caps": "The big hope | is fusion."
+  },
+  {
+   "text": "But fusion has been \"a few decades away\" for over seventy years.",
+   "caps": "But fusion has been | \"a few decades away\" | for over seventy years."
+  },
+  {
+   "text": "And green tech can't build more green tech, not yet.",
+   "caps": "And green tech | can't build | more green tech, | not yet."
+  },
+  {
+   "text": "Solar panels still need diesel to dig up the metal, ships burning oil to carry it, and trucks to bring it to you.",
+   "caps": "Solar panels | still need diesel | to dig up the metal, | ships burning oil | to carry it, | and trucks | to bring it to you."
+  },
+  {
+   "text": "So the key is to see how much abundance we still have.",
+   "caps": "So the key is | to see how much abundance | we still have."
+  },
+  {
+   "text": "Slow down.",
+   "caps": "Slow down."
+  },
+  {
+   "text": "Get some solar panels.",
+   "caps": "Get some | solar panels."
+  },
+  {
+   "text": "Learn real skills.",
+   "caps": "Learn real skills."
+  },
+  {
+   "text": "Get involved in your community.",
+   "caps": "Get involved | in your community."
+  },
+  {
+   "text": "If you're prepared, the decline can lead to a better way of life.",
+   "caps": "If you're prepared, | the decline can lead | to a better way of life."
+  },
+  {
+   "text": "If you want updates related to energy and finance, then make sure to follow our page, Things Explained.",
+   "caps": "If you want updates | related to energy | and finance, | then make sure | to follow our page, | Things Explained."
+  }
+ ]
+}

@@ -111,15 +111,18 @@ try {
     const page = await openPage(browser, port);
     console.log(JSON.stringify(await page.evaluate((js) => { const r = (0, eval)(js); return r; }, rest[0]), null, 1));
   } else if (cmd === 'video') {
-    const fps = +opt('fps', 30), jobs = +opt('jobs', 2), res = +opt('res', 1);
+    const fps = +opt('fps', 30), jobs = +opt('jobs', Math.max(1, Math.min(8, (await import('os')).cpus().length))), res = +opt('res', 1);
     const page = await openPage(browser, port); await writeCues(page);
     const dur = await page.evaluate(() => OP.duration); await page.close();
     const from = +opt('from', 0), to = +opt('to', dur), F0 = Math.round(from * fps), F1 = Math.round(to * fps), n = F1 - F0;
     const tmp = path.join(P, 'renders', '.parts'); fs.mkdirSync(tmp, { recursive: true });
     console.log(`rendering ${n} frames (${(n / fps).toFixed(1)} s at ${fps} fps, res ${res}) with ${jobs} workers…`);
     const per = Math.ceil(n / jobs), parts = [];
+    // one browser per worker: pages inside one browser share a single (software) GPU process and do not run in parallel
+    const browsers = [browser, ...(await Promise.all(Array.from({ length: Math.max(0, jobs - 1) }, () => launch())))];
     await Promise.all(Array.from({ length: jobs }, (_, j) => { const a = F0 + j * per, b = Math.min(F1, a + per); if (a >= b) return null;
-      const out = path.join(tmp, `p${j}.mp4`); parts.push(out); return renderRange(browser, port, res, fps, a, b, out); }));
+      const out = path.join(tmp, `p${String(j).padStart(2, '0')}.mp4`); parts.push(out); return renderRange(browsers[j], port, res, fps, a, b, out); }));
+    await Promise.all(browsers.slice(1).map((b) => b.close()));
     parts.sort(); fs.writeFileSync(path.join(tmp, 'list.txt'), parts.map((p) => `file '${p}'`).join('\n'));
     const silent = path.join(tmp, 'video.mp4'); await ff(['-f', 'concat', '-safe', '0', '-i', path.join(tmp, 'list.txt'), '-c', 'copy', silent]);
     console.log('mixing soundtrack (tools/mix.py)…');

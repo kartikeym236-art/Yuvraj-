@@ -39,7 +39,7 @@ export async function buildShots(E) {
   const suitcase = new THREE.Group(); { const b = new THREE.Mesh(new RoundedBoxGeometry(0.42, 0.55, 0.18, 4, 0.03), new THREE.MeshPhysicalMaterial({ color: '#b5482f', roughness: 0.4, clearcoat: 0.5 }));
     b.position.y = -0.3; b.castShadow = true; suitcase.add(b); const h = new THREE.Mesh(new THREE.TorusGeometry(0.05, 0.01, 8, 16, Math.PI), new THREE.MeshStandardMaterial({ color: '#222' })); h.position.y = -0.02; suitcase.add(h); }
   const qm = FX.bigText('?', { height: 0.5, color: '#ffffff', depthColor: '#00000088' });
-  const stampW = FX.stamp('WRONG CHOICE', '#d0202a', { w: 1.6 }), stampX = FX.stamp('✕', '#d0202a', { w: 0.9 }), stampOK = FX.stamp('SKILLED', '#1f9d55', { w: 1.4 });
+  const stampW = FX.stamp('WRONG CHOICE', '#d0202a', { w: 1.6 }), stampX = FX.stamp('NO!', '#d0202a', { w: 0.45 }), stampOK = FX.stamp('SKILLED', '#1f9d55', { w: 1.4 });
   const tag1 = nameTag('BARBER 1', { color: '#1f4fd6' }), tag2 = nameTag('BARBER 2', { color: '#c0392b' });
   const endT = FX.bigText('Things Explained', { height: 0.42, color: '#ffffff', depthColor: '#00000088' });
   const bubble = new THREE.Group(); { const b = new THREE.Mesh(new RoundedBoxGeometry(0.8, 0.5, 0.08, 5, 0.12), new THREE.MeshStandardMaterial({ color: '#ffffff', roughness: 0.4 })); bubble.add(b);
@@ -60,11 +60,11 @@ export async function buildShots(E) {
     s.group.quaternion.copy(q).multiply(new THREE.Quaternion().setFromEuler(new THREE.Euler(Math.PI / 2, 0, 0))); s.snip(on * Math.abs(Math.sin(t * 9))); s.group.visible = true; };
   const cutting = (a, t) => { const w = Math.sin(t * 3.1) * 0.06;            // both hands at the customer's head, small working motion
     a.play('idle', t, { relax: 0 }).pose({ head: [0.3, 0, 0], spine: [0.18, 0, 0] })
-      .aim('R', { upper: [-0.55, -0.5 + w, 0.7], fore: [0.55, 0.05 + w, 0.85], palm: [0.2, -1, 0] }).aim('L', { upper: [0.5, -0.6, 0.6], fore: [-0.5, 0.05 - w, 0.85], palm: [-0.2, -1, 0] })
+      .aim('R', { upper: [-0.5, -0.65 + w, 0.6], fore: [0.6, -0.2 + w, 0.8], palm: [0.2, -1, 0] }).aim('L', { upper: [0.45, -0.7, 0.55], fore: [-0.55, -0.15 - w, 0.8], palm: [-0.2, -1, 0] })
       .grip('R', 0.5).grip('L', 0.4); return a; };
   const seated = (a, chair, scene, cp, t) => { const c = chair.getWorldPosition(new THREE.Vector3()); pos(a, c.x, c.z - 0.02, Math.PI); place(scene, a); a.play('idle', t).sit(1, { seat: 0.54 });
     cp.position.copy(a.at('Neck')).add(V3(0, -0.36, 0)); place(scene, cp); return c; };
-  const barberBehind = (a, chair, scene, t, s) => { const c = chair.getWorldPosition(new THREE.Vector3()); pos(a, c.x + 0.18, c.z + 0.62, Math.PI - 0.15); place(scene, a); cutting(a, t); holdScissors(a, s, t); };
+  const barberBehind = (a, chair, scene, t, s) => { const c = chair.getWorldPosition(new THREE.Vector3()); pos(a, c.x + 0.12, c.z + 0.5, Math.PI - 0.1); place(scene, a); cutting(a, t); holdScissors(a, s, t); };
   const walkTo = (a, scene, from, to, t0, t1, t, speed = 1) => { const k = Math.min(1, Math.max(0, (t - t0) / (t1 - t0))); const p = from.clone().lerp(to, k);
     a.group.position.copy(p); const d = to.clone().sub(from); a.group.rotation.set(0, Math.atan2(d.x, d.z), 0); place(scene, a); a.play(k < 1 ? 'walk' : 'idle', t * speed); };
   const pop = (k) => (k <= 0 ? 0 : k < 0.7 ? (k / 0.7) * 1.12 : 1.12 - 0.12 * ((k - 0.7) / 0.3));
@@ -165,9 +165,9 @@ export async function buildShots(E) {
   cue(Wd('two', 12), 'pop', { gain: 0.3 }); cue(Wd('two', 12) + 0.15, 'pop', { gain: 0.3 });
   // ===== L13 "Barbers can't cut | their own hair." - barber 1 tries at his mirror, red X
   add({ id: 'E02', at: cut(13), note: "can't cut own hair", draw(lt, d, t, blit) { hideAll(); S1.pole.update(t);
-    pos(B1, 0.0, -1.4, 0.2); place(S1.scene, B1); B1.play('idle', t).aim('R', { upper: [-0.5, 0.55, 0.25], fore: [0.55, 0.45, -0.5], palm: [0, -0.5, -1] }).grip('R', 0.5).pose({ head: [0.12, 0, 0] }); holdScissors(B1, sc1, t);
+    pos(B1, 0.0, -1.4, 0.2); place(S1.scene, B1); B1.play('idle', t).aim('R', { upper: [-0.55, 0.3, 0.15], fore: [0.6, 0.55, -0.55], palm: [0.2, -0.4, -1] }).grip('R', 0.5).pose({ head: [0.12, 0, 0] }); holdScissors(B1, sc1, t);
     const h = B1.at('Head'); const f = shot(cam, { target: h.clone().add(V3(0, -0.05, 0)), dist: 1.7, yaw: 0.55, pitch: -0.05, fov: 30 }, { target: h.clone().add(V3(0, 0, 0)), dist: 1.4, yaw: 0.42, pitch: -0.05, fov: 30 }, lt, d, t);
-    place(S1.scene, stampX); stampX.group.position.copy(h).add(V3(0, 0.0, 0.35)); faceCam(stampX.group); stampX.slam(seg(t, Wd("can't", 13), Wd("can't", 13) + 0.25));
+    place(S1.scene, stampX); stampX.group.position.copy(cam.position).add(V3(0.16, 0.05, -1.5).applyQuaternion(cam.quaternion)); faceCam(stampX.group); stampX.group.rotateZ(0.1); stampX.slam(seg(t, Wd("can't", 13), Wd("can't", 13) + 0.25));
     R(S1.scene, LOOK, f); blit(); } });
   cue(Wd("can't", 13), 'slam', { gain: 0.35 });
   // ===== L14 "So who gave | the first barber | his perfect haircut?" - barber 1 in the chair (shop 2), ? pops
@@ -195,14 +195,14 @@ export async function buildShots(E) {
   add({ id: 'F04', at: cut(17), note: 'reveal B1 cutting B2', draw(lt, d, t, blit) { hideAll(); S1.pole.update(t);
     const c = seated(B2, chairA, S1.scene, capeM2, t); barberBehind(B1, chairA, S1.scene, t, sc1);
     place(S1.scene, fall2); fall2.update(t, B2.at('Head').add(V3(0, 0.1, 0)), 1);
-    const f = shot(cam, { target: c.clone().add(V3(-0.05, 1.3, 0.2)), dist: 1.1, yaw: Math.PI - 0.75, pitch: -0.05, fov: 32 }, { target: c.clone().add(V3(-0.1, 1.35, 0.35)), dist: 2.0, yaw: Math.PI - 1.3, pitch: -0.05, fov: 34 }, lt, d, t, { ease: 'cubic' });
+    const f = shot(cam, { target: c.clone().add(V3(0, 1.3, 0.3)), dist: 1.6, yaw: Math.PI - 1.45, pitch: -0.04, fov: 34 }, { target: c.clone().add(V3(0, 1.35, 0.35)), dist: 2.1, yaw: Math.PI - 1.3, pitch: -0.04, fov: 34 }, lt, d, t, { ease: 'cubic' });
     R(S1.scene, LOOK, f); blit(); } });
   cue(cut(17) + 0.1, 'zip', { gain: 0.2 });
   // ===== L18 "So the messy barber | is actually | the skilled one." - barber 2 hero, low angle
   add({ id: 'G01', at: cut(18), transition: { type: 'whip', dur: 0.3 }, note: 'B2 hero low angle', draw(lt, d, t, blit) { hideAll(); S2.pole.update(t);
     pos(B2, 0.2, -0.3, -0.1); place(S2.scene, B2); B2.play('idle', t).talk(0, 0.8);
     const h = B2.at('Head'); const f = shot(cam, { target: h.clone().add(V3(0, -0.12, 0)), dist: 1.5, yaw: -0.25, pitch: 0.3, fov: 32 }, { target: h.clone().add(V3(0, -0.05, 0)), dist: 1.2, yaw: -0.15, pitch: 0.24, fov: 32 }, lt, d, t);
-    place(S2.scene, stampOK); stampOK.group.position.copy(h).add(V3(0, 0.36, 0.15)); stampOK.group.scale.setScalar(0.6); faceCam(stampOK.group); stampOK.slam(seg(t, Wd('skilled', 18), Wd('skilled', 18) + 0.25)); stampOK.group.rotateZ(0.08);
+    place(S2.scene, stampOK); stampOK.group.position.copy(cam.position).add(V3(0, 0, -1).applyQuaternion(cam.quaternion).multiplyScalar(0.9)).add(V3(0, -0.12, 0)); faceCam(stampOK.group); stampOK.slam(seg(t, Wd('skilled', 18), Wd('skilled', 18) + 0.25)); stampOK.group.rotateZ(0.08);
     R(S2.scene, { ...LOOK, warm: 0.22 }, f); blit(); } });
   cue(Wd('skilled', 18), 'slam', { gain: 0.35 });
   // ===== L19 "His shop is messy | because he's busy." - busy shop 2: customer in chair, two waiting
@@ -231,7 +231,7 @@ export async function buildShots(E) {
     const c = seated(you, chairB, S2.scene, capeM, t); you.pose({ head: [0.05, 0, 0] }); barberBehind(B2, chairB, S2.scene, t, sc2);
     place(S2.scene, fall); fall.update(t, you.at('Head').add(V3(0, 0.1, 0)), 1);
     const f = shot(cam, { target: c.clone().add(V3(0.05, 1.35, 0.3)), dist: 2.0, yaw: Math.PI + 1.25, pitch: -0.04, fov: 34 }, { target: c.clone().add(V3(0.05, 1.38, 0.3)), dist: 1.7, yaw: Math.PI + 1.1, pitch: -0.04, fov: 34 }, lt, d, t);
-    place(S2.scene, bubble); bubble.position.copy(c).add(V3(-0.35, 2.05, 0.2)); faceCam(bubble); bubble.scale.setScalar(Math.max(0.001, pop(seg(t, Wd('comments', 23) - 0.35, Wd('comments', 23) + 0.05))));
+    place(S2.scene, bubble); bubble.position.copy(cam.position).add(V3(-0.11, 0.02, -1.6).applyQuaternion(cam.quaternion)); faceCam(bubble); bubble.scale.setScalar(0.32 * Math.max(0.001, pop(seg(t, Wd('comments', 23) - 0.35, Wd('comments', 23) + 0.05))));
     bubble.userData.dots.forEach((s, i) => (s.position.y = 0.04 * Math.max(0, Math.sin(t * 8 - i * 0.9))));
     R(S2.scene, { ...LOOK, warm: 0.2 }, f); blit(); } });
   cue(Wd('comments', 23) - 0.3, 'pop', { gain: 0.35 });
@@ -239,7 +239,7 @@ export async function buildShots(E) {
   add({ id: 'J01', at: cut(24), transition: { type: 'dissolve', dur: 0.3 }, note: 'end: shop 2 + title', draw(lt, d, t, blit) { hideAll(); ST.s1.pole.update(t); ST.s2.pole.update(t);
     const door = ST.s2.door; [you, ...extras].forEach((a, i) => { pos(a, door.x + 0.15 + i * 0.7, door.z + 0.75 + (i % 2) * 0.12, -Math.PI / 2 - 0.25); place(ST.scene, a); a.play('idle', t + i * 0.7); });
     const f = shot(cam, { target: V3(2.6, 2.6, -3.5), dist: 10, yaw: -0.2, pitch: -0.05, fov: 38 }, { target: V3(2.6, 3.0, -3.5), dist: 12, yaw: -0.1, pitch: -0.08, fov: 38 }, lt, d, t);
-    place(ST.scene, endT); endT.group.position.set(2.5, 4.4, -3.0); endT.group.scale.setScalar(1.7); faceCam(endT.group); endT.slam(eo(seg(t, Wd('Things', 24) - 0.1, Wd('Things', 24) + 0.25)));
+    place(ST.scene, endT); endT.group.position.copy(cam.position).add(V3(0, 0.95, -5.2).applyQuaternion(cam.quaternion)); faceCam(endT.group); endT.slam(eo(seg(t, Wd('follow', 24) - 0.1, Wd('follow', 24) + 0.25)));
     R(ST.scene, LOOK_ST, f); blit(); } });
-  cue(Wd('Things', 24) - 0.1, 'slam', { gain: 0.3 });
+  cue(Wd('follow', 24) - 0.1, 'slam', { gain: 0.3 });
 }

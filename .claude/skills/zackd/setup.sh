@@ -58,6 +58,19 @@ echo "$(ls $L/obj | wc -l) meshes"
 say "Anatomy parts (assets/shared/anatomy)"
 [ -f assets/shared/anatomy/brain.obj ] || (cd $L && python3 "$Z/tools/bp3d_build.py" lib="$Z/$L" out="$Z/assets/shared/anatomy")
 
+say "Reference-style kit: rigged people + props (three.js examples, Mixamo rig), all flags, detailed map data"
+mkdir -p assets/shared/models/people assets/shared/models/props assets/shared/flags assets/shared/earth
+B=https://raw.githubusercontent.com/mrdoob/three.js/r170/examples/models/gltf
+for f in Michelle Soldier Xbot readyplayer.me facecap; do [ -s assets/shared/models/people/$f.glb ] || curl -sfL -o assets/shared/models/people/$f.glb $B/$f.glb; done
+for f in SheenChair coffeeMug ferrari; do [ -s assets/shared/models/props/$f.glb ] || curl -sfL -o assets/shared/models/props/$f.glb $B/$f.glb; done
+if [ "$(ls assets/shared/flags/*.svg | wc -l)" -lt 250 ]; then T=$(mktemp -d)
+  git clone -q --depth 1 --filter=blob:none --sparse https://github.com/lipis/flag-icons.git "$T/fi" && (cd "$T/fi" && git sparse-checkout set flags/4x3)
+  cp "$T"/fi/flags/4x3/*.svg assets/shared/flags/; cp "$T/fi/LICENSE" assets/shared/flags/LICENSE-flag-icons.txt; rm -rf "$T"; fi
+NE=https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson
+for r in map_countries_50m:ne_50m_admin_0_countries:2 map_countries_10m:ne_10m_admin_0_countries:3 map_states_10m:ne_10m_admin_1_states_provinces:2; do
+  IFS=: read out src dec <<< "$r"; dst=assets/shared/earth/$out.geojson; [ -s "$dst" ] && continue
+  T=$(mktemp); curl -sfL -m 600 -o "$T" "$NE/$src.geojson" && python3 tools/slim_geojson.py "$T" "$dst" "$dec"; rm -f "$T"; done
+
 if [ "${1:-}" = "--hero" ]; then
   say "Hero man (Blender bpy + MPFB2 + MakeHuman CC0 system assets)"
   pip install -q bpy 2>&1 | grep -v "root user" || true

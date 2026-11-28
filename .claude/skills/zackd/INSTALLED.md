@@ -17,3 +17,11 @@ cues, voidMood), written fresh for three.js r170.
 | demo/coffee, demo/sugar, projects/* shots.js | not available (only their YouTube texts / word timings) |
 
 Rendering here is CPU-only (SwiftShader WebGL): ~3-6 s per 1080x1920 frame with 2 workers.
+
+## Reference-style kit (2026-11-28)
+- `assets/shared/models/people/`: readyplayer.me (realistic man, mouth morphs), Michelle (woman), Soldier, Xbot (animation library), facecap (ARKit face) - three.js examples, Mixamo rig. Retargeted at runtime by `engine/src/core/actors.js` (hidden driver skeleton + rest-pose offsets), so every clip (idle, walk, run, agree, headshake, sad_pose, sneak_pose, sambadance) plays on every body.
+- `assets/shared/models/props/`: SheenChair, coffeeMug, ferrari.
+- `assets/shared/flags/`: all 271 flag-icons SVGs (MIT).
+- `assets/shared/earth/map_countries_50m.geojson` (committed), `map_countries_10m.geojson` + `map_states_10m.geojson` (made by setup.sh, gitignored) - Natural Earth, public domain, slimmed by `tools/slim_geojson.py`.
+- Engine modules: `actors.js`, `rooms.js`, `camera.js`, `devices.js`, `map3d.js`. Guide: `STYLE_REFS.md`. Test project: `projects/styletest` (gitignored).
+- Not installed yet: MakeHuman CC0 system assets (vidya-hub/makehuman-core `data/`: 17 skins incl. African/Asian/Caucasian young-middle-old, 20 clothes, 10 hair, eyebrows, eyes, teeth; ~430 MB). They would give hair + any ethnicity/age; needs a pure-Python MakeHuman->glTF builder (Blender route was blocked).

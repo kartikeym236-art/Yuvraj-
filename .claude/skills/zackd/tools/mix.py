@@ -5,7 +5,7 @@ No samples, no AI audio, no downloads.
   python tools/mix.py --test <outdir> [narration.wav] -> every effect + bed as WAVs, prints peak/RMS levels
 
 Reads data/cues.json (node tools/capture.mjs cues), data/narration.wav if it exists (voice.py or words.py --audio),
-and script.json "music": "bed" (bright pluck score, default) . "bed_documentary" (warm pad + soft pulse, the ZackD
+and script.json "music": "paris" (default: the user's track "Else - Paris" from 0:08) . "bed" (bright pluck score) . "bed_documentary" (warm pad + soft pulse, the ZackD
 look) . "tension" . "none" . "audio/your-track.mp3" (your own royalty-free track). The music ducks under the voice.
 
 Sound rules: every effect is soft and rounded, nothing above ~5 kHz, no harsh beeps.
@@ -15,6 +15,7 @@ Cue types (+ gain, dur, pan; extra params pass straight through, e.g. "bpm"):
 """
 import json, subprocess, sys
 from pathlib import Path
+HERE = Path(__file__).resolve().parent
 import numpy as np
 from scipy import signal
 from scipy.io import wavfile
@@ -297,6 +298,8 @@ def music_tension():
     return x / (np.abs(x).max() + 1e-9) * fade
 
 VOICE_RMS_DB = -19
+SONG_UNDER_DB = 9      # song RMS this far under the voice before ducking (~16 dB under while he speaks, audible in gaps)
+TRACKS = {'paris': {'file': 'assets/shared/music/paris.mp3', 'start': 8}}   # user's track, starts at its 0:08
 DOC_UNDER_DB = 13      # documentary bed RMS this far under the voice before ducking; ducking adds ~5 dB in speech -> ~18 dB under (measured)
 
 def load_audio(f):
@@ -309,6 +312,15 @@ def make_music(mus, P, voice):
         m = music_documentary()
         m = m / (np.sqrt(np.mean(m ** 2)) + 1e-12) * db(VOICE_RMS_DB - DOC_UNDER_DB - (0 if voice is not None else -4))
         m = np.stack([m, m], 1)
+    elif mus in TRACKS or isinstance(mus, dict):
+        # a real song: the user's standing default is "Else - Paris" from 0:08 (script.json "music": "paris")
+        spec = TRACKS.get(mus, mus) if isinstance(mus, str) else mus
+        f = Path(spec['file']); f = f if f.is_absolute() else (HERE.parent / f if not P or not (P / f).exists() else P / f)
+        a = load_audio(f)[int(spec.get('start', 0) * SR):]
+        while len(a) < N: a = np.concatenate([a, a])                            # loop if the reel is longer than the song
+        m = a[:N].copy(); rms = np.sqrt(np.mean(m ** 2)) + 1e-12
+        m *= db(VOICE_RMS_DB - spec.get('under_db', SONG_UNDER_DB) + (0 if voice is not None else 6)) / rms
+        fi = int(0.4 * SR); fo = int(2.0 * SR); m[:fi] *= np.linspace(0, 1, fi)[:, None]; m[-fo:] *= np.linspace(1, 0, fo)[:, None]
     else:
         m = music_bed() if mus == 'bed' else music_tension() if mus == 'tension' else None
         if m is None:
@@ -391,7 +403,7 @@ def main(P):
         v = load_audio(vf)[:N]; voice = np.zeros((N, 2)); voice[:len(v)] = v
         rms = np.sqrt(np.mean(voice ** 2) + 1e-12); voice *= db(VOICE_RMS_DB) / rms
         mix += voice
-    mus = script.get('music', 'bed')
+    mus = script.get('music', 'paris')   # user's standing choice (2026-11-28): Paris from 0:08 on every reel
     m = make_music(mus, P, voice)
     if m is not None: mix += m
     for c in cj['cues']:
@@ -434,7 +446,7 @@ def selftest(out, narr=None):
         m = make_music(mus, None, voice)
         wavfile.write(out / f'music_{mus}.wav', SR, (m / (np.abs(m).max() + 1e-9) * 0.7 * 32767).astype(np.int16))
         pk, rms = dbfs(m)
-        line = f"music {mus:16s} peak {pk:6.1f}  rms {rms:6.1f} dBFS"
+        line = f"music {str(mus):16s} peak {pk:6.1f}  rms {rms:6.1f} dBFS"
         if voice is not None:
             vm = voice.mean(1); w = int(0.05 * SR); nw = len(vm) // w
             vr = np.sqrt((vm[:nw * w].reshape(nw, w) ** 2).mean(1)); mr = np.sqrt((m.mean(1)[:nw * w].reshape(nw, w) ** 2).mean(1))

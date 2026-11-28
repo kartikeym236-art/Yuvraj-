@@ -23,6 +23,7 @@ The Windows `.ps1` pipeline is mirrored by bash scripts; `INSTALLED.md` lists wh
   squares); portrait framing needs the camera ~3.2 × the object's width away; metal needs `scene.environment` or it renders black.
 
 ## Standing feedback from the user (after the ASML reel, 2026-11-28) - apply to EVERY video
+- **Music (2026-11-28): every reel uses the user's track "Else - Paris" starting at its 0:08** (`assets/shared/music/paris.mp3`, the default `"music": "paris"` in tools/mix.py; ducked ~16 dB under the voice, 2 s fade-out). Only use another bed if the user asks. Note it may trigger a YouTube/Instagram Content ID claim - pick the platform's own copy of the sound when posting if possible.
 - **Organic effects on key moments, not just a camera move.** Every number, price or striking fact gets its own
   visual beat timed to the word (`Wd()`):
   - Money / prices (especially huge amounts): show the figure big in 3D (e.g. "$200,000,000", digits counting up or

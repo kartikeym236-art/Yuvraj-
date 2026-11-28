@@ -13,9 +13,9 @@
 //   M.place(object3d, lat, lon)                          stand a diorama / figure on the land
 // Units: k world units per degree of longitude at the map centre. Feature codes: ADM0_A3 (IND, BGD, IRN, USA, ...).
 import * as THREE from 'three';
-import { Line2 } from 'three/addons/lines/Line2.js';
+import { LineSegments2 } from 'three/addons/lines/LineSegments2.js';
+import { LineSegmentsGeometry } from 'three/addons/lines/LineSegmentsGeometry.js';
 import { LineMaterial } from 'three/addons/lines/LineMaterial.js';
-import { LineGeometry } from 'three/addons/lines/LineGeometry.js';
 import { bigText } from './fx.js';
 
 const code = (f) => (f.properties.adm0_a3 || f.properties.ADM0_A3 || f.properties.iso_a3 || '').toUpperCase();
@@ -27,6 +27,7 @@ export function mapKit(geo, { center = [0, 0], span = 30, k = 0.1, h = 0.05, col
   const group = new THREE.Group(), land = new THREE.Group(); group.add(land);
   const C = {}; const lift = {};
   const rimMat = new LineMaterial({ color: rim, linewidth: rimW, resolution: new THREE.Vector2(1080, 1920), worldUnits: false });
+  rimMat.transparent = true; rimMat.depthWrite = false;   // one draw per country, and kept out of the AO / DOF passes (they were 40 s a frame)
   for (const f of geo.features) {
     const c = code(f); if (only && !only.includes(c)) continue;
     const polys = f.geometry.coordinates; let hit = false;
@@ -35,16 +36,16 @@ export function mapKit(geo, { center = [0, 0], span = 30, k = 0.1, h = 0.05, col
     const col = new THREE.Color(colors[c] || rest);
     const top = new THREE.MeshStandardMaterial({ color: col, roughness: 0.75, metalness: 0 });
     const wall = new THREE.MeshStandardMaterial({ color: col.clone().multiplyScalar(side), roughness: 0.85 });
-    const g = new THREE.Group(); g.name = c; land.add(g);
+    const g = new THREE.Group(); g.name = c; land.add(g); const seg = [];
     for (const poly of polys) {
       const outer = poly[0].map(([x, y]) => P(y, x)); if (outer.length < 4) continue;
       const sh = new THREE.Shape(outer); poly.slice(1).forEach((r) => sh.holes.push(new THREE.Path(r.map(([x, y]) => P(y, x)))));
       const eg = new THREE.ExtrudeGeometry(sh, { depth: h, bevelEnabled: false, curveSegments: 1 });
       eg.rotateX(Math.PI / 2); eg.translate(0, h, 0);                    // shape xy -> map xz, extrude downward from y = h
       const m = new THREE.Mesh(eg, [top, wall]); m.castShadow = true; m.receiveShadow = true; g.add(m);
-      const lg = new LineGeometry(); lg.setPositions(outer.flatMap((p) => [p.x, h + 0.002, p.y]));
-      const ln = new Line2(lg, rimMat); ln.computeLineDistances(); g.add(ln);
+      for (let i = 0; i < outer.length - 1; i++) seg.push(outer[i].x, h + 0.002, outer[i].y, outer[i + 1].x, h + 0.002, outer[i + 1].y);
     }
+    if (seg.length) { const lg = new LineSegmentsGeometry(); lg.setPositions(seg); const ln = new LineSegments2(lg, rimMat); ln.renderOrder = 5; g.add(ln); }
     C[c] = { group: g, top, wall, color: col.clone() }; lift[c] = 0;
   }
   // floor: dark, slightly glossy, with a faint grid and brighter axis lines (as in the reference)
@@ -68,11 +69,15 @@ export function mapKit(geo, { center = [0, 0], span = 30, k = 0.1, h = 0.05, col
     arrow(lat, lon, { color = '#e3262d', size = 0.45, tilt = 0.55 } = {}) {
       const s = new THREE.Shape([[-0.18, 0], [0.18, 0], [0.18, 0.55], [0.4, 0.55], [0, 1], [-0.4, 0.55], [-0.18, 0.55]].map(([a, b]) => new THREE.Vector2(a, b)));
       const g2 = new THREE.ExtrudeGeometry(s, { depth: 0.14, bevelEnabled: true, bevelSize: 0.03, bevelThickness: 0.03, bevelSegments: 2 }); g2.translate(0, 0, -0.07); g2.rotateZ(Math.PI); g2.scale(size, size, size);
-      const am = new THREE.Mesh(g2, new THREE.MeshStandardMaterial({ color, roughness: 0.35, emissive: color, emissiveIntensity: 0.25 })); am.castShadow = true;
+      const am = new THREE.Mesh(g2, new THREE.MeshStandardMaterial({ color, roughness: 0.7, metalness: 0, emissive: '#7a0a0e', emissiveIntensity: 0.9 })); am.castShadow = true;
       const pivot = new THREE.Group(); pivot.add(am); group.add(pivot); const base = xyz(lat, lon);
-      const A2 = { group: pivot, update(t, show = 1, cam = null) { pivot.visible = show > 0.01; pivot.position.copy(base).add(new THREE.Vector3(0, 0.08 + size * 0.1 + Math.abs(Math.sin(t * 4.2)) * size * 0.22, 0));
-        const yaw = cam ? Math.atan2(cam.position.x - pivot.position.x, cam.position.z - pivot.position.z) : 0;
-        pivot.rotation.set(0, yaw, 0); am.rotation.set(0, 0, tilt); am.position.set(-Math.sin(tilt) * size * 0.5, 0, 0); pivot.scale.setScalar(Math.max(0.001, show)); } };
+      const up = new THREE.Vector3();
+      const A2 = { group: pivot, update(t, show = 1, cam = null) { pivot.visible = show > 0.01;
+        // billboard toward the camera; the tip touches the spot and the arrow bobs along the screen's up axis
+        if (cam) { pivot.quaternion.copy(cam.quaternion); up.set(0, 1, 0).applyQuaternion(cam.quaternion); } else { pivot.rotation.set(0, 0, 0); up.set(0, 1, 0); }
+        am.rotation.set(0, 0, tilt); const tip = new THREE.Vector3(0, -size, 0).applyEuler(am.rotation);
+        pivot.position.copy(base).addScaledVector(up, 0.04 + Math.abs(Math.sin(t * 4.2)) * size * 0.25).sub(tip.applyQuaternion(pivot.quaternion));
+        pivot.scale.setScalar(Math.max(0.001, show)); } };
       A2.update(0); return A2;
     },
     label(text, lat, lon, { color = '#e3262d', size = 0.2, up = 0.02, flat = 0.95, yaw = 0, outline = '#ffffff' } = {}) {

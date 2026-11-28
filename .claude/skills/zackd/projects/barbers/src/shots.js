@@ -58,8 +58,10 @@ export async function buildShots(E) {
   const holdScissors = (a, s, t, on = 1) => {                       // scissors in the right hand, blades forward, snipping
     const q = boneQ(a, 'RightHand'); s.group.position.copy(a.at('RightHand')).add(new THREE.Vector3(0, 0.06, 0.03).applyQuaternion(q));
     s.group.quaternion.copy(q).multiply(new THREE.Quaternion().setFromEuler(new THREE.Euler(Math.PI / 2, 0, 0))); s.snip(on * Math.abs(Math.sin(t * 9))); s.group.visible = true; };
-  const cutting = (a, t) => a.play('idle', t).pose({ armR: [0, 0, -1.05 + 0.06 * Math.sin(t * 4)], foreR: [-0.55, 0, 0], armL: [0, 0, 0.95], foreL: [-0.6, 0, 0], head: [0.25, 0, 0], spine: [0.15, 0, 0] })
-    .grip('R', 0.55).grip('L', 0.4);
+  const cutting = (a, t) => { const w = Math.sin(t * 3.1) * 0.06;            // both hands at the customer's head, small working motion
+    a.play('idle', t, { relax: 0 }).pose({ head: [0.3, 0, 0], spine: [0.18, 0, 0] })
+      .aim('R', { upper: [-0.55, -0.5 + w, 0.7], fore: [0.55, 0.05 + w, 0.85], palm: [0.2, -1, 0] }).aim('L', { upper: [0.5, -0.6, 0.6], fore: [-0.5, 0.05 - w, 0.85], palm: [-0.2, -1, 0] })
+      .grip('R', 0.5).grip('L', 0.4); return a; };
   const seated = (a, chair, scene, cp, t) => { const c = chair.getWorldPosition(new THREE.Vector3()); pos(a, c.x, c.z - 0.02, Math.PI); place(scene, a); a.play('idle', t).sit(1, { seat: 0.54 });
     cp.position.copy(a.at('Neck')).add(V3(0, -0.36, 0)); place(scene, cp); return c; };
   const barberBehind = (a, chair, scene, t, s) => { const c = chair.getWorldPosition(new THREE.Vector3()); pos(a, c.x + 0.18, c.z + 0.62, Math.PI - 0.15); place(scene, a); cutting(a, t); holdScissors(a, s, t); };
@@ -73,7 +75,7 @@ export async function buildShots(E) {
   // ===== L0 "You're new in town | and you need a haircut." - she walks into town with a suitcase (tracking)
   add({ id: 'A01', at: 0, note: 'you arrive, tracking', draw(lt, d, t, blit) { hideAll();
     const p = V3(-6 + t * 1.05, 0.14, -1.4); you.group.position.copy(p); you.group.rotation.set(0, Math.PI / 2, 0); place(ST.scene, you); you.play('walk', t);
-    you.pose({ armR: [0, 0, -0.08], foreR: [-0.15, 0, 0] }).grip('R', 0.85); const q = boneQ(you, 'RightHand'); suitcase.position.copy(you.at('RightHand')).add(V3(0, -0.02, 0)); suitcase.quaternion.setFromEuler(new THREE.Euler(0, Math.PI / 2, 0)); place(ST.scene, suitcase);
+    you.aim('R', { upper: [-0.12, -1, 0.02], fore: [-0.05, -1, 0.04], palm: [1, 0, 0] }).grip('R', 0.85); const q = boneQ(you, 'RightHand'); suitcase.position.copy(you.at('RightHand')).add(V3(0, -0.02, 0)); suitcase.quaternion.setFromEuler(new THREE.Euler(0, Math.PI / 2, 0)); place(ST.scene, suitcase);
     const f = shot(cam, { target: p.clone().add(V3(0.3, 1.1, 0)), dist: 4.4, yaw: 0.75, pitch: -0.04, fov: 32 }, { target: p.clone().add(V3(0.3, 1.15, 0)), dist: 3.6, yaw: 0.55, pitch: -0.02, fov: 32 }, lt, d, t);
     ST.s1.pole.update(t); ST.s2.pole.update(t); R(ST.scene, LOOK_ST, f); blit(); } });
   add({ id: 'A02', at: Wd('need', 0) - 0.15, note: 'close: she looks for a barber', draw(lt, d, t, blit) { hideAll();
@@ -163,7 +165,7 @@ export async function buildShots(E) {
   cue(Wd('two', 12), 'pop', { gain: 0.3 }); cue(Wd('two', 12) + 0.15, 'pop', { gain: 0.3 });
   // ===== L13 "Barbers can't cut | their own hair." - barber 1 tries at his mirror, red X
   add({ id: 'E02', at: cut(13), note: "can't cut own hair", draw(lt, d, t, blit) { hideAll(); S1.pole.update(t);
-    pos(B1, 0.0, -1.4, 0.2); place(S1.scene, B1); B1.play('idle', t).pose({ armR: [0, 0, -1.9], foreR: [-1.4, 0, 0], head: [0.1, 0, 0] }).grip('R', 0.55); holdScissors(B1, sc1, t);
+    pos(B1, 0.0, -1.4, 0.2); place(S1.scene, B1); B1.play('idle', t).aim('R', { upper: [-0.5, 0.55, 0.25], fore: [0.55, 0.45, -0.5], palm: [0, -0.5, -1] }).grip('R', 0.5).pose({ head: [0.12, 0, 0] }); holdScissors(B1, sc1, t);
     const h = B1.at('Head'); const f = shot(cam, { target: h.clone().add(V3(0, -0.05, 0)), dist: 1.7, yaw: 0.55, pitch: -0.05, fov: 30 }, { target: h.clone().add(V3(0, 0, 0)), dist: 1.4, yaw: 0.42, pitch: -0.05, fov: 30 }, lt, d, t);
     place(S1.scene, stampX); stampX.group.position.copy(h).add(V3(0, 0.0, 0.35)); faceCam(stampX.group); stampX.slam(seg(t, Wd("can't", 13), Wd("can't", 13) + 0.25));
     R(S1.scene, LOOK, f); blit(); } });

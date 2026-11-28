@@ -90,6 +90,23 @@ export function actor(model = 'rpm', { shirt, pants, shoes, skin = 1, hat = fals
     return out;
   };
   const rest = Object.fromEntries(Object.entries(bones).map(([k, b]) => [k, b.quaternion.clone()]));
+  // rotate a bone about an axis given in the CHARACTER's frame (x = his left, y = up, z = forward) - rig independent
+  const gq = new THREE.Quaternion(), wq = new THREE.Quaternion(), pq = new THREE.Quaternion(), dq = new THREE.Quaternion(), ax = new THREE.Vector3();
+  const rotC = (name, axis, ang) => { const b = bones[name]; if (!b || !ang) return;
+    group.updateWorldMatrix(true, false); group.getWorldQuaternion(gq); b.updateWorldMatrix(true, false);
+    b.getWorldQuaternion(wq); b.parent.getWorldQuaternion(pq); ax.set(...axis).applyQuaternion(gq).normalize();
+    dq.setFromAxisAngle(ax, ang); b.quaternion.copy(pq.invert().multiply(dq.multiply(wq))); };
+  const wp = (n) => { bones[n].updateWorldMatrix(true, false); return bones[n].getWorldPosition(new THREE.Vector3()); };
+  const charDir = (v) => { group.updateWorldMatrix(true, false); group.getWorldQuaternion(gq); return new THREE.Vector3(...v).normalize().applyQuaternion(gq); };
+  const worldRot = (name, q) => { const b = bones[name]; b.updateWorldMatrix(true, false); b.getWorldQuaternion(wq); b.parent.getWorldQuaternion(pq); b.quaternion.copy(pq.invert().multiply(q.clone().multiply(wq))); };
+  const aimBone = (name, child, dir) => { if (!bones[name] || !bones[child]) return; const cur = wp(child).sub(wp(name)).normalize(); worldRot(name, new THREE.Quaternion().setFromUnitVectors(cur, charDir(dir))); };
+  const twistPalm = (S, side, palmDir, foreDir) => {                // roll the forearm about its axis until the palm faces palmDir
+    const axis = wp(S + 'Hand').sub(wp(S + 'ForeArm')).normalize();
+    const across = wp(S + 'HandIndex1').sub(wp(S + 'HandPinky1')), along = wp(S + 'HandMiddle1').sub(wp(S + 'Hand'));
+    const n = (side === 'L' ? new THREE.Vector3().crossVectors(along, across) : new THREE.Vector3().crossVectors(across, along)).normalize();
+    const want = charDir(palmDir); const pn = n.clone().addScaledVector(axis, -n.dot(axis)).normalize(), pw = want.clone().addScaledVector(axis, -want.dot(axis)).normalize();
+    const ang = Math.atan2(new THREE.Vector3().crossVectors(pn, pw).dot(axis), pn.dot(pw));
+    worldRot(S + 'ForeArm', new THREE.Quaternion().setFromAxisAngle(axis, ang)); };
 const q = new THREE.Quaternion(), e = new THREE.Euler();
   const rot = (b, x = 0, y = 0, z = 0) => { if (!bones[b]) return; e.set(x, y, z); q.setFromEuler(e); bones[b].quaternion.multiply(q); };
 
@@ -103,7 +120,8 @@ const q = new THREE.Quaternion(), e = new THREE.Euler();
       const pa = sample(a, t * speed, inPlace), pb = b && k > 0 ? sample(b, t * speed, inPlace) : null;
       for (const n of Object.keys(pa)) { if (n === '__hips') continue; bones[n].quaternion.copy(pa[n]); if (pb && pb[n]) bones[n].quaternion.slerp(pb[n], k); }
       hips.position.copy(pa.__hips); if (pb) hips.position.lerp(pb.__hips, k);
-      if (relax) F.grip('R', relax, { thumb: 0.3 }).grip('L', relax, { thumb: 0.3 });   // idle clips leave hands splayed - soften them
+      if (relax && /idle/i.test(a) && (!b || /idle/i.test(b))) F.relax(t);          // the borrowed idle's arms look stiff - use natural arms
+      else if (relax) F.grip('R', relax, { thumb: 0.3 }).grip('L', relax, { thumb: 0.3 });
       return F;
     },
     /** extra bone rotations on top of the clip (radians, local axes of Mixamo bones):
@@ -129,6 +147,22 @@ const q = new THREE.Quaternion(), e = new THREE.Euler();
       rot('Neck', pitch * 0.3 * k, yaw * 0.35 * k, 0); rot('Head', pitch * 0.6 * k, yaw * 0.55 * k, 0); return F;
     },
     /** mouth open 0..1 (rpm has a mouthOpen morph; others nod the jaw-less head slightly) */
+    /** aim an arm by directions in the CHARACTER frame (x = his left, y = up, z = forward; vectors need not be unit).
+     *  upper: shoulder->elbow, fore: elbow->wrist, palm: where the palm faces, hand: wrist->knuckles (default = fore).
+     *  Rig independent: measures the bones' current directions and rotates them onto the targets. */
+    aim(side, { upper, fore, palm = null, hand = null } = {}) {
+      const S = side === 'L' ? 'Left' : 'Right';
+      aimBone(S + 'Arm', S + 'ForeArm', upper); aimBone(S + 'ForeArm', S + 'Hand', fore); aimBone(S + 'Hand', S + 'HandMiddle1', hand || fore);
+      if (palm) twistPalm(S, side, palm, fore);
+      return F;
+    },
+    /** relaxed standing arms: hang by the sides, elbows soft, palms to the thighs, breathing sway */
+    relax(t = 0) {
+      const br = Math.sin(t * 1.7) * 0.03;
+      F.aim('L', { upper: [0.12, -1, 0.04 + br], fore: [0.04, -1, 0.22], palm: [-1, 0, 0.15] });
+      F.aim('R', { upper: [-0.12, -1, 0.04 - br], fore: [-0.04, -1, 0.22], palm: [1, 0, 0.15] });
+      F.grip('L', 0.35, { thumb: 0.3 }).grip('R', 0.35, { thumb: 0.3 }); return F;
+    },
     /** sitting on a seat of height `seat` (m): thighs forward, knees bent, hips lowered. k blends stand -> sit */
     sit(k = 1, { seat = 0.5, spread = 0.12 } = {}) {
       group.updateMatrixWorld(true); const hy = T.info.Hips.pos.y;

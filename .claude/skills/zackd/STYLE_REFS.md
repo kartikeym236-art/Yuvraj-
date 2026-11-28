@@ -62,3 +62,11 @@ the audience follows easily.** Two looks, one grammar:
   contact sheet BEFORE the full render. If a grip still looks wrong, frame the insert so the hand is soft/out of shot
   or have the prop rest on the counter.
 - Thought bubble content must be bright and big enough to read (light the inner scene, frame its subject tightly).
+- **Arms looked "paralysed"** (user, barbers reel): the borrowed Mixamo idle leaves arms stiff, elbows out, palms
+  forward. Fix (now default in actors.js): every idle gets `relax()` - arms aimed down by the sides, soft elbows,
+  palms to the thighs, relaxed fingers, breathing sway. For any action pose use `actor.aim(side, {upper, fore, palm})`
+  with directions in the character frame (x = his left, y = up, z = forward) - rig-independent, readable. Tested poses:
+    cutting hair  R {upper:[-0.55,-0.5,0.7], fore:[0.55,0.05,0.85], palm:[0.2,-1,0]}  L mirrored (x sign flipped)
+    hand to own head  R {upper:[-0.5,0.55,0.25], fore:[0.55,0.45,-0.5], palm:[0,-0.5,-1]}
+    carry a bag  R {upper:[-0.12,-1,0.02], fore:[-0.05,-1,0.04], palm:[1,0,0]} + grip 0.85
+  ALWAYS look at a front + side test frame of every new pose by eye before using it in a shot.

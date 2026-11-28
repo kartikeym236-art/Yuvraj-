@@ -39,9 +39,10 @@ export function drumGrid(n = 100, { cols = 10, s = 0.66, color = '#1a1a1c' } = {
 
 export function hardHat(color = '#f2c230') {
   const g = new THREE.Group(), m = new THREE.MeshPhysicalMaterial({ color, roughness: 0.35, clearcoat: 0.8 });
-  mesh(new THREE.SphereGeometry(0.115, 32, 16, 0, Math.PI * 2, 0, Math.PI / 2), m, 0, 0, 0, g).scale.set(1, 0.95, 1.12);
-  const brim = mesh(new THREE.CylinderGeometry(0.15, 0.15, 0.012, 40), m, 0, 0.004, 0.02, g); brim.scale.set(1, 1, 1.15);
-  mesh(new THREE.BoxGeometry(0.02, 0.02, 0.24), m, 0, 0.105, 0, g);
+  const shell = mesh(new THREE.SphereGeometry(0.102, 40, 20, 0, Math.PI * 2, 0, Math.PI / 2), m, 0, 0, 0, g); shell.scale.set(1, 0.92, 1.18);
+  const rim = mesh(new THREE.TorusGeometry(0.104, 0.008, 8, 48), m, 0, 0.004, 0, g); rim.rotation.x = Math.PI / 2; rim.scale.set(1, 1.18, 1);
+  const peak = mesh(new THREE.CylinderGeometry(0.075, 0.075, 0.008, 32, 1, false, -Math.PI / 2.6, Math.PI / 1.3), m, 0, 0.004, 0.1, g); peak.rotation.x = 0.12;
+  const ridge = mesh(new THREE.BoxGeometry(0.018, 0.012, 0.2), m, 0, 0.088, 0, g);
   return g;
 }
 
@@ -102,9 +103,9 @@ export function woodDerrick() {
   for (const [x, z] of [[-1, -1], [1, -1], [1, 1], [-1, 1]]) { const l = mesh(new THREE.BoxGeometry(0.22, H, 0.22), w, x * 1.25, H / 2, z * 1.25, g); l.rotation.set(z * 0.1, 0, -x * 0.1); }
   for (let i = 1; i < 8; i++) { const y = i * 1.35, s = 2.5 * (1 - (y / H) * 0.8);
     for (const r of [0, 1]) for (const sg of [-1, 1]) { const b = mesh(new THREE.BoxGeometry(r ? 0.12 : s, 0.12, r ? s : 0.12), w, r ? sg * s / 2 : 0, y, r ? 0 : sg * s / 2, g); } }
-  const drops = new THREE.InstancedMesh(new THREE.SphereGeometry(0.09, 8, 6), new THREE.MeshPhysicalMaterial({ color: '#0b0a09', roughness: 0.1, clearcoat: 1 }), 220), o = new THREE.Object3D(); g.add(drops);
-  return { group: g, update(t, on = 1) { for (let i = 0; i < 220; i++) { const ph = (t * 0.55 + rnd(i)) % 1, a = rnd(i + 2) * 6.28, r = ph * (1.2 + rnd(i + 5) * 2.5);
-    o.position.set(Math.cos(a) * r, (H + 3) * Math.sin(Math.PI * Math.min(1, ph * 1.15)) * (0.8 + rnd(i + 7) * 0.3), Math.sin(a) * r); o.scale.setScalar(on * (0.6 + rnd(i + 9))); o.updateMatrix(); drops.setMatrixAt(i, o.matrix); }
+  const drops = new THREE.InstancedMesh(new THREE.SphereGeometry(0.05, 8, 6), new THREE.MeshPhysicalMaterial({ color: '#0b0a09', roughness: 0.1, clearcoat: 1 }), 600), o = new THREE.Object3D(); g.add(drops);
+  return { group: g, update(t, on = 1) { for (let i = 0; i < 600; i++) { const ph = (t * 0.55 + rnd(i)) % 1, a = rnd(i + 2) * 6.28, r = ph * ph * (0.6 + rnd(i + 5) * 2.2);
+    o.position.set(Math.cos(a) * r, (H + 3) * Math.sin(Math.PI * Math.min(1, ph * 1.15)) * (0.8 + rnd(i + 7) * 0.3), Math.sin(a) * r); o.scale.set(on * (0.6 + rnd(i + 9)), on * (1.5 + rnd(i + 9) * 2), on * (0.6 + rnd(i + 9))); o.updateMatrix(); drops.setMatrixAt(i, o.matrix); }
     drops.instanceMatrix.needsUpdate = true; } };
 }
 
@@ -116,13 +117,13 @@ export function strata({ w = 6, d = 3, layers = [['#b9a27e', 0.6], ['#8f7a5c', 0
       if (i === oilIdx) for (let k = 0; k < 500; k++) { x.fillStyle = 'rgba(10,8,6,0.9)'; x.beginPath(); x.arc(rnd(k + 5) * W, rnd(k + 6) * Hh, 1 + rnd(k + 7) * 3, 0, 7); x.fill(); } });
     const m = mesh(new THREE.BoxGeometry(w, h, d), new THREE.MeshStandardMaterial({ map: tex, roughness: i === oilIdx ? 0.3 : 0.9, metalness: i === oilIdx ? 0.2 : 0 }), 0, top - y - h / 2, 0, g); if (i === oilIdx) oilY = top - y - h / 2; y += h; });
   const pipe = std('#9aa0a8', { metalness: 0.8, roughness: 0.3 });
-  mesh(new THREE.CylinderGeometry(0.05, 0.05, top - oilY, 12), pipe, -1.5, (top + oilY) / 2, d / 2 - 0.3, g);
-  const hz = mesh(new THREE.CylinderGeometry(0.05, 0.05, 3.2, 12), pipe, 0.1, oilY, d / 2 - 0.3, g); hz.rotation.z = Math.PI / 2;
+  mesh(new THREE.CylinderGeometry(0.06, 0.06, top - oilY, 12), pipe, -1.5, (top + oilY) / 2, d / 2 + 0.02, g);
+  const hz = mesh(new THREE.CylinderGeometry(0.06, 0.06, 3.2, 12), pipe, 0.1, oilY, d / 2 + 0.02, g); hz.rotation.z = Math.PI / 2;
   const cracks = []; const cm = new THREE.MeshBasicMaterial({ color: '#f4e3b0', toneMapped: false });
-  for (let i = 0; i < 9; i++) { const c = new THREE.Mesh(new THREE.PlaneGeometry(0.02, 1), cm); c.position.set(-1.1 + i * 0.36, oilY, d / 2 - 0.28); c.rotation.z = (rnd(i) - 0.5) * 0.4; g.add(c); cracks.push(c); }
+  for (let i = 0; i < 9; i++) { const c = new THREE.Mesh(new THREE.PlaneGeometry(0.045, 1.3), cm); c.position.set(-1.1 + i * 0.36, oilY, d / 2 + 0.012); c.rotation.z = (rnd(i) - 0.5) * 0.4; g.add(c); cracks.push(c); }
   const oilGlow = mesh(new THREE.BoxGeometry(w * 0.98, layers[oilIdx][1] * 0.9, 0.01), new THREE.MeshBasicMaterial({ color: '#d89a2a', transparent: true, opacity: 0, toneMapped: false }), 0, oilY, d / 2 + 0.006, g);
   return { group: g, top, oilY, frack(k) { cracks.forEach((c, i) => { const s = Math.max(0.0001, Math.min(1, k * 1.4 - i * 0.04)); c.scale.y = s * (0.5 + rnd(i + 3) * 0.6); }); },
-    glow(k) { oilGlow.material.opacity = k * 0.35; } };
+    glow(k) { oilGlow.material.opacity = k * 0.55; } };
 }
 
 export function tokamak() {
@@ -146,7 +147,7 @@ export function solarPanel({ w = 1.0, h = 1.7 } = {}) {
 }
 export function solarFarm(rows = 4, cols = 6) {
   const g = new THREE.Group(), legM = std('#9aa0a8', { metalness: 0.8, roughness: 0.3 });
-  for (let r = 0; r < rows; r++) for (let c = 0; c < cols; c++) { const p = solarPanel(); p.rotation.x = -0.5; p.position.set((c - (cols - 1) / 2) * 1.15, 1.1, r * 2.6); g.add(p);
+  for (let r = 0; r < rows; r++) for (let c = 0; c < cols; c++) { const p = solarPanel(); p.rotation.x = 0.5; p.position.set((c - (cols - 1) / 2) * 1.15, 1.1, r * 2.6); g.add(p);
     mesh(new THREE.CylinderGeometry(0.03, 0.03, 1.1, 8), legM, (c - (cols - 1) / 2) * 1.15, 0.55, r * 2.6, g); }
   return g;
 }
@@ -187,7 +188,5 @@ export function workbench() {
   mesh(new THREE.BoxGeometry(0.9, 0.04, 0.2), std('#d8b27a', { roughness: 0.7 }), 0.1, 0.96, 0.05, g);                // plank
   const ham = new THREE.Group(); mesh(new THREE.CylinderGeometry(0.015, 0.015, 0.3, 10), wood, 0, 0, 0, ham).rotation.z = Math.PI / 2; mesh(new THREE.BoxGeometry(0.04, 0.1, 0.04), metal, 0.15, 0, 0, ham); ham.position.set(-0.55, 0.96, -0.1); g.add(ham);
   mesh(new THREE.BoxGeometry(0.3, 0.12, 0.18), std('#c0392b', { roughness: 0.4 }), 0.65, 1.0, -0.2, g);              // tool box
-  const pegs = mesh(new THREE.BoxGeometry(1.8, 0.9, 0.03), std('#c9a97a', { roughness: 0.8 }), 0, 1.5, -0.42, g);
-  for (let i = 0; i < 6; i++) mesh(new THREE.BoxGeometry(0.04, 0.25 + rnd(i) * 0.15, 0.03), metal, -0.7 + i * 0.28, 1.55, -0.39, g);
   return { group: g };
 }

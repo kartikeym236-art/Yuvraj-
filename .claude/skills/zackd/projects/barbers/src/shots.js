@@ -39,7 +39,7 @@ export async function buildShots(E) {
   const suitcase = new THREE.Group(); { const b = new THREE.Mesh(new RoundedBoxGeometry(0.42, 0.55, 0.18, 4, 0.03), new THREE.MeshPhysicalMaterial({ color: '#b5482f', roughness: 0.4, clearcoat: 0.5 }));
     b.position.y = -0.3; b.castShadow = true; suitcase.add(b); const h = new THREE.Mesh(new THREE.TorusGeometry(0.05, 0.01, 8, 16, Math.PI), new THREE.MeshStandardMaterial({ color: '#222' })); h.position.y = -0.02; suitcase.add(h); }
   const qm = FX.bigText('?', { height: 0.5, color: '#ffffff', depthColor: '#00000088' });
-  const stampW = FX.stamp('WRONG CHOICE', '#d0202a', { w: 1.6 }), stampX = FX.stamp('NO!', '#d0202a', { w: 0.45 }), stampOK = FX.stamp('SKILLED', '#1f9d55', { w: 1.4 });
+  const stampW = FX.stamp('WRONG CHOICE', '#d0202a', { w: 1.6 }), stampX = FX.stamp('NO!', '#d0202a', { w: 0.45 }), stampOK = FX.stamp('SKILLED', '#1f9d55', { w: 0.3 });
   const tag1 = nameTag('BARBER 1', { color: '#1f4fd6' }), tag2 = nameTag('BARBER 2', { color: '#c0392b' });
   const endT = FX.bigText('Things Explained', { height: 0.42, color: '#ffffff', depthColor: '#00000088' });
   const bubble = new THREE.Group(); { const b = new THREE.Mesh(new RoundedBoxGeometry(0.8, 0.5, 0.08, 5, 0.12), new THREE.MeshStandardMaterial({ color: '#ffffff', roughness: 0.4 })); bubble.add(b);
@@ -202,7 +202,7 @@ export async function buildShots(E) {
   add({ id: 'G01', at: cut(18), transition: { type: 'whip', dur: 0.3 }, note: 'B2 hero low angle', draw(lt, d, t, blit) { hideAll(); S2.pole.update(t);
     pos(B2, 0.2, -0.3, -0.1); place(S2.scene, B2); B2.play('idle', t).talk(0, 0.8);
     const h = B2.at('Head'); const f = shot(cam, { target: h.clone().add(V3(0, -0.12, 0)), dist: 1.5, yaw: -0.25, pitch: 0.3, fov: 32 }, { target: h.clone().add(V3(0, -0.05, 0)), dist: 1.2, yaw: -0.15, pitch: 0.24, fov: 32 }, lt, d, t);
-    place(S2.scene, stampOK); stampOK.group.position.copy(cam.position).add(V3(0, 0, -1).applyQuaternion(cam.quaternion).multiplyScalar(0.9)).add(V3(0, -0.12, 0)); faceCam(stampOK.group); stampOK.slam(seg(t, Wd('skilled', 18), Wd('skilled', 18) + 0.25)); stampOK.group.rotateZ(0.08);
+    place(S2.scene, stampOK); stampOK.group.position.copy(cam.position).add(V3(-0.01, -0.1, -1.2).applyQuaternion(cam.quaternion)); stampOK.group.material.depthTest = false; stampOK.group.renderOrder = 30; faceCam(stampOK.group); stampOK.slam(seg(t, Wd('skilled', 18), Wd('skilled', 18) + 0.25)); stampOK.group.rotateZ(0.08);
     R(S2.scene, { ...LOOK, warm: 0.22 }, f); blit(); } });
   cue(Wd('skilled', 18), 'slam', { gain: 0.35 });
   // ===== L19 "His shop is messy | because he's busy." - busy shop 2: customer in chair, two waiting

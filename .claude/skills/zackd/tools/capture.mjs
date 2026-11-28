@@ -25,7 +25,7 @@ if (!cmd || !projArg) { console.log(fs.readFileSync(fileURLToPath(import.meta.ur
 const P = path.resolve(projArg), NAME = path.basename(P);
 const opt = (k, d) => { const i = rest.indexOf('--' + k); return i >= 0 ? rest[i + 1] : d; };
 const MIME = { '.html': 'text/html', '.js': 'text/javascript', '.mjs': 'text/javascript', '.json': 'application/json', '.glb': 'model/gltf-binary',
-  '.obj': 'text/plain', '.hdr': 'application/octet-stream', '.jpg': 'image/jpeg', '.png': 'image/png', '.otf': 'font/otf', '.wav': 'audio/wav', '.mp3': 'audio/mpeg' };
+  '.obj': 'text/plain', '.hdr': 'application/octet-stream', '.jpg': 'image/jpeg', '.png': 'image/png', '.otf': 'font/otf', '.wav': 'audio/wav', '.mp3': 'audio/mpeg', '.svg': 'image/svg+xml', '.geojson': 'application/json' };
 
 function serve() {
   return new Promise((res) => {

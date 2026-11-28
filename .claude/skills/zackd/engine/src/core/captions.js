@@ -1,4 +1,4 @@
-// Captions: white Inter Black 104 px, soft dark shadow, no outline / box, centred at y 1500 (78 % of 1920).
+// Captions: white Inter Black 62 px (60 % of the original 104 px, user request 2026-11-28), soft dark shadow, no outline / box, centred at y 1500 (78 % of 1920).
 // Cards come from script.json "caps" ("If you eat | a whole bag | of candy,"), timed to data/words.json.
 import { TL } from './timeline.js';
 
@@ -28,16 +28,16 @@ export function buildCards() {
   return cards;
 }
 
-export function drawCaption(ctx, cards, t, { y = 1500, size = 104 } = {}) {
+export function drawCaption(ctx, cards, t, { y = 1500, size = 62 } = {}) {
   const c = cards.find((c) => t >= c.s && t < c.e); if (!c) return;
   ctx.save();
   let fs = size; ctx.font = `900 ${fs}px Inter, sans-serif`;
-  while (ctx.measureText(c.text).width > 960 && fs > 60) { fs -= 4; ctx.font = `900 ${fs}px Inter, sans-serif`; }
+  while (ctx.measureText(c.text).width > 960 && fs > 36) { fs -= 2; ctx.font = `900 ${fs}px Inter, sans-serif`; }
   ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
   const pop = Math.min(1, (t - c.s) / 0.08), sc = 0.94 + 0.06 * pop;
   ctx.translate(540, y); ctx.scale(sc, sc);
-  ctx.shadowColor = 'rgba(0,0,0,0.55)'; ctx.shadowBlur = 22; ctx.shadowOffsetY = 5;
+  const k = size / 104; ctx.shadowColor = 'rgba(0,0,0,0.55)'; ctx.shadowBlur = 22 * k; ctx.shadowOffsetY = 5 * k;
   ctx.fillStyle = '#ffffff'; ctx.fillText(c.text, 0, 0);
-  ctx.shadowBlur = 6; ctx.shadowOffsetY = 2; ctx.shadowColor = 'rgba(0,0,0,0.35)'; ctx.fillText(c.text, 0, 0);
+  ctx.shadowBlur = 6 * k; ctx.shadowOffsetY = 2 * k; ctx.shadowColor = 'rgba(0,0,0,0.35)'; ctx.fillText(c.text, 0, 0);
   ctx.restore();
 }

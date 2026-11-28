@@ -1,0 +1,26 @@
+TITLE
+We Will Stop Using Oil - But Not Because It Runs Out
+
+ALTERNATIVE TITLES
+- EROI: The Real Reason Oil Will End
+- Why We'll Stop Pumping Oil While It's Still In The Ground
+- Half The Oil, Just To Get The Oil
+
+DESCRIPTION
+Pro-oil people say we'll never run out of oil - and they're right. We'll stop for a different reason: EROI, Energy Return on Investment. Getting oil out of the ground takes energy - drills, pumps, trucks, ships. Around 1930, America spent about one barrel's worth of energy to get a hundred barrels out. Today, a study in the journal Applied Energy estimates it takes about fifteen, and by 2050 it projects fifty - half the oil, just to get the oil. When it takes one barrel to get one barrel back, pumping stops, even with oil still underground. Fusion has been "a few decades away" for seventy years, and solar still depends on diesel, ships and trucks. The answer: see the abundance we still have, slow down, get some solar panels, learn real skills and get involved in your community.
+
+Follow Things Explained for energy and finance explained simply.
+
+Sources:
+- Hall, Lambert & Balogh (2014), "EROI of different fuels and the implications for society", Energy Policy
+- Delannoy, Longaretti, Murphy & Prados (2021), "Peak oil and the low-carbon energy transition: A net-energy perspective", Applied Energy 304
+- IEA (2021), "The Role of Critical Minerals in Clean Energy Transitions"
+
+Visuals are 3D animation made for illustration.
+Credits: 3D character - three.js examples (Mixamo rig); lighting - Poly Haven (CC0); music - "girlfriends - new computers (slowed)"; sets, props and sound effects - original, made in code.
+
+HASHTAGS
+#oil #energy #eroi #peakoil #solar #fusion #economics #shorts #thingsexplained
+
+TAGS
+eroi, energy return on investment, peak oil, will we run out of oil, oil explained, fracking, offshore drilling, fusion energy, solar panels, energy transition, things explained

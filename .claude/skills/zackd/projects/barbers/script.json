@@ -1,0 +1,113 @@
+{
+ "title": "The Two Barbers Puzzle",
+ "voice": "am_michael",
+ "speed": 1.0,
+ "lead": 0.3,
+ "outro": 0.8,
+ "gap": 0.26,
+ "music": "paris",
+ "cover": 1.0,
+ "sources": [],
+ "lines": [
+  {
+   "text": "You're new in town and you need a haircut.",
+   "caps": "You're new in town | and you need a haircut."
+  },
+  {
+   "text": "There are only two barbers.",
+   "caps": "There are only | two barbers."
+  },
+  {
+   "text": "Which one do you choose?",
+   "caps": "Which one | do you choose?"
+  },
+  {
+   "text": "The first shop is spotless.",
+   "caps": "The first shop | is spotless."
+  },
+  {
+   "text": "The floor is swept, the mirrors shine,",
+   "caps": "The floor is swept, | the mirrors shine,"
+  },
+  {
+   "text": "and the barber himself has a perfect, sharp haircut.",
+   "caps": "and the barber himself | has a perfect, | sharp haircut."
+  },
+  {
+   "text": "The second shop is a mess.",
+   "caps": "The second shop | is a mess."
+  },
+  {
+   "text": "Hair everywhere, a cracked mirror,",
+   "caps": "Hair everywhere, | a cracked mirror,"
+  },
+  {
+   "text": "and the barber's own hair looks terrible.",
+   "caps": "and the barber's own hair | looks terrible."
+  },
+  {
+   "text": "Most people pick the first barber.",
+   "caps": "Most people pick | the first barber."
+  },
+  {
+   "text": "But that's the wrong choice.",
+   "caps": "But that's | the wrong choice."
+  },
+  {
+   "text": "Here's why.",
+   "caps": "Here's why."
+  },
+  {
+   "text": "There are only two barbers in town.",
+   "caps": "There are only | two barbers in town."
+  },
+  {
+   "text": "Barbers can't cut their own hair.",
+   "caps": "Barbers can't cut | their own hair."
+  },
+  {
+   "text": "So who gave the first barber his perfect haircut?",
+   "caps": "So who gave | the first barber | his perfect haircut?"
+  },
+  {
+   "text": "The second barber.",
+   "caps": "The second barber."
+  },
+  {
+   "text": "And who gave the second barber that terrible haircut?",
+   "caps": "And who gave | the second barber | that terrible haircut?"
+  },
+  {
+   "text": "The first one.",
+   "caps": "The first one."
+  },
+  {
+   "text": "So the messy barber is actually the skilled one.",
+   "caps": "So the messy barber | is actually | the skilled one."
+  },
+  {
+   "text": "His shop is messy because he's busy.",
+   "caps": "His shop is messy | because he's busy."
+  },
+  {
+   "text": "Everyone smart goes to him.",
+   "caps": "Everyone smart | goes to him."
+  },
+  {
+   "text": "The lesson? Don't judge someone by their appearance.",
+   "caps": "The lesson? | Don't judge someone | by their appearance."
+  },
+  {
+   "text": "Judge them by their work.",
+   "caps": "Judge them | by their work."
+  },
+  {
+   "text": "Did you get it right? Tell me in the comments.",
+   "caps": "Did you get it right? | Tell me | in the comments."
+  },
+  {
+   "text": "And if you like puzzles like this, then make sure to follow our page, Things Explained.",
+   "caps": "And if you like | puzzles like this, | then make sure | to follow our page, | Things Explained."
+  }
+ ]
+}

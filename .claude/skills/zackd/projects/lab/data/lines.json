@@ -1,31 +1,30 @@
 {
- "duration": 12.157,
- "voice": "am_michael",
- "speed": 1.05,
+ "duration": 13.685,
+ "estimated": true,
  "lines": [
   {
    "i": 0,
-   "text": "This is the lab scene for the engine.",
+   "text": "He stood in his kitchen, holding the last cup of coffee.",
    "start": 0.3,
-   "end": 2.234
+   "end": 4.201
   },
   {
    "i": 1,
-   "text": "Skin turns to glass, and the brain glows inside.",
-   "start": 2.534,
-   "end": 5.704
+   "text": "And he started to think about yesterday.",
+   "start": 4.501,
+   "end": 6.882
   },
   {
    "i": 2,
-   "text": "Then the camera flies into the body, and down inside a vessel.",
-   "start": 6.004,
-   "end": 9.718
+   "text": "In 2024, students in Bangladesh protested against the government.",
+   "start": 7.182,
+   "end": 10.404
   },
   {
    "i": 3,
-   "text": "The heart keeps beating.",
-   "start": 10.018,
-   "end": 11.257
+   "text": "And the prime minister fled to India.",
+   "start": 10.704,
+   "end": 13.085
   }
  ]
 }

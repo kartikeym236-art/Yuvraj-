@@ -9,7 +9,7 @@ const KINDS = {
   nerve:    { color: '#F1E3B8', rough: 0.55, coat: 0.3, sheen: '#ffffff', pat: 'fibre', scale: 0.6 },
   cord:     { color: '#EFE2C4', rough: 0.5, coat: 0.4, sheen: '#ffffff', pat: 'fibre', scale: 0.3 },
   heart:    { color: '#A5232A', rough: 0.36, coat: 0.7, sheen: '#ff8a7a', pat: 'fibre', scale: 0.12 },
-  lung:     { color: '#E59A9C', rough: 0.55, coat: 0.35, sheen: '#ffd0d0', pat: 'porous', scale: 0.2 },
+  lung:     { color: '#E7A3A5', rough: 0.5, coat: 0.4, sheen: '#ffd0d0', pat: 'wet', scale: 0.12 },
   liver:    { color: '#7A2420', rough: 0.3, coat: 0.85, sheen: '#c0504a', pat: 'lobule', scale: 0.08 },
   stomach:  { color: '#D98A86', rough: 0.4, coat: 0.7, sheen: '#ffc0b8', pat: 'wet', scale: 0.1 },
   gut:      { color: '#E0928A', rough: 0.38, coat: 0.75, sheen: '#ffc8c0', pat: 'wet', scale: 0.12 },
@@ -43,7 +43,7 @@ export function organMat(kind = 'gut', over = {}) {
       float micro(vec3 p){ p *= uNS;
         if (uPat < 0.5) return vn(p) * 0.6 + vn(p * 2.7) * 0.4;                       // wet
         if (uPat < 1.5) return 0.5 + 0.5 * sin(p.z * 6.0 + vn(p * 0.8) * 4.0);         // fibre
-        if (uPat < 2.5) return smoothstep(0.35, 0.7, vn(p * 2.0));                     // porous
+        if (uPat < 2.5) return 0.5 + 0.5 * smoothstep(0.3, 0.75, vn(p * 1.4));                     // porous
         return smoothstep(0.2, 0.8, abs(vn(p) - vn(p * 1.9 + 3.1)) * 2.0); }           // lobule
       ` + s.fragmentShader
       .replace('#include <color_fragment>', '#include <color_fragment>\n float mz = micro(vOP); diffuseColor.rgb *= 0.92 + 0.14 * mz;')

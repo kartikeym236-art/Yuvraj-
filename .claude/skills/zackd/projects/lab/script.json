@@ -1,27 +1,10 @@
 {
- "title": "Lab",
- "voice": "am_michael",
- "speed": 1.05,
- "lead": 0.3,
- "outro": 0.6,
- "gap": 0.3,
- "music": "bed_documentary",
+ "title": "Style test",
+ "voice": "am_michael", "speed": 1.05, "lead": 0.3, "outro": 0.6, "gap": 0.3, "music": "paris", "cover": 1.0,
  "lines": [
-  {
-   "text": "This is the lab scene for the engine.",
-   "caps": "This is | the lab scene | for the engine."
-  },
-  {
-   "text": "Skin turns to glass, and the brain glows inside.",
-   "caps": "Skin turns | to glass, | and the brain | glows inside."
-  },
-  {
-   "text": "Then the camera flies into the body, and down inside a vessel.",
-   "caps": "Then the camera | flies into | the body, | and down | inside a vessel."
-  },
-  {
-   "text": "The heart keeps beating.",
-   "caps": "The heart | keeps beating."
-  }
+  { "text": "He stood in his kitchen, holding the last cup of coffee.", "caps": "He stood in his kitchen, | holding the last | cup of coffee." },
+  { "text": "And he started to think about yesterday.", "caps": "And he started | to think about yesterday." },
+  { "text": "In 2024, students in Bangladesh protested against the government.", "caps": "In 2024, | students in Bangladesh | protested against the government." },
+  { "text": "And the prime minister fled to India.", "caps": "And the prime minister | fled to India." }
  ]
 }

@@ -117,7 +117,7 @@ export function vessel(E, { R = 1, len = 60, cells = 260 } = {}) {
   const wbc = new THREE.InstancedMesh(new THREE.IcosahedronGeometry(0.22, 4), new THREE.MeshPhysicalMaterial({ color: '#f1ece2', roughness: 0.6, sheen: 0.5 }), 6); scene.add(wbc);
   const plt = new THREE.InstancedMesh(new THREE.SphereGeometry(0.05, 12, 8), new THREE.MeshStandardMaterial({ color: '#e8b0a0', roughness: 0.5 }), 50); scene.add(plt);
   const rnd = (s) => { const x = Math.sin(s * 127.1) * 43758.5453; return x - Math.floor(x); };
-  const P = Array.from({ length: cells }, (_, i) => ({ r: Math.sqrt(rnd(i + 1)) * R * 0.78, a: rnd(i + 7) * 6.283, z: rnd(i + 13) * len,
+  const P = Array.from({ length: cells }, (_, i) => ({ r: (0.3 + 0.6 * Math.sqrt(rnd(i + 1))) * R, a: rnd(i + 7) * 6.283, z: rnd(i + 13) * len,
     s: 0.75 + rnd(i + 3) * 0.5, rx: rnd(i + 5) * 6.28, ry: rnd(i + 9) * 6.28, w: 0.3 + rnd(i + 11) }));
   const light = new THREE.PointLight('#ffd0c0', 30, 14, 1.6); scene.add(light);
   const amb = new THREE.HemisphereLight('#ff9a8a', '#300004', 0.9); scene.add(amb);
@@ -129,12 +129,12 @@ export function vessel(E, { R = 1, len = 60, cells = 260 } = {}) {
       P.forEach((c, i) => {
         let z = ((c.z - t * flowSpeed * (0.8 + 0.2 * c.w)) % len + len) % len; z = z0 - z;
         p.set(Math.cos(c.a + t * 0.1 * c.w) * c.r, Math.sin(c.a + t * 0.1 * c.w) * c.r, z);
-        e.set(c.rx + t * 0.7 * c.w, c.ry + t * 0.5, 0); q.setFromEuler(e); sc.setScalar(c.s * 0.55);
+        e.set(c.rx + t * 0.7 * c.w, c.ry + t * 0.5, 0); q.setFromEuler(e); sc.setScalar(c.s * 0.36);
         rbc.setMatrixAt(i, m4.compose(p, q, sc));
       });
       rbc.instanceMatrix.needsUpdate = true;
       for (let i = 0; i < 6; i++) { const z = z0 - ((i * 9.7 - t * flowSpeed * 0.6) % len + len) % len;
-        p.set(Math.cos(i * 2.1) * 0.55, Math.sin(i * 2.1) * 0.55, z); wbc.setMatrixAt(i, m4.compose(p, q.identity(), sc.setScalar(1 + 0.2 * Math.sin(i)))); }
+        p.set(Math.cos(i * 2.1) * 0.7, Math.sin(i * 2.1) * 0.7, z); wbc.setMatrixAt(i, m4.compose(p, q.identity(), sc.setScalar(0.7 + 0.15 * Math.sin(i)))); }
       wbc.instanceMatrix.needsUpdate = true;
       for (let i = 0; i < 50; i++) { const z = z0 - ((rnd(i + 99) * len - t * flowSpeed) % len + len) % len; const r = rnd(i + 40) * 0.8, a = rnd(i + 41) * 6.28;
         p.set(Math.cos(a) * r, Math.sin(a) * r, z); plt.setMatrixAt(i, m4.compose(p, q.identity(), sc.setScalar(0.8 + rnd(i) * 0.6))); }

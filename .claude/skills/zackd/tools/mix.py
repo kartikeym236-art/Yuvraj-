@@ -298,6 +298,7 @@ def music_tension():
     return x / (np.abs(x).max() + 1e-9) * fade
 
 VOICE_RMS_DB = -19
+VOICE_GAIN = 0.5        # user (2026-11-28): voice at 50 % of its earlier volume, relative to music and effects
 SONG_UNDER_DB = 9      # song RMS this far under the voice before ducking (~16 dB under while he speaks, audible in gaps)
 TRACKS = {'paris': {'file': 'assets/shared/music/paris.mp3', 'start': 8},                 # user's earlier track, from its 0:08
           'girlfriends': {'file': 'assets/shared/music/girlfriends.mp3', 'start': 13.1, 'end': 67.0}}   # user's track: the beat section only (loops inside it)
@@ -406,7 +407,7 @@ def main(P):
     if vf.exists():
         v = load_audio(vf)[:N]; voice = np.zeros((N, 2)); voice[:len(v)] = v
         rms = np.sqrt(np.mean(voice ** 2) + 1e-12); voice *= db(VOICE_RMS_DB) / rms
-        mix += voice
+        mix += voice * float(script.get('voice_gain', VOICE_GAIN))       # music / SFX levels stay where they were
     mus = script.get('music', 'girlfriends')   # user's standing choice (2026-11-28): 'girlfriends' beat section on every reel
     m = make_music(mus, P, voice)
     if m is not None: mix += m

@@ -22,6 +22,23 @@ The Windows `.ps1` pipeline is mirrored by bash scripts; `INSTALLED.md` lists wh
 - Engine gotchas found while building it: glow sprites and glass are hidden from the AO/DOF depth passes (else dark
   squares); portrait framing needs the camera ~3.2 × the object's width away; metal needs `scene.environment` or it renders black.
 
+## Standing feedback from the user (after the ASML reel, 2026-11-28) - apply to EVERY video
+- **Organic effects on key moments, not just a camera move.** Every number, price or striking fact gets its own
+  visual beat timed to the word (`Wd()`):
+  - Money / prices (especially huge amounts): show the figure big in 3D (e.g. "$200,000,000", digits counting up or
+    slamming in) with banknotes / coins raining down at that exact moment, plus a coin / cash SFX.
+  - Other numbers (100,000 parts, 50,000 times a second, 40 containers): make the count visible (counter ticking
+    up, objects multiplying to the number, a stopwatch / strobe for "per second").
+  - Comparisons ("hotter than the sun", "thinner than a hair", "size of a bus"): put both things side by side so
+    the comparison is seen, not just said.
+- **Assets that look like what the script says.** Prefer real-looking models over generic boxes: search GitHub (CC0 /
+  CC-BY glTF: KhronosGroup sample assets, three.js examples, Quaternius / Kenney mirrors, Poly Haven mirrors via
+  media.githubusercontent.com) for the actual object (real EUV-machine-like cleanroom tool, real cargo plane, real
+  shipping container, real GPU / phone shapes, real map / flags), and only fall back to procedural props when nothing
+  fits. Credit every downloaded asset in the description. Still no brand logos.
+- **Keep improving on your own judgement**: more shot variety, smoother transitions, matching SFX on every beat,
+  look at the sheet and fix anything that reads as placeholder before rendering.
+
 ## Read first
 1. `references\channel-playbook.md`: the format, measured on the 20 most-viewed "health" Shorts
    (length ~30 s, 2.7 words/s, "If you…" openers, turn words, one continuous camera that goes into the body and back

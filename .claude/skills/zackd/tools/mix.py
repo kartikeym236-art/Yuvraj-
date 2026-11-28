@@ -298,7 +298,8 @@ def music_tension():
     return x / (np.abs(x).max() + 1e-9) * fade
 
 VOICE_RMS_DB = -19
-VOICE_GAIN = 0.5        # user (2026-11-28): voice at 50 % of its earlier volume, relative to music and effects
+VOICE_GAIN = 1.0
+MUSIC_GAIN = 0.4        # user (2026-11-28): music track at 40 % of its earlier level (below half), voice unchanged
 SONG_UNDER_DB = 9      # song RMS this far under the voice before ducking (~16 dB under while he speaks, audible in gaps)
 TRACKS = {'paris': {'file': 'assets/shared/music/paris.mp3', 'start': 8},                 # user's earlier track, from its 0:08
           'girlfriends': {'file': 'assets/shared/music/girlfriends.mp3', 'start': 13.1, 'end': 67.0}}   # user's track: the beat section only (loops inside it)
@@ -410,7 +411,7 @@ def main(P):
         mix += voice * float(script.get('voice_gain', VOICE_GAIN))       # music / SFX levels stay where they were
     mus = script.get('music', 'girlfriends')   # user's standing choice (2026-11-28): 'girlfriends' beat section on every reel
     m = make_music(mus, P, voice)
-    if m is not None: mix += m
+    if m is not None: mix += m * float(script.get('music_gain', MUSIC_GAIN))
     for c in cj['cues']:
         x = render_fx(c)
         if x is None: print('unknown cue type, skipped:', c['type']); continue

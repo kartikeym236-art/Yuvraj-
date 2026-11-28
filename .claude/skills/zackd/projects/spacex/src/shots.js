@@ -20,12 +20,13 @@ const GOLD = '#ffd23a';
 
 export async function buildShots(E) {
   const cam = E.camera(32), cam2 = E.camera(34);
+  for (const c of [cam, cam2]) { c.near = 0.04; c.far = 1600; c.updateProjectionMatrix(); }   // the launch shots sit 300 m back
   const LOOK = { aperture: 0.0012, maxblur: 0.008, bloom: 0.14, bloomThreshold: 0.85, ao: 0.5, vignette: 0.36, warm: 0.08 };
   const LS = { ...LOOK, aperture: 0, ao: 0.55 };
   // ---------- stage ----------
   const ST = X.stage(); ST.scene.environment = A.env.studio; ST.scene.environmentIntensity = 0.35;
   const musk = makeMusk(); ST.scene.add(musk.group);
-  const stamps = [FX.stamp('GENIUS?', '#1f9d55', { w: 1.1 }), FX.stamp('STUNT?', '#e0a020', { w: 1.0 }), FX.stamp('NEVER?', '#d0202a', { w: 1.0 })]; stamps.forEach((s) => ST.scene.add(s.group));
+  const stamps = [FX.stamp('GENIUS?', '#1f9d55', { w: 0.7 }), FX.stamp('STUNT?', '#e0a020', { w: 0.64 }), FX.stamp('NEVER?', '#d0202a', { w: 0.64 })]; stamps.forEach((s) => ST.scene.add(s.group));
   const bubble = new THREE.Group(); { const b = new THREE.Mesh(new RoundedBox(0.8, 0.5), new THREE.MeshStandardMaterial({ color: '#ffffff', roughness: 0.4 })); bubble.add(b);
     const tail = new THREE.Mesh(new THREE.ConeGeometry(0.07, 0.16, 3), b.material); tail.position.set(-0.22, -0.3, 0); tail.rotation.z = 0.5; bubble.add(tail);
     bubble.userData.dots = [-0.2, 0, 0.2].map((x) => { const s = new THREE.Mesh(new THREE.SphereGeometry(0.045, 16, 12), new THREE.MeshStandardMaterial({ color: '#2b5fd9' })); s.position.set(x, 0, 0.05); bubble.add(s); return s; }); }
@@ -40,8 +41,8 @@ export async function buildShots(E) {
   const yearC = FX.counter({ from: 2026, to: 2031, fmt: (v) => String(Math.floor(v)), height: 0.45, color: '#ffffff', depthColor: '#00000099' }); V.scene.add(yearC.group);
   const wb = whiteboard(1.9, 1.15, { texts: [{ text: '70,000,000 kids', x: 0.5, y: 0.2, size: 74 }, { text: '× 2 shares', x: 0.5, y: 0.42, size: 74 }, { text: '× $130', x: 0.5, y: 0.64, size: 74 }, { text: '≈ $18 billion / year', x: 0.5, y: 0.88, size: 80 }], strokes: [[[0.18, 0.75], [0.82, 0.75]]] });
   V.scene.add(wb.group);
-  const money = FX.bigText('$18 BILLION', { height: 0.5, color: '#7ee08a', stroke: '#0b2a12', strokeW: 26, depthColor: '#00000099', glow: '#7ee08a66' }); V.scene.add(money.group);
-  const price = FX.bigText('$130', { height: 0.7, color: '#7ee08a', stroke: '#0b2a12', strokeW: 26, depthColor: '#00000099' }); V.scene.add(price.group);
+  const money = FX.bigText('$18 BILLION', { height: 0.24, color: '#7ee08a', stroke: '#0b2a12', strokeW: 26, depthColor: '#00000099', glow: '#7ee08a66' }); V.scene.add(money.group);
+  const price = FX.bigText('$130', { height: 0.42, color: '#7ee08a', stroke: '#0b2a12', strokeW: 26, depthColor: '#00000099' }); V.scene.add(price.group);
   const rain = FX.moneyRain({ n: 200, coins: 60, w: 2.6, d: 1.0, h: 3.0, kind: 'dollar', size: 0.2 }); V.scene.add(rain.group);
   const stack = Array.from({ length: 36 }, (_, i) => { const c = X.certificate({ w: 0.42 }); c.rotation.x = -Math.PI / 2; c.rotation.z = (Math.sin(i * 2.1)) * 0.08; V.scene.add(c); return c; });
   const kidV = X.kid({ shirt: '#e0a020' }); V.scene.add(kidV.group);
@@ -109,7 +110,7 @@ export async function buildShots(E) {
     R(V.scene, LS); blit(); } });
   // ===== L2 "First, | he promised one share." - ONE
   add({ id: 'C01', at: cut(2), transition: { type: 'flip', dur: 0.3 }, note: 'one share', draw(lt, d, t, blit) { hideV(); V.setColor('#24303f'); frameV(lt, d, t, 3.0, 0.05);
-    const k = eo(seg(t, Wd('one', 2), Wd('one', 2) + 0.35)); certs[0].visible = true; certs[0].position.set(0, 1.05, 0); certs[0].rotation.set(0, 0, 0.04); certs[0].scale.setScalar(pop(k));
+    const k = eo(seg(t, Wd('one', 2), Wd('one', 2) + 0.35)), kc = eo(seg(t, cut(2) + 0.1, cut(2) + 0.45)); certs[0].visible = true; certs[0].position.set(0, 1.05, 0); certs[0].rotation.set(0, 0, 0.04); certs[0].scale.setScalar(pop(kc));
     big.group.visible = true; big.set('1'); inFront(big.group, 0, 0.6, 3.0); big.slam(k); R(V.scene, LS); blit(); } });
   cue(Wd('one', 2), 'slam', { gain: 0.35 });
   // ===== L3 "People laughed | and called it | another random tweet." - post card + laughing reactions
@@ -125,13 +126,12 @@ export async function buildShots(E) {
   // ===== L5 "And now, | it's two shares | every year." - 2 per year, years tick
   add({ id: 'C04', at: cut(5), note: '2 every year', draw(lt, d, t, blit) { hideV(); V.setColor('#24303f'); frameV(lt, d, t, 3.4, 0.05);
     certs.forEach((c, i) => { c.visible = true; c.position.set(i ? 0.2 : -0.2, 1.0, i * 0.02); c.rotation.set(0, 0, i ? -0.08 : 0.08); c.scale.setScalar(0.85); });
-    big.group.visible = true; big.set('2'); inFront(big.group, -0.35, 0.65, 3.4); big.slam(1); big.group.scale.setScalar(0.6);
-    sub.group.visible = true; sub.set('EVERY YEAR'); inFront(sub.group, 0.15, 0.62, 3.4); sub.slam(eo(seg(t, Wd('every', 5), Wd('every', 5) + 0.3)));
-    yearC.group.visible = true; inFront(yearC.group, 0, -0.55, 3.4); yearC.slam(eo(seg(t, Wd('every', 5), Wd('every', 5) + 0.3))); yearC.at(seg(t, Wd('every', 5), lineEnd(5) + 0.3));
+    sub.group.visible = true; sub.set('2 EVERY YEAR'); inFront(sub.group, 0, 0.42, 3.4); sub.group.scale.setScalar(0.62); sub.slam(eo(seg(t, Wd('every', 5), Wd('every', 5) + 0.3))); sub.group.scale.multiplyScalar(0.62);
+    yearC.group.visible = true; inFront(yearC.group, 0, 0.72, 3.4); yearC.slam(eo(seg(t, Wd('every', 5), Wd('every', 5) + 0.3))); yearC.at(seg(t, Wd('every', 5), lineEnd(5) + 0.3));
     R(V.scene, LS); blit(); } });
   // ===== L6 + L7 "Do the math. | America has about | seventy million kids."
   add({ id: 'D01', at: cut(6), transition: { type: 'zoomblur', dur: 0.3 }, note: 'whiteboard', draw(lt, d, t, blit) { hideV(); V.setColor('#2a3440');
-    frame(cam, { target: V3(0, 1.3, 0), dist: 3.4 - eio(seg(lt, 0, d)) * 0.3, yaw: 0.05, pitch: 0, fov: 32 }); wb.group.visible = true; wb.group.position.set(0, 1.3, 0); wb.draw(0); R(V.scene, LS); blit(); } });
+    frame(cam, { target: V3(0, 1.3, 0), dist: 5.6 - eio(seg(lt, 0, d)) * 0.3, yaw: 0.05, pitch: 0, fov: 32 }); wb.group.visible = true; wb.group.position.set(0, 1.3, 0); wb.draw(0.22 * seg(lt, 0.2, d)); R(V.scene, LS); blit(); } });
   add({ id: 'D02', at: cut(7), transition: { type: 'whip', dur: 0.3 }, note: '70 million kids on the map', draw(lt, d, t, blit) {
     const c = M.xyz(38, -97); frame(cam, { target: c, dist: 6.4 - eio(seg(lt, 0, d)) * 0.5, yaw: 0.02, pitch: -1.0, fov: 34 });
     const ks = seg(t, Wd('seventy', 7) - 0.4, lineEnd(7)); fillKids(Math.max(0.15, ks));
@@ -145,7 +145,7 @@ export async function buildShots(E) {
     R(V.scene, LS); blit(); } });
   cue(Wd('hundred', 8), 'slam', { gain: 0.3 });
   add({ id: 'D04', at: Wd("that's", 8) - 0.2, transition: { type: 'dissolve', dur: 0.2 }, note: 'the sum on the board', draw(lt, d, t, blit) { hideV(); V.setColor('#2a3440');
-    frame(cam, { target: V3(0, 1.3, 0), dist: 3.1, yaw: 0.05 - lt * 0.02, pitch: 0, fov: 32 }); wb.group.visible = true; wb.group.position.set(0, 1.3, 0); wb.draw(Math.min(1, 0.6 + seg(t, Wd("that's", 8) - 0.2, Wd('eighteen', 8) - 0.1) * 0.4 + 0.0)); R(V.scene, LS); blit(); } });
+    frame(cam, { target: V3(0, 1.3, 0), dist: 5.2, yaw: 0.05 - lt * 0.02, pitch: 0, fov: 32 }); wb.group.visible = true; wb.group.position.set(0, 1.3, 0); wb.draw(Math.min(1, 0.5 + seg(t, Wd("that's", 8) - 0.2, Wd('eighteen', 8) - 0.1) * 0.5)); R(V.scene, LS); blit(); } });
   add({ id: 'D05', at: Wd('eighteen', 8) - 0.15, transition: { type: 'zoomblur', dur: 0.25 }, note: '$18 BILLION + money rain', draw(lt, d, t, blit) { hideV(); V.setColor('#16261c');
     frame(cam, { target: V3(0, 1.3, 0), dist: 4.2 - eio(seg(lt, 0, d)) * 0.4, yaw: 0.04, pitch: -0.05, fov: 34 });
     const te = Wd('eighteen', 8); money.group.visible = true; inFront(money.group, 0, 0.35, 3.6); money.slam(eo(seg(t, te, te + 0.3)));
@@ -153,22 +153,22 @@ export async function buildShots(E) {
   cue(Wd('eighteen', 8), 'slam', { gain: 0.45 }); cue(Wd('eighteen', 8) + 0.1, 'sparkle', { gain: 0.35 });
   // ===== L9 "Do it every year, | and a child born today | could own dozens | of SpaceX shares | by adulthood." - the kid grows, the stack grows
   add({ id: 'E01', at: cut(9), transition: { type: 'whip', dur: 0.3 }, note: 'kid grows, shares pile up', draw(lt, d, t, blit) { hideV(); V.setColor('#1d2a3a');
-    const g = eio(seg(t, Wd('child', 9), lineEnd(9))); kidV.group.visible = true; kidV.group.position.set(-0.45, 0, 0.1); kidV.group.rotation.set(0, 0.35, 0);
+    const g = eio(seg(t, Wd('child', 9), lineEnd(9))); kidV.group.visible = true; kidV.group.position.set(-0.28, 0, 0.0); kidV.group.rotation.set(0, 0.35, 0);
     kidV.root.scale.setScalar(lerp(0.45, 1.0, g)); if (kidV.bones.Head) kidV.bones.Head.scale.setScalar(lerp(1.4, 1.0, g)); kidV.play('idle', t);
-    const n = Math.round(g * 36); stack.forEach((c, i) => { c.visible = i < n; c.position.set(0.45, 0.01 + i * 0.012, 0.1); });
-    sharesC.group.visible = true; inFront(sharesC.group, 0.2, 0.75, 3.6); sharesC.slam(1); sharesC.at(g);
-    frame(cam, { target: V3(0, 0.75 + g * 0.2, 0), dist: 3.4 + g * 0.3, yaw: 0.15, pitch: -0.08, fov: 34 }); R(V.scene, LS); blit(); } });
+    const n = Math.round(g * 36); stack.forEach((c, i) => { c.visible = i < n; c.position.set(0.32, 0.01 + i * 0.012, 0.25); });
+    sharesC.group.visible = true; inFront(sharesC.group, 0, 0.75, 3.6); sharesC.group.scale.multiplyScalar(0.8); sharesC.at(g);
+    frame(cam, { target: V3(0, 0.75 + g * 0.2, 0), dist: 3.9 + g * 0.4, yaw: 0.1, pitch: -0.08, fov: 34 }); inFront(sharesC.group, 0, 0.75, 3.6); sharesC.group.scale.setScalar(0.8); R(V.scene, LS); blit(); } });
   // ===== L10 "So why shares | and not cash?" - certificate vs cash
-  add({ id: 'F01', at: cut(10), transition: { type: 'flip', dur: 0.3 }, note: 'shares vs cash', draw(lt, d, t, blit) { hideV(); V.setColor('#24303f'); frameV(lt, d, t, 3.2, 0.05);
-    certs[0].visible = true; certs[0].position.set(-0.42, 1.0, 0); certs[0].rotation.set(-0.1, 0.25, 0.05); certs[0].scale.setScalar(0.75);
-    cash.visible = true; cash.position.set(0.45, 0.6, 0); cash.scale.setScalar(pop(eo(seg(t, Wd('cash', 10) - 0.2, Wd('cash', 10) + 0.2))));
-    vs.group.visible = true; inFront(vs.group, 0, 0.1, 3.2); vs.slam(eo(seg(t, Wd('and', 10), Wd('and', 10) + 0.3))); R(V.scene, LS); blit(); } });
+  add({ id: 'F01', at: cut(10), transition: { type: 'flip', dur: 0.3 }, note: 'shares vs cash', draw(lt, d, t, blit) { hideV(); V.setColor('#24303f'); frameV(lt, d, t, 4.6, 0.05);
+    certs[0].visible = true; certs[0].position.set(-0.38, 1.0, 0); certs[0].rotation.set(-0.1, 0.25, 0.05); certs[0].scale.setScalar(0.75);
+    cash.visible = true; cash.position.set(0.4, 0.75, 0); cash.scale.setScalar(pop(eo(seg(t, Wd('cash', 10) - 0.2, Wd('cash', 10) + 0.2))));
+    vs.group.visible = true; inFront(vs.group, 0, 0.1, 4.6); vs.slam(eo(seg(t, Wd('and', 10), Wd('and', 10) + 0.3))); R(V.scene, LS); blit(); } });
   // ===== L11 "Because a share | makes kids curious." - kid holds the certificate, thought bubble: rocket
   add({ id: 'G01', at: cut(11), transition: { type: 'dissolve', dur: 0.3 }, note: 'curious kid + bubble', draw(lt, d, t, blit) {
     kid.group.position.set(0, 0, -0.2); kid.group.rotation.set(0, 0, 0); kid.play('idle', t, { relax: 0 }).aim('R', { upper: [-0.25, -0.7, 0.6], fore: [0.3, 0.3, 1], palm: [0.6, 0.6, 0.3] }).aim('L', { upper: [0.25, -0.7, 0.6], fore: [-0.3, 0.3, 1], palm: [-0.6, 0.6, 0.3] }).grip('R', 0.6).grip('L', 0.6).pose({ head: [0.35, 0, 0] });
     const a = kid.at('RightHand'), b = kid.at('LeftHand'); handCert.position.copy(a).lerp(b, 0.5).add(V3(0, 0.05, 0.02)); handCert.rotation.set(-0.9, 0, 0);
-    frame(cam2, { target: V3(0, 60, 0), dist: 260, yaw: 0.3, pitch: -0.05, fov: 34 }); bub.group.visible = false; rk.flame(0, t); bub.capture(LS2, cam2);
-    const h = kid.at('Head'); bub.group.position.copy(h).add(V3(0.2, 0.32, 0.05)); const f = shot(cam, { target: h.clone().add(V3(0.05, -0.05, 0)), dist: 1.6, yaw: 0.35, pitch: -0.05, fov: 32 }, { target: h.clone().add(V3(0.07, 0.02, 0)), dist: 1.35, yaw: 0.25, pitch: -0.05, fov: 32 }, lt, d, t);
+    frame(cam2, { target: V3(0, 50, 0), dist: 165, yaw: 0.3, pitch: 0.02, fov: 40 }); bub.group.visible = false; rk.flame(0, t); bub.capture(LS2, cam2);
+    const h = kid.at('Head'); bub.group.position.copy(h).add(V3(0.12, 0.22, 0.05)); const f = shot(cam, { target: h.clone().add(V3(0.05, -0.05, 0)), dist: 1.6, yaw: 0.35, pitch: -0.05, fov: 32 }, { target: h.clone().add(V3(0.07, 0.02, 0)), dist: 1.35, yaw: 0.25, pitch: -0.05, fov: 32 }, lt, d, t);
     bub.face(cam); bub.show(eo(seg(t, Wd('curious', 11) - 0.2, Wd('curious', 11) + 0.25))); qms.forEach((q) => (q.group.visible = false));
     R(RM.scene, { ...LOOK, aperture: 0.002 }, f); blit(); } });
   cue(Wd('curious', 11) - 0.1, 'pop', { gain: 0.3 });
@@ -190,8 +190,8 @@ export async function buildShots(E) {
     frame(cam, { target: V3(-6, -2, 4), dist: 34 - k * 6, yaw: -0.5, pitch: -0.05, fov: 34 }); R(SP, { ...LOOK, aperture: 0, bloom: 0.25, vignette: 0.5 }); blit(); } });
   // ===== L15 "That curiosity | is how you create | the next generation | of engineers." - young engineers before the rocket
   add({ id: 'H03', at: cut(15), transition: { type: 'dissolve', dur: 0.35 }, note: 'next generation of engineers', draw(lt, d, t, blit) { rk.group.position.y = 0; rk.flame(0, t);
-    engineers.forEach((e, i) => { e.group.position.set(-3 + i * 1.4, -20, 60 + (i % 2) * 0.8); e.group.rotation.set(0, Math.PI + (i - 1) * 0.25, 0); e.play('idle', t + i); });
-    const f = shot(cam, { target: V3(-1.6, -18.4, 58), dist: 6, yaw: 0.25, pitch: 0.25, fov: 40 }, { target: V3(-1.6, -15, 50), dist: 9, yaw: 0.15, pitch: 0.45, fov: 44 }, lt, d, t);
+    engineers.forEach((e, i) => { e.group.position.set(-1.2 + i * 1.2, -20, 55 + (i % 2) * 0.6); e.group.rotation.set(0, Math.PI + (i - 1) * 0.15, 0); e.play('idle', t + i); e.pose({ head: [-0.35, 0, 0] }); });
+    const f = shot(cam, { target: V3(0, -18.6, 50), dist: 9, yaw: 0.12, pitch: 0.12, fov: 44 }, { target: V3(0, -12, 40), dist: 22, yaw: 0.06, pitch: 0.28, fov: 46 }, lt, d, t);
     R(LS2, { ...LOOK, aperture: 0 }); blit(); } });
   // ===== L16 "And if Tesla | and SpaceX merge, | as some reports suggest, | each share could include | rockets, AI, | robots | and self-driving cars."
   add({ id: 'I01', at: cut(16), transition: { type: 'flip', dur: 0.3 }, note: 'merge', draw(lt, d, t, blit) { hideV(); V.setColor('#1d2a3a'); frameV(lt, d, t, 3.4, 0.05);
@@ -201,7 +201,7 @@ export async function buildShots(E) {
     R(V.scene, LS); blit(); } });
   cue(Wd('merge', 16), 'whoosh', { gain: 0.3 });
   add({ id: 'I02', at: Wd('include', 16) - 0.3, transition: { type: 'dissolve', dur: 0.2 }, note: 'what one share holds', draw(lt, d, t, blit) { hideV(); V.setColor('#1d2a3a');
-    frame(cam, { target: V3(0, 0.75, 0), dist: 3.6 - eio(seg(lt, 0, d)) * 0.4, yaw: 0.05 + lt * 0.02, pitch: -0.25, fov: 34 });
+    frame(cam, { target: V3(0, 0.45, 0.15), dist: 5.4 - eio(seg(lt, 0, d)) * 0.4, yaw: 0.05 + lt * 0.02, pitch: -0.32, fov: 34 });
     merged.visible = true; merged.position.set(0, 0.012, 0.2); merged.rotation.set(-Math.PI / 2, 0, 0); merged.scale.setScalar(1.4);
     const ks = [Wd('rockets', 16), Wd('AI', 16), Wd('robots', 16), Wd('self-driving', 16)];
     miniRocket.group.visible = true; miniRocket.group.position.set(-0.55, 0.15, 0.1); miniRocket.group.scale.setScalar(0.009 * pop(eo(seg(t, ks[0] - 0.1, ks[0] + 0.25))));
@@ -213,13 +213,13 @@ export async function buildShots(E) {
   // ===== L17 "Is this genius, | a publicity stunt, | or a promise | that will never happen?" - stamps around him
   add({ id: 'J01', at: cut(17), transition: { type: 'whip', dur: 0.3 }, note: 'genius / stunt / never', draw(lt, d, t, blit) { muskStage(t, { talk: false }); bubble.visible = false; endT.group.visible = false;
     const h = musk.at('Head'); const f = shot(cam, { target: h.clone().add(V3(0, -0.25, 0)), dist: 2.2, yaw: 0.2, pitch: 0.02, fov: 32 }, { target: h.clone().add(V3(0, -0.2, 0)), dist: 1.8, yaw: 0.1, pitch: 0.02, fov: 32 }, lt, d, t);
-    const ts = [Wd('genius', 17), Wd('stunt', 17), Wd('never', 17)]; stamps.forEach((s, i) => { s.group.visible = true; inFront(s.group, [-0.08, 0.1, -0.02][i], [0.55, 0.2, -0.15][i], 2.4); s.group.scale.setScalar(1); s.slam(seg(t, ts[i], ts[i] + 0.25)); s.group.rotateZ([0.1, -0.08, 0.06][i]); });
+    const ts = [Wd('genius', 17), Wd('stunt', 17), Wd('never', 17)]; stamps.forEach((s, i) => { s.group.visible = true; inFront(s.group, [-0.1, 0.12, -0.05][i], [0.0, -0.2, -0.4][i], 2.6); s.slam(seg(t, ts[i], ts[i] + 0.25)); s.group.rotateZ([0.1, -0.08, 0.06][i]); });
     R(ST.scene, { ...LOOK, aperture: 0.0015 }, f); blit(); } });
   ['genius', 'stunt', 'never'].forEach((w) => cue(Wd(w, 17), 'slam', { gain: 0.35 }));
   // ===== L18 "Tell me | in the comments." - comment bubble
   add({ id: 'J02', at: cut(18), note: 'comments', draw(lt, d, t, blit) { muskStage(t, { talk: false }); stamps.forEach((s) => (s.group.visible = false)); endT.group.visible = false;
     const h = musk.at('Head'); const f = shot(cam, { target: h.clone().add(V3(0, -0.35, 0)), dist: 2.8, yaw: -0.2, pitch: 0.02, fov: 32 }, { target: h.clone().add(V3(0, -0.3, 0)), dist: 2.5, yaw: -0.12, pitch: 0.02, fov: 32 }, lt, d, t);
-    bubble.visible = true; inFront(bubble, -0.1, 0.0, 1.6); bubble.scale.setScalar(0.32 * pop(seg(t, Wd('comments', 18) - 0.35, Wd('comments', 18) + 0.05))); bubble.userData.dots.forEach((s, i) => (s.position.y = 0.04 * Math.max(0, Math.sin(t * 8 - i * 0.9))));
+    bubble.visible = true; inFront(bubble, -0.12, -0.02, 1.6); bubble.scale.setScalar(0.36 * pop(seg(t, Wd('comments', 18) - 0.35, Wd('comments', 18) + 0.05))); bubble.userData.dots.forEach((s, i) => (s.position.y = 0.04 * Math.max(0, Math.sin(t * 8 - i * 0.9))));
     R(ST.scene, { ...LOOK, aperture: 0.0015 }, f); blit(); } });
   cue(Wd('comments', 18) - 0.3, 'pop', { gain: 0.35 });
   // ===== L19 "And if you want updates ... | Things Explained." - wide stage, title

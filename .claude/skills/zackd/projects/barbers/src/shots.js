@@ -25,10 +25,10 @@ export async function buildShots(E) {
   const mkB1 = () => actor('rpm', { shirt: '#f4f4f2', pants: '#2b2d33' }).hair('neat', { color: '#1a120c' }).part('Beard', false);
   const mkB2 = () => actor('rpm', { shirt: '#6f7f8c', pants: '#3a3026', skin: 0.86 }).hair('messy', { color: '#4a3524', seed: 3 });
   const B1 = mkB1(), B2 = mkB2();                       // the barbers (moved between sets as needed)
-  const you = actor('michelle');
+  const you = actor('rpm', { shirt: '#3e8f5a', pants: '#2c3440', skin: 0.95 }).hair('short', { color: '#7a5a3a', seed: 7 }).part('Beard', false);
   const extras = [
     actor('rpm', { shirt: '#c0392b', pants: '#2c3e50' }).hair('short', { color: '#111' }).part('Beard', false),
-    actor('michelle', { shirt: '#3aa060' }),
+    actor('rpm', { shirt: '#2a7bd6', pants: '#3b3b3b', skin: 0.78 }).hair('neat', { color: '#0e0e0e', seed: 9 }),
     actor('rpm', { shirt: '#e0a020', pants: '#34495e', skin: 0.7 }).hair('short', { color: '#0d0d0d' }),
     actor('rpm', { shirt: '#7a5ab0', pants: '#222' }).hair('neat', { color: '#6b4a2a', seed: 5 }).part('Beard', false),
   ];
@@ -41,7 +41,7 @@ export async function buildShots(E) {
   const qm = FX.bigText('?', { height: 0.5, color: '#ffffff', depthColor: '#00000088' });
   const stampW = FX.stamp('WRONG CHOICE', '#d0202a', { w: 1.6 }), stampX = FX.stamp('✕', '#d0202a', { w: 0.9 }), stampOK = FX.stamp('SKILLED', '#1f9d55', { w: 1.4 });
   const tag1 = nameTag('BARBER 1', { color: '#1f4fd6' }), tag2 = nameTag('BARBER 2', { color: '#c0392b' });
-  const endT = FX.bigText('Things Explained', { height: 0.32, color: '#ffffff', depthColor: '#00000088' });
+  const endT = FX.bigText('Things Explained', { height: 0.42, color: '#ffffff', depthColor: '#00000088' });
   const bubble = new THREE.Group(); { const b = new THREE.Mesh(new RoundedBoxGeometry(0.8, 0.5, 0.08, 5, 0.12), new THREE.MeshStandardMaterial({ color: '#ffffff', roughness: 0.4 })); bubble.add(b);
     const tail = new THREE.Mesh(new THREE.ConeGeometry(0.07, 0.16, 3), b.material); tail.position.set(-0.22, -0.3, 0); tail.rotation.z = 0.5; bubble.add(tail);
     const d = [-0.2, 0, 0.2].map((x) => { const s = new THREE.Mesh(new THREE.SphereGeometry(0.045, 16, 12), new THREE.MeshStandardMaterial({ color: '#2b5fd9' })); s.position.set(x, 0, 0.05); bubble.add(s); return s; }); bubble.userData.dots = d; }
@@ -83,18 +83,18 @@ export async function buildShots(E) {
     R(ST.scene, { ...LOOK_ST, aperture: 0.003 }, f); blit(); } });
   // ===== L1 "There are only | two barbers." - the two shopfronts, side by side
   add({ id: 'A03', at: cut(1), transition: { type: 'dissolve', dur: 0.2 }, note: 'two shopfronts', draw(lt, d, t, blit) { hideAll(); ST.s1.pole.update(t); ST.s2.pole.update(t);
-    const f = shot(cam, { target: V3(0, 2.2, -3.8), dist: 15, yaw: 0.62, pitch: -0.04, fov: 32 }, { target: V3(0, 2.1, -3.8), dist: 13, yaw: 0.5, pitch: -0.03, fov: 32 }, lt, d, t);
+    const f = shot(cam, { target: V3(0, 2.3, -3.8), dist: 21, yaw: 0.7, pitch: -0.05, fov: 40 }, { target: V3(0, 2.2, -3.8), dist: 19, yaw: 0.62, pitch: -0.04, fov: 40 }, lt, d, t);
     const k1 = eo(seg(t, Wd('two', 1), Wd('two', 1) + 0.3)), k2 = eo(seg(t, Wd('two', 1) + 0.15, Wd('two', 1) + 0.45));
-    place(ST.scene, tag1, tag2); tag1.group.position.set(-2.3, 4.5, -3.6); tag2.group.position.set(2.3, 4.5, -3.6); tag1.group.scale.setScalar(2.2); tag2.group.scale.setScalar(2.2);
-    tag1.show(k1, cam); tag2.show(k2, cam); tag1.group.scale.multiplyScalar(2.2); tag2.group.scale.multiplyScalar(2.2);
+    place(ST.scene, tag1, tag2); tag1.group.position.set(-2.3, 5.0, -3.6); tag2.group.position.set(2.3, 5.0, -3.6);
+    tag1.show(k1, cam); tag2.show(k2, cam); tag1.group.scale.multiplyScalar(3.2); tag2.group.scale.multiplyScalar(3.2);
     R(ST.scene, LOOK_ST, f); blit(); } });
   cue(Wd('two', 1), 'pop', { gain: 0.3 }); cue(Wd('two', 1) + 0.15, 'pop', { gain: 0.3 });
   // ===== L2 "Which one | do you choose?" - over her shoulder, she looks from one shop to the other
   add({ id: 'A04', at: cut(2), note: 'OTS: which one?', draw(lt, d, t, blit) { hideAll(); ST.s1.pole.update(t); ST.s2.pole.update(t);
-    pos(you, 0.2, -0.6, Math.PI); place(ST.scene, you); you.play('idle', t); const look = Math.sin(eio(seg(lt, 0, d)) * Math.PI * 1.5) * 0.45;
+    pos(you, 0.3, 1.2, Math.PI); place(ST.scene, you); you.play('idle', t); const look = Math.sin(eio(seg(lt, 0, d)) * Math.PI * 1.5) * 0.45;
     you.pose({ head: [0, look, 0], neck: [0, look * 0.4, 0] });
-    const f = shot(cam, { target: V3(0.2, 1.6, -3), dist: 3.4, yaw: 0.25, pitch: -0.02, fov: 34 }, { target: V3(0.2, 1.6, -3.2), dist: 3.0, yaw: 0.15, pitch: -0.02, fov: 34 }, lt, d, t);
-    R(ST.scene, { ...LOOK_ST, aperture: 0.0006 }, f + 1.5); blit(); } });
+    const f = shot(cam, { target: V3(0.1, 2.0, -3.5), dist: 7.4, yaw: 0.12, pitch: -0.06, fov: 44 }, { target: V3(0.1, 2.0, -3.5), dist: 6.6, yaw: 0.06, pitch: -0.05, fov: 44 }, lt, d, t);
+    R(ST.scene, { ...LOOK_ST, aperture: 0.0004 }, f); blit(); } });
   // ===== L3 "The first shop | is spotless." - shop 1 wide, sparkles
   add({ id: 'B01', at: cut(3), transition: { type: 'whip', dur: 0.3 }, note: 'shop 1 spotless', draw(lt, d, t, blit) { hideAll(); S1.pole.update(t);
     pos(B1, 0.0, -0.6, 0.15); place(S1.scene, B1); B1.play('idle', t);
@@ -115,7 +115,7 @@ export async function buildShots(E) {
   add({ id: 'B04', at: cut(5), note: 'barber 1 medium', draw(lt, d, t, blit) { hideAll(); S1.pole.update(t);
     pos(B1, -0.2, -0.5, 0.25); place(S1.scene, B1); B1.play('idle', t + 2).talk(0, 0.6);
     const h = B1.at('Head');
-    const f = shot(cam, { target: h.clone().add(V3(0, -0.25, 0)), dist: 2.2, yaw: 0.45, pitch: 0.06, fov: 30 }, { target: h.clone().add(V3(0, -0.12, 0)), dist: 1.6, yaw: 0.35, pitch: 0.04, fov: 30 }, lt, d, t);
+    const f = shot(cam, { target: h.clone().add(V3(0, -0.12, 0)), dist: 1.45, yaw: 0.45, pitch: 0.06, fov: 30 }, { target: h.clone().add(V3(0, -0.05, 0)), dist: 1.15, yaw: 0.35, pitch: 0.04, fov: 30 }, lt, d, t);
     R(S1.scene, LOOK, f); blit(); } });
   add({ id: 'B05', at: Wd('sharp', 5) - 0.2, note: 'his perfect hair close', draw(lt, d, t, blit) { hideAll(); S1.pole.update(t);
     pos(B1, -0.2, -0.5, 0.25); place(S1.scene, B1); B1.play('idle', t + 2).talk(0, 0.7);
@@ -144,8 +144,8 @@ export async function buildShots(E) {
   // ===== L9 "Most people pick | the first barber." - people walk into shop 1
   add({ id: 'D01', at: cut(9), transition: { type: 'dissolve', dur: 0.25 }, note: 'people go to shop 1', draw(lt, d, t, blit) { hideAll(); ST.s1.pole.update(t); ST.s2.pole.update(t);
     const door = ST.s1.door; const t0 = cut(9);
-    extras.forEach((a, i) => walkTo(a, ST.scene, V3(3.5 + i * 1.1, 0.14, -0.4 - (i % 2) * 0.7), door.clone().add(V3(0.2 * i, 0, 0.6 + 0.5 * i)), t0 - 0.5 + i * 0.25, t0 + 2.6 + i * 0.25, t));
-    const f = shot(cam, { target: V3(-0.5, 1.6, -3), dist: 11, yaw: 0.55, pitch: -0.12, fov: 32 }, { target: V3(-1.2, 1.5, -3), dist: 9.5, yaw: 0.45, pitch: -0.1, fov: 32 }, lt, d, t);
+    [you, ...extras].forEach((a, i) => walkTo(a, ST.scene, V3(2.8 + i * 0.9, 0.14, -0.6 - (i % 2) * 0.6), door.clone().add(V3(0.15 * i, 0, 0.5 + 0.55 * i)), t0 - 0.8 + i * 0.3, t0 + 2.4 + i * 0.3, t));
+    const f = shot(cam, { target: V3(0, 2.0, -3.4), dist: 19, yaw: 0.68, pitch: -0.08, fov: 40 }, { target: V3(-0.6, 1.9, -3.4), dist: 17, yaw: 0.6, pitch: -0.07, fov: 40 }, lt, d, t);
     R(ST.scene, LOOK_ST, f); blit(); } });
   // ===== L10 "But that's | the wrong choice." - stamp on shop 1
   add({ id: 'D02', at: cut(10), note: 'WRONG CHOICE stamp', draw(lt, d, t, blit) { hideAll(); ST.s1.pole.update(t);
@@ -155,23 +155,23 @@ export async function buildShots(E) {
   cue(Wd('wrong', 10), 'slam', { gain: 0.4 });
   // ===== L11+L12 "Here's why. | There are only | two barbers in town." - both barbers side by side in front of their shops
   add({ id: 'E01', at: cut(11), transition: { type: 'flip', dur: 0.3 }, note: 'the two barbers', draw(lt, d, t, blit) { hideAll(); ST.s1.pole.update(t); ST.s2.pole.update(t);
-    pos(B1, -1.0, -2.6, 0.2); pos(B2, 1.0, -2.6, -0.2); place(ST.scene, B1, B2); B1.play('idle', t); B2.play('idle', t + 1.3);
+    pos(B1, -0.42, -2.6, 0.15); pos(B2, 0.42, -2.6, -0.15); place(ST.scene, B1, B2); B1.play('idle', t); B2.play('idle', t + 1.3);
     const tt = Wd('two', 12); place(ST.scene, tag1, tag2); tag1.group.position.copy(B1.at('Head')).add(V3(0, 0.35, 0)); tag2.group.position.copy(B2.at('Head')).add(V3(0, 0.35, 0));
     tag1.show(eo(seg(t, tt, tt + 0.3)), cam); tag2.show(eo(seg(t, tt + 0.15, tt + 0.45)), cam);
-    const f = shot(cam, { target: V3(0, 1.3, -2.6), dist: 5.4, yaw: 0.05, pitch: -0.02, fov: 32 }, { target: V3(0, 1.35, -2.6), dist: 4.6, yaw: -0.03, pitch: -0.02, fov: 32 }, lt, d, t);
+    const f = shot(cam, { target: V3(0, 1.45, -2.6), dist: 4.6, yaw: 0.05, pitch: -0.02, fov: 32 }, { target: V3(0, 1.5, -2.6), dist: 3.9, yaw: -0.03, pitch: -0.02, fov: 32 }, lt, d, t);
     R(ST.scene, LOOK_ST, f); blit(); } });
   cue(Wd('two', 12), 'pop', { gain: 0.3 }); cue(Wd('two', 12) + 0.15, 'pop', { gain: 0.3 });
   // ===== L13 "Barbers can't cut | their own hair." - barber 1 tries at his mirror, red X
   add({ id: 'E02', at: cut(13), note: "can't cut own hair", draw(lt, d, t, blit) { hideAll(); S1.pole.update(t);
-    pos(B1, 0.0, -1.85, Math.PI); place(S1.scene, B1); B1.play('idle', t).pose({ armR: [0, 0, -1.9], foreR: [-1.4, 0, 0], head: [0.1, 0, 0] }).grip('R', 0.55); holdScissors(B1, sc1, t);
-    const h = B1.at('Head'); const f = shot(cam, { target: h.clone().add(V3(0, -0.1, 0)), dist: 1.6, yaw: Math.PI + 0.55, pitch: -0.05, fov: 30 }, { target: h.clone().add(V3(0, -0.05, 0)), dist: 1.35, yaw: Math.PI + 0.45, pitch: -0.05, fov: 30 }, lt, d, t);
+    pos(B1, 0.0, -1.4, 0.2); place(S1.scene, B1); B1.play('idle', t).pose({ armR: [0, 0, -1.9], foreR: [-1.4, 0, 0], head: [0.1, 0, 0] }).grip('R', 0.55); holdScissors(B1, sc1, t);
+    const h = B1.at('Head'); const f = shot(cam, { target: h.clone().add(V3(0, -0.05, 0)), dist: 1.7, yaw: 0.55, pitch: -0.05, fov: 30 }, { target: h.clone().add(V3(0, 0, 0)), dist: 1.4, yaw: 0.42, pitch: -0.05, fov: 30 }, lt, d, t);
     place(S1.scene, stampX); stampX.group.position.copy(h).add(V3(0, 0.0, 0.35)); faceCam(stampX.group); stampX.slam(seg(t, Wd("can't", 13), Wd("can't", 13) + 0.25));
     R(S1.scene, LOOK, f); blit(); } });
   cue(Wd("can't", 13), 'slam', { gain: 0.35 });
   // ===== L14 "So who gave | the first barber | his perfect haircut?" - barber 1 in the chair (shop 2), ? pops
   add({ id: 'F01', at: cut(14), transition: { type: 'dissolve', dur: 0.25 }, note: 'B1 in chair, ?', draw(lt, d, t, blit) { hideAll(); S2.pole.update(t);
     seated(B1, chairB, S2.scene, capeM, t); const h = B1.at('Head').add(V3(0, 0.08, 0));
-    const f = shot(cam, { target: h.clone().add(V3(0, -0.15, 0)), dist: 1.6, yaw: Math.PI + 0.6, pitch: -0.08, fov: 30 }, { target: h, dist: 0.9, yaw: Math.PI + 0.45, pitch: -0.1, fov: 30 }, lt, d, t);
+    const f = shot(cam, { target: h.clone().add(V3(0, -0.12, 0)), dist: 1.15, yaw: Math.PI + 0.75, pitch: -0.08, fov: 30 }, { target: h, dist: 0.8, yaw: Math.PI + 0.6, pitch: -0.1, fov: 30 }, lt, d, t);
     place(S2.scene, qm); qm.group.position.copy(h).add(V3(0.0, 0.35, 0)); faceCam(qm.group); qm.slam(eo(seg(t, Wd('haircut', 14) - 0.3, Wd('haircut', 14))));
     R(S2.scene, { ...LOOK, warm: 0.22 }, f); blit(); } });
   cue(Wd('haircut', 14) - 0.3, 'pop', { gain: 0.3 });
@@ -179,13 +179,13 @@ export async function buildShots(E) {
   add({ id: 'F02', at: cut(15), note: 'reveal B2 cutting B1', draw(lt, d, t, blit) { hideAll(); S2.pole.update(t);
     const c = seated(B1, chairB, S2.scene, capeM, t); barberBehind(B2, chairB, S2.scene, t, sc2);
     place(S2.scene, fall); fall.update(t, B1.at('Head').add(V3(0, 0.1, 0)), 1);
-    const f = shot(cam, { target: c.clone().add(V3(0.1, 1.25, 0.2)), dist: 1.6, yaw: Math.PI + 0.7, pitch: -0.05, fov: 32 }, { target: c.clone().add(V3(0.1, 1.3, 0.3)), dist: 2.6, yaw: Math.PI + 0.5, pitch: -0.05, fov: 32 }, lt, d, t, { ease: 'cubic' });
+    const f = shot(cam, { target: c.clone().add(V3(0.05, 1.3, 0.2)), dist: 1.1, yaw: Math.PI + 0.75, pitch: -0.05, fov: 32 }, { target: c.clone().add(V3(0.1, 1.35, 0.35)), dist: 2.0, yaw: Math.PI + 1.3, pitch: -0.05, fov: 34 }, lt, d, t, { ease: 'cubic' });
     R(S2.scene, { ...LOOK, warm: 0.22 }, f); blit(); } });
   cue(cut(15) + 0.1, 'zip', { gain: 0.2 });
   // ===== L16 "And who gave | the second barber | that terrible haircut?" - barber 2 in the chair (shop 1), ?
   add({ id: 'F03', at: cut(16), transition: { type: 'dissolve', dur: 0.25 }, note: 'B2 in chair, ?', draw(lt, d, t, blit) { hideAll(); S1.pole.update(t);
     seated(B2, chairA, S1.scene, capeM2, t); const h = B2.at('Head').add(V3(0, 0.08, 0));
-    const f = shot(cam, { target: h.clone().add(V3(0, -0.15, 0)), dist: 1.6, yaw: Math.PI - 0.6, pitch: -0.08, fov: 30 }, { target: h, dist: 0.9, yaw: Math.PI - 0.45, pitch: -0.1, fov: 30 }, lt, d, t);
+    const f = shot(cam, { target: h.clone().add(V3(0, -0.12, 0)), dist: 1.15, yaw: Math.PI - 0.75, pitch: -0.08, fov: 30 }, { target: h, dist: 0.8, yaw: Math.PI - 0.6, pitch: -0.1, fov: 30 }, lt, d, t);
     place(S1.scene, qm); qm.group.position.copy(h).add(V3(0.0, 0.35, 0)); faceCam(qm.group); qm.slam(eo(seg(t, Wd('haircut', 16) - 0.3, Wd('haircut', 16))));
     R(S1.scene, LOOK, f); blit(); } });
   cue(Wd('haircut', 16) - 0.3, 'pop', { gain: 0.3 });
@@ -193,26 +193,26 @@ export async function buildShots(E) {
   add({ id: 'F04', at: cut(17), note: 'reveal B1 cutting B2', draw(lt, d, t, blit) { hideAll(); S1.pole.update(t);
     const c = seated(B2, chairA, S1.scene, capeM2, t); barberBehind(B1, chairA, S1.scene, t, sc1);
     place(S1.scene, fall2); fall2.update(t, B2.at('Head').add(V3(0, 0.1, 0)), 1);
-    const f = shot(cam, { target: c.clone().add(V3(-0.1, 1.25, 0.2)), dist: 1.6, yaw: Math.PI - 0.7, pitch: -0.05, fov: 32 }, { target: c.clone().add(V3(-0.1, 1.3, 0.3)), dist: 2.5, yaw: Math.PI - 0.5, pitch: -0.05, fov: 32 }, lt, d, t, { ease: 'cubic' });
+    const f = shot(cam, { target: c.clone().add(V3(-0.05, 1.3, 0.2)), dist: 1.1, yaw: Math.PI - 0.75, pitch: -0.05, fov: 32 }, { target: c.clone().add(V3(-0.1, 1.35, 0.35)), dist: 2.0, yaw: Math.PI - 1.3, pitch: -0.05, fov: 34 }, lt, d, t, { ease: 'cubic' });
     R(S1.scene, LOOK, f); blit(); } });
   cue(cut(17) + 0.1, 'zip', { gain: 0.2 });
   // ===== L18 "So the messy barber | is actually | the skilled one." - barber 2 hero, low angle
   add({ id: 'G01', at: cut(18), transition: { type: 'whip', dur: 0.3 }, note: 'B2 hero low angle', draw(lt, d, t, blit) { hideAll(); S2.pole.update(t);
-    pos(B2, 0.2, -0.3, -0.1); place(S2.scene, B2); B2.play('idle', t).pose({ armR: [0, 0, -0.5], foreR: [-1.3, 0, 0] }).grip('R', 0.55).talk(0, 0.8); holdScissors(B2, sc2, t, 0.3);
-    const h = B2.at('Head'); const f = shot(cam, { target: h.clone().add(V3(0, -0.3, 0)), dist: 2.1, yaw: -0.25, pitch: 0.3, fov: 32 }, { target: h.clone().add(V3(0, -0.2, 0)), dist: 1.6, yaw: -0.15, pitch: 0.24, fov: 32 }, lt, d, t);
-    place(S2.scene, stampOK); stampOK.group.position.copy(h).add(V3(0, 0.38, 0.1)); faceCam(stampOK.group); stampOK.slam(seg(t, Wd('skilled', 18), Wd('skilled', 18) + 0.25)); stampOK.group.rotateZ(0.08);
+    pos(B2, 0.2, -0.3, -0.1); place(S2.scene, B2); B2.play('idle', t).talk(0, 0.8);
+    const h = B2.at('Head'); const f = shot(cam, { target: h.clone().add(V3(0, -0.12, 0)), dist: 1.5, yaw: -0.25, pitch: 0.3, fov: 32 }, { target: h.clone().add(V3(0, -0.05, 0)), dist: 1.2, yaw: -0.15, pitch: 0.24, fov: 32 }, lt, d, t);
+    place(S2.scene, stampOK); stampOK.group.position.copy(h).add(V3(0, 0.36, 0.15)); stampOK.group.scale.setScalar(0.6); faceCam(stampOK.group); stampOK.slam(seg(t, Wd('skilled', 18), Wd('skilled', 18) + 0.25)); stampOK.group.rotateZ(0.08);
     R(S2.scene, { ...LOOK, warm: 0.22 }, f); blit(); } });
   cue(Wd('skilled', 18), 'slam', { gain: 0.35 });
   // ===== L19 "His shop is messy | because he's busy." - busy shop 2: customer in chair, two waiting
   add({ id: 'G02', at: cut(19), note: 'busy shop 2', draw(lt, d, t, blit) { hideAll(); S2.pole.update(t);
     seated(extras[0], chairB, S2.scene, capeM, t); barberBehind(B2, chairB, S2.scene, t, sc2); place(S2.scene, fall); fall.update(t, extras[0].at('Head').add(V3(0, 0.1, 0)), 1);
     [extras[1], extras[2]].forEach((a, i) => { pos(a, 2.22, 0.1 + i * 0.75, -Math.PI / 2); place(S2.scene, a); a.play('idle', t + i).sit(1, { seat: 0.45 }); });
-    const f = shot(cam, { target: V3(0.4, 1.1, -0.9), dist: 3.6, yaw: -0.5, pitch: -0.15, fov: 36 }, { target: V3(0.2, 1.1, -1.0), dist: 3.0, yaw: -0.38, pitch: -0.13, fov: 36 }, lt, d, t);
+    const f = shot(cam, { target: V3(-0.2, 1.1, -0.8), dist: 3.4, yaw: 0.62, pitch: -0.12, fov: 38 }, { target: V3(-0.35, 1.1, -0.9), dist: 3.0, yaw: 0.52, pitch: -0.1, fov: 38 }, lt, d, t);
     R(S2.scene, { ...LOOK, warm: 0.22 }, f); blit(); } });
   // ===== L20 "Everyone smart | goes to him." - queue outside shop 2, shop 1 empty
   add({ id: 'G03', at: cut(20), transition: { type: 'dissolve', dur: 0.25 }, note: 'queue at shop 2', draw(lt, d, t, blit) { hideAll(); ST.s1.pole.update(t); ST.s2.pole.update(t);
-    const door = ST.s2.door; [you, ...extras].forEach((a, i) => { pos(a, door.x + 0.1 + i * 0.12, door.z + 0.7 + i * 0.75, Math.PI + 0.1); place(ST.scene, a); a.play('idle', t + i * 0.7); });
-    const f = shot(cam, { target: V3(1.5, 1.6, -2.5), dist: 10, yaw: -0.55, pitch: -0.12, fov: 32 }, { target: V3(2.0, 1.5, -2.5), dist: 8.5, yaw: -0.45, pitch: -0.1, fov: 32 }, lt, d, t);
+    const door = ST.s2.door; [you, ...extras].forEach((a, i) => { pos(a, door.x + 0.15 + i * 0.7, door.z + 0.75 + (i % 2) * 0.12, -Math.PI / 2 - 0.25); place(ST.scene, a); a.play('idle', t + i * 0.7); });
+    const f = shot(cam, { target: V3(3.6, 1.9, -3.2), dist: 12, yaw: -0.25, pitch: -0.08, fov: 40 }, { target: V3(3.8, 1.8, -3.2), dist: 10.5, yaw: -0.18, pitch: -0.07, fov: 40 }, lt, d, t);
     R(ST.scene, LOOK_ST, f); blit(); } });
   // ===== L21 "The lesson? | Don't judge someone | by their appearance." - barber 2 close, slow push (he smiles)
   add({ id: 'H01', at: cut(21), transition: { type: 'dissolve', dur: 0.25 }, note: 'lesson: B2 close', draw(lt, d, t, blit) { hideAll(); S2.pole.update(t);
@@ -222,22 +222,22 @@ export async function buildShots(E) {
   // ===== L22 "Judge them | by their work." - his work: barber 1's perfect haircut, B2 finishing it (rack focus hair -> scissors)
   add({ id: 'H02', at: cut(22), note: 'his work', draw(lt, d, t, blit) { hideAll(); S2.pole.update(t);
     seated(B1, chairB, S2.scene, capeM, t); barberBehind(B2, chairB, S2.scene, t, sc2);
-    const h = B1.at('Head').add(V3(0, 0.1, 0)); const f = shot(cam, { target: h, dist: 0.95, yaw: Math.PI + 0.9, pitch: -0.15, fov: 28 }, { target: h, dist: 0.8, yaw: Math.PI + 0.75, pitch: -0.12, fov: 28 }, lt, d, t);
+    const h = B1.at('Head').add(V3(0, 0.1, 0)); const f = shot(cam, { target: h, dist: 0.95, yaw: Math.PI + 1.0, pitch: -0.15, fov: 28 }, { target: h, dist: 0.8, yaw: Math.PI + 0.85, pitch: -0.12, fov: 28 }, lt, d, t);
     R(S2.scene, { ...LOOK, warm: 0.2, aperture: 0.003 }, f); blit(); } });
   // ===== L23 "Did you get it right? | Tell me | in the comments." - you in barber 2's chair, comment bubble pops
   add({ id: 'I01', at: cut(23), transition: { type: 'whip', dur: 0.3 }, note: 'you in the chair + comment bubble', draw(lt, d, t, blit) { hideAll(); S2.pole.update(t);
     const c = seated(you, chairB, S2.scene, capeM, t); you.pose({ head: [0.05, 0, 0] }); barberBehind(B2, chairB, S2.scene, t, sc2);
     place(S2.scene, fall); fall.update(t, you.at('Head').add(V3(0, 0.1, 0)), 1);
-    const f = shot(cam, { target: c.clone().add(V3(0, 1.3, 0.25)), dist: 2.4, yaw: Math.PI + 0.55, pitch: -0.04, fov: 32 }, { target: c.clone().add(V3(0, 1.35, 0.25)), dist: 2.0, yaw: Math.PI + 0.42, pitch: -0.04, fov: 32 }, lt, d, t);
+    const f = shot(cam, { target: c.clone().add(V3(0.05, 1.35, 0.3)), dist: 2.0, yaw: Math.PI + 1.25, pitch: -0.04, fov: 34 }, { target: c.clone().add(V3(0.05, 1.38, 0.3)), dist: 1.7, yaw: Math.PI + 1.1, pitch: -0.04, fov: 34 }, lt, d, t);
     place(S2.scene, bubble); bubble.position.copy(c).add(V3(-0.35, 2.05, 0.2)); faceCam(bubble); bubble.scale.setScalar(Math.max(0.001, pop(seg(t, Wd('comments', 23) - 0.35, Wd('comments', 23) + 0.05))));
     bubble.userData.dots.forEach((s, i) => (s.position.y = 0.04 * Math.max(0, Math.sin(t * 8 - i * 0.9))));
     R(S2.scene, { ...LOOK, warm: 0.2 }, f); blit(); } });
   cue(Wd('comments', 23) - 0.3, 'pop', { gain: 0.35 });
   // ===== L24 "And if you like | puzzles like this, | ... | Things Explained." - street, crane up from shop 2, end title
   add({ id: 'J01', at: cut(24), transition: { type: 'dissolve', dur: 0.3 }, note: 'end: shop 2 + title', draw(lt, d, t, blit) { hideAll(); ST.s1.pole.update(t); ST.s2.pole.update(t);
-    const door = ST.s2.door; [you, ...extras].forEach((a, i) => { pos(a, door.x + 0.1 + i * 0.12, door.z + 0.7 + i * 0.75, Math.PI + 0.1); place(ST.scene, a); a.play('idle', t + i * 0.7); });
-    const f = shot(cam, { target: V3(2.3, 2.4, -3.5), dist: 7.5, yaw: -0.2, pitch: -0.05, fov: 32 }, { target: V3(2.3, 3.1, -3.5), dist: 9.5, yaw: -0.1, pitch: -0.12, fov: 32 }, lt, d, t);
-    place(ST.scene, endT); endT.group.position.set(2.3, 4.6, -3.2); faceCam(endT.group); endT.slam(eo(seg(t, Wd('Things', 24) - 0.1, Wd('Things', 24) + 0.25)));
+    const door = ST.s2.door; [you, ...extras].forEach((a, i) => { pos(a, door.x + 0.15 + i * 0.7, door.z + 0.75 + (i % 2) * 0.12, -Math.PI / 2 - 0.25); place(ST.scene, a); a.play('idle', t + i * 0.7); });
+    const f = shot(cam, { target: V3(2.6, 2.6, -3.5), dist: 10, yaw: -0.2, pitch: -0.05, fov: 38 }, { target: V3(2.6, 3.0, -3.5), dist: 12, yaw: -0.1, pitch: -0.08, fov: 38 }, lt, d, t);
+    place(ST.scene, endT); endT.group.position.set(2.5, 4.4, -3.0); endT.group.scale.setScalar(1.7); faceCam(endT.group); endT.slam(eo(seg(t, Wd('Things', 24) - 0.1, Wd('Things', 24) + 0.25)));
     R(ST.scene, LOOK_ST, f); blit(); } });
   cue(Wd('Things', 24) - 0.1, 'slam', { gain: 0.3 });
 }

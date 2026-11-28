@@ -2,6 +2,7 @@
 import * as THREE from 'three';
 import { RoundedBoxGeometry } from 'three/addons/geometries/RoundedBoxGeometry.js';
 import { room } from './core/rooms.js';
+import { Reflector } from 'three/addons/objects/Reflector.js';
 
 const rnd = (i) => { const x = Math.sin(i * 127.1 + 311.7) * 43758.5453; return x - Math.floor(x); };
 function ctex(w, h, fn, rep) { const c = document.createElement('canvas'); c.width = w; c.height = h; const x = c.getContext('2d'); fn(x, w, h);
@@ -53,7 +54,7 @@ export function sign(text, { w = 2.2, bg = '#1c2a3a', fg = '#f4d58d', worn = fal
 
 /** hair clippings scattered on a floor area (instanced little curls) */
 export function clippings(n = 600, { w = 3, d = 3, color = '#2b1d12', seed = 1, size = 1 } = {}) {
-  const geo = new THREE.TorusGeometry(0.03 * size, 0.004 * size, 4, 8, Math.PI * 1.2), m = new THREE.MeshStandardMaterial({ color, roughness: 0.8 });
+  const geo = new THREE.TorusGeometry(0.05 * size, 0.0018 * size, 3, 6, Math.PI * 0.35), m = new THREE.MeshStandardMaterial({ color, roughness: 0.8 });
   const im = new THREE.InstancedMesh(geo, m, n), o = new THREE.Object3D();
   for (let i = 0; i < n; i++) { const cl = rnd(i * 3 + seed) < 0.6; const cx = (rnd(Math.floor(i / 25) + seed * 7) - 0.5) * w, cz = (rnd(Math.floor(i / 25) + seed * 9) - 0.5) * d;
     o.position.set(cl ? cx + (rnd(i + 1) - 0.5) * 0.35 : (rnd(i + 2) - 0.5) * w, 0.004 + rnd(i + 5) * 0.006, cl ? cz + (rnd(i + 3) - 0.5) * 0.35 : (rnd(i + 4) - 0.5) * d);
@@ -84,7 +85,7 @@ export function shop(E, env, { clean = true } = {}) {
   const floor = new THREE.Mesh(new THREE.PlaneGeometry(5.2, 5), new THREE.MeshPhysicalMaterial({ map: tiles, roughness: clean ? 0.08 : 0.6, clearcoat: clean ? 1 : 0, clearcoatRoughness: 0.05 }));
   floor.rotation.x = -Math.PI / 2; floor.position.y = 0.002; floor.receiveShadow = true; R.scene.add(floor);
   // mirror wall + counter
-  const mirror = new THREE.Mesh(new THREE.PlaneGeometry(2.8, 1.1), new THREE.MeshPhysicalMaterial({ color: clean ? '#e8eef2' : '#b9c2c4', metalness: 1, roughness: clean ? 0.02 : 0.18 }));
+  const mirror = new Reflector(new THREE.PlaneGeometry(2.8, 1.1), { textureWidth: 900, textureHeight: 354, color: clean ? 0xd6dde2 : 0x8f8a80, clipBias: 0.003 });
   mirror.position.set(0, 1.65, -2.48); R.scene.add(mirror);
   const frame = new THREE.Mesh(new RoundedBoxGeometry(2.9, 1.2, 0.04, 3, 0.015), new THREE.MeshStandardMaterial({ color: clean ? '#f6f6f6' : '#6b5440', roughness: 0.4 })); frame.position.set(0, 1.65, -2.5); R.scene.add(frame);
   if (!clean) {   // crack: bright jagged lines radiating from a point
@@ -106,7 +107,7 @@ export function shop(E, env, { clean = true } = {}) {
   // waiting bench along the right wall
   const bench = new THREE.Mesh(new RoundedBoxGeometry(0.5, 0.45, 2.2, 3, 0.03), new THREE.MeshStandardMaterial({ color: clean ? '#2f3540' : '#5a3d2a', roughness: 0.6 })); bench.position.set(2.3, 0.225, 0.6); bench.castShadow = true; R.scene.add(bench);
   if (!clean) {
-    R.scene.add(clippings(900, { w: 4.4, d: 4, seed: 3 }));
+    R.scene.add(clippings(2600, { w: 4.4, d: 4, seed: 3 }));
     for (let i = 0; i < 6; i++) { const mg = new THREE.Mesh(new THREE.BoxGeometry(0.21, 0.006, 0.28), new THREE.MeshStandardMaterial({ color: ['#d8c6a0', '#c0392b', '#2a7bd6', '#f4f4f4'][i % 4], roughness: 0.6 }));
       mg.position.set(1.7 + rnd(i) * 0.6, 0.006 + i * 0.001, -0.4 + rnd(i + 9) * 2); mg.rotation.y = rnd(i + 2) * 3; R.scene.add(mg); }
     const broom = new THREE.Group(); const st = new THREE.Mesh(new THREE.CylinderGeometry(0.014, 0.014, 1.3, 12), new THREE.MeshStandardMaterial({ color: '#9c7a4c' })); st.position.y = 0.75; broom.add(st);
@@ -120,7 +121,7 @@ export function shop(E, env, { clean = true } = {}) {
 /** the street: two shopfronts side by side (left = clean shop 1, right = messy shop 2) */
 export function street(E, env) {
   const scene = new THREE.Scene(); scene.background = new THREE.Color('#9fd3f2'); scene.environment = env; scene.environmentIntensity = 0.6;
-  scene.fog = new THREE.Fog('#bfe2f5', 18, 60);
+  scene.fog = new THREE.Fog('#bfe2f5', 35, 110);
   const asphalt = ctex(512, 512, (x, W, H) => { x.fillStyle = '#56595e'; x.fillRect(0, 0, W, H); for (let i = 0; i < 6000; i++) { const v = rnd(i) * 40; x.fillStyle = `rgba(${70 + v},${72 + v},${78 + v},0.5)`; x.fillRect(rnd(i + 1) * W, rnd(i + 2) * H, 2, 2); } }, [20, 20]);
   const road = new THREE.Mesh(new THREE.PlaneGeometry(80, 40), new THREE.MeshStandardMaterial({ map: asphalt, roughness: 0.9 })); road.rotation.x = -Math.PI / 2; road.receiveShadow = true; scene.add(road);
   const slab = ctex(512, 512, (x, W, H) => { x.fillStyle = '#c9c4bb'; x.fillRect(0, 0, W, H); x.strokeStyle = '#a8a39a'; x.lineWidth = 4; for (let i = 0; i <= 4; i++) { x.beginPath(); x.moveTo(i * W / 4, 0); x.lineTo(i * W / 4, H); x.moveTo(0, i * H / 4); x.lineTo(W, i * H / 4); x.stroke(); } }, [12, 2]);
@@ -137,7 +138,7 @@ export function street(E, env) {
     const aw = new THREE.Mesh(new THREE.BoxGeometry(4.2, 0.06, 1.0), new THREE.MeshStandardMaterial({ map: ctex(512, 64, (c, W, H) => { for (let i = 0; i < 16; i++) { c.fillStyle = i % 2 ? '#ffffff' : (clean ? '#1f4fd6' : '#8a3b2e'); c.fillRect(i * W / 16, 0, W / 16, H); } }), roughness: 0.8 }));
     aw.position.set(0, 2.75, 0.55); aw.rotation.x = 0.25; aw.castShadow = true; g.add(aw);
     const pole = barberPole(); pole.group.position.set(2.0, 1.6, 0.35); g.add(pole.group);
-    if (!clean) { const cl = clippings(120, { w: 1.2, d: 0.6, seed: 8 }); cl.position.set(1.2, 0.0, 0.7); g.add(cl); }
+    if (!clean) { const cl = clippings(300, { w: 1.2, d: 0.6, seed: 8 }); cl.position.set(1.2, 0.0, 0.7); g.add(cl); }
     scene.add(g); return { group: g, pole, door: new THREE.Vector3(x + 1.25, 0.14, -3.6) }; };
   const s1 = front(-2.3, true), s2 = front(2.3, false);
   // town around them

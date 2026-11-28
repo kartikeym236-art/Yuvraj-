@@ -96,13 +96,14 @@ const q = new THREE.Quaternion(), e = new THREE.Euler();
   const F = {
     group, root, bones, clips: () => Object.keys(clipLib()),
     /** one clip at clip-time t (seconds, loops); inPlace keeps walking/running on the spot (move the group yourself) */
-    play(name, t, { inPlace = true, speed = 1 } = {}) { return F.blend(name, null, 0, t, { inPlace, speed }); },
+    play(name, t, { inPlace = true, speed = 1, relax = 0.32 } = {}) { return F.blend(name, null, 0, t, { inPlace, speed, relax }); },
     /** cross-fade clip a -> b by k (0..1) */
-    blend(a, b, k, t, { inPlace = true, speed = 1 } = {}) {
+    blend(a, b, k, t, { inPlace = true, speed = 1, relax = 0.32 } = {}) {
       Object.entries(rest).forEach(([n, r]) => bones[n].quaternion.copy(r));
       const pa = sample(a, t * speed, inPlace), pb = b && k > 0 ? sample(b, t * speed, inPlace) : null;
       for (const n of Object.keys(pa)) { if (n === '__hips') continue; bones[n].quaternion.copy(pa[n]); if (pb && pb[n]) bones[n].quaternion.slerp(pb[n], k); }
       hips.position.copy(pa.__hips); if (pb) hips.position.lerp(pb.__hips, k);
+      if (relax) F.grip('R', relax, { thumb: 0.3 }).grip('L', relax, { thumb: 0.3 });   // idle clips leave hands splayed - soften them
       return F;
     },
     /** extra bone rotations on top of the clip (radians, local axes of Mixamo bones):

@@ -54,3 +54,11 @@ the audience follows easily.** Two looks, one grammar:
 - [ ] Every number / date gets a slam or counter; every place gets the arrow + label on the map.
 - [ ] Sound off test: the contact sheet alone tells the story.
 - [ ] Music: "paris" from 0:08 (default in mix.py).
+
+## Lessons from the style test (user feedback 2026-11-28)
+- **Hands looked glitchy** (open, twisted palm "holding" the mug). Next time: never rely on the idle clip for a held
+  prop. Pose the arm + fingers explicitly (curl the Index/Middle/Ring/Pinky 1-3 bones ~0.9-1.3 rad, thumb opposed),
+  attach the prop to the hand bone with an offset tuned on a still frame, and check every hand in close-ups on the
+  contact sheet BEFORE the full render. If a grip still looks wrong, frame the insert so the hand is soft/out of shot
+  or have the prop rest on the counter.
+- Thought bubble content must be bright and big enough to read (light the inner scene, frame its subject tightly).
